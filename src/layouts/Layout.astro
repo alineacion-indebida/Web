@@ -1,0 +1,102 @@
+---
+import "@fontsource-variable/jost"
+import jost from '@fontsource-variable/jost/files/jost-latin-wght-normal.woff2'
+
+import ButtonUp from '@/components/ButtonUp.astro'
+import SEO from '@/components/SEO.astro'
+
+interface Props {
+	description: string
+	title: string
+}
+
+const { title, description } = Astro.props
+---
+
+<!doctype html>
+<html lang="es">
+	<head>
+		<SEO title={title} description={description} jost={jost} />
+	</head>
+
+	<body
+		class="dark overflow-x-hidden selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary"
+	>
+		<div
+			class="mx-auto max-w-6xl px-2 pt-16 selection:bg-primary selection:text-secondary md:pt-20 lg:px-10"
+			id="main-content"
+		>
+			<slot />
+		</div>
+		<ButtonUp />
+		<style is:global>
+			:root {
+				--color-primary: #ddd;
+				--color-secondary: #333;
+				--color-accent: #F8C409;
+				--color-accent-light: #FCE79C;
+				--color-accent-dark: #DFB008;
+				--color-accent-gradient: linear-gradient(
+					45deg,
+					rgb(var(--color-accent)),
+					rgb(var(--color-accent-light)) 30%,
+					white 60%
+				);
+
+				--background-color: #13151a;
+				--background-twitch: var(--color-twitch-ice);
+
+				--color-twitch: #9146ff;
+				--color-twitch-ice: #f0f0ff;
+			}
+
+			@font-face {
+				font-family: Atomic;
+				font-display: swap;
+				src: url("/fonts/atomic.woff2") format("woff2");
+			}
+
+			html {
+				font-family: "Jost Variable", system-ui, sans-serif;
+				background: var(--background-color);
+				overflow-x: hidden;
+				overscroll-behavior: none;
+				background-size: 224px;
+			}
+
+			main {
+				position: relative;
+			}
+
+			.sr-only:not(:focus):not(:active) {
+				clip: rect(0 0 0 0);
+				clip-path: inset(50%);
+				height: 1px;
+				overflow: hidden;
+				position: absolute;
+				white-space: nowrap;
+				width: 1px;
+			}
+
+			::-webkit-scrollbar {
+				width: 10px;
+				border-radius: 10px;
+			}
+
+			::-webkit-scrollbar-thumb {
+				border-radius: 10px;
+				background-color: theme("colors.primary");
+				border: 2px solid transparent;
+				background-clip: content-box;
+			}
+
+			::-webkit-scrollbar-track {
+				background: var(--background-image);
+			}
+
+			::-webkit-scrollbar-corner {
+				background: var(--background-image);
+			}
+		</style>
+	</body>
+</html>

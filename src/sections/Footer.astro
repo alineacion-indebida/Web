@@ -1,0 +1,58 @@
+---
+import Text from "@/components/Text.astro"
+import InstagramIcon from "@/icons/instagram.astro"
+import XIcon from "@/icons/x.astro"
+---
+
+<footer
+	class="border-primary mt-20 flex w-full flex-col place-items-center border-t-2 pb-20 pt-6 md:flex-row md:justify-between"
+>
+	<Text as="span" variant="body" color="neutral" class:list={"text-center"}>
+		&copy; {new Date().getFullYear()} La Velada del Año <span
+			aria-hidden="true"
+			class="hidden md:inline">|</span
+		><br aria-hidden="true" class="block md:hidden" /> Todos los derechos reservados.
+	</Text>
+	<span aria-hidden="true" class="border-primary mt-6 w-full border-t-2 pt-6 md:hidden"></span>
+
+	<nav>
+		<ul
+			class="flex flex-row items-center gap-x-6"
+			aria-label="redes sociales y botón para alternar tema"
+		>
+			<li>
+				<a
+					target="_blank"
+					rel="noopener"
+					aria-label="Instagram de la velada, se abrirá en una nueva pestaña"
+					href="https://www.instagram.com/infolavelada"
+					class="any-hover:scale-125 any-hover:opacity-70 inline-block motion-safe:transition"
+				>
+					<InstagramIcon class="text-primary hover:text-accent transition-colors duration-300" />
+				</a>
+			</li>
+			<li>
+				<a
+					target="_blank"
+					rel="noopener"
+					aria-label="X de la velada, se abrirá en una nueva pestaña"
+					href="https://x.com/infoLaVelada"
+					class="any-hover:scale-125 any-hover:opacity-70 inline-block motion-safe:transition"
+				>
+					<XIcon class="text-primary hover:text-accent transition-colors duration-300" />
+				</a>
+			</li>
+			<li>
+				<a
+					target="_blank"
+					rel="noopener"
+					aria-label="X de la velada, se abrirá en una nueva pestaña"
+					href="https://x.com/infoLaVelada"
+					class="any-hover:scale-125 any-hover:opacity-70 inline-block motion-safe:transition"
+				>
+					<XIcon class="text-primary hover:text-accent transition-colors duration-300" />
+				</a>
+			</li>
+		</ul>
+	</nav>
+</footer>
