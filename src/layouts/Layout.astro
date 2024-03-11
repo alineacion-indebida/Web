@@ -36,10 +36,10 @@ const { title, description } = Astro.props
 				--color-accent: #F8C409;
 				--color-accent-light: #FCE79C;
 				--color-accent-dark: #DFB008;
-				--color-accent-gradient: linear-gradient(
+				--color-accent-gradient: linear-gradient( 
 					45deg,
-					rgb(var(--color-accent)),
-					rgb(var(--color-accent-light)) 30%,
+					var(--color-accent),
+					var(--color-accent-light) 30%,
 					white 60%
 				);
 
@@ -65,7 +65,13 @@ const { title, description } = Astro.props
 			}
 
 			main {
-				position: relative;
+				margin: auto;
+				padding: 1rem;
+				width: 800px;
+				max-width: calc(100% - 2rem);
+				color: white;
+				font-size: 20px;
+				line-height: 1.6;
 			}
 
 			.sr-only:not(:focus):not(:active) {

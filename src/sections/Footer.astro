@@ -1,20 +1,21 @@
 ---
 import Text from "@/components/Text.astro"
-import InstagramIcon from "@/icons/instagram.astro"
+
 import XIcon from "@/icons/x.astro"
 import TwitchIcon from "@/icons/twitch.astro"
+import InstagramIcon from "@/icons/instagram.astro"
 ---
 
 <footer
-	class="border-primary mt-20 flex w-full flex-col place-items-center border-t-2 pb-20 pt-6 md:flex-row md:justify-between"
+	class="mt-20 flex w-full flex-col place-items-center border-t-2 border-primary pb-20 pt-6 md:flex-row md:justify-between"
 >
 	<Text as="span" variant="body" color="neutral" class:list={"text-center"}>
-		&copy; {new Date().getFullYear()} La Velada del Año <span
+		&copy; {new Date().getFullYear()} Alineación indebida <span
 			aria-hidden="true"
 			class="hidden md:inline">|</span
 		><br aria-hidden="true" class="block md:hidden" /> Todos los derechos reservados.
 	</Text>
-	<span aria-hidden="true" class="border-primary mt-6 w-full border-t-2 pt-6 md:hidden"></span>
+	<span aria-hidden="true" class="mt-6 w-full border-t-2 border-primary pt-6 md:hidden"></span>
 
 	<nav>
 		<ul
@@ -25,33 +26,33 @@ import TwitchIcon from "@/icons/twitch.astro"
 				<a
 					target="_blank"
 					rel="noopener"
-					aria-label="Twitch de la velada, se abrirá en una nueva pestaña"
-					href="https://x.com/infoLaVelada"
-					class="any-hover:scale-125 any-hover:opacity-70 inline-block motion-safe:transition"
+					aria-label="Twitch de alineacion indebida, se abrirá en una nueva pestaña"
+					href="https://twitch.com/alineacionindebida"
+					class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
 				>
-					<TwitchIcon class="text-primary hover:text-accent transition-colors duration-300" />
+					<TwitchIcon class="text-primary transition-colors duration-300 hover:text-accent" />
 				</a>
 			</li>
 			<li>
 				<a
 					target="_blank"
 					rel="noopener"
-					aria-label="Instagram de la velada, se abrirá en una nueva pestaña"
-					href="https://www.instagram.com/infolavelada"
-					class="any-hover:scale-125 any-hover:opacity-70 inline-block motion-safe:transition"
+					aria-label="Instagram de alineacion indebida, se abrirá en una nueva pestaña"
+					href="https://www.instagram.com/alineacionindebida"
+					class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
 				>
-					<InstagramIcon class="text-primary hover:text-accent transition-colors duration-300" />
+					<InstagramIcon class="text-primary transition-colors duration-300 hover:text-accent" />
 				</a>
 			</li>
 			<li>
 				<a
 					target="_blank"
 					rel="noopener"
-					aria-label="X de la velada, se abrirá en una nueva pestaña"
-					href="https://x.com/infoLaVelada"
-					class="any-hover:scale-125 any-hover:opacity-70 inline-block motion-safe:transition"
+					aria-label="X de alineacion indebida, se abrirá en una nueva pestaña"
+					href="https://x.com/alineacionindebida"
+					class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
 				>
-					<XIcon class="text-primary hover:text-accent transition-colors duration-300" />
+					<XIcon class="text-primary transition-colors duration-300 hover:text-accent" />
 				</a>
 			</li>
 		</ul>
