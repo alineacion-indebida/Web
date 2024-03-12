@@ -1,9 +1,13 @@
 ---
 import "@fontsource-variable/jost"
-import jost from '@fontsource-variable/jost/files/jost-latin-wght-normal.woff2'
+import jost from "@fontsource-variable/jost/files/jost-latin-wght-normal.woff2"
 
-import ButtonUp from '@/components/ButtonUp.astro'
-import SEO from '@/components/SEO.astro'
+import SEO from "@/components/SEO.astro"
+import ButtonUp from "@/components/ButtonUp.astro"
+import KonamiCode from "@/components/KonamiCode.astro"
+
+import Header from "@/sections/Header.astro"
+import Footer from "@/sections/Footer.astro"
 
 interface Props {
 	description: string
@@ -18,7 +22,7 @@ const { title, description } = Astro.props
 	<head>
 		<SEO title={title} description={description} jost={jost} />
 	</head>
-
+	
 	<body
 		class="dark overflow-x-hidden selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary"
 	>
@@ -26,7 +30,12 @@ const { title, description } = Astro.props
 			class="mx-auto max-w-6xl px-2 pt-16 selection:bg-primary selection:text-secondary md:pt-20 lg:px-10"
 			id="main-content"
 		>
-			<slot />
+			<Header />
+			<main>
+				<slot />
+			</main>
+			<!-- <Footer /> -->
+			<KonamiCode />	
 		</div>
 		<ButtonUp />
 		<style is:global>
@@ -67,7 +76,7 @@ const { title, description } = Astro.props
 			main {
 				margin: auto;
 				padding: 1rem;
-				width: 800px;
+				width: 960px;
 				max-width: calc(100% - 2rem);
 				color: white;
 				font-size: 20px;
