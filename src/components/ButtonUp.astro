@@ -34,7 +34,7 @@
 
 	function throttledScrollHandler() {
 		if (timeout === 0) {
-			timeout = setTimeout(() => {
+			setTimeout(() => {
 				toggleScrollToTop()
 				timeout = 0
 			}, 100)

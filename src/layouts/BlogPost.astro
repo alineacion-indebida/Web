@@ -9,7 +9,7 @@ type Props = CollectionEntry<"news">["data"]
 const { title, description, date, heroImage, categories, tags } = Astro.props
 ---
 
-<Base meta_title={title} description={description} image={heroImage} blogpost>
+<Base title={title} description={description}>
 	<article>
 		<div class="mb-8 block overflow-hidden rounded-lg">
 			{
