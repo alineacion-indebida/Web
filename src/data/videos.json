@@ -2,8 +2,21 @@
   "videos": [
     {
       "id": 1,
+      "slug": "Fu39FN3I-n4",
+      "title": "Entrevista Rubén Ándres",
+      "image": "/yt-mini/Fu39FN3I-n4.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "3AGnUA5ml_0",
+      "title": "La pizarra indebida J27",
+      "image": "/yt-mini/3AGnUA5ml_0.jpg"
+    },
+    {
+      "id": 3,
       "slug": "AAT9XIWBD7A",
-      "image": "/img/blog-placeholder.jpg"
+      "title": "Programa 102 - Postpartido Lugo",
+      "image": "/yt-mini/AAT9XIWBD7A.jpg"
     }
   ]
 }
