@@ -1,5 +1,5 @@
 ---
-import Text from "@/components/Text.astro"
+import Typography from "@/components/Typography.astro"
 
 import XIcon from "@/icons/x.astro"
 import TwitchIcon from "@/icons/twitch.astro"
@@ -9,12 +9,12 @@ import InstagramIcon from "@/icons/instagram.astro"
 <footer
 	class="mt-20 flex w-full flex-col place-items-center border-t-2 border-primary pb-20 pt-6 md:flex-row md:justify-between"
 >
-	<Text as="span" variant="body" color="neutral" class:list={"text-center"}>
+	<Typography as="span" variant="body" color="neutral" class:list={"text-center"}>
 		&copy; {new Date().getFullYear()} Alineación indebida <span
 			aria-hidden="true"
 			class="hidden md:inline">|</span
 		><br aria-hidden="true" class="block md:hidden" /> Todos los derechos reservados.
-	</Text>
+	</Typography>
 	<span aria-hidden="true" class="mt-6 w-full border-t-2 border-primary pt-6 md:hidden"></span>
 
 	<nav>
