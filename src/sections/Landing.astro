@@ -1,10 +1,7 @@
 ---
 import Card from "@/components/Card.astro"
-import Rrss from "@/components/rrss.astro"
 
 import AstroIcon from "@/icons/logo.astro"
-
-import { REDES } from "@/consts/Redes.ts"
 ---
 
 <section class="overflow-x-hidden">
@@ -15,7 +12,7 @@ import { REDES } from "@/consts/Redes.ts"
 			<h2>Pasión por el deporte</h2>
 		</div>
 	</div>
-	<p class="instructions">
+	<p class="mb-8 border border-accent rounded-lg p-6 bg-gradient-to-tr from-[#dfb008a8] to-[#dfb00854]">
 		<strong>Próximamente,</strong> la mejor información de <strong>Unionistas de Salamanca</strong><br />
 		y de todo el deporte salmantino.
 	</p>
@@ -42,19 +39,6 @@ import { REDES } from "@/consts/Redes.ts"
 		/>
 	</ul>
 
-	<!--
-		<div class="mt-12 grid select-none grid-cols-2 gap-8 md:grid-cols-3">
-			{
-				REDES.map(({ id, name, url }) => (
-				<Rrss
-					id = {id}
-					name = {name}
-					url = {url}
-				/>
-				))
-			}
-		</div>
-	-->
 </section>
 <style >
 	h1 {
@@ -79,22 +63,7 @@ import { REDES } from "@/consts/Redes.ts"
 		background-size: 400%;
 		background-position: 0%;
 	}
-	.instructions {
-		margin-bottom: 2rem;
-		border: 1px solid var(--color-accent-light), 25%;
-		background: linear-gradient(var(--color-accent-dark), 66%), var(--color-accent-dark), 33%;
-		padding: 1.5rem;
-		border-radius: 8px;
-	}
-	.instructions code {
-		font-size: 0.8em;
-		font-weight: bold;
-		background: var(--color-accent-light), 12%;
-		color: var(--color-accent-light);
-		border-radius: 4px;
-		padding: 0.3em 0.4em;
-	}
-	.instructions strong {
+	strong {
 		color: var(--color-accent-light);
 	}
 	.link-card-grid {
