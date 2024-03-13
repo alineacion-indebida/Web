@@ -8,12 +8,12 @@ interface Links {
 }
 const LINKS: Links[] = [
 	{
-		url: "/",
-		name: "SECCION",
+		url: "/news",
+		name: "NOTICIAS",
 	},
 	{
-		url: "/",
-		name: "SECCION",
+		url: "/cronicas",
+		name: "CRONICAS",
 	},
 	{
 		url: "",
@@ -21,8 +21,8 @@ const LINKS: Links[] = [
 		space: true,
 	},
 	{
-		url: "/",
-		name: "SECCION",
+		url: "/video",
+		name: "VÍDEOS",
 	},
 	{
 		url: "/",
@@ -37,10 +37,10 @@ const LINKS: Links[] = [
 			LINKS.map(({ url, name, space }) => (
 				<li class="flex items-center">
 					{space ? (
-						<div class="w-40 px-8 py-10" />
+						<div class="w-40 px-8 py-4" />
 					) : (
 						<Typography
-							class:list={"from-neutral-700 px-8 py-10 hover:bg-gradient-to-b"}
+							class:list={"from-neutral-700 px-8 py-4 hover:bg-gradient-to-b"}
 							color="white"
 							variant="body"
 							as="a"
@@ -53,11 +53,11 @@ const LINKS: Links[] = [
 			))
 		}
 	</ul>
-	<div class="-mt-44 flex items-center justify-center">
-		<hr class="h-[2px] border-t-0 bg-transparent bg-gradient-to-l from-white sm:w-full" />
-		<!--  
-            <HeroLogo width="350" height="350" />
-        -->
-		<hr class="h-[2px] border-t-0 bg-transparent bg-gradient-to-r from-white sm:w-full" />
-	</div>
+	<!--  
+		<div class="-mt-44 flex items-center justify-center">
+			<hr class="h-[2px] border-t-0 bg-transparent bg-gradient-to-l from-white sm:w-full" />
+			<HeroLogo width="350" height="350" />
+			<hr class="h-[2px] border-t-0 bg-transparent bg-gradient-to-r from-white sm:w-full" />
+		</div>
+	-->
 </nav>
