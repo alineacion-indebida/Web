@@ -3,7 +3,7 @@ date: '2024-03-10T18:00:00.000Z'
 title: 'cronicas luguenses'
 description: 'las cronicas luguenses'
 image: '/img/blog-placeholder.jpg'
-categories: ['cronica']
+categories: ['Cronica']
 autors: 'Jaime'
 tags: ['Primera federación', 'CD Lugo']
 ---

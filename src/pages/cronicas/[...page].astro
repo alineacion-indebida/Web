@@ -6,7 +6,8 @@ import { getCollection } from "astro:content"
 
 export async function getStaticPaths({ paginate }) {
 	const allPosts = await getCollection("news")
-	const formattedPosts = allPosts.sort(
+	const cronicas = allPosts.filter((a) => a.data.categories.map((categoria: string) => categoria).includes('Cronica'))
+	const formattedPosts = cronicas.sort(
 		(a, b) => b.data.date.valueOf() - a.data.date.valueOf()
 	)
 	return paginate(formattedPosts, {
@@ -17,9 +18,9 @@ const { page } = Astro.props
 ---
 
 <Layout
-	description="Últimas noticias en la Web Oficial del programa Alineación Indebida."
-	title="Últimas noticias - Alineación indebida"
+	description="Últimas crónicas en la Web Oficial del programa Alineación Indebida."
+	title="Últimas crónicas - Alineación indebida"
 >
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Noticias</h1>
+	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Crónicas</h1>
 	<Posts posts={page['data']}/>
 </Layout>

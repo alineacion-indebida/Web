@@ -11,4 +11,4 @@ tags:
 - tags
 ---
 
-<p>example description 2</p>
+example description 2
