@@ -1,0 +1,45 @@
+---
+/** https://developers.google.com/search/docs/appearance/structured-data/organization */
+const organizationSchema = {
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"url": "https://alineacion-indebida.vercel.app",
+	"image": "/img/og.jpg",
+	"sameAs": [
+        "https://x.com/a_indebida12",
+        "https://www.instagram.com/a_indebida12",
+        "https://twitch.com/alineacionindebida"
+	],
+	"logo": "/img/logo.png",
+	"name": "Alineación Indebida",
+	"alternateName": "Alineación Indebida",
+	"description":
+		"Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino",
+}
+
+const FAQs = [
+	{
+		question: "¿Qué es Alineación Indebida?",
+		answer: `Es un programa deportivo dedicado al deporte salmantino y en especial a Unionistas de Salamanca C.F.`,
+	}
+]
+
+/** https://developers.google.com/search/docs/appearance/structured-data/faqpage */
+const FAQSchema = {
+	"@context": "https://schema.org",
+	"@type": "FAQPage",
+	"mainEntity": [
+		FAQs.map(({ answer, question }) => ({
+			"@type": "Question",
+			"name": question,
+			"acceptedAnswer": {
+				"@type": "Answer",
+				"text": answer,
+			},
+		})),
+	],
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(FAQSchema)} />

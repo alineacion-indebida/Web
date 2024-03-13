@@ -1,6 +1,5 @@
 ---
 import "@fontsource-variable/jost"
-import jost from "@fontsource-variable/jost/files/jost-latin-wght-normal.woff2"
 
 import SEO from "@/components/SEO.astro"
 import ButtonUp from "@/components/ButtonUp.astro"
@@ -12,19 +11,20 @@ import Footer from "@/sections/Footer.astro"
 interface Props {
 	description: string
 	title: string
+	preloadImgLCP?: string
 }
 
-const { title, description } = Astro.props
+const { title, description, preloadImgLCP } = Astro.props
 ---
 
 <!doctype html>
 <html lang="es">
 	<head>
-		<SEO title={title} description={description} jost={jost} />
+		<SEO title={title} description={description} preloadImgLCP={preloadImgLCP!} />
 	</head>
 	
 	<body
-		class="dark overflow-x-hidden selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary"
+		class="dark selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary"
 	>
 		<div
 			class="mx-auto max-w-6xl px-2 pt-16 selection:bg-primary selection:text-secondary md:pt-20 lg:px-10"
@@ -68,8 +68,6 @@ const { title, description } = Astro.props
 			html {
 				font-family: "Jost Variable", system-ui, sans-serif;
 				background: var(--background-color);
-				overflow-x: hidden;
-				overscroll-behavior: none;
 				background-size: 224px;
 			}
 
