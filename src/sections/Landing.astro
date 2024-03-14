@@ -6,14 +6,19 @@ import AstroIcon from "@/icons/logo.astro"
 
 <section class="overflow-x-hidden">
 	<div class="relative">
-		<AstroIcon class:list={"absolute inset-0 -z-10 m-auto scale-125 select-none"}/>
-		<div class="flex flex-col items-center" >
-			<h1><span class="text-gradient">Alineación indebida</span></h1>
-			<h2>Pasión por el deporte</h2>
+		<AstroIcon class:list={"absolute inset-0 -z-10 m-auto scale-125 select-none"} />
+		<div class="flex flex-col items-center">
+			<h1 class="mb-4 text-center text-5xl font-bold">
+				<span class="text-gradient">Alineación indebida</span>
+			</h1>
+			<h2 class="mb-4 text-center text-2xl font-bold">Pasión por el deporte</h2>
 		</div>
 	</div>
-	<p class="mb-8 border border-accent rounded-lg p-6 bg-gradient-to-tr from-[#dfb008a8] to-[#dfb00854]">
-		<strong>Próximamente,</strong> la mejor información de <strong>Unionistas de Salamanca</strong><br />
+	<p
+		class="mb-8 rounded-lg border border-accent bg-gradient-to-tr from-[#dfb008a8] to-[#dfb00854] p-6"
+	>
+		<strong>Próximamente,</strong> la mejor información de <strong>Unionistas de Salamanca</strong
+		><br />
 		y de todo el deporte salmantino.
 	</p>
 	<ul role="list" class="link-card-grid">
@@ -38,24 +43,8 @@ import AstroIcon from "@/icons/logo.astro"
 			body="Con un equipo inmejorable."
 		/>
 	</ul>
-
 </section>
-<style >
-	h1 {
-		font-size: 4rem;
-		font-weight: 700;
-		line-height: 1;
-		text-align: center;
-		margin-bottom: 1em;
-	}
-	h2 {
-		font-size: 2rem;
-		font-weight: 700;
-		line-height: 1;
-		text-align: center;
-		margin-top: -1.5em;
-		margin-bottom: 1em;
-	}
+<style>
 	.text-gradient {
 		background-image: var(--color-accent-gradient);
 		-webkit-background-clip: text;
