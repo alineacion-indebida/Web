@@ -11,9 +11,9 @@
   <img src="./public/img/github/og.jpg" alt="Logo" width="800" />
 </a>
 
-## Alineación indebida web oficial
+## Web oficial de Alineación indebida
 
-La Velada IV es una competición de boxeo que enfrenta a streamers, creadores de contenido y otras celebridades sobre un ring.\
+Alineacion indebida es un programa de información sobre Unionistas de Salamanca y el deporte salmantino.\
 [Reportar error](https://github.com/adriandpdev/AlineacionIndebida/issues) · [Sugerir algo](https://github.com/adriandpdev/AlineacionIndebida/issues)
 
 </div>
@@ -21,9 +21,9 @@ La Velada IV es una competición de boxeo que enfrenta a streamers, creadores de
 <details>
 <summary>Tabla de contenidos</summary>
 
-- [Web oficial de La Velada IV](#web-oficial-de-la-velada-iv)
+- [Web oficial de Alineación indebida](#Web-oficial-de-Alineación-indebida)
 - [Características principales](#características-principales)
-  - [Capturas de pantalla de la web de La Velada IV:](#capturas-de-pantalla-de-la-web-de-la-velada-iv)
+  - [Capturas de pantalla de la web de Alineación Indebida:](#capturas-de-pantalla-de-la-web-de-Alineación-Indebida)
 - [Para empezar](#para-empezar)
   - [Prerequisitos](#prerequisitos)
   - [Instalación](#instalación)
@@ -39,7 +39,7 @@ La Velada IV es una competición de boxeo que enfrenta a streamers, creadores de
 - **Compra de boletos**: Permite a los usuarios dirigirlos a la compra de boletos fácilmente.
 - **Redes sociales**: Conoce las redes oficiales donde podrás informarte sobre el evento.
 
-### Capturas de pantalla de la web de La Velada IV:
+### Capturas de pantalla de la web de Alineación Indebida:
 
 ![Captura de pantalla en móvil](./public/img/github/Mobile_README.png)
 ![Captura de pantalla en ordenador](./public/img/github/Desktop_README.png)

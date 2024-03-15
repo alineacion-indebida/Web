@@ -1,7 +1,7 @@
 ---
 import HamburgerButton from "@/components/HamburgerButton.astro"
 import HeroLogo from "@/components/HeroLogo.astro"
-import DrawnXLogo from "@/components/DrawnXLogo.astro"
+import HomeLogo from "@/components/HomeLogo.astro"
 import Footer from "@/sections/Footer.astro"
 
 const pages = [
@@ -35,7 +35,7 @@ const pages = [
 			</>
 		))
 	}
-	<a href="/" class:list={"block lg:hidden"}><DrawnXLogo class="w-10" /></a>
+	<a href="/" class:list={"block lg:hidden"}><HomeLogo class="w-10" /></a>
 	<HamburgerButton class:list={"block lg:hidden"} id="menuButton" />
 	<div
 		class="fixed inset-0 z-[888] flex w-screen flex-col items-center overflow-x-auto bg-[var(--background-color)] lg:hidden"
