@@ -1,5 +1,7 @@
 ---
 import Card from "@/components/Card.astro"
+
+import Patrocinadores from "@/sections/Patrocinadores.astro"
 ---
 
 <section class="overflow-x-hidden">
@@ -18,7 +20,7 @@ import Card from "@/components/Card.astro"
 		><br />
 		y de todo el deporte salmantino.
 	</p>
-	<ul role="list" class="link-card-grid">
+	<ul role="list" class="link-card-grid mb-10">
 		<Card
 			href="https://twitch.com/alineacionindebida/"
 			title="Retrasmisiones"
@@ -40,6 +42,9 @@ import Card from "@/components/Card.astro"
 			body="Con un equipo inmejorable."
 		/>
 	</ul>
+	<!-- 
+		<Patrocinadores />
+	 -->
 </section>
 <style>
 	.text-gradient {
