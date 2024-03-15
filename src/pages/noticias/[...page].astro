@@ -5,7 +5,7 @@ import Posts from "@/layouts/Posts.astro"
 import { getCollection } from "astro:content"
 
 export async function getStaticPaths({ paginate }) {
-	const allPosts = await getCollection("news")
+	const allPosts = await getCollection("noticias")
 	const formattedPosts = allPosts.sort(
 		(a, b) => new Date(a.data.date.valueOf()).getTime() - new Date(b.data.date.valueOf()).getTime()
 	)
