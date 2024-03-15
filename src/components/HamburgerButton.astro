@@ -32,10 +32,8 @@ const genericHamburgerLine = `h-[2px] ${width} bg-gray-300 transition ease trans
 	} as const
 
 	document.addEventListener("astro:page-load", () => {
-		console.log("CARGANDO")
 		$$(DISPLAY.hamburgerMenuClass).forEach((button) => {
 			button.addEventListener("click", () => {
-				console.log("CLICK")
 				const hamburgerButton = $(DISPLAY.hamburgerMenuClass)
 				hamburgerButton.classList.toggle(DISPLAY.open)
 				const hamburgerButtonClick = new CustomEvent(DISPLAY.hamburgerButtonClicked)

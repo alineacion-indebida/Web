@@ -1,5 +1,6 @@
 ---
 import "@fontsource-variable/jost"
+import { ViewTransitions } from 'astro:transitions';
 
 import SEO from "@/components/SEO.astro"
 import ButtonUp from "@/components/ButtonUp.astro"
@@ -21,6 +22,7 @@ const { title, description, preloadImgLCP } = Astro.props
 <html lang="es">
 	<head>
 		<SEO title={title} description={description} preloadImgLCP={preloadImgLCP!} />
+		<ViewTransitions />
 	</head>
 	
 	<body

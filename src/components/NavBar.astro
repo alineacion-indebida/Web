@@ -38,24 +38,15 @@ const pages = [
 	<a href="/" class:list={"block lg:hidden"}><DrawnXLogo class="w-10" /></a>
 	<HamburgerButton class:list={"block lg:hidden"} id="menuButton" />
 	<div
-		class="fixed inset-0 z-[888] flex w-screen flex-col items-center overflow-x-auto bg-[var(--background-color)] px-10 lg:hidden"
+		class="fixed inset-0 z-[888] flex w-screen flex-col items-center overflow-x-auto bg-[var(--background-color)] lg:hidden"
 		id="menuMobileContent"
 	>
-		<aside class="flex min-h-16 w-full items-center justify-between">
+		<aside class="flex min-h-16 w-full items-center justify-between px-10">
 			<span class="text-xl font-semibold uppercase text-primary">Menú</span>
 			<HamburgerButton id="innerMenuButton" />
 		</aside>
-		<div class="flex min-h-2 w-full items-center">
-			<hr
-				class="h-[2px] w-full border-t-0"
-				style="background:linear-gradient(to right, transparent 0%, white 50%, transparent 100%)"
-			/>
-		</div>
 		<nav class="flex w-full flex-col items-center gap-5">
-			<hr
-				class="h-[2px] w-full border-t-0"
-				style="background:linear-gradient(to right, transparent 0%, white 50%, transparent 100%)"
-			/>
+			<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
 			{
 				pages.map(({ name, href, active }, key) => (
 					<>
@@ -76,7 +67,7 @@ const pages = [
 					</>
 				))
 			}
-			<nav class="my-4 flex flex-col gap-10">
+			<nav class="my-4 flex w-full flex-col gap-10">
 				<Footer />
 			</nav>
 		</nav>
@@ -85,9 +76,7 @@ const pages = [
 <div class="relative flex h-2 w-full flex-col items-center">
 	<div class="absolute flex h-full w-full items-center">
 		<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
-		<!-- 
-		-->
-			<HeroLogo class:list={"z-10 -mx-2 h-60 w-auto lg:-ml-5 lg:h-80"} noEffect />
+		<HeroLogo class:list={"z-10 -mx-2 h-60 w-auto lg:-ml-5 lg:h-80"} noEffect />
 		<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
 	</div>
 </div>
@@ -174,13 +163,11 @@ const pages = [
 	import { $ } from "@/consts/dom-selector"
 
 	document.addEventListener("astro:page-load", () => {
-		console.log("scrips")
 		const nav = $("nav")
-		//const menuButton = $("#menuButton")
-		const menuButton = document.getElementById("menuButton")
+		const menuButton = $("#menuButton")
 		const innerMenuButton = $("#innerMenuButton")
 
-		//menuButton?.addEventListener("hamburgerButtonClicked", () => toggleMenu(nav))
+		menuButton?.addEventListener("hamburgerButtonClicked", () => toggleMenu(nav))
 		innerMenuButton?.addEventListener("hamburgerButtonClicked", () => toggleMenu(nav))
 
 		function toggleMenu(nav: HTMLElement | null) {
@@ -189,9 +176,5 @@ const pages = [
 			nav?.classList.toggle("open")
 			document.body.classList.toggle("overflow-hidden")
 		}
-
-		menuButton?.addEventListener("click", () => {
-			console.log("clic")
-		})
 	})
 </script>
