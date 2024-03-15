@@ -1,7 +1,7 @@
 ---
 date: '2024-03-10T18:00:00.000Z'
-title: 'cronicas luguenses'
-description: 'las cronicas luguenses'
+title: 'Cronicas luguenses'
+description: 'Las cronicas luguenses'
 image: '/img/blog-placeholder.jpg'
 categories: ['Cronica']
 autors: 'Jaime'

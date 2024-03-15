@@ -6,13 +6,12 @@ import { videos } from "@/data/videos"
 
 export async function getStaticPaths({ paginate }) {
 	const formattedPosts = videos
-	// videos.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+	videos.sort((a, b) => b.id - a.id)
 	return paginate(formattedPosts, {
 		pageSize: 6,
 	})
 }
 const { page } = Astro.props
-
 
 ---
 

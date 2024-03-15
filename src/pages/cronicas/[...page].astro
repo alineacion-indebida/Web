@@ -8,7 +8,7 @@ export async function getStaticPaths({ paginate }) {
 	const allPosts = await getCollection("news")
 	const cronicas = allPosts.filter((a) => a.data.categories.map((categoria: string) => categoria).includes('Cronica'))
 	const formattedPosts = cronicas.sort(
-		(a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+		(a, b) => new Date(a.data.date.valueOf()).getTime() - new Date(b.data.date.valueOf()).getTime()
 	)
 	return paginate(formattedPosts, {
 		pageSize: 6,
