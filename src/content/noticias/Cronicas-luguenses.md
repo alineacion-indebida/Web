@@ -4,7 +4,7 @@ title: 'Cronicas luguenses'
 description: 'Las cronicas luguenses'
 image: '/img/blog-placeholder.jpg'
 categories: ['Cronica']
-autors: 'Jaime'
+autor: 'Jaime'
 tags: ['Primera federación', 'CD Lugo']
 ---
 

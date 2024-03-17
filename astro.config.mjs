@@ -1,6 +1,7 @@
 import tailwind from "@astrojs/tailwind"
 import vercel from "@astrojs/vercel/serverless"
 import { defineConfig } from "astro/config"
+import mdx from '@astrojs/mdx';
 
 import sitemap from "@astrojs/sitemap"
 import { VitePWA } from "vite-plugin-pwa"
@@ -13,7 +14,24 @@ export default defineConfig({
 	devToolbar: {
 		enabled: false,
 	},
-	integrations: [tailwind(), sitemap()],
+	markdown: {
+		drafts: true,
+		shikiConfig: {
+			theme: 'material-theme-palenight',
+			wrap: true,
+		},
+	},
+	integrations: [
+		mdx({
+			syntaxHighlight: 'shiki',
+			shikiConfig: {
+				theme: 'material-theme-palenight',
+				wrap: true,
+			},
+			drafts: true,
+		}),
+		tailwind(),
+		sitemap()],
 	adapter: vercel({
 		webAnalytics: { enabled: true },
 	}),

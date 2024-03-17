@@ -4,7 +4,7 @@ title: 'Cronicas promesianas'
 description: 'Las cronicas promesianas'
 image: '/img/blog-placeholder.jpg'
 categories: ['Cronica']
-autors: 'Jaime'
+autor: 'Jaime'
 tags: ['Primera federación', 'Osasuna Promesas']
 ---
 
