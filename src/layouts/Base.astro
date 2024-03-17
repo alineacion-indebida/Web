@@ -10,18 +10,24 @@ import Header from "@/sections/Header.astro"
 import Footer from "@/sections/Footer.astro"
 
 interface Props {
-	description: string
 	title: string
-	preloadImgLCP?: string
+	description: string
+	preload?: Array<{
+		as: string
+		href: string
+		type: string
+	}>
+	canonical?: string
+	image?: string
 }
 
-const { title, description, preloadImgLCP } = Astro.props
+const { title, description } = Astro.props
 ---
 
 <!doctype html>
 <html lang="es">
 	<head>
-		<SEO title={title} description={description} preloadImgLCP={preloadImgLCP!} />
+		<SEO title={title} description={description} />
 		<ViewTransitions />
 	</head>
 	
