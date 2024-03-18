@@ -5,12 +5,12 @@ import type { ManifestOptions } from "vite-plugin-pwa"
  * Defines the default SEO configuration for the website.
  */
 export const seoConfig = {
-	baseURL: "https://alineacion-indebida.vercel.app/", // Production URL.
+	baseURL: "https://alineacionindebida.com/", // Production URL.
 	description:
 		"Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino.",
 	type: "website",
 	image: {
-		url: "https://alineacion-indebida.vercel.app/img/og.jpg",
+		url: "https://alineacionindebida.com/img/og.jpg",
 		alt: "Alineacion indebida",
 		width: 705,
 		height: 606,
