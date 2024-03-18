@@ -1,10 +1,11 @@
-import tailwind from "@astrojs/tailwind"
-import vercel from "@astrojs/vercel/serverless"
-import { defineConfig } from "astro/config"
 import mdx from '@astrojs/mdx';
-
 import sitemap from "@astrojs/sitemap"
+import tailwind from "@astrojs/tailwind"
+import partytown from '@astrojs/partytown'
+import vercel from "@astrojs/vercel/serverless"
+
 import { VitePWA } from "vite-plugin-pwa"
+import { defineConfig } from "astro/config"
 
 // Helper imports
 import { manifest, seoConfig } from "./src/utils/seoConfig"
@@ -31,7 +32,13 @@ export default defineConfig({
 			drafts: true,
 		}),
 		tailwind(),
-		sitemap()],
+		sitemap(),
+		partytown({
+			config: {
+				forward: ["dataLayer.push"],
+			},
+		})
+	],
 	adapter: vercel({
 		webAnalytics: { enabled: true },
 	}),
