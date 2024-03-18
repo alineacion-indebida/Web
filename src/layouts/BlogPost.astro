@@ -1,15 +1,12 @@
 ---
 import Base from "@/layouts/Base.astro"
-import type { CollectionEntry } from "astro:content"
 import FormattedDate from "@/components/FormattedDate.astro"
 import { Image } from "astro:assets"
-
-type Props = CollectionEntry<"noticias">["data"]
 
 const { title, description, date, imagen, categories, tags, autor } = Astro.props
 ---
 
-<Base title={title} description={description}>
+<Base title={title} description={description} image={imagen}>
 	<article>
 		<div class="my-8 block overflow-hidden rounded-lg">
 			{
