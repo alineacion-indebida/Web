@@ -52,10 +52,10 @@ const { title, description, date, imagen, categories, tags, autor } = Astro.prop
 				</div>
 			</div>
 		</div>
-		<div class="prose prose-green prose-md md:prose-lg min-w-full">
+		<div class="prose prose-invert prose-md md:prose-lg min-w-full">
 			<slot />
 		</div>
-		<div class="text-text mt-4 flex flex-wrap  text-zinc-800 dark:text-zinc-200">	
+		<div class="text-text mt-4 flex flex-wrap text-zinc-800 dark:text-zinc-200">	
 			{
 				categories?.slice(0, 1).map((category) => (
 					<a

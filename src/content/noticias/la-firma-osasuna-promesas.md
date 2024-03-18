@@ -8,8 +8,6 @@ autor: 'Miguel Ontiyuelo'
 tags: ['Primera federación', 'CA Osasuna Promesas']
 ---
 
-## Unionistas no encuentra el punto de inflexión contra osasuna promesas - La firma destacada
-
 Unionistas cuajó uno de sus peores partidos de esta temporada contra Osasuna Promesas y encajó su segunda derrota consecutiva en casa, algo que pocos recordarán cuándo ocurró por última vez. El equipo sabía que era el día de dar un paso al frente y proponer un mejor desempeño tras las experiencias agridulces de las semanas anteriores: 2 empates en sendos desplazamientos a Tarazona y en Lugo eran buenos resultados -a pesar del gran sufrimiento con que se habían conseguido-, si se seguían con 3 puntos en casa, olvidando la superación neta en todas las líneas y fases que había infligido el Celta Fortuna
 
 Pero en contra de todas estas previsiones, Unionistas se encontró al siempre férreo y físico filial osasunista y fue incapaz de superarle. Muy ordenados y con incisiva presión, los visitantes ahogaron una y otra vez la construcción de juego local, que siempre terminaba buscando cambios de orientación con escaso éxito. Por si fuera poco, las rápidas combinaciones ofensivas por la banda izquierda navarra, donde habitaba un Ander Yoldi excelso, encontraron fisuras suficientes para generar peligro y adelantarse en el marcador. Xabi Huarte, recién retornado de larga lesión, ponía el 1-0 en el minuto 26. Sólo al filo del descanso, ya en el descuento, en una acción de estrategia blanquinegra que resultó desconcertante para todos menos para Ion Etxaniz, el vizcaíno acertó con la red para marchar al descanso con un 1-1 prometedor cara a la segunda mitad.

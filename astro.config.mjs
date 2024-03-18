@@ -1,4 +1,3 @@
-import mdx from '@astrojs/mdx';
 import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
 import partytown from '@astrojs/partytown'
@@ -7,7 +6,6 @@ import vercel from "@astrojs/vercel/serverless"
 import { VitePWA } from "vite-plugin-pwa"
 import { defineConfig } from "astro/config"
 
-// Helper imports
 import { manifest, seoConfig } from "./src/utils/seoConfig"
 
 export default defineConfig({
@@ -15,22 +13,7 @@ export default defineConfig({
 	devToolbar: {
 		enabled: false,
 	},
-	markdown: {
-		drafts: true,
-		shikiConfig: {
-			theme: 'material-theme-palenight',
-			wrap: true,
-		},
-	},
 	integrations: [
-		mdx({
-			syntaxHighlight: 'shiki',
-			shikiConfig: {
-				theme: 'material-theme-palenight',
-				wrap: true,
-			},
-			drafts: true,
-		}),
 		tailwind(),
 		sitemap(),
 		partytown({
