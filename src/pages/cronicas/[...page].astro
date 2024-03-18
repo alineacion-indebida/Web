@@ -6,7 +6,7 @@ import { getCollection } from "astro:content"
 
 export async function getStaticPaths({ paginate }) {
 	const allPosts = await getCollection("noticias")
-	const cronicas = allPosts.filter((a) => a.data.categories.map((categoria: string) => categoria).includes('Cronica'))
+	const cronicas = allPosts.filter((a) => a.data.categorias.map((categoria: string) => categoria).includes('Cronica'))
 	const formattedPosts = cronicas.sort(
 		(a, b) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime()
 	)
