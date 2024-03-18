@@ -15,16 +15,16 @@ interface Post {
 
 export function getAllTags(posts: MDXInstance<Post>[] = []) {
     const allTags = new Set<string>();
-    posts.forEach((post) => {
+    posts.forEach((post:any) => {
         post.data?.tags?.map((tag: string) => allTags.add(tag.toLowerCase()));
     });
     return [...allTags];
 }
 
-export const getTaxonomy = async (collection: string, name: string) => {
+export const getTaxonomy = async (collection: any, name: string) => {
     const singlePages = await getCollection(collection);
-    const taxonomyPages = singlePages.map((page) => page.data[name]);
-    let taxonomies = [];
+    const taxonomyPages = singlePages.map((page:any) => page.data[name]);
+    let taxonomies:any = [];
     for (let i = 0; i < taxonomyPages.length; i++) {
         const categoryArray = taxonomyPages[i];
         for (let j = 0; j < categoryArray.length; j++) {
@@ -40,8 +40,8 @@ export const getTaxonomy = async (collection: string, name: string) => {
 
 export const getSinglePage = async (collection: any) => {
     const allPage = await getCollection(collection);
-    const removeIndex = allPage.filter((data) => data.id.match(/^(?!-)/));
-    const removeDrafts = removeIndex.filter((data) => !data.data.draft);
+    const removeIndex = allPage.filter((data:any) => data.id.match(/^(?!-)/));
+    const removeDrafts = removeIndex.filter((data:any) => !data.data.draft);
     return removeDrafts;
 };
 

@@ -7,9 +7,9 @@ import { deslugify } from "@/utils/slug";
 export async function getStaticPaths() {
   const categorias = await getTaxonomy("noticias", "categorias");
 
-  return categorias.map((categoria) => {
+  return categorias.map((categoria:any) => {
     return {
-      params: { categoria: categoria.slug },
+      params: { categoria: categoria['slug'] },
     };
   });
 }
