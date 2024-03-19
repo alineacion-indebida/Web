@@ -17,28 +17,14 @@ interface Props extends HTMLAttributes<"img"> {
 }
 
 const { logo = "albia", class: className, ...rest } = Astro.props
-
-const optionsToObject = (
-	options?: Array<{ attribute: string; value: string }>
-): Record<string, string> => {
-	if (!options || options.length === 0) {
-		return {}
-	}
-
-	return options.reduce((attributesObject: Record<string, string>, option) => {
-		attributesObject[option.attribute] = option.value
-		return attributesObject
-	}, {})
-}
 ---
 
 <Image
-	class="transition duration-300 ease-in-out"
+	class="transition duration-300 ease-in-out hover:scale-110"
 	src={`/img/patrocinadores/${logo}.webp`}
 	alt={"title"}
 	width={960}
 	height={480}
 	decoding="async"
 	loading="lazy"
-	{...rest}
 />
