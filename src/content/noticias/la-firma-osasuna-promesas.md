@@ -5,7 +5,7 @@ description: 'La firma destacada de Miguel Ontiyuelo. Unionistas de Salamanca vs
 imagen: '/img/noticias/osasunapromesas.webp'
 categorias: ['La firma']
 autor: 'Miguel Ontiyuelo'
-tags: ['Primera federación', 'CA Osasuna Promesas']
+tags: ['Primera federacion', 'CA Osasuna Promesas']
 ---
 
 Unionistas cuajó uno de sus peores partidos de esta temporada contra Osasuna Promesas y encajó su segunda derrota consecutiva en casa, algo que pocos recordarán cuándo ocurró por última vez. El equipo sabía que era el día de dar un paso al frente y proponer un mejor desempeño tras las experiencias agridulces de las semanas anteriores: 2 empates en sendos desplazamientos a Tarazona y en Lugo eran buenos resultados -a pesar del gran sufrimiento con que se habían conseguido-, si se seguían con 3 puntos en casa, olvidando la superación neta en todas las líneas y fases que había infligido el Celta Fortuna

@@ -5,7 +5,7 @@ description: 'La jornada indebida de Key Galán. Primera federación grupo 1, jo
 imagen: '/img/noticias/osasunapromesas.webp'
 categorias: ['Primera federación']
 autor: 'Key Galán'
-tags: ['Primera federación']
+tags: ['Primera federacion']
 ---
 
 Suele pasar tener cierto miedo a las alturas, tener algo de vértigo a estar arriba y hasta constatar y llegar a albergar las siempre molestas mariposas en el estomago  cuando se acercan momentos importantes en la vida.

@@ -5,7 +5,7 @@ description: 'Nuestra visión indebida del partido disputado contra el Osasuna P
 imagen: '/img/noticias/osasunapromesas.webp'
 categorias: ['Cronica']
 autor: 'Indebiders'
-tags: ['Primera federación', 'CA Osasuna Promesas']
+tags: ['Primera federacion', 'CA Osasuna Promesas']
 ---
 
 ## Bad- Worse- The worst - Key Galán

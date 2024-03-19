@@ -1,0 +1,29 @@
+---
+import Layout from "@/layouts/Base.astro"
+import Posts from "@/layouts/Posts.astro"
+import { getTaxonomy, getSinglePage, taxonomyFilter } from "@/utils/getAllTags";
+import { deslugify } from "@/utils/slug";
+
+export async function getStaticPaths() {
+  const tags = await getTaxonomy("noticias", "tags");
+
+  return tags.map((tag:any) => {
+    return {
+      params: { tag: tag['slug'] },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+
+const posts = await getSinglePage("noticias");
+const filterByTags = taxonomyFilter(posts, "tags", tag);
+---
+
+<Layout
+	description="Últimas noticias en la Web Oficial del programa Alineación Indebida."
+	title="Últimas noticias - Alineación indebida"
+>
+	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Tag: {deslugify(tag)}</h1>
+	<Posts posts={filterByTags}/>
+</Layout>
