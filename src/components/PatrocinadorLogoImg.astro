@@ -1,10 +1,10 @@
 ---
 import type { HTMLAttributes } from "astro/types"
+import { Image } from "astro:assets"
 
 import type { PatrocinadorId } from "@/consts/patrocinadores-logo-catalog"
-import { PatrocinadoresLogoCatalog } from "@/consts/patrocinadores-logo-catalog"
 
-interface Props extends HTMLAttributes<"svg"> {
+interface Props extends HTMLAttributes<"img"> {
 	/**
 	 * Additional CSS class to be applied to the SVG element.
 	 */
@@ -17,8 +17,6 @@ interface Props extends HTMLAttributes<"svg"> {
 }
 
 const { logo = "albia", class: className, ...rest } = Astro.props
-
-const logoDetails = PatrocinadoresLogoCatalog[logo]
 
 const optionsToObject = (
 	options?: Array<{ attribute: string; value: string }>
@@ -34,22 +32,13 @@ const optionsToObject = (
 }
 ---
 
-<svg
-	class:list={className}
-	data-testid="PatrocinadoresLogo"
-	xmlns="http://www.w3.org/2000/svg"
-	viewBox={logoDetails.viewBox}
+<Image
+	class="transition duration-300 ease-in-out"
+	src={`/img/patrocinadores/${logo}.webp`}
+	alt={"title"}
+	width={960}
+	height={480}
+	decoding="async"
+	loading="lazy"
 	{...rest}
->
-	{
-		logoDetails.paths.map((pathDetail) => (
-			<path d={pathDetail.path} {...optionsToObject(pathDetail.options)} />
-		))
-	}
-</svg>
-
-<style>
-	svg {
-		fill: currentColor;
-	}
-</style>
+/>
