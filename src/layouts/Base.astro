@@ -1,6 +1,6 @@
 ---
 import "@fontsource-variable/jost"
-import { ViewTransitions } from 'astro:transitions';
+import { ViewTransitions } from "astro:transitions"
 
 import SEO from "@/components/SEO.astro"
 import ButtonUp from "@/components/ButtonUp.astro"
@@ -30,7 +30,7 @@ const { title, description, image } = Astro.props
 		<SEO title={title} description={description} image={image} />
 		<ViewTransitions />
 	</head>
-	
+
 	<body
 		class="dark selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary"
 	>
@@ -43,17 +43,17 @@ const { title, description, image } = Astro.props
 				<slot />
 			</main>
 			<Footer />
-			<KonamiCode />	
+			<KonamiCode />
 		</div>
 		<ButtonUp />
 		<style is:global>
 			:root {
 				--color-primary: #ddd;
 				--color-secondary: #333;
-				--color-accent: #F8C409;
-				--color-accent-light: #FCE79C;
-				--color-accent-dark: #DFB008;
-				--color-accent-gradient: linear-gradient( 
+				--color-accent: #f8c409;
+				--color-accent-light: #fce79c;
+				--color-accent-dark: #dfb008;
+				--color-accent-gradient: linear-gradient(
 					45deg,
 					var(--color-accent),
 					var(--color-accent-light) 30%,

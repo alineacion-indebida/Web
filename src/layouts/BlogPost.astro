@@ -2,7 +2,7 @@
 import Base from "@/layouts/Base.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import { Image } from "astro:assets"
-import { slugify } from "@/utils/slug";
+import { slugify } from "@/utils/slug"
 
 const { title, description, date, imagen, categorias, tags, autor } = Astro.props
 ---
@@ -50,20 +50,20 @@ const { title, description, date, imagen, categorias, tags, autor } = Astro.prop
 				</div>
 			</div>
 		</div>
-		<div class="prose prose-invert prose-md md:prose-lg min-w-full">
+		<div class="prose-md prose prose-invert min-w-full md:prose-lg">
 			<slot />
 		</div>
-		<div class="text-text mt-4 flex flex-wrap text-zinc-800 dark:text-zinc-200">	
+		<div class="text-text mt-4 flex flex-wrap text-zinc-800 dark:text-zinc-200">
 			{
 				categorias?.slice(0, 1).map((categoria) => (
 					<a
 						href={`/categorias/${slugify(categoria)}`}
 						class="mr-2 font-medium capitalize hover:text-primary"
 					>
-					{categoria}
+						{categoria}
 					</a>
 				))
-			} 
+			}
 			|
 			{
 				tags?.map((tag) => (

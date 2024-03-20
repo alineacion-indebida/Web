@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content"
 import FirstPost from "@/components/FirstPost.astro"
-import PostList from "@/layouts/PostList.astro";
+import PostList from "@/components/PostList.astro";
 
 const allPosts = await getCollection("noticias")
 const formattedPosts = allPosts.sort(

@@ -1,14 +1,15 @@
 ---
-import LiteYouTube from "@/components/LiteYouTube.astro";
+import LiteYouTube from "@/components/LiteYouTube.astro"
 
 const { videos } = Astro.props
 
-type VideoType = {
+interface VideoType {
 	id: string
 	slug: string
 	image: string
 	title: string
 }
+
 ---
 
 <div class="mt-12 grid select-none grid-cols-1 gap-8 md:grid-cols-3">
