@@ -1,0 +1,13 @@
+---
+import { getCollection } from "astro:content"
+import FirstPost from "@/components/FirstPost.astro"
+import PostList from "@/layouts/PostList.astro";
+
+const allPosts = await getCollection("noticias")
+const formattedPosts = allPosts.sort(
+    (a, b) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime()
+)
+---
+
+<FirstPost post={formattedPosts[0]}/>
+<PostList post={formattedPosts?.slice(1, 9)}/>
