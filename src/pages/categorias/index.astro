@@ -13,7 +13,6 @@ const uniqueCategorias = [...new Set(allCategorias.map((item:any) => item.slug))
 	title="Últimas crónicas - Alineación indebida"
 >
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Categorias:</h1>
-	<ul class="flex flex-wrap gap-3 text-zinc-500 dark:text-zinc-400"></ul>
 	{
 		uniqueCategorias.map((category:any) => (
 			<li class="mr-4 flex items-center justify-between">
