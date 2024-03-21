@@ -13,5 +13,7 @@ const { as: Tag, class: className, ...props } = Astro.props
 	]}
 	{...props}
 >
-	<span class="inline-block skew-x-[21deg]"><slot /></span>
+	<span class="inline-block skew-x-[21deg]">
+		<slot />
+	</span>
 </Tag>

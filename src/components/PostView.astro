@@ -1,5 +1,9 @@
 ---
 import Layout from "@/layouts/Layout.astro"
+import Action from "@/components/ActionShare.astro"
+import WhatsappIcon from "@/icons/Whatsapp.astro"
+import TelegramIcon from "@/icons/Telegram.astro"
+import XIcon from "@/icons/X.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import { Image } from "astro:assets"
 import { slugify } from "@/utils/slug"
@@ -50,7 +54,18 @@ const { title, description, date, imagen, categorias, tags, autor } = Astro.prop
 				</div>
 			</div>
 		</div>
-		<div class="prose-md prose prose-invert min-w-full md:prose-lg">
+		<div class="grid grid-cols-1 gap-x-1 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+			<Action class="mt-2 text-center bg-[#000000] " href="/" aria-label="Compartir en X" as="a">
+				<XIcon class="inline align-text-bottom h-6 w-6"/> Compartir en X
+			</Action>
+			<Action class="mt-2 text-center bg-[#075E54] " href="/" aria-label="Compartir en Whatsapp" as="a">
+				<WhatsappIcon class="inline align-text-bottom h-7 w-7"/> Compartir en Whatsapp
+			</Action>
+			<Action class="mt-2 text-center bg-[#24A1DE]" href="/" aria-label="Compartir en Telegram" as="a">
+				<TelegramIcon class="inline align-text-bottom h-7 w-7"/> Compartir en Telegram
+			</Action>
+		</div>
+		<div class="prose-md prose prose-invert min-w-full md:prose-lg mt-4">
 			<slot />
 		</div>
 		<div class="text-text mt-4 flex flex-wrap text-zinc-800 dark:text-zinc-200">
