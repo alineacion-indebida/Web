@@ -8,7 +8,8 @@ import FormattedDate from "@/components/FormattedDate.astro"
 import { Image } from "astro:assets"
 import { slugify } from "@/utils/slug"
 
-const { title, description, date, imagen, categorias, tags, autor } = Astro.props
+const { title, description, date, imagen, categorias, tags, autor, slug } = Astro.props
+const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
 ---
 
 <Layout title={title} description={description} image={imagen}>
@@ -55,13 +56,13 @@ const { title, description, date, imagen, categorias, tags, autor } = Astro.prop
 			</div>
 		</div>
 		<div class="grid grid-cols-1 gap-x-1 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-			<Action class="mt-2 text-center bg-[#000000] " href="/" aria-label="Compartir en X" as="a">
+			<Action class="mt-2 text-center bg-[#000000] " href={`https://twitter.com/intent/tweet?text=${title}.%0A%0AVer%20completo%20en%20%40a_indebida12&url=${url}${slug}`} aria-label="Compartir en X" as="a">
 				<XIcon class="inline align-text-bottom h-6 w-6"/> Compartir en X
 			</Action>
-			<Action class="mt-2 text-center bg-[#075E54] " href="/" aria-label="Compartir en Whatsapp" as="a">
+			<Action class="mt-2 text-center bg-[#075E54] " href={`https://api.whatsapp.com/send?text=${title}.%0A%0AVer%20completo%20en%20&url=${url}${slug}`} aria-label="Compartir en Whatsapp" as="a">
 				<WhatsappIcon class="inline align-text-bottom h-7 w-7"/> Compartir en Whatsapp
 			</Action>
-			<Action class="mt-2 text-center bg-[#24A1DE]" href="/" aria-label="Compartir en Telegram" as="a">
+			<Action class="mt-2 text-center bg-[#24A1DE]" href={`https://t.me/share?url=${url}${slug}&text=%0A${title}`} aria-label="Compartir en Telegram" as="a">
 				<TelegramIcon class="inline align-text-bottom h-7 w-7"/> Compartir en Telegram
 			</Action>
 		</div>
