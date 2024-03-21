@@ -9,9 +9,12 @@ const pages = [
 	{ name: "CRÓNICAS", href: "/categorias/Cronica" },
 	{ name: "VÍDEOS", href: "/videos" },
 	{ name: "QUIÉN SOMOS", href: "/quiensomos" },
-].map((page) => ({
+].map((page) => (
+	console.log(Astro.url.pathname ," ", page.href),	
+	console.log(Astro.url.pathname === page.href),	
+{
 	...page,
-	active: Astro.url.pathname.replace("/","") === page.href.replace("/",""),
+	active: Astro.url.pathname === page.href,
 }))
 ---
 
