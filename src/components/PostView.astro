@@ -1,5 +1,5 @@
 ---
-import Base from "@/layouts/Base.astro"
+import Layout from "@/layouts/Layout.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import { Image } from "astro:assets"
 import { slugify } from "@/utils/slug"
@@ -7,7 +7,7 @@ import { slugify } from "@/utils/slug"
 const { title, description, date, imagen, categorias, tags, autor } = Astro.props
 ---
 
-<Base title={title} description={description} image={imagen}>
+<Layout title={title} description={description} image={imagen}>
 	<article>
 		<div class="my-8 block overflow-hidden rounded-lg">
 			{
@@ -77,4 +77,4 @@ const { title, description, date, imagen, categorias, tags, autor } = Astro.prop
 			}
 		</div>
 	</article>
-</Base>
+</Layout>
