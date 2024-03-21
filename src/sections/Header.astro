@@ -11,7 +11,7 @@ const pages = [
 	{ name: "QUIÉN SOMOS", href: "/quiensomos" },
 ].map((page) => ({
 	...page,
-	active: Astro.url.pathname === page.href,
+	active: Astro.url.pathname.replace("/","") === page.href.replace("/",""),
 }))
 ---
 
