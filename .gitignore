@@ -20,5 +20,17 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 
-# Vercel outputs
-.vercel
+# packages
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# .vs folder
+.vs/
+.idea
+
+# Vercel output
+.vercel/
+
+.env
+.env.local

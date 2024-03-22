@@ -24,6 +24,7 @@ export default {
 		require('@tailwindcss/typography'),
 		function ({ addVariant }) {
 			addVariant("any-hover", "@media (any-hover: hover) { &:hover }")
+			addVariant("mobile", "@media (any-hover: none) { & }")
 		},
 	],
 }

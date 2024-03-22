@@ -1,5 +1,5 @@
 export default {
-	printWidth: 100,
+	printWidth: 150,
 	semi: false,
 	singleQuote: false,
 	jsxSingleQuote: false,
@@ -9,7 +9,11 @@ export default {
 	useTabs: true,
 	endOfLine: "lf",
 	arrowParens: "always",
-	plugins: ["prettier-plugin-astro", "prettier-plugin-tailwindcss"],
+	plugins: [
+		"prettier-plugin-astro",
+		"prettier-plugin-tailwindcss",
+		"prettier-plugin-astro-organize-imports",
+	],
 	overrides: [
 		{
 			files: ["*.json", "*.md", "*.toml", "*.yml"],

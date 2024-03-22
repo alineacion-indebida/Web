@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.alineacionindebida.com
+
+# Sitemaps
+Sitemap: https://www.alineacionindebida.com/sitemap-index.xml
