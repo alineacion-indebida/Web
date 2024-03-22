@@ -16,7 +16,7 @@ interface Props extends HTMLAttributes<"svg"> {
 	logo: PatrocinadorId
 }
 
-const { logo = "albia", class: className, ...rest } = Astro.props
+const { logo = "Albia", class: className, ...rest } = Astro.props
 
 const logoDetails = PatrocinadoresLogoCatalog[logo]
 
@@ -42,7 +42,7 @@ const optionsToObject = (
 	{...rest}
 >
 	{
-		logoDetails.paths.map((pathDetail) => (
+		logoDetails.paths.map((pathDetail:any) => (
 			<path d={pathDetail.path} {...optionsToObject(pathDetail.options)} />
 		))
 	}

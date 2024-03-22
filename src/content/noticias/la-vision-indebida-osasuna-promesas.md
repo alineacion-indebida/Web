@@ -1,5 +1,5 @@
 ---
-date: '2024-03-17T18:00:00.000Z'
+date: '2024-03-17T18:00:00.000+01:00'
 title: 'La visión indebida vs Osasuna Promesas'
 description: 'Nuestra visión indebida del partido disputado contra el Osasuna Promesas. Primera federación grupo 1, jornada 28.'
 imagen: '/img/noticias/osasunapromesas.webp'

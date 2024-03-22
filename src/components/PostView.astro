@@ -10,6 +10,11 @@ import { slugify } from "@/utils/slug"
 
 const { title, description, date, imagen, categorias, tags, autor, slug } = Astro.props
 const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
+const formatDate = {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+}
 ---
 
 <Layout title={title} description={description} image={imagen}>
@@ -51,7 +56,7 @@ const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
 					<span>{autor}</span>
 				</div>
 				<div class="mt-2 flex flex-wrap items-center font-medium">
-					<FormattedDate date={date} />
+					<FormattedDate date={date} format={formatDate}/>
 				</div>
 			</div>
 		</div>
@@ -71,7 +76,7 @@ const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
 		</div>
 		<div class="text-text mt-4 flex flex-wrap text-zinc-800 dark:text-zinc-200">
 			{
-				categorias?.slice(0, 1).map((categoria) => (
+				categorias?.slice(0, 1).map((categoria:any) => (
 					<a
 						href={`/categorias/${slugify(categoria)}`}
 						class="mr-2 font-medium capitalize hover:text-primary"
@@ -82,7 +87,7 @@ const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
 			}
 			|
 			{
-				tags?.map((tag) => (
+				tags?.map((tag:any) => (
 					<a
 						href={`/tags/${slugify(tag)}`}
 						class="mr-2 inline-block rounded-full bg-zinc-200 px-3 py-1 text-sm font-semibold capitalize text-zinc-700 dark:bg-zinc-900 dark:text-zinc-400"

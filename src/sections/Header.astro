@@ -10,8 +10,8 @@ const pages = [
 	{ name: "VÍDEOS", href: "/videos" },
 	{ name: "QUIÉN SOMOS", href: "/quiensomos" },
 ].map((page) => (
-	console.log(Astro.url.pathname ," ", page.href),	
-	console.log(Astro.url.pathname === page.href),	
+	// console.log(Astro.url.pathname ," ", page.href),	
+	// console.log(Astro.url.pathname === page.href),	
 {
 	...page,
 	active: Astro.url.pathname === page.href,

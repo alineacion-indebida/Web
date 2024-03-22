@@ -4,6 +4,11 @@ import FormattedDate from "@/components/FormattedDate.astro"
 import { slugify } from "@/utils/slug"
 
 const { posts } = Astro.props
+const formatDate = {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+}
 
 type PostType = {
 	id: string
@@ -47,7 +52,7 @@ type PostType = {
 					)}
 				</div>
 				<div class="flex items-center gap-x-4 text-xs text-zinc-900 dark:text-white">
-					<FormattedDate date={post.data.date} />
+					<FormattedDate date={post.data.date} format={formatDate}/>
 					{post.data.categorias.slice(0, 2).map((item) => (
 						<a
 							href={`/categorias/${slugify(item)}`}

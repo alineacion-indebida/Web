@@ -1,0 +1,24 @@
+{
+  "partidos": [
+    {
+      "id": 1,
+      "slug": "2324-nastic-unionistas",
+      "imagen": "/img/noticias/osasunapromesas.webp",
+      "date": "2024-03-24T20:00:00.000+01:00",
+      "jornada": "29",
+      "local": false,
+      "rival": "Gimnàstic Tarragona",
+      "estadio": "Nou Estadi Costa Daurada"
+    },
+    {
+      "id": 2,
+      "slug": "2324-unionistas-sdlogrones",
+      "imagen": "/img/noticias/osasunapromesas.webp",
+      "date": "2024-03-30T16:00:00.000+01:00",
+      "jornada": "30",
+      "local": true,
+      "rival": "Sociedad Deportiva Logroñes",
+      "estadio": "Municipal Reina Sofía"
+    }
+  ]
+}

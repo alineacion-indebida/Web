@@ -1,5 +1,5 @@
 ---
-date: '2024-03-21T23:00:00.000Z'
+date: '2024-03-21T23:00:00.000+01:00'
 title: 'Nàstic Unionistas - Los numeros de Pol'
 description: 'Los numeros de Pol. Primera federación grupo 1, jornada 29.'
 imagen: '/img/noticias/numeros-pol.webp'

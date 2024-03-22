@@ -5,6 +5,11 @@ import FormattedDate from "@/components/FormattedDate.astro"
 import { slugify } from "@/utils/slug"
 
 const { post } = Astro.props
+const formatDate = {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+}
 ---
 
 <article class="flex w-full flex-col items-start mb-16">
@@ -28,9 +33,9 @@ const { post } = Astro.props
 		}
 	</div>
 	<div class="flex items-center gap-x-4 text-xs text-zinc-900 dark:text-white">
-		<FormattedDate date={post.data.date} />
+		<FormattedDate date={post.data.date} format={formatDate}/>
 		{
-			post.data.categorias.slice(0, 2).map((item) => (
+			post.data.categorias.slice(0, 2).map((item:any) => (
 				<a
 					href={`/categorias/${slugify(item)}`}
 					class="text-md relative z-10 rounded-full bg-zinc-50 px-3 py-1.5 font-medium capitalize text-zinc-600 hover:bg-zinc-50 dark:bg-zinc-900 dark:text-zinc-400"

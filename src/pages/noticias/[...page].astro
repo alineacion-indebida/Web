@@ -4,7 +4,7 @@ import Posts from "@/components/PostGrid.astro"
 
 import { getCollection } from "astro:content"
 
-export async function getStaticPaths({ paginate }) {
+export async function getStaticPaths({ paginate }:any) {
 	const allPosts = await getCollection("noticias")
 	const formattedPosts = allPosts.sort(
 		(a, b) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime()

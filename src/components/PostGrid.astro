@@ -1,9 +1,14 @@
 ---
-import { Image } from "astro:assets"
 import FormattedDate from "@/components/FormattedDate.astro"
 import { slugify } from "@/utils/slug"
+import { Image } from "astro:assets"
 
 const { posts } = Astro.props
+const formatDate = {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+}
 
 interface PostType {
 	id: string
@@ -22,9 +27,7 @@ interface PostType {
 }
 ---
 
-<div
-	class="mx-auto grid grid-cols-1 gap-x-8 gap-y-16 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3"
->
+<div class="mx-auto grid grid-cols-1 gap-x-8 gap-y-16 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
 	{
 		posts?.slice(0, 9).map((post: PostType) => (
 			<article class="flex w-full flex-col items-start">
@@ -46,7 +49,7 @@ interface PostType {
 					)}
 				</div>
 				<div class="flex items-center gap-x-4 text-xs text-zinc-900 dark:text-white">
-					<FormattedDate date={post.data.date} />
+					<FormattedDate date={post.data.date} format={formatDate} />
 					{post.data.categorias.slice(0, 2).map((item) => (
 						<a
 							href={`/categorias/${slugify(item)}`}
@@ -63,9 +66,7 @@ interface PostType {
 							{post.data.title}
 						</a>
 					</h2>
-					<p class="mt-5 line-clamp-3 text-sm leading-6 text-zinc-800 dark:text-white">
-						{post.data.description}
-					</p>
+					<p class="mt-5 line-clamp-3 text-sm leading-6 text-zinc-800 dark:text-white">{post.data.description}</p>
 				</div>
 			</article>
 		))
