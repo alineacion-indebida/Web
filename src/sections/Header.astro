@@ -26,8 +26,9 @@ const pages = [
 					<a
 						href={href}
 						class:list={[
-							"nav-item relative hidden h-full select-none flex-col items-center justify-center gap-1 px-10 text-xl uppercase text-white lg:flex",
-							{ "current-page": active },
+							"nav-item relative hidden h-full select-none flex-col items-center justify-center gap-1 px-10 text-xl uppercase lg:flex",
+							{ "current-page text-accent": active },
+							{ "text-white": !active }
 						]}
 						id={`nav-link-${key}`}
 					>
@@ -58,7 +59,8 @@ const pages = [
 								href={href}
 								class:list={[
 									"flex flex-col items-center justify-center gap-2 text-xl capitalize",
-									{ "current-page-mob": active },
+									{ "current-page text-accent": active },
+									{ "text-white": !active }
 								]}
 								id={`navmob-link-${key}`}
 							>
@@ -116,6 +118,7 @@ const pages = [
 		filter: drop-shadow(0px 0px 25px rgba(var(--color-accent-rgb), 0.25));
 	}
 
+	.current-page {}
 	.current-page:before {
 		background: var(--color-accent);
 		width: 100%;
