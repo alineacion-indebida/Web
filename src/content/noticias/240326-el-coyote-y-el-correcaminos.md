@@ -2,7 +2,7 @@
 date: '2024-03-26T17:00:00.000+01:00'
 title: 'El coyote y el correcaminos - La jornada indebida'
 description: 'La jornada indebida de Carlos Matía. Primera federación grupo 1, jornada 29'
-imagen: '/img/noticias/osasunapromesas.webp'
+imagen: '/img/noticias/primerafed.webp'
 categorias: ['Primera federación']
 autor: 'Carlos Matía'
 tags: ['Primera federacion','jornada 29','grupo 1']

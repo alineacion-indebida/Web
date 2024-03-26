@@ -40,7 +40,13 @@ export const getTaxonomy = async (collection: any, name: string) => {
 
 export const getSinglePage = async (collection: any) => {
     const allPage = await getCollection(collection);
-    const removeIndex = allPage.filter((data: any) => data.id.match(/^(?!-)/));
+    var formattedPosts = allPage
+    if(collection=="noticias"){
+        var formattedPosts = allPage.sort(
+            (a, b) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime()
+        )
+    }
+    const removeIndex = formattedPosts.filter((data: any) => data.id.match(/^(?!-)/));
     const removeDrafts = removeIndex.filter((data: any) => !data.data.draft);
     return removeDrafts;
 };
