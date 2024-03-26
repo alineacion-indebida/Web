@@ -17,7 +17,7 @@ const formatDate = {
 		{
 			post.data.imagen && (
 				<a href={`/noticias/${post.slug}/`}>
-					<figure class="h-auto w-auto object-cover md:h-[150px]">
+					<figure class="h-auto w-auto object-cover md:h-[500px]">
 						<Image
 							class="transition duration-300 ease-in-out hover:scale-110"
 							src={post.data.imagen}
@@ -33,14 +33,14 @@ const formatDate = {
 		}
 	</div>
 	<div class="relative mt-4">
-		<h2 class="mt-2 text-3xl font-semibold leading-9 text-zinc-900 hover:text-accent dark:text-white">
+		<h2 class="text-3xl font-semibold leading-9 text-zinc-900 hover:text-accent dark:text-white">
 			<a href={`/noticias/${post.slug}/`}>
 				<span class="absolute inset-0"></span>
 				{post.data.title}
 			</a>
 		</h2>
 	</div>
-	<div class="text-s mt-2 flex flex-wrap items-center justify-between gap-x-4 text-zinc-800 dark:text-zinc-200 w-full">
+	<div class="text-xs mt-2 flex flex-wrap items-center justify-between gap-x-4 text-zinc-800 dark:text-zinc-200 w-full">
 		<div class="flex flex-wrap items-center font-medium">
 			<FormattedDate date={post.data.date} format={formatDate} />
 		</div>
@@ -49,7 +49,7 @@ const formatDate = {
 				post.data.categorias.slice(0, 1).map((item: any) => (
 					<a
 						href={`/categorias/${slugify(item)}`}
-						class="text-md relative z-10 rounded-full bg-zinc-50 px-3 py-1.5 font-medium capitalize text-zinc-600 hover:bg-zinc-50 hover:text-zinc-900 dark:bg-zinc-900 dark:text-zinc-400"
+						class="text-md relative rounded-full bg-zinc-50 px-3 py-1.5 font-medium capitalize text-zinc-600 hover:bg-zinc-50 hover:text-zinc-900 dark:bg-zinc-900 dark:text-zinc-400"
 					>
 						{item}
 					</a>

@@ -27,16 +27,16 @@ const formatDate = {
 }
 ---
 
-<div class="mx-auto grid grid-cols-1 gap-x-8 gap-y-1 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+<div class="mx-auto grid grid-cols-1 gap-x-8 gap-y-1 md:grid-cols-1 lg:mx-0 lg:max-w-none lg:grid-cols-2">
 	{
 		posts?.slice(0, 9).map((post: PostType) => (
 			<article class="mt-10 flex w-full flex-row-reverse gap-x-3">
-				<div class="w-2/5 overflow-hidden rounded-lg">
+				<div class="w-3/5 overflow-hidden rounded-lg">
 					{post.data.imagen && (
 						<a href={`/noticias/${post.slug}/`}>
-							<figure class="h-auto w-auto object-cover md:h-[150px]">
+							<figure class="h-auto w-auto object-cover">
 								<Image
-									class="transition duration-300 ease-in-out hover:scale-110"
+									class="transition duration-300 ease-in-out hover:scale-110 rounded-lg"
 									src={post.data.imagen}
 									alt={post.data.title}
 									width={1000}
@@ -54,7 +54,7 @@ const formatDate = {
 						{post.data.categorias.slice(0, 1).map((item) => (
 							<a
 								href={`/categorias/${slugify(item)}`}
-								class="text-md relative z-10 rounded-full bg-zinc-50 px-3 py-1.5 font-medium capitalize text-zinc-600 hover:bg-zinc-50 hover:text-zinc-900 dark:bg-zinc-900 dark:text-zinc-400"
+								class="text-md relative rounded-full bg-zinc-50 px-3 py-1.5 font-medium capitalize text-zinc-600 hover:bg-zinc-50 hover:text-zinc-900 dark:bg-zinc-900 dark:text-zinc-400"
 							>
 								{item}
 							</a>
