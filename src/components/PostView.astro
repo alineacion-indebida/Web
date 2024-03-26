@@ -39,7 +39,7 @@ const formatDate = {
 		<div class="md:col-10 mb-4 mt-4">
 			<h1 class="text-2xl font-bold md:text-4xl">{title}</h1>
 			<div
-				class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-800 dark:text-zinc-200"
+				class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200"
 			>
 				<div class="mt-2 flex flex-wrap items-center font-medium">
 					<figure>
@@ -74,12 +74,12 @@ const formatDate = {
 		<div class="prose-md prose prose-invert min-w-full md:prose-lg mt-4">
 			<slot />
 		</div>
-		<div class="text-text mt-4 flex flex-wrap text-zinc-800 dark:text-zinc-200">
+		<div class="text-text mt-4 flex flex-wrap text-zinc-300">
 			{
 				categorias?.slice(0, 1).map((categoria:any) => (
 					<a
 						href={`/categorias/${slugify(categoria)}`}
-						class="mr-2 font-medium capitalize hover:text-primary"
+						class="mr-2 font-medium capitalize hover:text-accent"
 					>
 						{categoria}
 					</a>
@@ -90,7 +90,7 @@ const formatDate = {
 				tags?.map((tag:any) => (
 					<a
 						href={`/tags/${slugify(tag)}`}
-						class="mr-2 inline-block rounded-full bg-zinc-200 px-3 py-1 text-sm font-semibold capitalize text-zinc-700 dark:bg-zinc-900 dark:text-zinc-400"
+						class="ml-2 inline-block rounded-full px-3 py-1 text-sm font-semibold capitalize bg-zinc-900 text-zinc-400 hover:bg-zinc-50 hover:text-zinc-900"
 					>
 						#{tag}
 					</a>
