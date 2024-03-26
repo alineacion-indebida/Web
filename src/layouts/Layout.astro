@@ -3,12 +3,12 @@ import "@fontsource-variable/jost"
 import SpeedInsights from "@vercel/speed-insights/astro"
 import { ViewTransitions } from "astro:transitions"
 
-import SEO from "@/components/SEO.astro"
 import ButtonUp from "@/components/ButtonUp.astro"
 import KonamiCode from "@/components/KonamiCode.astro"
+import SEO from "@/components/SEO.astro"
 
-import Header from "@/sections/Header.astro"
 import Footer from "@/sections/Footer.astro"
+import Header from "@/sections/Header.astro"
 
 interface Props {
 	title: string
@@ -17,6 +17,8 @@ interface Props {
 		as: string
 		href: string
 		type: string
+		rel?: "preload" | "prefetch"
+		crossorigin?: string
 	}>
 	canonical?: string
 	image?: string
@@ -30,17 +32,12 @@ const { title, description, image } = Astro.props
 	<head>
 		<SEO title={title} description={description} image={image} />
 		<ViewTransitions />
-		<SpeedInsights/>
+		<SpeedInsights />
 	</head>
 
-	<body
-		class="dark selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary"
-	>
+	<body class="dark selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary">
 		<Header />
-		<div
-			class="mx-auto max-w-6xl pt-6 selection:bg-primary selection:text-secondary md:pt-6 lg:px-10"
-			id="main-content"
-		>
+		<div class="mx-auto max-w-6xl pt-6 selection:bg-primary selection:text-secondary md:pt-6 lg:px-10" id="main-content">
 			<main>
 				<slot />
 			</main>
@@ -55,12 +52,7 @@ const { title, description, image } = Astro.props
 				--color-accent: #f8c409;
 				--color-accent-light: #fded8b;
 				--color-accent-dark: #a05f08;
-				--color-accent-gradient: linear-gradient(
-					45deg,
-					var(--color-accent),
-					var(--color-accent-light) 30%,
-					white 60%
-				);
+				--color-accent-gradient: linear-gradient(45deg, var(--color-accent), var(--color-accent-light) 30%, white 60%);
 
 				--background-color: #13151a;
 				--background-twitch: var(--color-twitch-ice);
@@ -113,7 +105,7 @@ const { title, description, image } = Astro.props
 					border: 2px solid transparent;
 					background-clip: content-box;
 				}
-				
+
 				::-webkit-scrollbar-thumb:active {
 					background-color: #666;
 				}
