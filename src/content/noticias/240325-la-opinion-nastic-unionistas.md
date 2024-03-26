@@ -24,7 +24,7 @@ Unionistas fiel a su ADN es insuperable, salta el obstáculo al que se enfrenta 
 
 El resultado fue óptimo pero el trabajo fue excelente y, ese curro, es el termómetro perfecto de vida. Ser competitivo al 200%, este es el gran triunfo de Unionistas.
 
-## Domingo de Pasión - José Fuentes
+## Domingo de Pasión - Sr. Fuentes
 
 En mi primera crónica futbolera no hablaré de tácticas ni técnicas. Hablaré sencillamente de UNIONISTAS DE SALAMANCA, así en mayúsculas. Porque este es un equipo mayúsculo en la victoria (como es el caso) pero también en la derrota. Porque a través de los 22 tíos (pronto también tías) que se ponen la camiseta con el escudo del toro sentimos cosas en algunos casos olvidadas, y en otros que no habíamos sentido nunca. Porque si no, díganme ustedes que sentido tiene que unos 50 valientes se presenten en Tarragona, a un partido perdido previamente, o que casi 400 personas decidan pasar su tarde de domingo viendo y oyendo a cuatro señores hablar y dar su opinión sobre lo que pasa en el verde. 
 
