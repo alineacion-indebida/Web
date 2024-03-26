@@ -6,16 +6,17 @@ import Footer from "@/sections/Footer.astro"
 
 const pages = [
 	{ name: "NOTICIAS", href: "/noticias" },
-	{ name: "CRÓNICAS", href: "/categorias/Crónica" },
+	{ name: "CRÓNICAS", href: "/cronicas" },
 	{ name: "VÍDEOS", href: "/videos" },
 	{ name: "QUIÉN SOMOS", href: "/quiensomos" },
-].map((page) => (
-	// console.log(Astro.url.pathname ," ", page.href),	
-	// console.log(Astro.url.pathname === page.href),	
-{
-	...page,
-	active: Astro.url.pathname === page.href,
-}))
+].map((page) =>
+	// console.log(Astro.url.pathname ," ", page.href),
+	// console.log(Astro.url.pathname === page.href),
+	({
+		...page,
+		active: Astro.url.pathname == page.href,
+	})
+)
 ---
 
 <header class="mb-10 h-16 max-w-[100vw] lg:h-24">
@@ -28,7 +29,7 @@ const pages = [
 						class:list={[
 							"nav-item relative hidden h-full select-none flex-col items-center justify-center gap-1 px-10 text-xl uppercase lg:flex",
 							{ "current-page text-accent": active },
-							{ "text-white": !active }
+							{ "text-white": !active },
 						]}
 						id={`nav-link-${key}`}
 					>
@@ -60,16 +61,13 @@ const pages = [
 								class:list={[
 									"flex flex-col items-center justify-center gap-2 text-xl capitalize",
 									{ "current-page text-accent": active },
-									{ "text-white": !active }
+									{ "text-white": !active },
 								]}
 								id={`navmob-link-${key}`}
 							>
 								<span class="z-10 uppercase text-primary">{name}</span>
 							</a>
-							<hr
-								class="h-[2px] w-full border-t-0"
-								style="background:linear-gradient(to right, transparent 0%, white 50%, transparent 100%)"
-							/>
+							<hr class="h-[2px] w-full border-t-0" style="background:linear-gradient(to right, transparent 0%, white 50%, transparent 100%)" />
 						</>
 					))
 				}
@@ -118,7 +116,8 @@ const pages = [
 		filter: drop-shadow(0px 0px 25px rgba(var(--color-accent-rgb), 0.25));
 	}
 
-	.current-page {}
+	.current-page {
+	}
 	.current-page:before {
 		background: var(--color-accent);
 		width: 100%;
