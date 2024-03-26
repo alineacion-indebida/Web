@@ -38,7 +38,7 @@ const { title, description, image } = Astro.props
 	>
 		<Header />
 		<div
-			class="mx-auto max-w-6xl px-2 pt-6 selection:bg-primary selection:text-secondary md:pt-6 lg:px-10"
+			class="mx-auto max-w-6xl pt-6 selection:bg-primary selection:text-secondary md:pt-6 lg:px-10"
 			id="main-content"
 		>
 			<main>
@@ -85,7 +85,7 @@ const { title, description, image } = Astro.props
 				margin: auto;
 				padding: 1rem;
 				width: 960px;
-				max-width: calc(100% - 2rem);
+				max-width: 100%;
 				color: white;
 				font-size: 20px;
 				line-height: 1.6;
@@ -101,24 +101,37 @@ const { title, description, image } = Astro.props
 				width: 1px;
 			}
 
-			::-webkit-scrollbar {
-				width: 10px;
-				border-radius: 10px;
+			@supports selector(::-webkit-scrollbar) {
+				::-webkit-scrollbar {
+					width: 10px;
+					border-radius: 10px;
+				}
+
+				::-webkit-scrollbar-thumb {
+					border-radius: 10px;
+					background-color: theme("colors.primary");
+					border: 2px solid transparent;
+					background-clip: content-box;
+				}
+				
+				::-webkit-scrollbar-thumb:active {
+					background-color: #666;
+				}
+
+				::-webkit-scrollbar-track {
+					background: var(--background-image);
+				}
+
+				::-webkit-scrollbar-corner {
+					background: var(--background-image);
+				}
 			}
 
-			::-webkit-scrollbar-thumb {
-				border-radius: 10px;
-				background-color: theme("colors.primary");
-				border: 2px solid transparent;
-				background-clip: content-box;
-			}
-
-			::-webkit-scrollbar-track {
-				background: var(--background-image);
-			}
-
-			::-webkit-scrollbar-corner {
-				background: var(--background-image);
+			@supports not selector(::-webkit-scrollbar) {
+				* {
+					scrollbar-color: theme("colors.primary") transparent;
+					scrollbar-width: thin;
+				}
 			}
 		</style>
 	</body>
