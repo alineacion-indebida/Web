@@ -29,8 +29,8 @@ export const manifest: Partial<ManifestOptions> = {
 	short_name: "Alineacion indebida",
 	description:
 		"Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino.",
-	theme_color: "#d5ff00",
-	background_color: "#d5ff00",
+	theme_color: "#f8c409",
+	background_color: "#13151a",
 	display: "fullscreen",
 	icons: [
 		{
