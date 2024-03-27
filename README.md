@@ -8,7 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <a href="https://github.com/adriandpdev/AlineacionIndebida">
-  <img src="./public/img/github/og.jpg" alt="Logo" width="800" />
+  <img src="./public/img/Logo.png" alt="Logo" width="800" />
 </a>
 
 ## Web oficial de Alineación indebida
