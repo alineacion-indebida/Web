@@ -21,7 +21,6 @@ type PostType = {
 
 const { posts } = Astro.props
 const formatDate = {
-	year: "numeric",
 	month: "long",
 	day: "numeric",
 }
@@ -49,7 +48,7 @@ const formatDate = {
 					)}
 				</div>
 				<div class="w-full">
-					<div class="flex flex-wrap items-center justify-between gap-x-4 text-xs text-white w-full">
+					<div class="flex flex-wrap items-center justify-between gap-x-2 text-xs text-white w-full">
 						<FormattedDate date={post.data.date} format={formatDate} />
 						{post.data.categorias.slice(0, 1).map((item) => (
 							<a
