@@ -2,7 +2,6 @@
 import HomeNews from "@/components/HomeNews.astro"
 import VideosHome from "@/components/VideosHome.astro"
 import { videos } from "@/data/videos"
-import Patrocinadores from "@/sections/Patrocinadores.astro"
 import { getCollection } from "astro:content"
 
 const allPosts = await getCollection("noticias")
@@ -21,7 +20,6 @@ const lastVideos = videos.sort((a, b) => b.id - a.id).slice(0, 3)
 	</div>
 	<HomeNews posts={formattedPosts} />
 	<VideosHome videos={lastVideos} />
-	<Patrocinadores />
 </section>
 <style>
 	.text-gradient {
