@@ -1,7 +1,7 @@
 ---
 import HamburgerButton from "@/components/HamburgerButton.astro"
-import HeroLogo from "@/components/HeroLogo.astro"
 import HomeLogo from "@/components/HomeLogo.astro"
+import LogoAI from "@/components/LogoAI.astro"
 import Footer from "@/sections/Footer.astro"
 
 const pages = [
@@ -9,12 +9,10 @@ const pages = [
 	{ name: "CRÓNICAS", href: "/cronicas" },
 	{ name: "VÍDEOS", href: "/videos" },
 	{ name: "QUIÉNES SOMOS", href: "/quienes-somos/" },
-].map((page) => 
-	({
-		...page,
-		active: Astro.url.pathname.replaceAll("/","") == page.href,
-	})
-)
+].map((page) => ({
+	...page,
+	active: Astro.url.pathname.replaceAll("/", "") == page.href.replaceAll("/", ""),
+}))
 ---
 
 <header class="mb-10 h-16 max-w-[100vw] lg:h-24">
@@ -76,9 +74,13 @@ const pages = [
 		</div>
 	</nav>
 	<div class="relative flex h-2 w-full flex-col items-center">
-		<div class="absolute flex h-full w-full items-center">
+		<div class="gridBottomBarContainer absolute grid h-full w-full items-center justify-between">
 			<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
-			<HeroLogo class:list={"z-10 -mx-2 h-60 w-auto lg:-ml-5 lg:h-80"} noEffect />
+			<div class="-ml-[8px] -mr-[4px]">
+				<a href="/">
+					<LogoAI class:list={"h-auto w-full"} id="program-logo-header" noEffect />
+				</a>
+			</div>
 			<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
 		</div>
 	</div>
