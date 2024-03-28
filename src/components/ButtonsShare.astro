@@ -1,0 +1,33 @@
+---
+import Action from "@/components/ActionShare.astro"
+import TelegramIcon from "@/icons/Telegram.astro"
+import WhatsappIcon from "@/icons/Whatsapp.astro"
+import XIcon from "@/icons/X.astro"
+
+const { title, url } = Astro.props
+---
+
+<div class="grid grid-cols-3 gap-x-1 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+	<Action
+		class="mt-2 bg-[#000000] text-center"
+		href={`https://twitter.com/intent/tweet?text=${title}.%0A%0AVer%20completo%20en%20%40a_indebida12&url=${url}`}
+		aria-label="Compartir en X"
+		as="a"
+	>
+		<XIcon class="inline h-6 w-6 align-text-bottom" />
+		<span class="hidden lg:inline"> Compartir en X </span>
+	</Action>
+	<Action
+		class="mt-2 bg-[#075E54] text-center"
+		href={`https://api.whatsapp.com/send?text=${title}.%0A%0AVer%20completo%20en%20${url}`}
+		aria-label="Compartir en Whatsapp"
+		as="a"
+	>
+		<WhatsappIcon class="inline h-7 w-7 align-text-bottom" />
+		<span class="hidden lg:inline"> Compartir en Whatsapp </span>
+	</Action>
+	<Action class="mt-2 bg-[#24A1DE] text-center" href={`https://t.me/share?url=${url}&text=%0A${title}`} aria-label="Compartir en Telegram" as="a">
+		<TelegramIcon class="inline h-7 w-7 align-text-bottom" />
+		<span class="hidden lg:inline"> Compartir en Telegram </span>
+	</Action>
+</div>

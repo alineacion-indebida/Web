@@ -1,12 +1,9 @@
 ---
-import Layout from "@/layouts/Layout.astro"
-import Action from "@/components/ActionShare.astro"
-import WhatsappIcon from "@/icons/Whatsapp.astro"
-import TelegramIcon from "@/icons/Telegram.astro"
-import XIcon from "@/icons/X.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
-import { Image } from "astro:assets"
+import Layout from "@/layouts/Layout.astro"
 import { slugify } from "@/utils/slug"
+import { Image } from "astro:assets"
+import ButtonsShare from "./ButtonsShare.astro"
 
 const { title, description, date, imagen, categorias, tags, autor, slug } = Astro.props
 const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
@@ -23,74 +20,43 @@ const formatDate = {
 			{
 				imagen && (
 					<figure class="h-auto w-auto object-cover md:h-[480px]">
-						<Image
-							class="transition duration-300 ease-in-out"
-							src={imagen}
-							alt={title}
-							width={960}
-							height={480}
-							decoding="async"
-							loading="lazy"
-						/>
+						<Image class="transition duration-300 ease-in-out" src={imagen} alt={title} width={960} height={480} decoding="async" loading="lazy" />
 					</figure>
 				)
 			}
 		</div>
 		<div class="md:col-10 mb-4 mt-4">
 			<h1 class="text-2xl font-bold md:text-4xl">{title}</h1>
-			<div
-				class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200"
-			>
+			<div class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200">
 				<div class="mt-2 flex flex-wrap items-center font-medium">
 					<figure>
-						<Image
-							alt="author.name"
-							class="mr-2 h-6 w-6 rounded-full"
-							width={50}
-							height={50}
-							src="/img/Logo.svg"
-							decoding="async"
-							loading="lazy"
-						/>
+						<Image alt="author.name" class="mr-2 h-6 w-6 rounded-full" width={50} height={50} src="/img/Logo.svg" decoding="async" loading="lazy" />
 					</figure>
 					<span>{autor}</span>
 				</div>
 				<div class="mt-2 flex flex-wrap items-center font-medium">
-					<FormattedDate date={date} format={formatDate}/>
+					<FormattedDate date={date} format={formatDate} />
 				</div>
 			</div>
 		</div>
-		<div class="grid grid-cols-1 gap-x-1 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-			<Action class="mt-2 text-center bg-[#000000] " href={`https://twitter.com/intent/tweet?text=${title}.%0A%0AVer%20completo%20en%20%40a_indebida12&url=${url}${slug}`} aria-label="Compartir en X" as="a">
-				<XIcon class="inline align-text-bottom h-6 w-6"/> Compartir en X
-			</Action>
-			<Action class="mt-2 text-center bg-[#075E54] " href={`https://api.whatsapp.com/send?text=${title}.%0A%0AVer%20completo%20en%20${url}${slug}`} aria-label="Compartir en Whatsapp" as="a">
-				<WhatsappIcon class="inline align-text-bottom h-7 w-7"/> Compartir en Whatsapp
-			</Action>
-			<Action class="mt-2 text-center bg-[#24A1DE]" href={`https://t.me/share?url=${url}${slug}&text=%0A${title}`} aria-label="Compartir en Telegram" as="a">
-				<TelegramIcon class="inline align-text-bottom h-7 w-7"/> Compartir en Telegram
-			</Action>
-		</div>
-		<div class="prose-md prose prose-invert min-w-full md:prose-lg mt-4">
+		<ButtonsShare title={title} url={`${url}${slug}`} />
+		<div class="prose-md prose prose-invert mt-4 min-w-full md:prose-lg">
 			<slot />
 		</div>
 		<div class="text-text mt-4 flex flex-wrap text-zinc-300">
 			{
-				categorias?.slice(0, 1).map((categoria:any) => (
-					<a
-						href={`/categorias/${slugify(categoria)}`}
-						class="mr-2 font-medium capitalize hover:text-accent"
-					>
+				categorias?.slice(0, 1).map((categoria: any) => (
+					<a href={`/categorias/${slugify(categoria)}`} class="mr-2 font-medium capitalize hover:text-accent">
 						{categoria}
 					</a>
 				))
 			}
 			|
 			{
-				tags?.map((tag:any) => (
+				tags?.map((tag: any) => (
 					<a
 						href={`/tags/${slugify(tag)}`}
-						class="ml-2 inline-block rounded-full px-3 py-1 text-sm font-semibold capitalize bg-zinc-900 text-zinc-400 hover:bg-zinc-50 hover:text-zinc-900"
+						class="ml-2 inline-block rounded-full bg-zinc-900 px-3 py-1 text-sm font-semibold capitalize text-zinc-400 hover:bg-zinc-50 hover:text-zinc-900"
 					>
 						#{tag}
 					</a>
