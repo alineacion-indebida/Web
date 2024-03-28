@@ -38,7 +38,7 @@ const { title, description, image } = Astro.props
 	<body class="selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary">
 		<Header />
 		<div class="mx-auto max-w-6xl pt-6 selection:bg-primary selection:text-secondary md:pt-8 lg:pt-12 lg:px-10" id="main-content">
-			<main>
+			<main class="m-auto p-4 max-w-[960px] mw-full text-white text-xl leading-7">
 				<slot />
 			</main>
 			<Footer />
@@ -74,13 +74,7 @@ const { title, description, image } = Astro.props
 			}
 
 			main {
-				margin: auto;
-				padding: 1rem;
-				width: 960px;
-				max-width: 100%;
-				color: white;
-				font-size: 20px;
-				line-height: 1.6;
+				
 			}
 
 			.sr-only:not(:focus):not(:active) {

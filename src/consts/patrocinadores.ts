@@ -50,6 +50,16 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 		svg: false
 	},
 	{
+		id: "LiliCook",
+		name: "LiliCook Gastrobar",
+		url: "https://www.lilicook.es/",
+		image: {
+			width: 133,
+			height: 38,
+		},
+		svg: false
+	},
+	{
 		id: "Osdama",
 		name: "Osdama",
 		url: "https://www.instagram.com/osdama_salamanca/",
@@ -83,16 +93,6 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 		id: "Fantasmas",
 		name: "Fantasmas en el desvan",
 		url: "https://fantasmaseneldesvan.com/",
-		image: {
-			width: 133,
-			height: 38,
-		},
-		svg: false
-	},
-	{
-		id: "LiliCook",
-		name: "LiliCook Gastrobar",
-		url: "https://www.lilicook.es/",
 		image: {
 			width: 133,
 			height: 38,
