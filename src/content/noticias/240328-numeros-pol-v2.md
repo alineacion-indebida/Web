@@ -1,6 +1,6 @@
 ---
 date: '2024-03-28T20:00:00.000+01:00'
-title: 'SDL Unionistas - Los numeros de Pol'
+title: 'Unionistas Logroñes - Los numeros de Pol'
 description: 'Los numeros de Pol. Primera federación grupo 1, jornada 30.'
 imagen: '/img/noticias/numeros-pol.webp'
 categorias: ['Primera federación']
