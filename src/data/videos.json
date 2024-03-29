@@ -4,25 +4,25 @@
       "id": 1,
       "slug": "Fu39FN3I-n4",
       "title": "Entrevista Rubén Ándres",
-      "image": "/yt-mini/Fu39FN3I-n4.jpg"
+      "image": "/yt-mini/Fu39FN3I-n4.webp"
     },
     {
       "id": 2,
       "slug": "3AGnUA5ml_0",
       "title": "La pizarra indebida J27 vs CD Lugo",
-      "image": "/yt-mini/3AGnUA5ml_0.jpg"
+      "image": "/yt-mini/3AGnUA5ml_0.webp"
     },
     {
       "id": 3,
       "slug": "AAT9XIWBD7A",
       "title": "Programa 102 - Postpartido Lugo",
-      "image": "/yt-mini/AAT9XIWBD7A.jpg"
+      "image": "/yt-mini/AAT9XIWBD7A.webp"
     },
     {
       "id": 4,
       "slug": "MLWUeD3LYcI",
       "title": "Programa 103 - Postpartido Osasuna Promesas",
-      "image": "/yt-mini/MLWUeD3LYcI.jpg"
+      "image": "/yt-mini/MLWUeD3LYcI.webp"
     },
     {
       "id": 5,
@@ -35,6 +35,12 @@
       "slug": "CUiDQowsKlQ",
       "title": "Programa 104 - Postpartido Nastic Tarragona",
       "image": "/yt-mini/CUiDQowsKlQ.webp"
+    },
+    {
+      "id": 7,
+      "slug": "5Dh0RGx4Wt0",
+      "title": "La pizarra indebida J29 vs SD Logroñes",
+      "image": "/yt-mini/5Dh0RGx4Wt0.webp"
     }
   ]
 }
