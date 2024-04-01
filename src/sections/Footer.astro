@@ -3,27 +3,22 @@ import Typography from "@/components/Typography.astro"
 import Patrocinadores from "@/sections/Patrocinadores.astro"
 
 import XIcon from "@/icons/X.astro"
-import TwitchIcon from "@/icons/twitch.astro"
 import InstagramIcon from "@/icons/instagram.astro"
+import TwitchIcon from "@/icons/twitch.astro"
 ---
 
 <Patrocinadores />
-<footer
-	class="mt-20 px-4 flex w-full flex-col place-items-center border-t-2 border-primary pb-20 pt-6 md:flex-row md:justify-between"
->
-	<Typography as="span" variant="body" color="neutral" class:list={"text-center"}>
-		&copy; {new Date().getFullYear()} Alineación indebida <span
+<footer class="mt-20 flex w-full flex-col place-items-center border-t-2 border-primary pb-20 pt-6 md:flex-row md:justify-between">
+	<Typography as="span" variant="body" color="neutral" class:list={"px-4 text-center"}>
+		&copy; {new Date().getFullYear()} Alineación indebida <span aria-hidden="true" class="hidden md:inline">|</span><br
 			aria-hidden="true"
-			class="hidden md:inline">|</span
-		><br aria-hidden="true" class="block md:hidden" /> Todos los derechos reservados.
+			class="block md:hidden"
+		/> Todos los derechos reservados.
 	</Typography>
 	<span aria-hidden="true" class="my-6 w-full border-t-2 border-primary pt-6 md:hidden"></span>
 
 	<nav>
-		<ul
-			class="flex flex-row items-center gap-x-6"
-			aria-label="redes sociales y botón para alternar tema"
-		>
+		<ul class="flex flex-row items-center gap-x-6 px-4" aria-label="redes sociales y botón para alternar tema">
 			<li>
 				<a
 					target="_blank"
