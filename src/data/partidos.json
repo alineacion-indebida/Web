@@ -19,6 +19,16 @@
       "local": true,
       "rival": "Sociedad Deportiva Logroñes",
       "estadio": "Municipal Reina Sofía"
+    },
+    {
+      "id": 3,
+      "slug": "2324-depor-unionistas",
+      "imagen": "/img/noticias/depor-unionistas-23.webp",
+      "date": "2024-04-07T17:00:00.000+01:00",
+      "jornada": "31",
+      "local": false,
+      "rival": "Real Club Deportivo de La Coruña ",
+      "estadio": "Abanca Riazor"
     }
   ]
 }
