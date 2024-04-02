@@ -1,0 +1,22 @@
+---
+import Layout from "@/layouts/Layout.astro"
+import TextoInfoPartido from "@/components/TextoInfoPartido.astro"
+import { partidosMap } from "@/data/partidos"
+
+export const prerender = false
+
+const slug = Astro.params.slug
+var partido: any
+if (slug && partidosMap.has(slug)) {
+	partido = partidosMap.get(slug)
+} else {
+	return Astro.redirect("/404")
+}
+---
+
+<Layout
+	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
+	title="Partidos de Unionistas de Salamanca - Alineación indebida"
+>   
+    <TextoInfoPartido {...partido} />
+</Layout>

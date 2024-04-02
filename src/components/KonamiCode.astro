@@ -1,0 +1,38 @@
+<script>
+	const container = document.querySelector("#main-content") as HTMLDivElement
+
+	const konamiCode = [
+		"ArrowUp",
+		"ArrowUp",
+		"ArrowDown",
+		"ArrowDown",
+		"ArrowLeft",
+		"ArrowRight",
+		"ArrowLeft",
+		"ArrowRight",
+		"b",
+		"a",
+	]
+	let konamiCodePosition = 0
+
+	document.addEventListener("keydown", ({ key }) => {
+		const requiredKey = konamiCode[konamiCodePosition]
+
+		if (key !== requiredKey) {
+			konamiCodePosition = 0
+			return
+		}
+
+		konamiCodePosition++
+
+		container.style.transition = "none"
+		container.style.transform = "none"
+
+		if (konamiCodePosition !== konamiCode.length) return
+
+		container.style.transform = "rotateY(360deg)"
+		container.style.transition = "transform 4s ease"
+
+		konamiCodePosition = 0
+	})
+</script>

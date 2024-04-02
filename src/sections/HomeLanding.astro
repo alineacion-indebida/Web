@@ -1,0 +1,41 @@
+---
+import HomeNews from "@/components/HomeNews.astro"
+import VideosHome from "@/components/VideosHome.astro"
+import { videos } from "@/data/videos"
+import { getCollection } from "astro:content"
+
+const allPosts = await getCollection("noticias")
+const formattedPosts = allPosts.sort((a, b) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime())
+const lastVideos = videos.sort((a, b) => b.id - a.id).slice(0, 3)
+---
+
+<section class="overflow-x-hidden">
+	<div class="relative">
+		<div class="flex flex-col items-center">
+			<h1 class="mb-4 text-center text-5xl font-bold">
+				<span class="text-gradient">Alineación indebida</span>
+			</h1>
+			<h2 class="mb-4 text-center text-2xl font-bold">Pasión por el deporte</h2>
+		</div>
+	</div>
+	<HomeNews posts={formattedPosts} />
+	<VideosHome videos={lastVideos} />
+</section>
+<style>
+	.text-gradient {
+		background-image: var(--color-accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-size: 400%;
+		background-position: 0%;
+	}
+	strong {
+		color: var(--color-accent-light);
+	}
+	.link-card-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		gap: 2rem;
+		padding: 0;
+	}
+</style>

@@ -1,0 +1,84 @@
+---
+import PatrocinadorLogo from "@/components/PatrocinadorLogo.astro"
+import PatrocinadorLogoImg from "@/components/PatrocinadorLogoImg.astro"
+import Typography from "@/components/Typography.astro"
+import { PatrocinadoresList } from "@/consts/patrocinadores"
+---
+
+<section class="mt-16 px-4">
+	<Typography as="h3" variant="h3" color="white" class:list={"text-center"}> Gracias a nuestros patrocinadores </Typography>
+	<div class="mt-4 grid select-none grid-cols-4 gap-2 md:gap-8">
+		{
+			PatrocinadoresList.map(({ id, name, url, image, svg }) => (
+				<a
+					class="company-link group relative flex h-24 items-center justify-center overflow-hidden md:h-32"
+					title={`Visita la página del patrocinador ${name}`}
+					href={url}
+					target="_blank"
+					rel="noopener noreferrer"
+					aria-label={`Link con el logo de ${name} que lleva a ${url}`}
+				>
+					{svg ? (
+						<PatrocinadorLogo
+							logo={id}
+							width={image.width}
+							height={image.height}
+							class:list={["company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"]}
+						/>
+					) : (
+						<PatrocinadorLogoImg
+							logo={id}
+							width={image.width}
+							height={image.height}
+							class:list={["company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"]}
+						/>
+					)}
+				</a>
+			))
+		}
+	</div>
+</section>
+<style>
+	.company-link {
+		background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1) 0%, transparent 100%);
+		transition: all 0.5s ease;
+	}
+
+	.company-link::before {
+		content: "";
+		position: absolute;
+		inset: 0;
+		display: block;
+		background: linear-gradient(to bottom, rgba(255, 255, 255, 0.2) 0%, transparent);
+		opacity: 0;
+		height: 50%;
+		transition:
+			opacity 0.2s ease-in-out,
+			height 0.2s ease-in-out;
+	}
+
+	@media (prefers-reduced-motion) {
+		.company-link::before {
+			transition: none;
+		}
+	}
+
+	.company-link:hover::before,
+	.company-link:focus::before {
+		opacity: 0.8;
+		height: 90%;
+		box-shadow: 0 -4px 3px rgba(50, 50, 50, 0.75);
+	}
+
+	.company-link:hover .company-logo,
+	.company-link:focus .company-logo {
+		transform: scale(1.1);
+	}
+
+	@media (prefers-reduced-motion) {
+		.company-link:hover .company-logo,
+		.company-link:focus .company-logo {
+			transform: scale(1);
+		}
+	}
+</style>

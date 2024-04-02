@@ -1,0 +1,30 @@
+---
+import type { HTMLAttributes } from "astro/types"
+import { Image } from "astro:assets"
+
+import type { PatrocinadorId } from "@/consts/patrocinadores-logo-catalog"
+
+interface Props extends HTMLAttributes<"img"> {
+	/**
+	 * Additional CSS class to be applied to the SVG element.
+	 */
+	class?: string
+
+	/**
+	 * The logo to display.
+	 */
+	logo: PatrocinadorId
+}
+
+const { logo = "patrocinador" } = Astro.props
+---
+
+<Image
+	class="transition duration-300 ease-in-out hover:scale-110"
+	src={`/img/patrocinadores/${logo}.webp`}
+	alt={"title"}
+	width={960}
+	height={480}
+	decoding="async"
+	loading="lazy"
+/>

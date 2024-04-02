@@ -1,0 +1,80 @@
+---
+import jost from "@fontsource-variable/jost/files/jost-latin-wght-normal.woff2"
+import RichResults from "@/components/RichResults.astro"
+import GTag from "@/components/GTag.astro"
+
+interface Props {
+	title: string
+	description: string
+	preload?: Array<{
+		as: string
+		href: string
+		type: string
+	}>
+	canonical?: string
+	image?: string
+}
+
+const { title, description, preload, canonical, image = "/img/og.jpg" } = Astro.props as Props
+
+const canonicalURL = canonical
+	? new URL(canonical, Astro.site)
+	: new URL(Astro.url.pathname, Astro.site)
+---
+
+<title>{title}</title>
+
+<meta charset="UTF-8" />
+<meta name="description" content={description} />
+
+<link rel="preload" href={jost} as="font" type="font/woff2" crossorigin />
+
+{
+	preload?.map(({ href, as, type }) => (
+		<link rel="preload" href={href} as={as} type={type} crossorigin />
+	))
+}
+
+<link rel="canonical" href={canonicalURL} />
+<meta name="viewport" content="width=device-width" />
+<meta name="theme-color" content="#13151a" />
+
+<meta name="keywords" content="fútbol, unionistas, salamanca, primera federación, directo, programa, entrevista" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@a_indebida12" />
+<meta name="twitter:creator" content="@a_indebida12" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={new URL(image, Astro.url)} />
+
+<meta name="og:image" content={new URL(image, Astro.url)} />
+<meta name="og:title" content={title} />
+<meta name="og:description" content={description} />
+<meta name="og:url" content={Astro.url} />
+<meta name="og:site_name" content="Alineación Indebida" />
+<meta name="og:type" content="website" />
+<meta name="og:locale" content="es_ES" />
+
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+
+<link rel="icon" href="/img/icons/favicon.ico" sizes="32x32" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="apple-touch-icon" href="/img/icons/apple-touch-icon.png" />
+<link rel="manifest" href="/manifest.webmanifest" />
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<meta name="msapplication-config" content="/browserconfig.xml" />
+
+{
+	!import.meta.env.DEV && (
+		<>
+			<script is:inline src="/registerSW.js" />
+			<link rel="manifest" href="/manifest.webmanifest" />
+		</>
+	)
+}
+
+<RichResults />
+<GTag />

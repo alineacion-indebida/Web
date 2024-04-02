@@ -1,0 +1,63 @@
+---
+import Card from "@/components/Card.astro"
+
+
+---
+
+<section class="overflow-x-hidden">
+	<div class="relative">
+		<div class="flex flex-col items-center">
+			<h1 class="mb-4 mt-6 text-center text-5xl font-bold">
+				<span class="text-gradient">Alineación indebida</span>
+			</h1>
+			<h2 class="mb-4 text-center text-2xl font-bold">Pasión por el deporte</h2>
+		</div>
+	</div>
+	<p
+		class="mb-8 rounded-lg border border-accent bg-gradient-to-tr from-[#dfb008a8] to-[#dfb00854] p-6"
+	>
+		<strong>Próximamente,</strong> la mejor información de <strong>Unionistas de Salamanca</strong
+		><br />
+		y de todo el deporte salmantino.
+	</p>
+	<ul role="list" class="link-card-grid mb-10">
+		<Card
+			href="https://twitch.com/alineacionindebida/"
+			title="Retrasmisiones"
+			body="En directo, a través de nuestro canal de twitch."
+		/>
+		<Card
+			href="https://twitch.com/alineacionindebida/"
+			title="Programa semanal"
+			body="Todos los lunes, a las 21.30, en directo con el mejor análisis de la jornada."
+		/>
+		<Card
+			href="https://www.youtube.com/@alineacionindebida3567"
+			title="Entrevistas"
+			body="Con la actualidad, los protagonistas y ganadores de la ciudad."
+		/>
+		<Card
+			href="https://www.youtube.com/@alineacionindebida3567"
+			title="Información"
+			body="Con un equipo inmejorable."
+		/>
+	</ul>
+</section>
+<style>
+	.text-gradient {
+		background-image: var(--color-accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-size: 400%;
+		background-position: 0%;
+	}
+	strong {
+		color: var(--color-accent-light);
+	}
+	.link-card-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		gap: 2rem;
+		padding: 0;
+	}
+</style>

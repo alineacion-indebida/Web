@@ -1,0 +1,73 @@
+---
+import FormattedDate from "@/components/FormattedDate.astro"
+import { slugify } from "@/utils/slug"
+import { Image } from "astro:assets"
+
+const { posts } = Astro.props
+const formatDate = {
+	year: "numeric",
+	month: "long",
+	day: "numeric",
+}
+
+interface PostType {
+	id: string
+	slug: string
+	body: string
+	collection: string
+	data: {
+		date: Date
+		title: string
+		description: string
+		imagen: string
+		categorias: string[]
+		tags: string[]
+		autor: string
+	}
+}
+---
+
+<div class="mx-auto grid grid-cols-1 gap-x-8 gap-y-16 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+	{
+		posts?.slice(0, 9).map((post: PostType) => (
+			<article class="flex w-full flex-col items-start">
+				<div class="mb-4 block overflow-hidden rounded-lg">
+					{post.data.imagen && (
+						<a href={`/noticias/${post.slug}/`}>
+							<figure class="h-auto w-auto object-cover md:h-[150px]">
+								<Image
+									class="transition duration-300 ease-in-out hover:scale-110"
+									src={post.data.imagen}
+									alt={post.data.title}
+									width={960}
+									height={480}
+									decoding="async"
+									loading="lazy"
+								/>
+							</figure>
+						</a>
+					)}
+				</div>
+				<div class="flex items-center gap-x-4 text-xs text-white">
+					<FormattedDate date={post.data.date} format={formatDate} />
+					{post.data.categorias.slice(0, 2).map((item) => (
+						<a
+							href={`/categorias/${slugify(item)}`}
+							class="text-md relative rounded-full px-3 py-1.5 font-medium capitalize hover:bg-zinc-50 bg-zinc-900 text-zinc-400"
+						>
+							{item}
+						</a>
+					))}
+				</div>
+				<div class="relative">
+					<h2 class="mt-3 text-xl font-semibold leading-6 group-hover:text-zinc-600 text-white">
+						<a href={`/noticias/${post.slug}/`}>
+							{post.data.title}
+						</a>
+					</h2>
+					<p class="mt-5 line-clamp-3 text-sm leading-6 text-white">{post.data.description}</p>
+				</div>
+			</article>
+		))
+	}
+</div>

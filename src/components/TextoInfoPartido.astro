@@ -1,0 +1,70 @@
+---
+import FormattedDate from "@/components/FormattedDate.astro"
+import FormattedTime from "@/components/FormattedTime.astro"
+import { Image } from "astro:assets"
+import ButtonsShare from "./ButtonsShare.astro"
+
+const { rival, estadio, jornada, date, local, imagen, slug } = Astro.props
+const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
+const partido = (local ? "Unionistas de Salamanca" : rival).concat(" - ").concat(local ? rival : "Unionistas de Salamanca")
+const formatDate = {
+	weekday: "long",
+	month: "long",
+	day: "numeric",
+}
+const formatDayWeek = {
+	weekday: "long",
+}
+const formatHour = {
+	hour: "numeric",
+	minute: "numeric",
+}
+---
+
+<article>
+	<div class="my- block overflow-hidden rounded-lg">
+		{
+			imagen && (
+				<figure class="h-auto w-auto object-cover md:h-[480px]">
+					<Image class="transition duration-300 ease-in-out" src={imagen} alt={partido} width={960} height={480} decoding="async" loading="lazy" />
+				</figure>
+			)
+		}
+	</div>
+	<div class="md:col-10 my-4">
+		<h1 class="text-2xl font-bold md:text-4xl">{partido}</h1>
+		<div class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200">
+			<div class="mt-2 flex flex-wrap items-center font-medium">
+				<figure>
+					<Image alt="author.name" class="mr-2 h-6 w-6 rounded-full" width={50} height={50} src="/img/Logo.svg" decoding="async" loading="lazy" />
+				</figure>
+				<span>Alineación indebida</span>
+			</div>
+		</div>
+	</div>
+	<div class="prose-md prose prose-invert mt-4 min-w-full md:prose-lg">
+		<p>
+			Unionistas de Salamanca se enfrentará este <FormattedDate date={date} format={formatDayWeek} /> en el Estadio {estadio} ante el
+			{rival} a las <FormattedTime date={date} format={formatHour} /> en un nuevo partido correspondiente a la jornada
+			{jornada} del grupo I de Primera RFEF.
+		</p>
+		<h3>Dónde seguir en directo el {partido}</h3>
+		<p>
+			El partido de {partido} se emitirá hoy en directo en FEF TV, provedor oficial de la primera federación. En Alineación Indebida te narramos el encuentro
+			desde nuestro canal de twitch
+		</p>
+		<h3>Horario del {partido}</h3>
+		<p>
+			Unionistas de Salamanca se enfrenta al {rival} en el partido correspondiente a la jornada {jornada}
+			de la Primera Federación desde las <FormattedTime date={date} format={formatHour} /> horas el <FormattedDate date={date} format={formatDate} />.
+		</p>
+		<h3>Dónde se juega el {partido}</h3>
+		<p>
+			El Estadio {estadio} acoge este <FormattedDate date={date} format={formatDate} /> desde las <FormattedTime date={date} format={formatHour} /> horas
+			(horario peninsular) el encuentro correspondiente a la jornada {jornada} del Grupo I de la Primera Federación entre Unionistas de Salamanca y {
+				rival
+			}.
+		</p>
+	</div>
+	<ButtonsShare tite={partido} url={`${url}${slug}`} />
+</article>

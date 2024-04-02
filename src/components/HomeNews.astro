@@ -1,0 +1,24 @@
+---
+import PostFirst from "@/components/PostFirst.astro"
+import PostList from "@/components/PostList.astro"
+
+const { posts } = Astro.props
+---
+
+{
+	posts && (
+		<>
+			<PostFirst post={posts[0]} />
+			<PostList posts={posts?.slice(1, 9)} />
+			<div class="mt-8 flex flex-col items-center">
+				<a
+					class="inline-block skew-x-[-0deg] cursor-pointer border-2 border-primary px-5 py-2.5 text-lg font-semibold uppercase ease-in before:absolute before:-inset-0.5 before:origin-right before:scale-x-0 before:bg-primary hover:scale-110 hover:text-secondary hover:before:origin-left hover:before:scale-x-100 aria-disabled:pointer-events-none aria-disabled:border-[#666] aria-disabled:bg-[#666] aria-disabled:text-[#111] motion-safe:transition-[color,transform] motion-safe:before:transition-transform motion-safe:before:duration-300 motion-safe:before:ease-in motion-safe:hover:delay-100 motion-safe:hover:ease-out motion-safe:hover:before:delay-100 motion-safe:hover:before:ease-out"
+					href="/noticias/"
+					aria-label="ver todas las noticias"
+				>
+					<span class="inline-block skew-x-[0deg]"> Ver más </span>
+				</a>
+			</div>
+		</>
+	)
+}

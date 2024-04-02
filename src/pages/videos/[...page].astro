@@ -1,0 +1,23 @@
+---
+import Layout from "@/layouts/Layout.astro"
+import Video from "@/components/Video.astro"
+
+import { videos } from "@/data/videos"
+
+export async function getStaticPaths({ paginate }:any) {
+	const formattedPosts = videos
+	videos.sort((a, b) => b.id - a.id)
+	return paginate(formattedPosts, {
+		pageSize: 6,
+	})
+}
+const { page } = Astro.props
+---
+
+<Layout
+	description="Últimos vídeos del programa Alineación Indebida."
+	title="Últimas vídeos - Alineación indebida"
+>
+	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Últimos vídeos</h1>
+	<Video videos={page["data"]} />
+</Layout>

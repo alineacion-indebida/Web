@@ -1,0 +1,124 @@
+---
+import "@fontsource-variable/jost"
+import SpeedInsights from "@vercel/speed-insights/astro"
+import { ViewTransitions } from "astro:transitions"
+
+import ButtonUp from "@/components/ButtonUp.astro"
+import KonamiCode from "@/components/KonamiCode.astro"
+import SEO from "@/components/SEO.astro"
+
+import Footer from "@/sections/Footer.astro"
+import Header from "@/sections/Header.astro"
+
+interface Props {
+	title: string
+	description: string
+	preload?: Array<{
+		as: string
+		href: string
+		type: string
+		rel?: "preload" | "prefetch"
+		crossorigin?: string
+	}>
+	canonical?: string
+	image?: string
+}
+
+const { title, description, image } = Astro.props
+---
+
+<!doctype html>
+<html lang="es">
+	<head>
+		<SEO title={title} description={description} image={image} />
+		<ViewTransitions />
+		<SpeedInsights />
+	</head>
+
+	<body class="selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary">
+		<Header />
+		<div class="mx-auto max-w-6xl pt-6 selection:bg-primary selection:text-secondary md:pt-8 lg:pt-12 lg:px-10" id="main-content">
+			<main class="m-auto p-4 max-w-[960px] mw-full text-white text-xl leading-7">
+				<slot />
+			</main>
+			<Footer />
+			<KonamiCode />
+		</div>
+		<ButtonUp />
+		<style is:global>
+			:root {
+				--color-primary: #ddd;
+				--color-secondary: #333;
+				--color-accent: #f8c409;
+				--color-accent-light: #fded8b;
+				--color-accent-dark: #a05f08;
+				--color-accent-gradient: linear-gradient(45deg, var(--color-accent), var(--color-accent-light) 30%, white 60%);
+
+				--background-color: #13151a;
+				--background-twitch: var(--color-twitch-ice);
+
+				--color-twitch: #9146ff;
+				--color-twitch-ice: #f0f0ff;
+			}
+
+			@font-face {
+				font-family: Atomic;
+				font-display: swap;
+				src: url("/fonts/atomic.woff2") format("woff2");
+			}
+
+			html {
+				font-family: "Jost Variable", system-ui, sans-serif;
+				background: var(--background-color);
+				background-size: 224px;
+			}
+
+			main {
+				
+			}
+
+			.sr-only:not(:focus):not(:active) {
+				clip: rect(0 0 0 0);
+				clip-path: inset(50%);
+				height: 1px;
+				overflow: hidden;
+				position: absolute;
+				white-space: nowrap;
+				width: 1px;
+			}
+
+			@supports selector(::-webkit-scrollbar) {
+				::-webkit-scrollbar {
+					width: 10px;
+					border-radius: 10px;
+				}
+
+				::-webkit-scrollbar-thumb {
+					border-radius: 10px;
+					background-color: theme("colors.primary");
+					border: 2px solid transparent;
+					background-clip: content-box;
+				}
+
+				::-webkit-scrollbar-thumb:active {
+					background-color: #666;
+				}
+
+				::-webkit-scrollbar-track {
+					background: var(--background-image);
+				}
+
+				::-webkit-scrollbar-corner {
+					background: var(--background-image);
+				}
+			}
+
+			@supports not selector(::-webkit-scrollbar) {
+				* {
+					scrollbar-color: theme("colors.primary") transparent;
+					scrollbar-width: thin;
+				}
+			}
+		</style>
+	</body>
+</html>
