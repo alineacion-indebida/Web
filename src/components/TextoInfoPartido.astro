@@ -22,7 +22,7 @@ const formatHour = {
 ---
 
 <article>
-	<div class="my-8 block overflow-hidden rounded-lg">
+	<div class="my- block overflow-hidden rounded-lg">
 		{
 			imagen && (
 				<figure class="h-auto w-auto object-cover md:h-[480px]">
@@ -31,7 +31,7 @@ const formatHour = {
 			)
 		}
 	</div>
-	<div class="md:col-10 mb-4">
+	<div class="md:col-10 my-4">
 		<h1 class="text-2xl font-bold md:text-4xl">{partido}</h1>
 		<div class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200">
 			<div class="mt-2 flex flex-wrap items-center font-medium">
@@ -66,5 +66,5 @@ const formatHour = {
 			}.
 		</p>
 	</div>
-	<ButtonsShare tite={partido} url={`${url}${slug}`}/>
+	<ButtonsShare tite={partido} url={`${url}${slug}`} />
 </article>

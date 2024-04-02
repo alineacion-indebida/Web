@@ -2,7 +2,7 @@
 date: '2024-03-31T17:00:00.000+01:00'
 title: 'Ganar y merecer no riman necesariamente'
 description: 'La firma de Miguel Ontiyuelo sobre el partido de Unionistas contra SD Logroñés. Primera federación grupo 1, jornada 30'
-imagen: '/img/noticias/primerafed.webp'
+imagen: '/img/noticias/etxaniz.webp'
 categorias: ['La firma']
 autor: 'Miguel Ontiyuelo'
 tags: ['Primera federacion','jornada 30','grupo 1', 'SD Logroñes']
