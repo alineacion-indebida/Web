@@ -18,7 +18,7 @@ La fiesta del fútbol popular, se encontraban en sus caminos ligeros Unionistas 
 
 Volviendo a la fiesta del fútbol popular, los dos máximos exponentes de la gestión de su deporte a través de sus socios/dueños, fue un éxito. Participación masiva, algarabía por toneladas y mucha fraternidad por ambas partes, volviendo a demostrar que el fútbol es la excusa perfecta para que un puñado de buenos  amigos se encuentren y se lo pasen bien.
 
-El sábado ganó el lema: “Otro fútbol es posible” porque encuadrados en ligas y rivales en lo que prima por encima del resto el caciquismo de los que mandan a su antojo  en “sus” equipos y “sus” competiciones, hay unos cuantos locos románticos que trabajan con humildad e ilusión por hacer ver al mundo, a través del fútbol, que una de las cosas más bonitas que puede haber en esta vida es sentirte unido con lo que haces, sentirte propietario de algo que construyes y que participas directamente en su trabajo. 
+El sábado ganó el lema: “Otro fútbol es posible” porque encuadrados en ligas y rivales en lo que prima por encima del resto el caciquismo de los que mandan a su antojo  en “sus” equipos y “sus” competiciones, hay unos cuantos locos románticos que trabajan con humildad e ilusión por hacer ver al mundo, a través del fútbol, que una de las cosas más bonitas que puede haber en esta vida es sentirte unido con lo que haces, sentirte propietario de algo que construyes y que participas directamente en su trabajo.
 
 Y ahí se ganó por  goleada, en el césped ganó Unionistas a una Sociedad Deportiva Logroñés que nunca creyó en sus posibilidades y que se le esfumó un punto en el estertor final del encuentro en una controvertida decisión arbitral.
 
@@ -26,13 +26,13 @@ Larga vida al fútbol popular!!!
 
 ## El día popular - Sr. Fuentes
 
-Y cuando decimos “la gran fiesta del futbol popular” es porque es LA GRAN FIESTA DEL FUTBOL POPULAR! si no, díganme ustedes, a santo de que se organiza un evento entre aficiones de dos equipos separados por (casi) 400 km. Pues por eso, porque nos separa la distancia física pero nos une el amor a una idea, un sentimiento y unos colores (sin distinción ya que todos somos un poco de “la Soci”). 
+Y cuando decimos “la gran fiesta del futbol popular” es porque es LA GRAN FIESTA DEL FUTBOL POPULAR! si no, díganme ustedes, a santo de que se organiza un evento entre aficiones de dos equipos separados por (casi) 400 km. Pues por eso, porque nos separa la distancia física pero nos une el amor a una idea, un sentimiento y unos colores (sin distinción ya que todos somos un poco de “la Soci”).
 
 Una gran paella con sus gambas y todo (ante todo, profesionales), un DJ que amenizo el convite con un revival noventero que los mas viejos del lugar agradecimos enormemente (la música de hoy en día no es música pero ese es otro debate) e incluso hinchables para que los más pequeños no dieran la turra, perdón…lo pasarán bien junto a sus padres! hicieron que el tiempo se pasara volando. Además durante todo lo explicado hubo tiempo de tertulia amigable con unos y otros sin que, atención, nadie levantará la voz!!!
 
-A las 15:00 en punto ponemos rumbo al Reina Sofia tras un tifo y de nuevo se ve por la calle a dos aficiones rivales pero hermanas sin ningún tipo de problema ni incidente a la vista. ¡Será que somos gente….¿normal? 
+A las 15:00 en punto ponemos rumbo al Reina Sofia tras un tifo y de nuevo se ve por la calle a dos aficiones rivales pero hermanas sin ningún tipo de problema ni incidente a la vista. ¡Será que somos gente….¿normal?
 
-Del partido poco o nada que comentar que para eso están los que saben (aunque he de decir que a mi me gustó en lineas generales). Un Unionistas mandón pero sin ideas ni profundidad y una Sociedad Deportiva Logroñés que se veía derrotado (o no victorioso) desde el calentamiento. 
+Del partido poco o nada que comentar que para eso están los que saben (aunque he de decir que a mi me gustó en lineas generales). Un Unionistas mandón pero sin ideas ni profundidad y una Sociedad Deportiva Logroñés que se veía derrotado (o no victorioso) desde el calentamiento.
 
 Y si me permiten, acabaré con lo que me dijo mi hija (que fue una de las que estuvo en los hinchables y en la paella…) al finalizar el partido. “oye papa (así, sin tilde) pues me lo he pasado genial”
 

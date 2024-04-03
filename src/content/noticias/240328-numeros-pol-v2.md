@@ -8,21 +8,21 @@ autor: 'Pol Zakour'
 tags: ['Primera federacion', 'SDL', 'Logroñes', 'Estadísticas']
 ---
 
-Trascendental partido en esta 30ª jornada el que acoge el Reina Sofía para las aspiraciones de ambos equipos con un objetivo a priori diferente, pero con el deseo de volver a engancharse tras una mala dinámica: poder llegar a una Copa del Rey que le queda ahora mismo a 4 puntos al cuadro charro, o a una soñada salvación que también separan en 4 dígitos  al conjunto logroñés. 
+Trascendental partido en esta 30ª jornada el que acoge el Reina Sofía para las aspiraciones de ambos equipos con un objetivo a priori diferente, pero con el deseo de volver a engancharse tras una mala dinámica: poder llegar a una Copa del Rey que le queda ahora mismo a 4 puntos al cuadro charro, o a una soñada salvación que también separan en 4 dígitos  al conjunto logroñés.
 
 ## Volver a recuperar la fortaleza como local
 
-Tras dos derrotas consecutivas en el Reina Sofía, Unionistas de Salamanca deberá volver a luchar por convertir su estadio en un feudo inexpugnable para los rivales. Dos resultados consecutivos en contra que no se producían desde la temporada 2021/2022, cuando el cuadro charro, dirigido por entonces por Dani Mori, caía en sus encuentros como local ante Real Racing por 1-2 y ante Bilbao Athletic por 0-1. El siguiente partido lo empataba sin goles ante Real Valladolid Promesas. 
+Tras dos derrotas consecutivas en el Reina Sofía, Unionistas de Salamanca deberá volver a luchar por convertir su estadio en un feudo inexpugnable para los rivales. Dos resultados consecutivos en contra que no se producían desde la temporada 2021/2022, cuando el cuadro charro, dirigido por entonces por Dani Mori, caía en sus encuentros como local ante Real Racing por 1-2 y ante Bilbao Athletic por 0-1. El siguiente partido lo empataba sin goles ante Real Valladolid Promesas.
 
 Hay que remontarse a la temporada 2019/2020 para ver caer a Unionistas como local en 3 encuentros consecutivos, en una nefasta racha que conllevó la destitución de Roberto Aguirre y los primeros partidos de Jabi Luaces en el banquillo de Las Pistas. 1-2 ante Arenas Club, 0-2 ante Real Unión y 1-4 frente a UD Logroñés son el récord negativo del cuadro charro.
 
 ## Pescar en el mar de dudas
 
-Pese a que si únicamente contáramos los partidos como visitante la SD Logroñés se encontraría fuera de los últimos puestos, cinco encuentros consecutivos sin conocer la victoria fuera de casa hacen que el conjunto dirigido por Aitor Larrazábal se vea sumido en posiciones de descenso. Los goles a favor de los logroñeses como visitante le delatan, siendo el equipo menos goleador del grupo. Todo ello convierte el partido en complicado si enfrente se mide a un conjunto de Dani Ponz que es el segundo conjunto menos goleado en el Reina Sofía, únicamente superado por la Cultural Leonesa. Por tanto, dejar la portería a 0 se convierte en clave. Un dato más: en este 2024, el Logroñés acumula como visitante 2 empates y 4 derrotas, con un bagaje de 8 tantos en contra y tan solo 1 a favor. 
+Pese a que si únicamente contáramos los partidos como visitante la SD Logroñés se encontraría fuera de los últimos puestos, cinco encuentros consecutivos sin conocer la victoria fuera de casa hacen que el conjunto dirigido por Aitor Larrazábal se vea sumido en posiciones de descenso. Los goles a favor de los logroñeses como visitante le delatan, siendo el equipo menos goleador del grupo. Todo ello convierte el partido en complicado si enfrente se mide a un conjunto de Dani Ponz que es el segundo conjunto menos goleado en el Reina Sofía, únicamente superado por la Cultural Leonesa. Por tanto, dejar la portería a 0 se convierte en clave. Un dato más: en este 2024, el Logroñés acumula como visitante 2 empates y 4 derrotas, con un bagaje de 8 tantos en contra y tan solo 1 a favor.
 
 ## Ganas de agradar, apretar desde el principio
 
-Unionistas de Salamanca afronta este partido con la intención de prolongar el estado de euforia tras la victoria en el siempre complicado Nou Estadi. Importante comenzar dominando en el marcador, ya que el cuadro de Dani Ponz no conoce la derrota en el Reina Sofía si comienza el partido con gol a favor. Por su parte, la SD Logroñés no ha sido capaz de remontar ningún encuentro esta temporada, por lo que un gol tempranero podría ser clave para el devenir del partido en favor de los charros. 
+Unionistas de Salamanca afronta este partido con la intención de prolongar el estado de euforia tras la victoria en el siempre complicado Nou Estadi. Importante comenzar dominando en el marcador, ya que el cuadro de Dani Ponz no conoce la derrota en el Reina Sofía si comienza el partido con gol a favor. Por su parte, la SD Logroñés no ha sido capaz de remontar ningún encuentro esta temporada, por lo que un gol tempranero podría ser clave para el devenir del partido en favor de los charros.
 
 ## Fiesta del fútbol popular
 
