@@ -1,10 +1,10 @@
 ---
-import Layout from "@/layouts/Layout.astro"
+import Pagination from "@/components/Pagination.astro"
 import Video from "@/components/Video.astro"
-
 import { videos } from "@/data/videos"
+import Layout from "@/layouts/Layout.astro"
 
-export async function getStaticPaths({ paginate }:any) {
+export async function getStaticPaths({ paginate }: any) {
 	const formattedPosts = videos
 	videos.sort((a, b) => b.id - a.id)
 	return paginate(formattedPosts, {
@@ -14,10 +14,16 @@ export async function getStaticPaths({ paginate }:any) {
 const { page } = Astro.props
 ---
 
-<Layout
-	description="Últimos vídeos del programa Alineación Indebida."
-	title="Últimas vídeos - Alineación indebida"
->
+<Layout description="Últimos vídeos del programa Alineación Indebida." title="Últimas vídeos - Alineación indebida">
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Últimos vídeos</h1>
 	<Video videos={page["data"]} />
+	<Pagination
+		length={page["lastPage"]}
+		currentUrl={page["url"]["current"]}
+		currentPage={page["currentPage"]}
+		firstUrl={`/noticias/`}
+		prevUrl={page["url"]["prev"]}
+		nextUrl={page["url"]["next"]}
+		lastUrl={`/noticias/${page["lastPage"]}`}
+	/>
 </Layout>

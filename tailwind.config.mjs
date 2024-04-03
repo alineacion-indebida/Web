@@ -11,6 +11,8 @@ export default {
 				primary: "var(--color-primary)",
 				secondary: "var(--color-secondary)",
 				accent: "var(--color-accent)",
+				accentlight: "var(--color-accent-light)",
+				accentdark: "var(--color-accent-dark)",
 				twitch: "var(--color-twitch)",
 				ice: "var(--color-twitch-ice)",
 			},
