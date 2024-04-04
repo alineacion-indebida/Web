@@ -20,6 +20,6 @@ Por abajo, sumar de tres es prácticamente imposible, se pelea con el cuchillo e
 
 Los puestos de Copa siguen abiertos para equipos que no se despisten y no les tiemblen las piernas. El novato Arenteiro flojeó ante el colista Majadahonda, y es que todo es harto complicado de pronosticar en esta categoría.
 
-Mucho miedo en un momento clave en la temporada. 
+Mucho miedo en un momento clave en la temporada.
 
 Al que no le tiemble el pulso, y sepa controlar mejor las emociones se llevará la gloria del triunfo final, ya sea ascenso directo, último puesto de Copa y una sufrida permanencia.

@@ -8,7 +8,7 @@ autor: 'Yuri Ramos'
 tags: ['Primera federacion', 'Unionistas', 'fútbol']
 ---
 
-Muy buenas, indebidos!!! 
+Muy buenas, indebidos!!!
 
 Vamos con un repaso de lo que deparó la jornada 30. Una jornada donde los de abajo apretaron de lo lindo, ganando 4 de los 6 últimos (a expensas de lo que se dictamine en el Sestao River - Rayo Majadahonda), y donde los de arriba del todo confirmaron que van muy en serio a por el ascenso directo, y otros que parecen aflojar ven su plaza de playoff amenazada. En la lucha por la Copa, Unionistas es el gran beneficiado, único equipo que venció y sumó los 3 puntos.
 
@@ -22,7 +22,7 @@ Remontada del conjunto arlequinado en casa del Fuenlabrada, con doblete del ucra
 
 ## Sestao River 2 - Rayo Majadahonda 1
 
-Partido que nos dejó una de las imágenes más tristes del fútbol, y es que el portero del Rayo Majadahonda sufrió insultos racistas por parte de seguidores del Sestao, y hubo un altercado entre ambos. El encuentro terminó suspendiéndose a falta de 5 minutos ante la negativa del Rayo Majadahonda de volver a jugar. 
+Partido que nos dejó una de las imágenes más tristes del fútbol, y es que el portero del Rayo Majadahonda sufrió insultos racistas por parte de seguidores del Sestao, y hubo un altercado entre ambos. El encuentro terminó suspendiéndose a falta de 5 minutos ante la negativa del Rayo Majadahonda de volver a jugar.
 
 En lo futbolístico, el Sestao River supo sobreponerse al golazo de Rodrigo Abajas y le dió la vuelta al marcador con goles de Leandro desde los 11 metros y Alex Carbonell. Suman 8 jornadas sin perder en casa y siguen luchando por salir del descenso. El Rayo Majadahonda parece un claro candidato al descenso, con tan solo 24 puntos,a 9 de la salvación.
 
@@ -33,7 +33,7 @@ El Tarazona repite victoria en casa ante equipo de playoff y sigue marcando el l
 
 ## Teruel 2 - Real Unión 1
 
-No menos importante fue la victoria de los turolenses, que les permite ser uno de los equipos más en forma de las últimas jornadas, ante unos irundarras con trayectoria opuesta, en crisis de resultados y con el descenso acechando. 
+No menos importante fue la victoria de los turolenses, que les permite ser uno de los equipos más en forma de las últimas jornadas, ante unos irundarras con trayectoria opuesta, en crisis de resultados y con el descenso acechando.
 
 Se adelantaron los locales con un remate de Borja Romero dentro del área. Empataría el Real Unión con gol en propia puerta precisamente de Borja Romero en el minuto 82, pero en el 86 otro Borja, esta vez Martínez, transformaba un penalty por manos en el área irundarra.
 
@@ -53,7 +53,8 @@ Se firmaron las tablas en Espiñedo, en un partido donde el filial txuri-urdin s
 El Arenteiro sigue ocupando plaza de Copa, amenazada por Unionistas, mientras que la Real B se queda en una posición tranquila, en tierra de nadie.
 
 ## Osasuna Promesas 2 - Barça Athlètic 3
-La gran remontada de la.jornada se vivió en el Tajonar. Osasuna Promesas se ponía por delante en la primera parte 2-0 con dos jugadas similares. Svensson sorprende a la defensa adelantada del filial blaugrana, en una ocasión es objeto de penalty, que transforma, y en la otra resuelve con calidad el mano a mano. A partir de ese momento se sucedieron las ocasiones visitantes, recortando distancias Pau Víctor. No sería hasta el final de la segunda parte cuando se completó la remontada. En el minuto 84 el cancerbero del Promesas, Stamatakis, erraba en un disparo sencillo, y luego nada pudo hacer ante el violento lanzamiento de falta del internacional con Senegal Mikail Fayé. 
+
+La gran remontada de la.jornada se vivió en el Tajonar. Osasuna Promesas se ponía por delante en la primera parte 2-0 con dos jugadas similares. Svensson sorprende a la defensa adelantada del filial blaugrana, en una ocasión es objeto de penalty, que transforma, y en la otra resuelve con calidad el mano a mano. A partir de ese momento se sucedieron las ocasiones visitantes, recortando distancias Pau Víctor. No sería hasta el final de la segunda parte cuando se completó la remontada. En el minuto 84 el cancerbero del Promesas, Stamatakis, erraba en un disparo sencillo, y luego nada pudo hacer ante el violento lanzamiento de falta del internacional con Senegal Mikail Fayé.
 
 Victoria blaugrana que prolonga su buena racha, siguiendo la estela del Depor. Por su parte Osasuna Promesas se acerca peligrosamente al descenso.
 
