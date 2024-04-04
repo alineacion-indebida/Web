@@ -21,8 +21,8 @@ const filterByCategory = taxonomyFilter(posts, "categorias", categoria);
 ---
 
 <Layout
-	description="Últimas noticias en la Web Oficial del programa Alineación Indebida."
-	title="Últimas noticias - Alineación indebida"
+	description="Todos los temas que tratamos en nuestras noticias de la Web Oficial del programa Alineación Indebida."
+	title="Categorias - Alineación indebida"
 >
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Categoria: {deslugify(categoria)}</h1>
 	<Posts posts={filterByCategory}/>
