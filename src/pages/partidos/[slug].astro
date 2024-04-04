@@ -1,7 +1,7 @@
 ---
-import Layout from "@/layouts/Layout.astro"
 import TextoInfoPartido from "@/components/TextoInfoPartido.astro"
 import { partidosMap } from "@/data/partidos"
+import Layout from "@/layouts/Layout.astro"
 
 export const prerender = false
 
@@ -15,8 +15,8 @@ if (slug && partidosMap.has(slug)) {
 ---
 
 <Layout
-	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
 	title="Partidos de Unionistas de Salamanca - Alineación indebida"
->   
-    <TextoInfoPartido {...partido} />
+	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
+>
+	<TextoInfoPartido {...partido} />
 </Layout>

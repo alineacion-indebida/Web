@@ -14,7 +14,7 @@ export async function getStaticPaths({ paginate }: any) {
 const { page } = Astro.props
 ---
 
-<Layout description="Últimos vídeos del programa Alineación Indebida." title="Últimas vídeos - Alineación indebida">
+<Layout title="Últimos vídeos - Alineación indebida" description="Nuestros últimos vídeos publicados en youtube del programa Alineación Indebida.">
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Últimos vídeos</h1>
 	<Video videos={page["data"]} />
 	<Pagination

@@ -1,35 +1,30 @@
 ---
-import Layout from "@/layouts/Layout.astro"
-import Posts from "@/components/PostGrid.astro"
 import Pagination from "@/components/Pagination.astro"
+import Posts from "@/components/PostGrid.astro"
+import Layout from "@/layouts/Layout.astro"
 
 import { getCollection } from "astro:content"
 
-export async function getStaticPaths({ paginate }:any) {
+export async function getStaticPaths({ paginate }: any) {
 	const allPosts = await getCollection("noticias")
-	const formattedPosts = allPosts.sort(
-		(a, b) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime()
-	)
+	const formattedPosts = allPosts.sort((a, b) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime())
 	return paginate(formattedPosts, {
 		pageSize: 6,
-	});
+	})
 }
 const { page } = Astro.props
 ---
 
-<Layout
-	description="Últimas noticias en la Web Oficial del programa Alineación Indebida."
-	title="Últimas noticias - Alineación indebida"
->
+<Layout title="Últimas noticias - Alineación indebida" description="Últimas noticias en la Web Oficial del programa Alineación Indebida.">
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Noticias</h1>
-	<Posts posts={page['data']}/>
+	<Posts posts={page["data"]} />
 	<Pagination
-		length={page['lastPage']}
-		currentUrl={page['url']['current']}
-		currentPage={page['currentPage']}
+		length={page["lastPage"]}
+		currentUrl={page["url"]["current"]}
+		currentPage={page["currentPage"]}
 		firstUrl={`/noticias/`}
-		prevUrl={page['url']['prev']}
-		nextUrl={page['url']['next']}
-		lastUrl={`/noticias/${page['lastPage']}`}
+		prevUrl={page["url"]["prev"]}
+		nextUrl={page["url"]["next"]}
+		lastUrl={`/noticias/${page["lastPage"]}`}
 	/>
 </Layout>

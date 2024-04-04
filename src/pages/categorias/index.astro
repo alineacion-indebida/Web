@@ -3,21 +3,19 @@ import Layout from "@/layouts/Layout.astro"
 import { getTaxonomy } from "@/utils/getAllTags"
 
 const allCategorias = await getTaxonomy("noticias", "categorias")
-const uniqueCategorias = [...new Set(allCategorias.map((item:any) => item.slug))].map((slug) =>
-	allCategorias.find((cat:any) => cat.slug === slug)
-)
+const uniqueCategorias = [...new Set(allCategorias.map((item: any) => item.slug))].map((slug) => allCategorias.find((cat: any) => cat.slug === slug))
 ---
 
 <Layout
-	description="Últimas crónicas en la Web Oficial del programa Alineación Indebida."
-	title="Últimas crónicas - Alineación indebida"
+	title="Nuestras categorias - Alineación indebida"
+	description="Todos los temas de los que hablamos en la Web Oficial del programa Alineación Indebida."
 >
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Categorias:</h1>
 	{
-		uniqueCategorias.map((category:any) => (
+		uniqueCategorias.map((category: any) => (
 			<li class="mr-4 flex items-center justify-between">
 				<a
-					class="text-lg capitalize hover:text-zinc-100 text-zinc-400"
+					class="text-lg capitalize text-zinc-400 hover:text-zinc-100"
 					href={`/categorias/${category.slug}`}
 					title={`Ver las noticias de ${category.name}`}
 				>
