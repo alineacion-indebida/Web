@@ -1,0 +1,3 @@
+[submodule "web-content"]
+	path = web-content
+	url = https://github.com/alineacion-indebida/web-content

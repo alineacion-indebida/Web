@@ -31,6 +31,9 @@ export default defineConfig({
 	output: "hybrid",
 	site: seoConfig.baseURL,
 	vite: {
+		resolve: {
+			preserveSymlinks: true
+		},
 		build: {
 			cssMinify: "lightningcss",
 		},
