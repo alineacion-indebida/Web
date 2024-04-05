@@ -1,7 +1,8 @@
 backend:
-  name: github
+  name: github 
   repo: adriandpdev/AlineacionIndebida
   branch: master
+  base_url: https://netlify-cms.adrianub.vercel.app
 media_folder: "public/img/noticias"
 public_folder: "public/img/noticias"
 
