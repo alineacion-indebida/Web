@@ -27,3 +27,11 @@ Un dato esperanzador para Unionistas de Salamanca siempre y cuando consiga adela
 Ambos conjuntos llegan a este choque con una dinámica muy positiva. Los de Imanol Idiákez acumulan 29 puntos de los últimos 33 posibles, lo que se traduce en 9 victorias y 2 empates en las últimas 11 fechas en juego. Más importante aún es la dinámica actual en Riazor, donde presentan 10 duelos sin perder, con 7 victorias y 3 empates. La última derrota se produjo el día 8 de octubre ante el RC Celta Fortuna. 
 
 Por su parte, Unionistas de Salamanca no ha caído aún como visitante en este año 2024, sumando un bagaje de 2 victorias y 5 empates lejos del Reina Sofía, pese a ser el equipo con peor gol average como visitante de los que componen la primera mitad de la tabla.
+
+## El árbitro del partido
+
+Choque correspondiente a la jornada 31del campeonato ligero del Grupo I de Primera RFEF que se disputará el domingo 7/Abril a las 17:00h en el Estadio de Riazor. Un césped de primera que hace tan solo 1 mes logró el récord de asistencia a un partido de la tercera categoría del fútbol español en su liga regular ante el Lugo, al que asistieron 28.112 espectadores, y que quiere volver a repetir la gesta este fin de semana ante un Unionistas de Salamanca que organiza un desplazamiento masivo con más de 600 charros acompañando a su equipo. El duelo será dirigido con el arbitraje de Carlos Fernández Buergo, perteneciente al Colegio asturiano y de 29 años de edad, que ya conoce a ambos conjuntos de visitas anteriores. 
+
+5 veces ha arbitrado a un Unionistas de Salamanca que aún no ha ganado con el llanisco. 3 empates ante Burgos 0-0, Salamanca CF 1-1 en Segunda B y ante Cultural Leonesa en un 2-2 la primera temporada de Primera RFEF, y 2 derrotas frente a Real Racing 1-2 y en un nefasto arbitraje ante CD Badajoz señalizando con fuera de juego una jugada legal del cuadro charro, duelo que acabó perdiendo 2-1 en el Nuevo Vivero.
+
+Por su parte, 3 victorias y 1 empate es el balance de Carlos Fernández Buergo arbitrando al RC Deportivo. 36 encuentros ha dirigido en total en Primera RFEF, con una media de 5’1 cartulinas amarillas por partido y tan solo 11 expulsiones. 16 victorias locales, 10 empates y 10 victorias visitantes. Esta temporada acumula un total de 11 partidos con 4 ganados para el local, 3 para el visitante y 4 empates.
