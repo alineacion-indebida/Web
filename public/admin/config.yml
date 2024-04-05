@@ -1,0 +1,29 @@
+backend:
+  name: github
+  repo: adriandpdev/AlineacionIndebida
+  branch: master
+media_folder: "public/img/noticias"
+public_folder: "public/img/noticias"
+
+collections:
+  - name: noticias
+    label: Noticias
+    folder: src/content/noticias
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+    
+      - { label: "Layout", name: "layout", widget: "hidden", default: "noticias" }
+      - { label: "Titulo", name: "title", widget: "string" }
+      - { label: "Enlace", name: "identifier_field", widget: "string" }
+      - { label: "Descripción", name: "description", widget: "string" }
+      - { label: "Fecha publicación", name: "date", widget: "datetime" }
+      - { label: "Imagen", name: "imagen", widget: "image" }
+      - { label: "Categoria", name: "categorias", widget: "list" }
+      - { label: "Etiquetas", name: "tags", widget: "list" }
+      - { label: "Redactor", name: "autor", widget: "string" }
+      - { label: "Texto", name: "body", widget: "markdown"}
+
+site_url: https://www.alineacionindebida.com
+logo_url: https://www.alineacionindebida.com/img/Logo.png
+locale: es
