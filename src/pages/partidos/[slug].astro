@@ -12,11 +12,13 @@ if (slug && partidosMap.has(slug)) {
 } else {
 	return Astro.redirect("/404")
 }
+
+const textoPartido = (partido.local ? "Unionistas de Salamanca" : partido.rival).concat(" - ").concat(partido.local ? partido.rival : "Unionistas de Salamanca")
 ---
 
 <Layout
-	title="Partidos de Unionistas de Salamanca - Alineación indebida"
-	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
+	title=`'${textoPartido}' - Alineación indebida`
+	description=`Horario e información del partido '${textoPartido}'. Donde verlo en directo y más datos en alineacion indebida.`
 >
 	<TextoInfoPartido {...partido} />
 </Layout>
