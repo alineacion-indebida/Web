@@ -1,8 +1,9 @@
 import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
-import partytown from '@astrojs/partytown'
+import partytown from "@astrojs/partytown"
 import vercel from "@astrojs/vercel/serverless"
 
+import { decapCmsOauth } from "astro-decap-cms-oauth";
 import { VitePWA } from "vite-plugin-pwa"
 import { defineConfig } from "astro/config"
 
@@ -54,8 +55,8 @@ export default defineConfig({
 		],
 	},
 	redirects: {
-		'/noticias/la-firma-osasuna-promesas/': '/noticias/240318-la-firma-osasuna-promesas/',
-		'/noticias/la-vision-indebida-osasuna-promesas/': '/noticias/240317-la-opinion-osasuna-promesas/',
-		'/quiensomos/': '/quienes-somos/',
+		"/noticias/la-firma-osasuna-promesas/": "/noticias/240318-la-firma-osasuna-promesas/",
+		"/noticias/la-vision-indebida-osasuna-promesas/": "/noticias/240317-la-opinion-osasuna-promesas/",
+		"/quiensomos/": "/quienes-somos/",
 	}
 })
