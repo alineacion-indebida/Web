@@ -16,6 +16,7 @@ export default defineConfig({
 	integrations: [
 		tailwind(),
 		sitemap(),
+		decapCmsOauth(),
 		partytown({
 			config: {
 				forward: ["dataLayer.push"],
