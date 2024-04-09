@@ -2,8 +2,8 @@ import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
 import partytown from "@astrojs/partytown"
 import vercel from "@astrojs/vercel/serverless"
+import decapCmsOauth from "astro-decap-cms-oauth";
 
-import { decapCmsOauth } from "astro-decap-cms-oauth";
 import { VitePWA } from "vite-plugin-pwa"
 import { defineConfig } from "astro/config"
 
