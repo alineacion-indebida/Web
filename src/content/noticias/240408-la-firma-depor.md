@@ -1,5 +1,5 @@
 ---
-date: '2024-04-08T10:00:00.000+01:00'
+date: '2024-04-09T10:00:00.000+01:00'
 title: 'Un viaje casi perfecto - La firma destacada'
 description: 'La firma de Carlos Matía sobre el partido de Unionistas contra RC Deportivo. Primera federación grupo 1, jornada 31'
 imagen: '/img/noticias/aficion-riazor-24.webp'
