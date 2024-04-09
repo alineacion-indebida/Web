@@ -35,20 +35,20 @@ export const GET: APIRoute = async ({ url, redirect }) => {
 		// This is what talks to the DecapCMS page.
 		// Using window.postMessage we give it the token details in a format it's expecting
 		script = `
-      <script>
-        const receiveMessage = (message) => {
-          window.opener.postMessage(
-            'authorization:${content.provider}:success:${JSON.stringify(content)}',
-            message.origin
-          );
+			<script>
+				const receiveMessage = (message) => {
+				window.opener.postMessage(
+					'authorization:${content.provider}:success:${JSON.stringify(content)}',
+					message.origin
+				);
 
-          window.removeEventListener("message", receiveMessage, false);
-        }
-        window.addEventListener("message", receiveMessage, false);
+				window.removeEventListener("message", receiveMessage, false);
+				}
+				window.addEventListener("message", receiveMessage, false);
 
-        window.opener.postMessage("authorizing:${content.provider}", "*");
-      </script>
-    `;
+				window.opener.postMessage("authorizing:${content.provider}", "*");
+			</script>
+		`;
 
 		return new Response(script, {
 			headers: { "Content-Type": "text/html" },
