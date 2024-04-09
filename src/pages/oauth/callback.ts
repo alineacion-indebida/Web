@@ -48,7 +48,7 @@ export const GET: APIRoute = async ({ url, redirect }) => {
 
 				window.opener.postMessage("authorizing:${content.provider}", "*");
 			</script>
-		`;
+    	`;
 
 		return new Response(script, {
 			headers: { "Content-Type": "text/html" },
