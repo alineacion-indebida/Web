@@ -2,7 +2,7 @@
 date: '2024-04-10T10:00:00.000+01:00'
 title: 'La opinión indebida del Depor Unionistas en Riazor'
 description: 'Nuestra opinión del encuentro disputado entre Real Club Deportivo de la Coruña y Unionistas de Salamanca. Primera federación grupo 1, jornada 31.' 
-imagen: '/img/noticias/mesa-redonda-futbol-popular.webp'
+imagen: '/img/noticias/aficion-coruna.webp'
 categorias: ['La opinión indebida']
 autor: 'Indebiders'
 tags: ['Primera federacion', 'Unionistas', 'Deportivo', 'fútbol', 'Riazor', 'Coruña']
