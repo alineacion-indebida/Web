@@ -29,5 +29,5 @@ collections:
       - { label: "Texto", name: "body", widget: "markdown"}
 
 site_url: https://www.alineacionindebida.com
-# logo_url: https://www.alineacionindebida.com/img/Logo.png
+logo_url: https://www.alineacionindebida.com/img/Logo.png
 locale: es
