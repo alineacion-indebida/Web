@@ -13,12 +13,10 @@ collections:
   - name: noticias
     label: Noticias
     folder: src/content/noticias
-    identifier_field: slug
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "noticias" }
-      - { label: "Enlace", name: "slug", widget: "string" }
       - { label: "Titulo", name: "title", widget: "string" }
       - { label: "Descripción", name: "description", widget: "string" }
       - { label: "Fecha publicación", name: "date", widget: "datetime" }
