@@ -26,6 +26,7 @@ export default defineConfig({
 	],
 	adapter: vercel({
 		webAnalytics: { enabled: true },
+		functionPerRoute: false 
 	}),
 	build: {
 		inlineStylesheets: "always",

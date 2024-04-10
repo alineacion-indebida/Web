@@ -3,7 +3,7 @@ backend:
   branch: master
   repo: adriandpdev/AlineacionIndebida
   site_domain: alineacionindebida.com
-  base_url: https://alineacionindebida.com
+  base_url: https://www.alineacionindebida.com
   auth_endpoint: oauth
 
 media_folder: "public/img/noticias"
@@ -29,5 +29,5 @@ collections:
       - { label: "Texto", name: "body", widget: "markdown"}
 
 site_url: https://www.alineacionindebida.com
-logo_url: https://www.alineacionindebida.com/img/Logo.png
+# logo_url: https://www.alineacionindebida.com/img/Logo.png
 locale: es
