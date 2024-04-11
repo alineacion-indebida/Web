@@ -1,11 +1,21 @@
 ---
-date: '2024-04-09T10:00:00.000+01:00'
-title: 'Un viaje casi perfecto - La firma destacada'
-description: 'La firma de Carlos Matía sobre el partido de Unionistas contra RC Deportivo. Primera federación grupo 1, jornada 31'
-imagen: '/img/noticias/aficion-riazor-24.webp'
-categorias: ['La firma']
-autor: 'Carlos Matía'
-tags: ['Primera federacion', 'Riazor', 'Depor', 'Crónica']
+title: Un viaje casi perfecto - La firma destacada
+description: La firma de Carlos Matía sobre el partido de Unionistas contra RC
+  Deportivo. Primera Federación, grupo 1, jornada 31
+date: 2024-04-09T10:00:00.000+01:00
+imagen: /img/noticias/aficion-riazor-24.webp
+categorias:
+  - La firma destacada
+tags:
+  - Primera Federación
+  - jornada 31
+  - grupo 1
+  - Unionistas
+  - Depor
+  - Riazor
+  - La Firma Destacada
+  - Crónica
+autor: Carlos Matía
 ---
 
 Hay una idea general en el aficionado Unionista, de que este partido de la jornada 31 en Riazor podía ser el último que se jugase en Coruña en una buena temporada. El posible ascenso del Depor lanzó a más de 500 personas a viajar. Quizá sabiendo que sería difícil. Pero, ¿Por qué no? ¿No se había competido en el Johan Cruyff? ¿No se había conseguido ganar en Tarragona?
