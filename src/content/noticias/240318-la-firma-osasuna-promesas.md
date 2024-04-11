@@ -1,11 +1,22 @@
 ---
-date: '2024-03-18T10:00:00.000+01:00'
-title: 'Unionistas no encuentra el punto de inflexión contra osasuna promesas - La firma destacada'
-description: 'La firma destacada de Miguel Ontiyuelo. Unionistas de Salamanca vs Osasuna Promesas. Primera federación grupo 1, jornada 28.'
-imagen: '/img/noticias/osasunapromesas.webp'
-categorias: ['La firma']
-autor: 'Miguel Ontiyuelo'
-tags: ['Primera federacion', 'CA Osasuna Promesas']
+title: Unionistas no encuentra el punto de inflexión contra osasuna promesas -
+  La firma destacada
+description: La firma destacada de Miguel Ontiyuelo. Unionistas de Salamanca vs
+  Osasuna Promesas. Primera Federación, grupo 1, jornada 28.
+date: 2024-03-18T10:00:00.000+01:00
+imagen: /img/noticias/osasunapromesas.webp
+categorias:
+  - La firma
+tags:
+  - Primera Federación
+  - jornada 28
+  - grupo 1
+  - Unionistas
+  - Osasuna Promesas
+  - Reina Sofía
+  - La Firma Destacada
+  - Crónica
+autor: Miguel Ontiyuelo
 ---
 
 Unionistas cuajó uno de sus peores partidos de esta temporada contra Osasuna Promesas y encajó su segunda derrota consecutiva en casa, algo que pocos recordarán cuándo ocurró por última vez. El equipo sabía que era el día de dar un paso al frente y proponer un mejor desempeño tras las experiencias agridulces de las semanas anteriores: 2 empates en sendos desplazamientos a Tarazona y en Lugo eran buenos resultados -a pesar del gran sufrimiento con que se habían conseguido-, si se seguían con 3 puntos en casa, olvidando la superación neta en todas las líneas y fases que había infligido el Celta Fortuna
