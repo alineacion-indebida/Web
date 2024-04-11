@@ -1,11 +1,17 @@
 ---
-date: '2024-03-26T17:00:00.000+01:00'
-title: 'El coyote y el correcaminos - La jornada indebida'
-description: 'La jornada indebida de Carlos Matía. Primera federación grupo 1, jornada 29'
-imagen: '/img/noticias/primerafed.webp'
-categorias: ['Primera federación']
-autor: 'Carlos Matía'
-tags: ['Primera federacion','jornada 29','grupo 1']
+title: El coyote y el correcaminos - La jornada indebida
+description: La Jornada Indebida de Carlos Matía. Primera Federación, grupo 1, jornada 29.
+date: 2024-03-26T17:00:00.000+01:00
+imagen: /img/noticias/primerafed.webp
+categorias:
+  - Primera federación
+tags:
+  - Primera Federación
+  - Grupo 1
+  - Jornada 29
+  - La Jornada Indebida
+  - Fútbol
+autor: Carlos Matía
 ---
 
 A falta de 9 jornadas para la conclusión de la liga, la tabla del grupo 1 en primera federación parece haberse convertido en una temporada de la serie de Warner.
