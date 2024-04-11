@@ -12,7 +12,9 @@ tags:
   - grupo 1
   - Unionistas
   - SD Logroñés
+  - Reina Sofía
   - La Firma Destacada
+  - Crónica
 autor: Miguel Ontiyuelo
 ---
 
