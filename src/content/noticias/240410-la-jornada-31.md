@@ -20,15 +20,15 @@ De esta forma, los aspirantes al ascenso y play-off continúan mayoritariamente 
 
 Sólo parece haber 2 clubes descolgados: SD Logroñés y Rayo Majadahonda, más aún tras el dictamen que le restó 3 puntos la semana pasada. ¿Cuáles fueron los clubes que menos puntuaron esta jornada? Los clasificados en la zona intermedia.
 
-## `REAL SOCIEDAD B 2 – SESTAO RIVER 3`
+## REAL SOCIEDAD B 2 – SESTAO RIVER 3
 
 La jornada se inauguraba con un partido que parecía un *dejavú*. Son ya muchos los puntos que se ha dejado la Real Sociedad B en Zubieta. El Sestao River remontaba el tanto inicial de Magunazelaia y ponía tierra de por medio marcando 3. En esta ocasión los *txuri-urdin* no tuvieron empuje suficiente para amarrar un empate al final y confirman su situación intermedia en la tabla, 5 puntos de los últimos 15 posibles, mientras los sestaotarras siguen puntuando y ya igualan con los puestos de permanencia. 
 
-## `SABADELL 1 – TERUEL 1`
+## SABADELL 1 – TERUEL 1
 
 Puntos muy importantes para los dos equipos los que se jugaban en la Nova Creu Alta, que debían confirmar la buena tendencia de ambos para evitar el descenso. Una cabalgada de David Astals, que batió de tiro lejano a un alocado Taliby, parecía inclinar la balanza del lado arlequinado en la primera parte. Cumplido el descanso, minutos de control local hasta que Jorge Alastuey establecía el 1-1 en un rechace tras una buena acción de Ahn. A pesar de los intentos de ambos, no se movió más un marcador que, como tantas veces pasa, no satisfizo a ninguno de los dos.
 
-## `RAYO MAJADAHONDA 0 – PONFERRADINA 1`
+RAYO MAJADAHONDA 0 – PONFERRADINA 1
 
 La Ponferradina puso más sobre el terreno de juego que el conjunto majariego. Ante una nutrida presencia de aficionados desplazados, los bercianos tuvieron numerosas ocasiones y pusieron a prueba al meta Dani Martín, pero no fue hasta el minuto 74 cuando el joven ariete Álex Costa consiguió el gol de la victoria. No sin dificultades, la Ponferradina rompe su mala racha y confirma sus aspiraciones de play-off, que habían empezado a peligrar. El Rayo Majadahonda queda definitivamente descolgado como colista, a 13 puntos de una permanencia muy disputada cuando sólo quedan 21 por jugarse. 
 
