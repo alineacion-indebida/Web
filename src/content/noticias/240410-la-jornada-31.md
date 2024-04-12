@@ -1,13 +1,19 @@
 ---
-date: '2024-04-10T23:00:00.000+01:00'
-title: 'Se reafirman tendencias y aspiraciones'
-description: 'La Jornada Indebida. Primera Federación, grupo 1, jornada 31.' 
-imagen: '/img/noticias/primerafed.webp'
-categorias: ['La Jornada Indebida']
-autor: 'Miguel Ontiyuelo'
-tags: ['Primera federacion', 'Unionistas', 'Fútbol', 'LaJornadaIndebida']
+title: Se reafirman tendencias y aspiraciones - La Jornada Indebida
+description: La Jornada Indebida de Miguel Ontiyuelo. Primera Federación, grupo
+  1, jornada 31.
+date: 2024-04-10T23:00:00.000+01:00
+imagen: /img/noticias/primerafed.webp
+categorias:
+  - La Jornada Indebida
+tags:
+  - Primera Federación
+  - Grupo 1
+  - Jornada 31
+  - La Jornada Indebida
+  - Fútbol
+autor: Miguel Ontiyuelo
 ---
-
 Nadie quiere perder comba en este grupo I de la Primera Federación. En la jornada de este fin de semana, la 31º, el calendario había querido ofrecernos enfrentamientos que confirmasen las tendencias de cada uno de los clubes en liza: bien al alza, bien a la baja, o bien consolidándose en ese espacio intermedio que puede terminar demostrándose engañoso.
 
 De esta forma, los aspirantes al ascenso y play-off continúan mayoritariamente con el pie en el acelerador, con un RC Deportivo que sigue demostrando credenciales y consolidando su posición punto a punto. Mientras tanto, en la lucha por la permanencia cada vez vemos más equipos involucrados, debido el alto ratio de puntuación de clubes como Sestao River o Tarazona, que vienen de estar en puestos de descenso gran parte de la temporada y ahora atisban la luz. Un cuádruple empate a 34 puntos en la zona límite promete jornadas futuras de infarto.
@@ -16,9 +22,9 @@ Sólo parece haber 2 clubes descolgados: SD Logroñés y Rayo Majadahonda, más 
 
 ## REAL SOCIEDAD B 2 – SESTAO RIVER 3
 
-La jornada se inauguraba con un partido que parecía un _dejavú_. Son ya muchos los puntos que se ha dejado la Real Sociedad B en Zubieta. El Sestao River remontaba el tanto inicial de Magunazelaia y ponía tierra de por medio marcando 3. En esta ocasión los _txuri-urdin_ no tuvieron empuje suficiente para amarrar un empate al final y confirman su situación intermedia en la tabla, 5 puntos de los últimos 15 posibles, mientras los sestaotarras siguen puntuando y ya igualan con los puestos de permanencia. 
+La jornada se inauguraba con un partido que parecía un *dejavú*. Son ya muchos los puntos que se ha dejado la Real Sociedad B en Zubieta. El Sestao River remontaba el tanto inicial de Magunazelaia y ponía tierra de por medio marcando 3. En esta ocasión los *txuri-urdin* no tuvieron empuje suficiente para amarrar un empate al final y confirman su situación intermedia en la tabla, 5 puntos de los últimos 15 posibles, mientras los sestaotarras siguen puntuando y ya igualan con los puestos de permanencia. 
 
-## SABADELL 1 –TERUEL 1
+## SABADELL 1 – TERUEL 1
 
 Puntos muy importantes para los dos equipos los que se jugaban en la Nova Creu Alta, que debían confirmar la buena tendencia de ambos para evitar el descenso. Una cabalgada de David Astals, que batió de tiro lejano a un alocado Taliby, parecía inclinar la balanza del lado arlequinado en la primera parte. Cumplido el descanso, minutos de control local hasta que Jorge Alastuey establecía el 1-1 en un rechace tras una buena acción de Ahn. A pesar de los intentos de ambos, no se movió más un marcador que, como tantas veces pasa, no satisfizo a ninguno de los dos.
 
@@ -32,7 +38,7 @@ El filial celeste no dio opción al rojillo. Con el juego vistoso, rápido y ofe
 
 ## REAL UNIÓN 1 – CORNELLÀ 0
 
-Duelo de urgencias en el Stadium Gal. Se palpaba la tensión y la ansiedad en cada lance del enfrentamiento entre 2 equipos que en las últimas semanas venían decayendo hasta notar el precipicio bajo sus pies. El Real Unión quiso dirigir el partido pero una y otra vez se encontraba con la escasa clarividencia ofensiva, mientras el Cornellà parecía mejor plantado y tenía menos acercamientos, pero generaba más peligro en cada uno de ellos. Cuando el partido parecía entrar en su fase más nerviosa, una acción individual de Álex Cerdá consiguió el gol que a la postre dejaría los 3 puntos en casa. Un respiro para los del recién retornado Fran Justo que mete definitivamente a los _cornellanencs_ en la lucha por no descender.
+Duelo de urgencias en el Stadium Gal. Se palpaba la tensión y la ansiedad en cada lance del enfrentamiento entre 2 equipos que en las últimas semanas venían decayendo hasta notar el precipicio bajo sus pies. El Real Unión quiso dirigir el partido pero una y otra vez se encontraba con la escasa clarividencia ofensiva, mientras el Cornellà parecía mejor plantado y tenía menos acercamientos, pero generaba más peligro en cada uno de ellos. Cuando el partido parecía entrar en su fase más nerviosa, una acción individual de Álex Cerdá consiguió el gol que a la postre dejaría los 3 puntos en casa. Un respiro para los del recién retornado Fran Justo que mete definitivamente a los *cornellanencs* en la lucha por no descender.
 
 ## LUGO 0 – TARAZONA 1
 
@@ -44,7 +50,7 @@ El Nàstic tuvo el dominio de partido, las oportunidades, y encontró el gol en 
 
 ## DEPORTIVO 1 – UNIONISTAS 0
 
-El Depor demostró por qué lidera la clasificación. Muy sólido, mandón, con jugadores en dulce y con muchísimas posibilidades en su propuesta ofensiva, atacó sin descanso a un Unionistas que, pese a todo, aguantó estoicamente cada envite y llevó al traste cada una de sus oportunidades, en una gran actuación del portero Iván Martínez. Un gol de Barbero, que desvía lo justo un tiro de José Ángel Jurado para que no llegara Iván, definió un corto marcador con el que los salmantinos obligaron a los coruñeses a mantener la tensión competitiva hasta el final.
+El Dépor demostró por qué lidera la clasificación. Muy sólido, mandón, con jugadores en dulce y con muchísimas posibilidades en su propuesta ofensiva, atacó sin descanso a un Unionistas que, pese a todo, aguantó estoicamente cada envite y llevó al traste cada una de sus oportunidades, en una gran actuación del portero Iván Martínez. Un gol de Barbero, que desvía lo justo un tiro de José Ángel Jurado para que no llegara Iván, definió un corto marcador con el que los salmantinos obligaron a los coruñeses a mantener la tensión competitiva hasta el final.
 
 ## LOGROÑÉS 0 – CULTURAL 0
 

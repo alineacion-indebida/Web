@@ -1,11 +1,17 @@
 ---
-date: '2024-04-02T12:00:00.000+01:00'
-title: 'La rebelión de los de abajo - La jornada indebida'
-description: 'La jornada indebida de Yuri Ramos. Primera federación grupo 1, jornada 30' 
-imagen: '/img/noticias/primerafed.webp'
-categorias: ['La jornada indebida']
-autor: 'Yuri Ramos'
-tags: ['Primera federacion', 'Unionistas', 'fútbol']
+title: La rebelión de los de abajo - La Jornada Indebida
+description: La jornada indebida de Yuri Ramos. Primera Federación, grupo 1, jornada 30.
+date: 2024-04-02T12:00:00.000+01:00
+imagen: /img/noticias/primerafed.webp
+categorias:
+  - La Jornada Indebida
+tags:
+  - Primera Federación
+  - Grupo 1
+  - Jornada 30
+  - La Jornada Indebida
+  - Fútbol
+autor: Yuri Ramos
 ---
 
 Muy buenas, indebidos!!!

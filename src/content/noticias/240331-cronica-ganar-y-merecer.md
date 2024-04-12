@@ -1,11 +1,21 @@
 ---
-date: '2024-03-31T17:00:00.000+01:00'
-title: 'Ganar y merecer no riman necesariamente'
-description: 'La firma de Miguel Ontiyuelo sobre el partido de Unionistas contra SD Logroñés. Primera federación grupo 1, jornada 30'
-imagen: '/img/noticias/etxaniz.webp'
-categorias: ['La firma']
-autor: 'Miguel Ontiyuelo'
-tags: ['Primera federacion','jornada 30','grupo 1', 'SD Logroñes']
+title: Ganar y merecer no riman necesariamente - La firma destacada
+description: La firma de Miguel Ontiyuelo sobre el partido de Unionistas contra
+  SD Logroñés. Primera federación grupo 1, jornada 30
+date: 2024-03-31T17:00:00.000+01:00
+imagen: /img/noticias/etxaniz.webp
+categorias:
+  - La firma destacada
+tags:
+  - Primera Federación
+  - jornada 30
+  - grupo 1
+  - Unionistas
+  - SD Logroñés
+  - Reina Sofía
+  - La Firma Destacada
+  - Crónica
+autor: Miguel Ontiyuelo
 ---
 
 Las ligas son torneos de regularidad. A lo largo del campeonato, unas veces se ofrece una gran imagen y se obtiene un mal resultado; otras veces con una imagen pobre, se puede maximizar el rendimiento en puntos. Diciendo esto no descubrimos nada ni estamos pretendiendo quedarnos en lugares comunes, en charleta vacía. Lo que intentamos es poner en perspectiva la victoria de Unionistas sobre la SD Logroñés este sábado y, sobre todo, llamar a la ponderación.
