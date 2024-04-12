@@ -1,0 +1,35 @@
+---
+import CardData from "@/components/CardData.astro"
+import Typography from "@/components/Typography.astro"
+import { Temporadas } from "@/data/datos"
+
+// + 1 porque hay que tener en cuenta el 0
+const maxFirst = Number.parseInt("59") + 1
+const maxSecond = 9
+const maxThird = 9
+// + 1 porque hay que tener en cuenta el 0 para las transiciones
+const firstDigitHeight = (1 / (maxFirst + 1)) * 100
+const secondDigitHeight = (1 / (maxSecond + 1)) * 100
+const thirdDigitHeight = (1 / (maxThird + 1)) * 100
+---
+
+<section class="mt-16 px-4">
+	{
+		Temporadas.map(({ year, viajes, programas, horas, km, partidos }) => (
+			<>
+				<Typography as="h3" variant="h3" color="white" class:list={"text-center"}>
+					Nuestra temporada {year}
+				</Typography>
+                <section class="my-6 grid w-full grid-cols-2 lg:grid-cols-4 items-center justify-center gap-y-6 gap-x-2">
+                    <CardData dato={partidos} texto="Partidos en directo" />
+                    <CardData dato={km} texto={`Km en ${viajes} viajes`} />
+                    <CardData dato={horas} texto="Horas en directo" />
+                    <CardData dato={programas} texto="Progamas" />
+                </section>
+				<p>Para ofrecerte toda la actualidad deportiva.</p>
+			</>
+		))
+	}
+</section>
+
+

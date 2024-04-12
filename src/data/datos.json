@@ -1,0 +1,59 @@
+{
+  "temporadas": [
+    { 
+      "updateAt": "12/04/24",
+      "year": "2023-24",
+      "partidos": 33, 
+      "programas": 66,
+      "horas": 128,
+      "viajes": 7,
+      "km": 5987
+    }
+  ],
+  "equipo":[
+    {
+      "nombre": "Key Galán",
+      "puesto": "Capitán del barco"
+    },
+    {
+      "nombre": "Carlos Matia",
+      "puesto": "Analista"
+    },
+    {
+      "nombre": "Sr. Fuentes",
+      "puesto": "Director creativo"
+    },
+    {
+      "nombre": "Don. Valeriano",
+      "puesto": "La voz de la cordura"
+    },
+    {
+      "nombre": "Jaime",
+      "puesto": "Opinador de barra"
+    },
+    {
+      "nombre": "Pol Zakour",
+      "puesto": "Corresponsal"
+    },
+    {
+      "nombre": "Miguel Ontiyuelo",
+      "puesto": "Glosador"
+    },
+    {
+      "nombre": "Yuri Ramos",
+      "puesto": "Caballo de hierro"
+    },
+    {
+      "nombre": "Cotobal",
+      "puesto": "El objetivo"
+    },
+    {
+      "nombre": "Selu",
+      "puesto": "Mago"
+    },
+    {
+      "nombre": "Adri Diarte",
+      "puesto": "Druida"
+    }
+  ]
+}
