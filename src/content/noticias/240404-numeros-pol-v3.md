@@ -6,12 +6,12 @@ imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Primera Federación
 tags:
-  - "#Numeros de Pol"
-  - "#Primera Federación"
-  - "#Riazor"
-  - "#Unionistas"
-  - "#Dépor"
-  - "#Estadísticas"
+  - "Numeros de Pol"
+  - "Primera Federación"
+  - "Riazor"
+  - "Unionistas"
+  - "Dépor"
+  - "Estadísticas"
 autor: Pol Zakour
 ---
 
