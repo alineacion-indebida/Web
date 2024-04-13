@@ -1,17 +1,17 @@
 ---
-title: Deportivo- USCF - Los números de Pol
+title: Deportivo - USCF - Los números de Pol
 description: Los números de Pol. Primera Federación, grupo 1, jornada 31.
 date: 2024-04-04T20:00:00.000+01:00
 imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Primera Federación
 tags:
-  - "Numeros de Pol"
-  - "Primera Federación"
-  - "Riazor"
-  - "Unionistas"
-  - "Dépor"
-  - "Estadísticas"
+  - Los números de Pol
+  - Primera Federación
+  - Riazor
+  - Dépor
+  - Unionistas
+  - Estadísticas
 autor: Pol Zakour
 ---
 
