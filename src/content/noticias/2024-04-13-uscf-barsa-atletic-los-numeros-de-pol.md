@@ -2,16 +2,10 @@
 title: USCF - Barcelona Atletic - Los números de Pol
 description: Los números de Pol. Primera Federación, grupo 1, jornada 32.
 date: 2024-04-13T15:45:00.000Z
-imagen: '/img/noticias/numeros-pol.webp'
+imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Primera Federación
-tags:
-  - "#Números de Pol"
-  - "#Primera Federación"
-  - "#Reina Sofía"
-  - "#Unionistas"
-  - "#Barça Atlètic"
-  - "#Estadísticas"
+tags: []
 autor: Pol Zakour
 ---
 Unionistas quiere erigirse como juez del ascenso en este tramo final de competición. Y es que una victoria de los charros podría dejar al filial del FC Barcelona en una posición complicada sí quiere optar a la promoción de categoría de forma directa. Por parte de los charros, tras la derrota sufrida la semana pasada en Riazor, se aleja la posibilidad de un soñado playoff de ascenso. Sin embargo, aún queda mucho en juego: sellar la permanencia en la tercera categoría una temporada más y luchar por un puesto en la Copa del Rey del próximo año, competición muy querida y económicamente trascendental para los charros.
