@@ -6,7 +6,7 @@ imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Primera Federación
 tags:
-  - Números de Pol
+  - Los Números de Pol
   - Primera Federación
   - Reina Sofía
   - Unionistas
