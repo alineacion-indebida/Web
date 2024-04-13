@@ -1,11 +1,18 @@
 ---
-date: '2024-03-21T23:00:00.000+01:00'
-title: 'Nàstic Unionistas - Los numeros de Pol'
-description: 'Los numeros de Pol. Primera federación grupo 1, jornada 29.'
-imagen: '/img/noticias/numeros-pol.webp'
-categorias: ['Primera federación']
-autor: 'Pol Zakour'
-tags: ['Primera federacion', 'Nàstic', 'Estadísticas']
+title: Nàstic - USCF - Los números de Pol
+description: Los números de Pol. Primera Federación, grupo 1, jornada 29.
+date: 2024-03-21T23:00:00.000+01:00
+imagen: /img/noticias/numeros-pol.webp
+categorias:
+  - Primera Federación
+tags:
+  - Los Números de Pol
+  - Primera Federación
+  - Nou Estadi
+  - Nàstic
+  - Unionistas
+  - Estadísticas
+autor: Pol Zakour
 ---
 
 Hoy presentamos una nueva sección en Alineación Indebida, un rincón para los más amantes de los datos y estadísticas que, obviamente y como el resto de secciones, queda abierto para que todos participéis y nos ayudéis con vuestros números y opiniones.
