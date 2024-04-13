@@ -6,7 +6,7 @@ imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Primera Federación
 tags:
-  - "#Números de Pol"
+  - "#Numeros de Pol"
   - "#Primera Federación"
   - "#Riazor"
   - "#Unionistas"
