@@ -1,11 +1,18 @@
 ---
-date: '2024-04-04T20:00:00.000+01:00'
-title: 'Deportivo Unionistas - Los numeros de Pol'
-description: 'Los numeros de Pol. Primera federación grupo 1, jornada 31.'
-imagen: '/img/noticias/numeros-pol.webp'
-categorias: ['Primera federación']
-autor: 'Pol Zakour'
-tags: ['Primera federacion', 'Riazor', 'Depor', 'Estadísticas']
+title: Deportivo- USCF - Los números de Pol
+description: Los números de Pol. Primera Federación, grupo 1, jornada 31.
+date: 2024-04-04T20:00:00.000+01:00
+imagen: /img/noticias/numeros-pol.webp
+categorias:
+  - Primera Federación
+tags:
+  - "#Números de Pol"
+  - "#Primera Federación"
+  - "#Riazor"
+  - "#Unionistas"
+  - "#Dépor"
+  - "#Estadísticas"
+autor: Pol Zakour
 ---
 
 Partido bonito, de los que se disfrutan, el que se disputará en el Estadio de Riazor este domingo entre RC Deportivo y Unionistas de Salamanca. El conjunto blanquinegro marcha hasta A Coruña para enfrentarse a un líder sólido, que quiere seguirlo siendo ante el asedio de sus perseguidores por el ascenso directo. La Copa del Rey sigue viva para los de Dani Ponz al igual que, hasta que los números digan lo contrario, un hipotético playoff de ascenso.
