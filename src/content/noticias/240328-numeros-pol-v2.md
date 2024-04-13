@@ -1,11 +1,18 @@
 ---
-date: '2024-03-28T20:00:00.000+01:00'
-title: 'Unionistas Logroñes - Los numeros de Pol'
-description: 'Los numeros de Pol. Primera federación grupo 1, jornada 30.'
-imagen: '/img/noticias/numeros-pol.webp'
-categorias: ['Primera federación']
-autor: 'Pol Zakour'
-tags: ['Primera federacion', 'SDL', 'Logroñes', 'Estadísticas']
+title: USCF - SD Logroñés - Los números de Pol
+description: Los números de Pol. Primera Federación, grupo 1, jornada 30.
+date: 2024-03-28T20:00:00.000+01:00
+imagen: /img/noticias/numeros-pol.webp
+categorias:
+  - Primera Federación
+tags:
+  - Los números de Pol
+  - Primera Federación
+  - Reina Sofía
+  - Unionistas
+  - SD Logroñés
+  - Estadísticas
+autor: Pol Zakour
 ---
 
 Trascendental partido en esta 30ª jornada el que acoge el Reina Sofía para las aspiraciones de ambos equipos con un objetivo a priori diferente, pero con el deseo de volver a engancharse tras una mala dinámica: poder llegar a una Copa del Rey que le queda ahora mismo a 4 puntos al cuadro charro, o a una soñada salvación que también separan en 4 dígitos  al conjunto logroñés.
