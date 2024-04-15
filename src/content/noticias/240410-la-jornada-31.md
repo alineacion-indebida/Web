@@ -30,7 +30,7 @@ Puntos muy importantes para los dos equipos los que se jugaban en la Nova Creu A
 
 ## RAYO MAJADAHONDA 0 – PONFERRADINA 1
 
-La Ponferradina puso más sobre el terreno de juego que el conjunto majariego. Ante una nutrida presencia de aficionados desplazados, los bercianos tuvieron numerosas ocasiones y pusieron a prueba al meta Dani Martín, pero no fue hasta el minuto 74 cuando el joven ariete Álex Costa consiguió el gol de la victoria. No sin dificultades, la Ponferradina rompe su mala racha y confirma sus aspiraciones de play-off, que habían empezado a peligrar. El Rayo Majadahonda queda definitivamente descolgado como colista, a 13 puntos de una permanencia muy disputada cuando sólo quedan 21 por jugarse. 
+La Ponferradina puso más sobre el terreno de juego que el conjunto majariego. Ante una nutrida presencia de aficionados desplazados, los bercianos tuvieron numerosas ocasiones y pusieron a prueba al meta Dani Martín, pero no fue hasta el minuto 74 cuando el joven ariete Álex Costa consiguió el gol de la victoria. No sin dificultades, la Ponferradina rompe su mala racha y confirma sus aspiraciones de play-off, que habían empezado a peligrar. El Rayo Majadahonda queda definitivamente descolgado como colista, a 13 puntos de una permanencia muy disputada cuando sólo quedan 21 por jugarse.
 
 ## CELTA FORTUNA 4 – OSASUNA PROMESAS 1
 
