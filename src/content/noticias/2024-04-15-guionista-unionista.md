@@ -1,5 +1,4 @@
 ---
-layout: noticias
 title: Guionista unionista - La firma destacada
 description: Visión detenida y opinión de lo acontecido en el USCF - Barsa Atlétic. Comunión entre grada y equipo y permanecía asegurada.
 date: 2024-04-15T14:44:00.000Z

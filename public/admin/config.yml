@@ -16,7 +16,6 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "noticias" }
       - { label: "Titulo", name: "title", widget: "string" }
       - { label: "Descripción", name: "description", widget: "string" }
       - { label: "Fecha publicación", name: "date", widget: "datetime" }
