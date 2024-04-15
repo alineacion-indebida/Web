@@ -70,13 +70,13 @@ Por favor, consulta nuestra [guía de contribución](https://github.com/alineaci
 [astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
 [typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=blue
 [tailwind-badge]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
-[contributors-shield]: https://img.shields.io/github/contributors/adriandpdev/AlineacionIndebida.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alineacion-indebida/Web.svg?style=for-the-badge
 [contributors-url]: https://github.com/alineacion-indebida/Web/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adriandpdev/AlineacionIndebida.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/alineacion-indebida/Web.svg?style=for-the-badge
 [forks-url]: https://github.com/alineacion-indebida/Web/network/members
-[stars-shield]: https://img.shields.io/github/stars/adriandpdev/AlineacionIndebida.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/alineacion-indebida/Web.svg?style=for-the-badge
 [stars-url]: https://github.com/alineacion-indebida/Web/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adriandpdev/AlineacionIndebida.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/alineacion-indebida/Web.svg?style=for-the-badge
 [issues-url]: https://github.com/alineacion-indebida/Web/issues
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
