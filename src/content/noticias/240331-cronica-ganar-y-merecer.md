@@ -5,7 +5,7 @@ description: La firma de Miguel Ontiyuelo sobre el partido de Unionistas contra
 date: 2024-03-31T17:00:00.000+01:00
 imagen: /img/noticias/etxaniz.webp
 categorias:
-  - La firma destacada
+  - La Firma Destacada
 tags:
   - Primera Federación
   - jornada 30

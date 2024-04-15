@@ -3,7 +3,7 @@ date: '2024-03-25T17:00:00.000+01:00'
 title: 'La opinión indebida del Nastic - Unionistas'
 description: 'Nuestra opinión del encuentro disputado entre Nastic de Tarragona y Unionistas de Salamanca. Primera federación grupo 1, jornada 29.' 
 imagen: '/img/noticias/nasticuscf.webp'
-categorias: ['La opinión indebida']
+categorias: ['La Opinión Indebida']
 autor: 'Indebiders'
 tags: ['Primera federacion', 'Nastic','Tarragona','Unionistas','Salamanca','Nou estadi Costa Dourada']
 ---

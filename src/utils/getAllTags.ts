@@ -55,8 +55,8 @@ export const taxonomyFilter = (posts: any[], name: string, key: any) =>
     posts.filter((post) => post.data[name].map((name: string) => deslugify(name)).includes(deslugify(key)));
 
 const categoriaCronicas = [
-    "La opinión indebida",
-    "La firma"
+    "La Opinión Indebida",
+    "La Firma Destacada"
 ]
 
 export const getCronicas = async () => {

@@ -5,7 +5,7 @@ description: La firma de Carlos Matía sobre el partido de Unionistas contra RC
 date: 2024-04-09T10:00:00.000+01:00
 imagen: /img/noticias/aficion-riazor-24.webp
 categorias:
-  - La firma destacada
+  - La Firma Destacada
 tags:
   - Primera Federación
   - jornada 31

@@ -3,7 +3,7 @@ date: '2024-04-01T17:00:00.000+01:00'
 title: 'La opinión indebida de la fiesta del fútbol popular'
 description: 'Nuestra opinión de la fiesta y el encuentro disputado entre Unionistas de Salamanca y la Sociedad Deportiva Logroñes. Primera federación grupo 1, jornada 30.' 
 imagen: '/img/noticias/mesa-redonda-futbol-popular.webp'
-categorias: ['La opinión indebida']
+categorias: ['La Opinión Indebida']
 autor: 'Indebiders'
 tags: ['Primera federacion','Unionistas', 'SDL', 'fútbol', 'Fútbol popular']
 ---
