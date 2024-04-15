@@ -57,7 +57,7 @@
       "date": "2024-04-27T16:00:00.000+01:00",
       "jornada": "34",
       "local": true,
-      "rival": "Centre d'Esports Sabadell Futbol Club",
+      "rival": "CE Sabadell Futbol Club",
       "estadio": "Municipal Reina Sofía"
     },
     {
@@ -84,7 +84,7 @@
       "id": 9,
       "slug": "2324-majadahonda-unionistas",
       "imagen": "/img/noticias/aficionreinasofia.webp",
-      "date": "2024-05-18T17:00:00.000+01:00",
+      "date": "2024-05-18T19:00:00.000+01:00",
       "jornada": "37",
       "local": false,
       "rival": "Club de Fútbol Rayo Majadahonda",
@@ -94,7 +94,7 @@
       "id": 10,
       "slug": "2324-unionistas-arenteiro",
       "imagen": "/img/noticias/aficionreinasofia.webp",
-      "date": "2024-5-25T17:00:00.000+01:00",
+      "date": "2024-5-25T19:00:00.000+01:00",
       "jornada": "38",
       "local": true,
       "rival": "Club Deportivo Arenteiro",

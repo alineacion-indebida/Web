@@ -56,8 +56,6 @@ export default defineConfig({
 		],
 	},
 	redirects: {
-		"/noticias/la-firma-osasuna-promesas/": "/noticias/240318-la-firma-osasuna-promesas/",
-		"/noticias/la-vision-indebida-osasuna-promesas/": "/noticias/240317-la-opinion-osasuna-promesas/",
 		"/quiensomos/": "/quienes-somos/",
 	}
 })
