@@ -2,6 +2,7 @@ import { defineCollection, z } from 'astro:content';
 
 const noticias = defineCollection({
     schema: z.object({
+        layout: z.string(),
         title: z.string(),
         description: z.string(),
         date: z.coerce.date(),
