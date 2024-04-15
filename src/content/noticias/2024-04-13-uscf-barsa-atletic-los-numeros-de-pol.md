@@ -26,7 +26,7 @@ La victoria en el último encuentro en casa ante la SD Logroñés sirvió para s
 
 ## Regularidad y racha positiva en el FC Barcelona Atlètic
 
-Llega a Salamanca el conjunto dirigido por Rafa Márquez en una dinámica espectacular de resultados. Mejor local de la competición y tercer mejor visitante el filial blaugrana acumula 12 partidos sin conocer la derrota, en una racha de resultados que únicamente mejora el RC Deportivo, actual líder de la competición, con 4 victorias en los últimos 5 desplazamientos (Osasuna Promesas, Teruel, Sabadell y Fuenlabrada). 
+Llega a Salamanca el conjunto dirigido por Rafa Márquez en una dinámica espectacular de resultados. Mejor local de la competición y tercer mejor visitante el filial blaugrana acumula 12 partidos sin conocer la derrota, en una racha de resultados que únicamente mejora el RC Deportivo, actual líder de la competición, con 4 victorias en los últimos 5 desplazamientos (Osasuna Promesas, Teruel, Sabadell y Fuenlabrada).
 
 ## Una cantera prolífica
 
@@ -36,6 +36,6 @@ Como dato curioso, el FC Barcelona Atlètic es el equipo de Primera RFEF en el q
 
 Choque entre Unionistas de Salamanca y FC Barcelona Atlètic correspondiente a la Jornada 32 del Campeonato Nacional de Liga de Primera RFEF Grupo I que se disputará el domingo 14/Abril a las 19:00h en un Estadio Reina Sofía que se espera abarrotado de aficionados charros que querrán disfrutar de una victoria de su equipo ante uno de los mejores filiales del mundo, con jugadores llamados a dominar el fútbol nacional en próximas temporadas. El encuentro estará dirigido por Imanol Irurtzun Artola, adherido al Colegio navarro.
 
-El árbitro de Ihabar únicamente ha sido citado para los choques de Unionistas de Salamanca en una ocasión. Fue la temporada pasada, aún con Raúl Casañ en el banquillo, en un 0-0 ante el CD Badajoz en el que los charros se quedaron con un jugador menos en el minuto 9 tras la doble amarilla a Ramiro Mayor y que los extremeños no pudieron adelantarse pese a un penalti a favor en el minuto 39. 
+El árbitro de Ihabar únicamente ha sido citado para los choques de Unionistas de Salamanca en una ocasión. Fue la temporada pasada, aún con Raúl Casañ en el banquillo, en un 0-0 ante el CD Badajoz en el que los charros se quedaron con un jugador menos en el minuto 9 tras la doble amarilla a Ramiro Mayor y que los extremeños no pudieron adelantarse pese a un penalti a favor en el minuto 39.
 
 Aún no ha arbitrado al FC Barcelona Atlètic el colegiado de 35 años que promedia esta temporada 4 victorias locales, 4 empates y 2 victorias visitantes, aunque sus datos son más optimistas en su carrera en la tercera categoría, con 33 victorias locales, 26 tablas y únicamente 10 encuentros en los que viajaron los 3 puntos.
