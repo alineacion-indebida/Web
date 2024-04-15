@@ -1,9 +1,9 @@
 ---
 layout: noticias
 title: Guionista unionista - La firma destacada
-description: "Visión detenida y opinión de lo acontecido en el USCF - Barsa Atlétic. Comunión entre grada y equipo y permanecía asegurada. "
+description: Visión detenida y opinión de lo acontecido en el USCF - Barsa Atlétic. Comunión entre grada y equipo y permanecía asegurada.
 date: 2024-04-15T14:44:00.000Z
-imagen: /img/noticias/uscf-barsab.webp
+imagen: '/img/noticias/uscf-barsab.webp'
 categorias:
   - La Firma Destacada
 tags:
@@ -13,7 +13,7 @@ tags:
   - Reina Sofía
   - La Firma Destacada
   - Crónica
-autor: "Jaime García (Món)"
+autor: Jaime García (Món)
 ---
 Sólo el autor d guiones más optimistamente unionista hubiera imaginado lo acontecido ayer en el Reina Sofía.
 
