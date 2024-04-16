@@ -6,7 +6,7 @@ backend:
   base_url: https://www.alineacionindebida.com
   auth_endpoint: oauth
 
-media_folder: "/img/noticias"
+media_folder: "public/img/noticias"
 public_folder: "/img/noticias"
 
 collections:
