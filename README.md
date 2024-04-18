@@ -55,7 +55,7 @@ Por favor, consulta nuestra [guía de contribución](https://github.com/alineaci
 
 **¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
 
-[![Contribuidores](https://contrib.rocks/image?repo=adriandpdev/AlineacionIndebida)](https://github.com/alineacion-indebida/Web/graphs/contributors)
+[![Contribuidores](https://contrib.rocks/image?repo=alineacion-indebida/Web)](https://github.com/alineacion-indebida/Web/graphs/contributors)
 
 ## 🛠️ Stack
 
