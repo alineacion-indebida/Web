@@ -9,7 +9,7 @@ export async function getStaticPaths() {
 
 	return tags.map((tag: any) => {
 		return {
-			params: { tag: tag["slug"] },
+			params: { tag: tag.slug },
 		}
 	})
 }

@@ -1,8 +1,8 @@
 ---
 interface Props {
-	id: string;
-	name: string;
-	url: string;
+	id: string
+	name: string
+	url: string
 }
 
 const { id, name, url } = Astro.props;
@@ -10,18 +10,18 @@ const { id, name, url } = Astro.props;
 
 <li class="rrss">
     <a
-        class="company-link group relative flex h-24 items-center justify-center overflow-hidden md:h-32"
-        title={`Visita la página del patrocinador ${name}`}
-        href={url}
-        target="_blank"
-        rel="noopener noreferrer"
+	class="company-link group relative flex h-24 items-center justify-center overflow-hidden md:h-32"
+	title={`Visita la página del patrocinador ${name}`}
+	href={url}
+	target="_blank"
+	rel="noopener noreferrer"
     >
 	<img
-	loading="lazy"
-	src={`/img/rrss/${id}.svg`}
-	alt={`Logo del patrocinador ${name}`}
-	class="company-logo w-30 h-auto px-4 transition group-hover:scale-110"
-/>
+		loading="lazy"
+		src={`/img/rrss/${id}.svg`}
+		alt={`Logo del patrocinador ${name}`}
+		class="company-logo w-30 h-auto px-4 transition group-hover:scale-110"
+	/>
     </a>
 </li>
 <style>

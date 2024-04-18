@@ -1,29 +1,29 @@
 ---
-import Layout from "@/layouts/Layout.astro"
 import Posts from "@/components/PostGrid.astro"
-import { getTaxonomy, getSinglePage, taxonomyFilter } from "@/utils/getAllTags";
-import { deslugify } from "@/utils/slug";
+import Layout from "@/layouts/Layout.astro"
+import { getSinglePage, getTaxonomy, taxonomyFilter } from "@/utils/getAllTags"
+import { deslugify } from "@/utils/slug"
 
 export async function getStaticPaths() {
-  const categorias = await getTaxonomy("noticias", "categorias");
+	const categorias = await getTaxonomy("noticias", "categorias")
 
-  return categorias.map((categoria:any) => {
-    return {
-      params: { categoria: categoria['slug'] },
-    };
-  });
+	return categorias.map((categoria: any) => {
+		return {
+			params: { categoria: categoria.slug },
+		}
+	})
 }
 
-const { categoria } = Astro.params;
+const { categoria } = Astro.params
 
-const posts = await getSinglePage("noticias");
-const filterByCategory = taxonomyFilter(posts, "categorias", categoria);
+const posts = await getSinglePage("noticias")
+const filterByCategory = taxonomyFilter(posts, "categorias", categoria)
 ---
 
 <Layout
-  title=`'${deslugify(categoria)}' - Alineación indebida`
+	title=`'${deslugify(categoria)}' - Alineación indebida`
 	description=`Toda la información sobre '${deslugify(categoria)}' que tratamos en nuestras noticias de la Web Oficial del programa Alineación Indebida.`
 >
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Categoria: {deslugify(categoria)}</h1>
-	<Posts posts={filterByCategory}/>
+	<Posts posts={filterByCategory} />
 </Layout>

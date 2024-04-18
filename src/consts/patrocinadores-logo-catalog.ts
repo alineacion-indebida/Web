@@ -49,7 +49,7 @@ interface LogoType {
 }
 
 export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
-	"Sercine": {
+	Sercine: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{
@@ -57,7 +57,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	"Duran": {
+	Duran: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{
@@ -65,7 +65,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	"Osdama": {
+	Osdama: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{
@@ -73,7 +73,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	"Casaserra": {
+	Casaserra: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{
@@ -81,7 +81,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	"Albia": {
+	Albia: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{
@@ -89,7 +89,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	"Fantasmas": {
+	Fantasmas: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{
@@ -97,7 +97,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	"LiliCook": {
+	LiliCook: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{
@@ -105,7 +105,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	"Guinaldo": {
+	Guinaldo: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{

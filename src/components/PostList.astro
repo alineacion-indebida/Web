@@ -1,7 +1,7 @@
 ---
+import { Image } from "astro:assets"
 import FormattedDate from "@/components/FormattedDate.astro"
 import { slugify } from "@/utils/slug"
-import { Image } from "astro:assets"
 
 type PostType = {
 	id: string
@@ -50,7 +50,7 @@ const formatDate = {
 				<div class="w-full">
 					<div class="flex flex-wrap items-center justify-between gap-x-2 text-xs text-white w-full">
 						<FormattedDate date={post.data.date} format={formatDate} />
-						{post.data.categorias.slice(0, 1).map((item) => (
+						{post.data.categorias.slice(0, 1).map(item => (
 							<a
 								href={`/categorias/${slugify(item)}`}
 								class="text-md relative rounded-full px-3 py-1.5 font-medium capitalize hover:bg-zinc-50 hover:text-zinc-900 bg-zinc-900 text-zinc-400"

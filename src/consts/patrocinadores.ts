@@ -37,7 +37,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
+		svg: false,
 	},
 	{
 		id: "Duran",
@@ -47,7 +47,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
+		svg: false,
 	},
 	{
 		id: "LiliCook",
@@ -57,7 +57,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
+		svg: false,
 	},
 	{
 		id: "Osdama",
@@ -67,7 +67,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
+		svg: false,
 	},
 	{
 		id: "Casaserra",
@@ -77,7 +77,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
+		svg: false,
 	},
 	{
 		id: "Albia",
@@ -87,7 +87,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
+		svg: false,
 	},
 	{
 		id: "Fantasmas",
@@ -97,7 +97,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
+		svg: false,
 	},
 	{
 		id: "Guinaldo",
@@ -107,6 +107,6 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: false
-	}
+		svg: false,
+	},
 ] as const

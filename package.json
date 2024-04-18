@@ -10,7 +10,7 @@
     "astro": "astro",
     "check": "astro check && tsc --noEmit",
     "lint": "eslint .",
-    "lint:fix": "eslint --ext .astro,.ts,.js,.tsx . --fix",
+    "lint:fix": "eslint . --fix",
     "format": "prettier --write src",
     "format:check": "prettier --check src",
     "prepare": "husky"

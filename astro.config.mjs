@@ -2,7 +2,7 @@ import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
 import partytown from "@astrojs/partytown"
 import vercel from "@astrojs/vercel/serverless"
-import decapCmsOauth from "astro-decap-cms-oauth";
+import decapCmsOauth from "astro-decap-cms-oauth"
 
 import { VitePWA } from "vite-plugin-pwa"
 import { defineConfig } from "astro/config"
@@ -22,11 +22,11 @@ export default defineConfig({
 			config: {
 				forward: ["dataLayer.push"],
 			},
-		})
+		}),
 	],
 	adapter: vercel({
 		webAnalytics: { enabled: true },
-		functionPerRoute: false 
+		functionPerRoute: false,
 	}),
 	build: {
 		inlineStylesheets: "always",
@@ -35,7 +35,7 @@ export default defineConfig({
 	site: seoConfig.baseURL,
 	vite: {
 		resolve: {
-			preserveSymlinks: true
+			preserveSymlinks: true,
 		},
 		build: {
 			cssMinify: "lightningcss",
@@ -57,5 +57,5 @@ export default defineConfig({
 	},
 	redirects: {
 		"/quiensomos/": "/quienes-somos/",
-	}
+	},
 })

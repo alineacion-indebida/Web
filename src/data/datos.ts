@@ -1,6 +1,6 @@
-import datosData from './datos.json';
+import datosData from "./datos.json"
 
-const Equipo = datosData.equipo;
-const Temporadas = datosData.temporadas;
+const Equipo = datosData.equipo
+const Temporadas = datosData.temporadas
 
-export { Equipo, Temporadas };
+export { Equipo, Temporadas }

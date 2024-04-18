@@ -6,11 +6,12 @@ import Layout from "@/layouts/Layout.astro"
 export const prerender = false
 
 const slug = Astro.params.slug
-var video: any
+let video: any
 
-if (slug && videosMap.has(slug)) {
+if (slug && videosMap.has(slug))
 	video = videosMap.get(slug)
-} else return Astro.redirect("/404")
+else
+	return Astro.redirect("/404")
 ---
 
 <Layout

@@ -22,7 +22,7 @@ Sólo parece haber 2 clubes descolgados: SD Logroñés y Rayo Majadahonda, más 
 
 ## REAL SOCIEDAD B 2 – SESTAO RIVER 3
 
-La jornada se inauguraba con un partido que parecía un *dejavú*. Son ya muchos los puntos que se ha dejado la Real Sociedad B en Zubieta. El Sestao River remontaba el tanto inicial de Magunazelaia y ponía tierra de por medio marcando 3. En esta ocasión los *txuri-urdin* no tuvieron empuje suficiente para amarrar un empate al final y confirman su situación intermedia en la tabla, 5 puntos de los últimos 15 posibles, mientras los sestaotarras siguen puntuando y ya igualan con los puestos de permanencia. 
+La jornada se inauguraba con un partido que parecía un *dejavú*. Son ya muchos los puntos que se ha dejado la Real Sociedad B en Zubieta. El Sestao River remontaba el tanto inicial de Magunazelaia y ponía tierra de por medio marcando 3. En esta ocasión los *txuri-urdin* no tuvieron empuje suficiente para amarrar un empate al final y confirman su situación intermedia en la tabla, 5 puntos de los últimos 15 posibles, mientras los sestaotarras siguen puntuando y ya igualan con los puestos de permanencia.
 
 ## SABADELL 1 – TERUEL 1
 

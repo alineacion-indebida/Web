@@ -6,12 +6,12 @@ import Layout from "@/layouts/Layout.astro"
 export const prerender = false
 
 const slug = Astro.params.slug
-var partido: any
-if (slug && partidosMap.has(slug)) {
+let partido: any
+if (slug && partidosMap.has(slug))
 	partido = partidosMap.get(slug)
-} else {
+ else
 	return Astro.redirect("/404")
-}
+
 
 const textoPartido = (partido.local ? "Unionistas de Salamanca" : partido.rival).concat(" - ").concat(partido.local ? partido.rival : "Unionistas de Salamanca")
 ---

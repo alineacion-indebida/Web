@@ -1,9 +1,8 @@
 ---
+import { getCollection } from "astro:content"
 import Pagination from "@/components/Pagination.astro"
 import Posts from "@/components/PostGrid.astro"
 import Layout from "@/layouts/Layout.astro"
-
-import { getCollection } from "astro:content"
 
 export async function getStaticPaths({ paginate }: any) {
 	const allPosts = await getCollection("noticias")
@@ -22,7 +21,7 @@ const { page } = Astro.props
 		length={page["lastPage"]}
 		currentUrl={page["url"]["current"]}
 		currentPage={page["currentPage"]}
-		firstUrl={`/noticias/`}
+		firstUrl="/noticias/"
 		prevUrl={page["url"]["prev"]}
 		nextUrl={page["url"]["next"]}
 		lastUrl={`/noticias/${page["lastPage"]}`}

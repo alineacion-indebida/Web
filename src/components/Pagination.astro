@@ -9,7 +9,8 @@ const paginationList = Array.from({ length }, (_, i) => i + 1)
 <nav class="mt-12">
 	<ol class="flex justify-center gap-3 text-xs font-medium">
 		{
-			prevUrl ? (
+			prevUrl
+? (
 				<li>
 					<a
 						href={prevUrl}
@@ -19,13 +20,14 @@ const paginationList = Array.from({ length }, (_, i) => i + 1)
 						<PrevIcon />
 					</a>
 				</li>
-			) : null
+			)
+: null
 		}
 		{
-			paginationList?.map((num) => (
+			paginationList?.map(num => (
 				<li>
 					<a
-						href={`${firstUrl}${num == 1 ? "" : "" + num}`}
+						href={`${firstUrl}${num == 1 ? "" : `${num}`}`}
 						class={`block h-8 w-8 rounded border text-center leading-8 text-white hover:bg-accent hover:text-black ${
 							currentPage == num ? "border-accent" : "hover:border-accent"
 						}`}
@@ -36,7 +38,8 @@ const paginationList = Array.from({ length }, (_, i) => i + 1)
 			))
 		}
 		{
-			nextUrl ? (
+			nextUrl
+? (
 				<li>
 					<a
 						href={nextUrl}
@@ -46,7 +49,8 @@ const paginationList = Array.from({ length }, (_, i) => i + 1)
 						<NextIcon />
 					</a>
 				</li>
-			) : null
+			)
+: null
 		}
 	</ol>
 </nav>

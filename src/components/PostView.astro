@@ -1,9 +1,9 @@
 ---
+import { Image } from "astro:assets"
+import ButtonsShare from "./ButtonsShare.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import Layout from "@/layouts/Layout.astro"
 import { slugify } from "@/utils/slug"
-import { Image } from "astro:assets"
-import ButtonsShare from "./ButtonsShare.astro"
 
 const { title, description, date, imagen, categorias, tags, autor, slug } = Astro.props
 const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"

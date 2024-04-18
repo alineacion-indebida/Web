@@ -9,7 +9,7 @@ const pages = [
 	{ name: "CRÓNICAS", href: "/cronicas" },
 	{ name: "VÍDEOS", href: "/videos" },
 	{ name: "QUIÉNES SOMOS", href: "/quienes-somos/" },
-].map((page) => ({
+].map(page => ({
 	...page,
 	active: Astro.url.pathname.replaceAll("/", "") === page.href.replaceAll("/", ""),
 }))
