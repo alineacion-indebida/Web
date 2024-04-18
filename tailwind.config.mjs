@@ -1,4 +1,6 @@
 import defaultTheme from "tailwindcss/defaultTheme"
+import Typography from "@tailwindcss/typography"
+
 /** @type {import('tailwindcss').Config} */
 export default {
 	content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
@@ -23,7 +25,7 @@ export default {
 		},
 	},
 	plugins: [
-		require('@tailwindcss/typography'),
+		Typography,
 		function ({ addVariant }) {
 			addVariant("any-hover", "@media (any-hover: hover) { &:hover }")
 			addVariant("mobile", "@media (any-hover: none) { & }")

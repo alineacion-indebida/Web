@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { getCollection } from 'astro:content';
 import type { MDXInstance } from 'astro';
 import { slugify, deslugify } from './slug';
@@ -41,9 +40,9 @@ export const getTaxonomy = async (collection: any, name: string) => {
 export const getSinglePage = async (collection: any) => {
     const allPage = await getCollection(collection);
     var formattedPosts = allPage
-    if(collection=="noticias"){
+    if (collection == "noticias") {
         var formattedPosts = allPage.sort(
-            (a:any, b:any) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime()
+            (a: any, b: any) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime()
         )
     }
     const removeIndex = formattedPosts.filter((data: any) => data.id.match(/^(?!-)/));

@@ -10,9 +10,7 @@ var video: any
 
 if (slug && videosMap.has(slug)) {
 	video = videosMap.get(slug)
-} else {
-	return Astro.redirect("/404")
-}
+} else return Astro.redirect("/404")
 ---
 
 <Layout
