@@ -20,7 +20,7 @@
     "@fontsource-variable/jost": "5.0.18",
     "@vercel/analytics": "1.2.2",
     "@vercel/speed-insights": "1.0.10",
-    "astro": "4.6.1",
+    "astro": "4.6.2",
     "astro-decap-cms-oauth": "0.2.9",
     "decap-cms-app": "3.1.10"
   },
