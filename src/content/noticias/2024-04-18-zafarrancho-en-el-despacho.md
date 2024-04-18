@@ -19,7 +19,7 @@ Son días de entrevistas en medios donde los jugadores expresan su vocación de 
 
 También son días en que en redes sociales  se empiezan a ver videos de highlights o actuaciones de los jugadores.
 
-Profesionales en un mercado buscádose el pan, y un club tratando de mejorar optomizando sus recursos. Un tira y afloja curioso, una pareja bien avenida pero en la que ninguno cierra su cuenta en una app de contactos.
+Profesionales en un mercado buscádose el pan, y un club tratando de mejorar optimizando sus recursos. Un tira y afloja curioso, una pareja bien avenida pero en la que ninguno cierra su cuenta en una app de contactos.
 
 A Unionistas este año le suena la bolsa. "La Copa mola"; ya te digo que si mola... El excelente resultado de la participación en  Copa del Rey 2024 ha supuesto un extra jugosísimo respecto a la cifras previstas. Bendito problema, pero problema al fin y al cabo.
 
