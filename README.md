@@ -8,7 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <a href="https://github.com/adriandpdev/AlineacionIndebida">
-  <img src="./public/img/Logo.png" alt="Logo" width="800" />
+  <img src="./public/img/Logo.png" alt="Logo" width="400" />
 </a>
 
 ## Web oficial de Alineación indebida
@@ -21,78 +21,19 @@ Alineacion indebida es un programa de información sobre Unionistas de Salamanca
 <details>
 <summary>Tabla de contenidos</summary>
 
-- [Web oficial de Alineación indebida](#Web-oficial-de-Alineación-indebida)
+- [Web oficial de Alineación indebida](#web-oficial-de-alineación-indebida)
 - [Características principales](#características-principales)
-  - [Capturas de pantalla de la web de Alineación Indebida:](#capturas-de-pantalla-de-la-web-de-Alineación-Indebida)
-- [Para empezar](#para-empezar)
-  - [Prerequisitos](#prerequisitos)
-  - [Instalación](#instalación)
 - [Contribuir al proyecto](#contribuir-al-proyecto)
-  - [Contribuir desde Stackblitz](#contribuir-desde-stackblitz)
 - [🛠️ Stack](#️-stack)
 
 </details>
 
 ## Características principales
 
-- **Detalles del evento**: Obtén información detallada sobre la fecha, hora, ubicación y artistas participantes.
-- **Compra de boletos**: Permite a los usuarios dirigirlos a la compra de boletos fácilmente.
+- **Listado de noticias**: Informate de la actualidad del deporte salmantino.
+- **Visionado de videos**: Disfruta con nuestros últimos videos de youtube.
 - **Redes sociales**: Conoce las redes oficiales donde podrás informarte sobre el evento.
-
-### Capturas de pantalla de la web de Alineación Indebida:
-
-![Captura de pantalla en móvil](./public/img/github/Mobile_README.png)
-![Captura de pantalla en ordenador](./public/img/github/Desktop_README.png)
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-## Para empezar
-
-### Prerequisitos
-
-- NVM (recomendado para asegurar versión de Node) ver [documentación oficial](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
-
-	```sh
-	nvm use
-	# o
-	nvm use <version>
-	```
-
-> Si quieres automatizar el proceso, puedes crear un script siguiendo la [documentación oficial](https://github.com/nvm-sh/nvm?tab=readme-ov-file#calling-nvm-use-automatically-in-a-directory-with-a-nvmrc-file)
-
-- PNPM (es nuestra recomendación por su eficiencia y rapidez)
-
-  ```sh
-  npm install -g pnpm
-  ```
-
-- o NPM
-
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Instalación
-
-1. Clona el repositorio
-
-   ```sh
-   git clone https://github.com/adriandpdev/AlineacionIndebida.git
-   ```
-
-2. Instala los paquetes de NPM
-
-   ```sh
-   pnpm install
-   ```
-
-3. Ejecuta el proyecto
-
-   ```sh
-   pnpm run dev
-   ```
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+- **¡Mucho más!**
 
 ## Contribuir al proyecto
 
@@ -112,17 +53,9 @@ Aquí tienes una guía rápida:
 
 Por favor, consulta nuestra [guía de contribución](https://github.com/adriandpdev/AlineacionIndebida/blob/master/CONTRIBUTING.md) para saber cómo puedes empezar de la mejor manera y siguiendo [buenas prácticas](https://github.com/adriandpdev/AlineacionIndebida/blob/main/CONTRIBUTING.md#buenas-prácticas-).
 
-### Contribuir desde Stackblitz
-
-Si quieres contribuir de una manera mas sencilla, puedes iniciar este proyecto desde _Stackblitz_ usando tu cuenta de GitHub:
-
-[![Abrir en Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/adriandpdev/AlineacionIndebida)
-
 **¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
 
 [![Contribuidores](https://contrib.rocks/image?repo=adriandpdev/AlineacionIndebida)](https://github.com/adriandpdev/AlineacionIndebida/graphs/contributors)
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 ## 🛠️ Stack
 
