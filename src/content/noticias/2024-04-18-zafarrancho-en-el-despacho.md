@@ -4,11 +4,11 @@ description: "Visión detenida y opinión sobre la actulidad de Unionistas de Sa
 date: 2024-04-18T18:03:00.000Z
 imagen: /img/noticias/20240128_130715.jpg
 categorias:
-  - ApuntesDesdeLaPanelais
+  - Apuntes Desde La Panelais
 tags:
-  - "#UnionistasDeSalamanca"
-  - "#Mercado"
-  - "#Fichajes"
+  - "Unionistas De Salamanca"
+  - "Mercado"
+  - "Fichajes"
 autor: "Jaime García (Món) "
 ---
 Con los ecos del saludo entre equipo y grada tras la fiesta del partido contra el filial del FC Barcelona, la idea de que la salvación estaba sellada asaltaba a todos los presentes, del césped al último escalón del Reina. Abrazos, sonrisas, puños cerrados al aire,  palmadas en la espalda y apretones de mano. 
