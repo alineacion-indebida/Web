@@ -5,6 +5,12 @@ date: 2024-04-19T19:11:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
   - PrimeraFederación
+tags:
+  - Los Números de Pol
+  - Primera Federación
+  - Real Unión
+  - Unionistas
+  - Estadísticas
 autor: Pol Zakour
 ---
 Final, duelo a vida o muerte…
