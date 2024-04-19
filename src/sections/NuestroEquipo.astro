@@ -7,7 +7,7 @@ import { Equipo } from "@/data/datos"
 	<Typography as="h3" variant="h3" color="white" class="text-center"> Nuestro equipo maravilloso </Typography>
 	<div class="mt-4 grid select-none grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-4 ">
 		{
-			Equipo.map(({ nombre, puesto }) => (
+			Equipo.map(({ nombre, puesto, img }) => (
 				<div class="card group relative inline-block aspect-square h-auto w-full transform-gpu overflow-hidden hover:scale-105">
 					<div class="relative z-20 flex h-full flex-col items-center justify-end gap-2 ">
 						<div>
@@ -24,8 +24,8 @@ import { Equipo } from "@/data/datos"
 					<img
 						decoding="async"
 						loading="lazy"
-						class="absolute bottom-0 z-10 mx-auto h-full w-full p-2 group-hover:scale-105"
-						src="/img/usuario.webp"
+						class="absolute bottom-0 inset-x-0 z-10 mx-auto h-full w-auto p-2 group-hover:scale-105"
+						src={img}
 						alt={nombre}
 						style="mask-image: linear-gradient(black 70%, transparent 100%);"
 					/>

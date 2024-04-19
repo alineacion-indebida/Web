@@ -3,7 +3,7 @@ title: Sol en el cielo y muchos nubarrones en el Infierno
 description: Análisis de lo acontecido en la jornada 32 del Grupo 1 de La liga
   de Primera RFEF
 date: 2024-04-16T13:30:00.000Z
-imagen: /img/noticias/nubarrones.jpg
+imagen: /img/noticias/nubarrones.webp
 categorias:
   - ResumenDeLaJornada
 autor: "Key Galán "

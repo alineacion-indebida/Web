@@ -2,7 +2,7 @@
 title: Zafarrancho en el despacho
 description: "Visión detenida y opinión sobre la actulidad de Unionistas de Salamanca . "
 date: 2024-04-18T18:03:00.000Z
-imagen: /img/noticias/20240128_130715.jpg
+imagen: /img/noticias/panelais-reina.webp
 categorias:
   - Apuntes Desde La Panelais
 tags:
