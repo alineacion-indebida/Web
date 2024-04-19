@@ -1,12 +1,6 @@
 ---
 import type { HTMLTag, Polymorphic } from "astro/types"
 
-type Props<Tag extends HTMLTag> = Polymorphic<{
-	as: Tag
-	variant: keyof typeof variantClasses
-	color: keyof typeof colorClasses
-}>
-
 const { as: Tag, class: className, variant, color, ...props } = Astro.props
 
 const variantClasses: { [key: string]: string } = {
@@ -28,11 +22,13 @@ const colorClasses = {
 	neutral: "text-neutral-300",
 }
 
-const classes = [
-	variantClasses[variant as keyof typeof variantClasses],
-	colorClasses[color as keyof typeof colorClasses],
-	className,
-]
+const classes = [variantClasses[variant as keyof typeof variantClasses], colorClasses[color as keyof typeof colorClasses], className]
+
+type Props<Tag extends HTMLTag> = Polymorphic<{
+	as: Tag
+	variant: keyof typeof variantClasses
+	color: keyof typeof colorClasses
+}>
 ---
 
 <Tag class:list={classes} {...props}>

@@ -39,9 +39,9 @@ export async function getTaxonomy(collection: any, name: string) {
 
 export async function getSinglePage(collection: any) {
 	const allPage = await getCollection(collection)
-	var formattedPosts = allPage
-	if (collection == "noticias") {
-		var formattedPosts = allPage.sort(
+	let formattedPosts = allPage
+	if (collection === "noticias") {
+		formattedPosts = allPage.sort(
 			(a: any, b: any) => new Date(b.data.date.valueOf()).getTime() - new Date(a.data.date.valueOf()).getTime(),
 		)
 	}

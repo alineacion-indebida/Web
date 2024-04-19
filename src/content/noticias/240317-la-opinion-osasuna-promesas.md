@@ -32,7 +32,7 @@ Y comenzó la bajada del monte. En racha de resultados, con un juego alegre y vi
 
 Dos derrotas en casa y un empate en Lugo nos ponen frente al espejo. Entramos en ese terreno de nadie entre un playoff inalcanzable, una copa poco cargada, y un descenso que aun lejos, se asoma amenazante.
 
-Se empina la segunda montaña. Arriba tenemos la bandera de la permanencia. De los goles. El juego competitivo que exige la Primera Federación. Y la ilusión de una grada que solo pide esfuerzo, pasión, y fútbol.
+Se empina la segunda montaña. Arriba tenemos la bandera de la permanencia. De los goles. El juego competitivo que exige la Primera Federación. Y la ilusión de una grada que solo pide esfuerzo, pasión, y fútbol.
 
 ## Unionistas en su pico bajo - Miguel Ontiyuelo
 
