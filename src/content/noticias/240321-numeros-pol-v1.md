@@ -4,9 +4,8 @@ description: Los números de Pol. Primera Federación, grupo 1, jornada 29.
 date: 2024-03-21T23:00:00.000+01:00
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Primera Federación
-tags:
   - Los Números de Pol
+tags:
   - Primera Federación
   - Nou Estadi
   - Nàstic
