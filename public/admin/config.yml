@@ -16,14 +16,14 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: Titulo, name: title, widget: string}
-      - {label: Descripción, name: description, widget: string}
-      - {label: Fecha publicación, name: date, widget: datetime}
-      - {label: Imagen, name: imagen, widget: image}
-      - {label: Categoria, name: categorias, widget: list}
-      - {label: Etiquetas, name: tags, widget: list}
-      - {label: Redactor, name: autor, widget: string}
-      - {label: Texto, name: body, widget: markdown}
+      - { label: Titulo, name: title, widget: string }
+      - { label: Descripción, name: description, widget: string }
+      - { label: Fecha publicación, name: date, widget: datetime }
+      - { label: Imagen, name: imagen, widget: image }
+      - { label: Categoria, name: categorias, widget: list }
+      - { label: Etiquetas, name: tags, widget: list }
+      - { label: Redactor, name: autor, widget: string }
+      - { label: Texto, name: body, widget: markdown }
 
 site_url: https://www.alineacionindebida.com
 logo_url: https://www.alineacionindebida.com/img/Logo.png
