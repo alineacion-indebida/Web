@@ -1,11 +1,10 @@
 ---
-title: "Vuelve el Doctor Jekill y Mr Hide "
-description: "Opinión y resumen del partido Real Union de Irún contra Unionistas
-  de Salamanca de la jornada 33 de la liga de Primera RFEF  "
+title: "Vuelve el Doctor Jekyll y Mr Hide "
+description: "Opinión y resumen del partido Real Union de Irún contra Unionistas de Salamanca de la jornada 33 de la liga de Primera RFEF"
 date: 2024-04-22T14:49:00.000Z
 imagen: /img/noticias/20240421_200418.jpg
 categorias:
-  - Firma
+  - La Firma Indebida
 tags:
   - Unionistas
   - Irún
