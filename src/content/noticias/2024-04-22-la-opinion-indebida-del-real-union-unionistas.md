@@ -1,5 +1,5 @@
 ---
-title: La opinion indebida del Real Union - Unionistas
+title: La opinión indebida del Real Unión - Unionistas
 description: Nuestra opinión del encuentro disputado entre el Real Unión Club de
   Irún y Unionistas de Salamanca. Primera Federación, grupo 1, jornada 33.
 date: 2024-04-22T20:00:00.000Z
@@ -7,7 +7,10 @@ imagen: /img/noticias/glyqthtxcaa8qwb.jpeg
 categorias:
   - La Opinión Indebida
 tags:
+  - La Opinión Indebida
   - Primera Federación
+  - Grupo 1
+  - Jornada 33
   - Real Unión
   - Unionistas
   - Irún
