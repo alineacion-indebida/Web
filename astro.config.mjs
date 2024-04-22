@@ -57,5 +57,6 @@ export default defineConfig({
 	},
 	redirects: {
 		"/quiensomos/": "/quienes-somos/",
+		"/noticias/2024-04-22-vuelve-el-doctor-jekill-y-mr-hide/":"/noticias/2024-04-22-vuelve-el-doctor-jekyll-y-mr-hide/"
 	},
 })
