@@ -17,7 +17,7 @@ export default defineConfig({
 	integrations: [
 		tailwind(),
 		sitemap(),
-		decapCmsOauth(),
+		decapCmsOauth({ adminDisabled: true }),
 		partytown({
 			config: {
 				forward: ["dataLayer.push"],
