@@ -5,7 +5,13 @@ description: Análisis de lo acontecido en la jornada 32 del Grupo 1 de La liga
 date: 2024-04-16T13:30:00.000Z
 imagen: /img/noticias/nubarrones.webp
 categorias:
-  - ResumenDeLaJornada
+  - La Jornada Indebida
+tags:
+  - Primera Federación
+  - Grupo 1
+  - Jornada 32
+  - La Jornada Indebida
+  - Fútbol
 autor: "Key Galán "
 ---
 Tras la jornada 32 de Primera RFEF en su Grupo 1 todo hace indicar que e lReal Club Deportivo de La Coruña tiene a su alcance el ascenso de categoría. Tras su victoria labrada en una gran segunda mitad en Teruel, los blanquiazules se acercan a la Plata. Los rivales, presionados por el ritmo frenético en forma de victorias que han impuesto los de Idiákez, no son capaces de enlazar dos jornadas consecutivas en sumar de tres en tres.
