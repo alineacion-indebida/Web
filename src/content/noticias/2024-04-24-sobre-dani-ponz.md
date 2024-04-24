@@ -7,7 +7,7 @@ imagen: /img/noticias/captura-de-pantalla-2024-04-24-a-las-17.27.29.png
 categorias:
   - crónicas
 tags:
-  - "#daniponz"
+  - "dani ponz"
 autor: Señor Fuentes
 ---
 Sobre Dani Ponz. 
