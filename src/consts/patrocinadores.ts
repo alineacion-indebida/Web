@@ -37,7 +37,7 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 			width: 133,
 			height: 38,
 		},
-		svg: true,
+		svg: false,
 	},
 	{
 		id: "Duran",
