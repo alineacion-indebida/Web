@@ -1,5 +1,5 @@
 ---
-title: Unionistas - CE Sabadell - Los numeros de Pol
+title: Unionistas - CE Sabadell - Los números de Pol
 description: Los números de Pol. Primera Federación, grupo 1, jornada 34
 date: 2024-04-25T20:57:00.000Z
 imagen: /img/noticias/numeros-pol.webp
