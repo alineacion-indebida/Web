@@ -25,7 +25,7 @@ Ojo con este Unionistas cuando sale del Reina Sofía porque no suele ir de farol
 
 ## El duelo por la Copa del Rey
 
-Unionistas de Salamanca siempre se ha caracterizado por tener una buena recta final de las temporadas. Y este año no está siendo diferente. Parece que tras las 3 últimas derrotas consecutivas del CD Lugo la lucha será en un duelo mano a mano ante el Arenteiro. Los de Carballiño aventajan a los charros en 3 puntos en la clasificación + el goal-average (a falta del encuentro de vuelta). 39 goles a favor de los gallegos los convierten en el 4º equipo más goleadores de la competición, lo que deja su average en +9. Más discreto es el de Unionistas de Salamanca que lo deja en +3. Si miramos las otras dos temporadas de los salmantinos en Primera RFEF, es actualmente la peor temporada de las tres (51 puntos en la 2021/2022, 48 puntos en la 2022/2023 y 45 puntos en la actualidad).
+Unionistas de Salamanca siempre se ha caracterizado por tener una buena recta final de las temporadas. Y este año no está siendo diferente. Parece que tras las 3 últimas derrotas consecutivas del CD Lugo la lucha será en un duelo mano a mano ante el Arenteiro. Los de Carballiño aventajan a los charros en 3 puntos en la clasificación + el goal-average (a falta del encuentro de vuelta). 39 goles a favor de los gallegos los convierten en el 4º equipo más goleadores de la competición, lo que deja su average en +9. Más discreto es el de Unionistas de Salamanca que lo deja en +3. Si miramos las otras dos temporadas de los salmantinos en Primera Federación, es actualmente la peor temporada de las tres (51 puntos en la 2021/2022, 48 puntos en la 2022/2023 y 45 puntos en la actualidad).
 
 ## Goles son amores
 
@@ -33,7 +33,7 @@ Los datos del Real Unión cuando recibe gol son bastante insatisfactorios y sín
 
 ## El árbitro del partido
 
-Choque correspondiente a la Jornada 33 del Campeonato Nacional de Primera RFEF disputado en el Stadium Gal el domingo día 21/Abril a las 18:00h, y que será dirigido por el colegiado cántabro Alberto Fuente Martín. Un estadio mítico que data del 19 de septiembre de 1926 y que verá un choque bonito entre dos equipos que visten de blanquinegro, y que del cual dependen en gran parte sus aspiraciones en este último tramo de temporada.
+Choque correspondiente a la Jornada 33 del Campeonato Nacional de Primera Federación disputado en el Stadium Gal el domingo día 21/Abril a las 18:00h, y que será dirigido por el colegiado cántabro Alberto Fuente Martín. Un estadio mítico que data del 19 de septiembre de 1926 y que verá un choque bonito entre dos equipos que visten de blanquinegro, y que del cual dependen en gran parte sus aspiraciones en este último tramo de temporada.
 
 5 partidos ha dirigido Alberto Fuente Martín a Unionistas de Salamanca con un bagaje mejorable. 1 victoria ante Cultural Leonesa (1-2) en la temporada 2021 son los únicos 3 puntos que los charros han sumado, junto con 3 empates y una derrota esta misma temporada ante RC Celta Fortuna 2-1. Como dato curioso, el colegiado cántabro ha enseñado al menos una tarjeta roja en los últimos 4 partidos de Unionistas de Salamanca.
 

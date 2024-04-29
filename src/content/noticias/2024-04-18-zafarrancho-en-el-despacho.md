@@ -14,7 +14,7 @@ autor: "Jaime García (Món) "
 ---
 Con los ecos del saludo entre equipo y grada tras la fiesta del partido contra el filial del FC Barcelona, la idea de que la salvación estaba sellada asaltaba a todos los presentes, del césped al último escalón del Reina. Abrazos, sonrisas, puños cerrados al aire, palmadas en la espalda y apretones de mano.
 
-La consecución de la cifra de puntos (45)  que se supone garantiza la continuidad en Primera RFEF,  marcaba el momento para abrir la temporada de conversaciones contractuales. Alivio y deber cumplido en el sentido deportivo y pistoletazo de salida en el despacho.
+La consecución de la cifra de puntos (45)  que se supone garantiza la continuidad en Primera Federación,  marcaba el momento para abrir la temporada de conversaciones contractuales. Alivio y deber cumplido en el sentido deportivo y pistoletazo de salida en el despacho.
 
 Son días de entrevistas en medios donde los jugadores expresan su vocación de continuidad sazonada con elogios a lo que implica el club. ¿A quién no le va a gustar Unionistas de Salamanca?  (volveremos luego sobre esto). El tema es que dicen que sí, pero no dicen/sabemos por cuánto.
 

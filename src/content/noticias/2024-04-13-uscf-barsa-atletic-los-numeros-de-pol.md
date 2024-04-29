@@ -29,11 +29,11 @@ Llega a Salamanca el conjunto dirigido por Rafa Márquez en una dinámica espect
 
 ## Una cantera prolífica
 
-Como dato curioso, el FC Barcelona Atlètic es el equipo de Primera RFEF en el que más cantidad de jugadores han participado en algún partido en competición oficial. Tal es esta estadística, que hasta un total de 33 jugadores han contado con minutos en el cuadro de Rafa Márquez, sumando 5 jugadores más que han entrado en convocatorias pero aún no han debutado.
+Como dato curioso, el FC Barcelona Atlètic es el equipo de Primera Federación en el que más cantidad de jugadores han participado en algún partido en competición oficial. Tal es esta estadística, que hasta un total de 33 jugadores han contado con minutos en el cuadro de Rafa Márquez, sumando 5 jugadores más que han entrado en convocatorias pero aún no han debutado.
 
 ## El árbitro del partido
 
-Choque entre Unionistas de Salamanca y FC Barcelona Atlètic correspondiente a la Jornada 32 del Campeonato Nacional de Liga de Primera RFEF Grupo I que se disputará el domingo 14/Abril a las 19:00h en un Estadio Reina Sofía que se espera abarrotado de aficionados charros que querrán disfrutar de una victoria de su equipo ante uno de los mejores filiales del mundo, con jugadores llamados a dominar el fútbol nacional en próximas temporadas. El encuentro estará dirigido por Imanol Irurtzun Artola, adherido al Colegio navarro.
+Choque entre Unionistas de Salamanca y FC Barcelona Atlètic correspondiente a la Jornada 32 del Campeonato Nacional de Liga de Primera Federación Grupo I que se disputará el domingo 14/Abril a las 19:00h en un Estadio Reina Sofía que se espera abarrotado de aficionados charros que querrán disfrutar de una victoria de su equipo ante uno de los mejores filiales del mundo, con jugadores llamados a dominar el fútbol nacional en próximas temporadas. El encuentro estará dirigido por Imanol Irurtzun Artola, adherido al Colegio navarro.
 
 El árbitro de Ihabar únicamente ha sido citado para los choques de Unionistas de Salamanca en una ocasión. Fue la temporada pasada, aún con Raúl Casañ en el banquillo, en un 0-0 ante el CD Badajoz en el que los charros se quedaron con un jugador menos en el minuto 9 tras la doble amarilla a Ramiro Mayor y que los extremeños no pudieron adelantarse pese a un penalti a favor en el minuto 39.
 

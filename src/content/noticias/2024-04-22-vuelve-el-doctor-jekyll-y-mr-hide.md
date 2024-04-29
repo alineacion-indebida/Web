@@ -1,6 +1,6 @@
 ---
 title: Vuelve el Doctor Jekyll y Mr Hide - La firma destacada
-description: Opinión y resumen del partido Real Union de Irún contra Unionistas de Salamanca de la jornada 33 de la liga de Primera RFEF
+description: Opinión y resumen del partido Real Union de Irún contra Unionistas de Salamanca de la jornada 33 de la liga de Primera Federación
 date: 2024-04-22T14:49:00.000Z
 imagen: /img/noticias/stadium-gal.webp
 categorias:

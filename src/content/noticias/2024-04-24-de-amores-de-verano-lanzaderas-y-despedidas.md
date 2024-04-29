@@ -2,7 +2,7 @@
 title: De amores de verano, lanzaderas y despedidas - Apuntes desde la Panelais
 description: "Visión de la actualidad de Unionistas con un pretendido enfoque reflexivo "
 date: 2024-04-24T23:05:00.000Z
-imagen: /img/noticias/img-20240418-wa0030.jpg
+imagen: /img/noticias/panelais-reina-2.webp
 categorias:
   - Apuntes desde la Panelais
 tags:

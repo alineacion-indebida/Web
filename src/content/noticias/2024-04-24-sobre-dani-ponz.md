@@ -3,7 +3,7 @@ title: Sobre Dani Ponz
 description: La opinión del señor Fuentes sobre lo acontecido en las últimas
   horas con Dani Ponz
 date: 2024-04-24T17:23:00.000Z
-imagen: /img/noticias/captura-de-pantalla-2024-04-24-a-las-17.27.29.png
+imagen: /img/noticias/gracias.webp
 categorias:
   - Crónicas
 tags:
