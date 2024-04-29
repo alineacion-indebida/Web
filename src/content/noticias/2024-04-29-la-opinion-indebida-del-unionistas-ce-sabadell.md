@@ -2,7 +2,7 @@
 title: La opinion indebida del Unionistas - CE Sabadell
 description: Nuestra opinión del encuentro disputado entre Unionistas de
   Salamanca CF y el CE Sabadell FC. Primera Federación, grupo 1, jornada 34.
-date: 2024-04-29T22:24:00.000Z
+date: 2024-04-29T22:26:00.000Z
 imagen: /img/noticias/gmmhlb5xqaacb04.jpeg
 categorias:
   - La Opinión Indebida
