@@ -2,7 +2,7 @@
 title: "Recordando errores pasados. "
 description: "Crónica de la victoria de Unionsitas de Salamanca sobre el
   Sabadell por 4 goles a cero en la trigésimo cuarta jornada de liga. "
-date: 2024-04-29T21:13:00.000Z
+date: 2024-04-29T21:26:00.000Z
 imagen: /img/noticias/gmmhlb5xqaacb04.jpeg
 categorias:
   - La Opinión Indebida
