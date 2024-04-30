@@ -5,7 +5,12 @@ date: 2024-04-30T21:23:00.000Z
 imagen: /img/noticias/1000064944.jpg
 categorias:
   - PrimeraFederación
-tags: []
+tags:
+  - Primera Federación
+  - Grupo 1
+  - Jornada 34
+  - La Jornada Indebida
+  - Fútbol
 autor: Yuri Ramos
 ---
 **Muy buenas, indebiders!!!
