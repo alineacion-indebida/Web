@@ -19,7 +19,7 @@ Pasamos a repasar lo que aconteció la jornada 34**.
 **En la lucha por la Copa Unionistas fue capaz de recortar dos puntos** al Arenteiro, a pesar de que los gallegos sacaron un valioso punto ante el Depor. La Copa será un mano a mano entre dos de las relevaciones del grupo.
 La lucha por eludir el descenso también está muy igualada. Tan solo el filial rojillo fue capaz de ganar entre los últimos 10 equipos de la clasificación, y estas **4 jornadas restantes prometen dar espectáculo para dilucidar qué equipos acompañarán a Rayo Majadahonda (ya descendido) y SD Logroñés (quasi descendido) a 2ª RFEF**.
 
-## OSASUNA PROMESAS 2 - REAL UNIÓN 0
+## OSASUNA PROMESAS 2 - REAL UNIÓN 1
 importante victoria la lograda por el conjunto rojillo para escapar de la zona de descenso. Además de forma muy meritoria, porque se quedaron con 10 muy pronto por la expulsión del guardameta Valencia. Un doblete de **Svensson**, con dos disparos ajustados al palo largo, daban una ventaja muy importante a los locales, ya con 10 jugadores. Sin embargo el Real Unión no bajó los brazos, recortó distancias por medio de Asier Benito. Tuvieron ocasiones los irundarras de empatar con un par de testarazos, pero uno salió fuera y el otro se marchó al palo, así que los tres puntos quedaron en casa. Oportunidad de oro perdida por el Real Unión para sumar puntos en un partido que se les puso de cara y **alejarse del descenso**.
 
 ## PONFERRADINA 1 - BARÇA ATLÈTIC 3
