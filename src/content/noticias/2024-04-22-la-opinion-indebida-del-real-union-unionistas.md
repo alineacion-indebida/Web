@@ -28,11 +28,7 @@ Por las sensaciones transmitidas en directo, Unionistas había tenido 3 momentos
 
 En la segunda parte, ya con el 1-0 en el marcador, con los locales buscando asegurar cada metro y con la pelota para Unionistas, un gol abriría el partido generando todo tipo de incertidumbre. Tampoco pasó. Todo lo contrario, 2-0. Ya en los estertores, cuando el 2-1 hacía creer en la épica a los más osados y se palpaba el miedo en la hinchada local, 3-1 en un nuevo lance en el que la defensa charra, habitualmente su mejor recurso, demostraba sus bajas revoluciones en esta jornada. Tres momentos tuvo Unionistas y en los tres recibió el correctivo que la eficacia futbolística demanda.
 
-
-
 ## Mala Tarde - Carlos Matía
-
-
 
 Ni contra el Dépor Unionistas fue un equipo vulgar. Ni una apisonadora contra el Barça Atlétic. Está idea se demostró ayer sobre el césped del Stadium Gal. En el que Unionistas no mereció tanta derrota. Pero quizá tampoco llevarse los tres puntos.
 
