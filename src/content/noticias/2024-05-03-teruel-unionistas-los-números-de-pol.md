@@ -13,7 +13,6 @@ tags:
   - Teruel
 autor: Pol Zakour
 ---
-# Teruel-Unionistas… en números
 Se acerca el final de competición en Primera RFEF y nos esperan unas jornadas agónicas, con equipos luchando por la supervivencia y otros por escapar de esta categoría. Muchas veces hablamos desde la perspectiva de la comodidad en la que vive clasificatoriamente Unionistas de Salamanca acerca de lo bonita que es la lucha por evitar el descenso vista sin el peligro de vivir en ella. Sí que está involucrado y con creces el rival de este fin de semana. **Un CD Teruel que se encuentra en los puestos rojos de la tabla, a tan solo 2 puntos de la salvación.** Por su parte, Unionistas de Salamanca no cesa en el empeño en su lucha individual ante un sorprendente Arenteiro que quiere arrebatar a los charros esa última plaza que da acceso a la Copa del Rey 2024/25.
 
 ## Peor local que visitante
