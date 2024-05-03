@@ -2,7 +2,7 @@
 title: Teruel-Unionistas Los números de Pol
 description: Todos los datos que debes saber para ponerte a ver el partido entre
   CD Teruel y Unionistas de Salamanca
-date: 2024-05-03T10:18:00.000Z
+date: 2024-05-03T10:19:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Datos
