@@ -1,19 +1,17 @@
 ---
-title: "Viajando a donde vayas "
-description: "Una afición viajera que siempre acompaña al equipo. El nunca viaja
-  solo es textual "
+title: "Viajando a donde vayas"
+description: "Una afición viajera que siempre acompaña al equipo. El nunca viaja solo es textual"
 date: 2024-05-01T22:22:00.000Z
 imagen: /img/noticias/mapa_de_carreteras_de_espana.gif
 categorias:
   - Apuntes desde la Panelais
 tags:
-  - unionistas
-  - teruel
-  - distancia
-  - afición
-  - kilometros
-  - primera
-  - federación
+  - Unionistas
+  - Teruel
+  - Distancia
+  - Afición
+  - Kilometros
+  - Primera Federación
 autor: "Jaime García (Món) "
 ---
 Unionistas de Salamanca está emplazado en Teruel el 4 de mayo a las seis de la tarde en el Estadio de la Pinilla. Cita que muchos de sus aficionados marcan como la de mayor complejidad de las 4 que le restan. Bonito sprint final el que mantiene el equipo charro con el Arenteiro, (sin duda una de las revelaciones del campeonato) por la última plaza que clasifica para la Copa de SM el Rey y que da emoción al final de liga para la parroquia salmantina.

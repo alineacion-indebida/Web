@@ -1,6 +1,6 @@
 ---
 title: Las espadas en todo lo alto - La Jornada Indebida
-description: Análisis de lo acontecido en la jornada 34 del Grupo 1 de Primera Rfef
+description: Análisis de lo acontecido en la jornada 34 del Grupo 1 de Primera Federación
 date: 2024-04-30T21:23:00.000Z
 imagen: /img/noticias/1000064944.jpg
 categorias:
@@ -14,15 +14,15 @@ tags:
 autor: Yuri Ramos
 ---
 
-**Muy buenas, indebiders!!!
+Muy buenas, indebiders!!!
 
-Pasamos a repasar lo que aconteció la jornada 34**.
+Pasamos a repasar lo que aconteció la jornada 34.
 
 **La parte de arriba se comprime, metiéndose la Cultural de lleno en la lucha por el playoff**, y un Depor que tuvo todo a su favor para dejar el primer puesto muy cerquita, pero un gol en las postrimerías del Arenteiro abre la posibilidad al Barça B de alcanzarles. El duelo en Riazor de la jornada 36 entre los dos primeros promete.
 
 **En la lucha por la Copa Unionistas fue capaz de recortar dos puntos** al Arenteiro, a pesar de que los gallegos sacaron un valioso punto ante el Depor. La Copa será un mano a mano entre dos de las relevaciones del grupo.
 
-La lucha por eludir el descenso también está muy igualada. Tan solo el filial rojillo fue capaz de ganar entre los últimos 10 equipos de la clasificación, y estas **4 jornadas restantes prometen dar espectáculo para dilucidar qué equipos acompañarán a Rayo Majadahonda (ya descendido) y SD Logroñés (quasi descendido) a 2ª RFEF**.
+La lucha por eludir el descenso también está muy igualada. Tan solo el filial rojillo fue capaz de ganar entre los últimos 10 equipos de la clasificación, y estas **4 jornadas restantes prometen dar espectáculo para dilucidar qué equipos acompañarán a Rayo Majadahonda (ya descendido) y SD Logroñés (quasi descendido) a 2ª Federación**.
 
 ## OSASUNA PROMESAS 2 - REAL UNIÓN 1
 
@@ -82,7 +82,7 @@ Lo intentó el Lugo, pero no fue hasta el final, con goles de Aranda y el joven 
 
 Los lucenses necesitaban ganar para no sufrir con el descenso. La Copa ya la tienen muy lejana.
 
-**El Rayo Majadahonda jugará la próxima temporada en segunda RFEF** .
+**El Rayo Majadahonda jugará la próxima temporada en Segunda Federación** .
 
 ## CORNELLÁ 1 - SESTAO RIVER 1
 

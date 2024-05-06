@@ -5,15 +5,14 @@ description: Todos los datos que debes saber para ponerte a ver el partido entre
 date: 2024-05-03T10:19:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Datos
+  - Los Números de Pol
 tags:
   - Unionistas
-  - Primera RFEF
   - Primera Federación
   - Teruel
 autor: Pol Zakour
 ---
-Se acerca el final de competición en Primera RFEF y nos esperan unas jornadas agónicas, con equipos luchando por la supervivencia y otros por escapar de esta categoría. Muchas veces hablamos desde la perspectiva de la comodidad en la que vive clasificatoriamente Unionistas de Salamanca acerca de lo bonita que es la lucha por evitar el descenso vista sin el peligro de vivir en ella. Sí que está involucrado y con creces el rival de este fin de semana. **Un CD Teruel que se encuentra en los puestos rojos de la tabla, a tan solo 2 puntos de la salvación.** Por su parte, Unionistas de Salamanca no cesa en el empeño en su lucha individual ante un sorprendente Arenteiro que quiere arrebatar a los charros esa última plaza que da acceso a la Copa del Rey 2024/25.
+Se acerca el final de competición en Primera Federación y nos esperan unas jornadas agónicas, con equipos luchando por la supervivencia y otros por escapar de esta categoría. Muchas veces hablamos desde la perspectiva de la comodidad en la que vive clasificatoriamente Unionistas de Salamanca acerca de lo bonita que es la lucha por evitar el descenso vista sin el peligro de vivir en ella. Sí que está involucrado y con creces el rival de este fin de semana. **Un CD Teruel que se encuentra en los puestos rojos de la tabla, a tan solo 2 puntos de la salvación.** Por su parte, Unionistas de Salamanca no cesa en el empeño en su lucha individual ante un sorprendente Arenteiro que quiere arrebatar a los charros esa última plaza que da acceso a la Copa del Rey 2024/25.
 
 ## Peor local que visitante
 
@@ -29,6 +28,6 @@ Pese a las últimas victorias contundentes en casa (4-1 vs Barcelona Atlètic y 
 
 ## La previa del partido
 
-Choque correspondiente a la Jornada 35 del Campeonato Nacional de Primera RFEF que se disputará en el Estadio de Pinilla el sábado 4/Mayo a las 18:00h. **Segunda vez que se enfrentan CD Teruel y Unionistas de Salamanca** tras el empate 0-0 en el duelo disputado en el Reina Sofía. Estadio coqueto, con capacidad para 3.000 espectadores y con unas dimensiones de 103x65m. **El partido será dirigido desde el arbitraje por el colegiado cordobés de 30 años Manuel Camacho Garrote.** Segunda temporada en Primera RFEF con un bagaje de 6 victorias locales y 6 victorias visitantes. Aún no se ha producido ningún empate en los duelos que ha dirigido este año, en los que promedia 5’5 amarillas por partido y 1 expulsión cada 3 encuentros.
+Choque correspondiente a la Jornada 35 del Campeonato Nacional de Primera Federación que se disputará en el Estadio de Pinilla el sábado 4/Mayo a las 18:00h. **Segunda vez que se enfrentan CD Teruel y Unionistas de Salamanca** tras el empate 0-0 en el duelo disputado en el Reina Sofía. Estadio coqueto, con capacidad para 3.000 espectadores y con unas dimensiones de 103x65m. **El partido será dirigido desde el arbitraje por el colegiado cordobés de 30 años Manuel Camacho Garrote.** Segunda temporada en Primera Federación con un bagaje de 6 victorias locales y 6 victorias visitantes. Aún no se ha producido ningún empate en los duelos que ha dirigido este año, en los que promedia 5’5 amarillas por partido y 1 expulsión cada 3 encuentros.
 
 Tan solo en una ocasión se han encontrado Camacho Garrote y Unionistas de Salamanca, y fue la temporada pasada en la Jornada 26 en el Reina Sofía ante la UD San Sebastián de los Reyes, en un igualado partido que se decantó con un penalti bastante claro sobre Ramiro Mayor que acabó transformando con un disparo potente y al centro Iván Chapela. Será la primera vez que el colegiado cordobés arbitre al CD Teruel.
