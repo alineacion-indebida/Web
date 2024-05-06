@@ -1,7 +1,7 @@
 ---
 title: Buenos tiempos para la lirica
 description: Tiempo de nervios, pasión, alegrías incontenibles, sorteos, viajes...
-date: 2024-05-06T18:26:00.000Z
+date: 2024-05-06T18:29:00.000Z
 imagen: /img/noticias/aficion-coruna.webp
 categorias:
   - Firma
