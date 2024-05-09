@@ -1,29 +1,29 @@
 ---
-import Layout from "@/layouts/Layout.astro"
 import Posts from "@/components/PostGrid.astro"
-import { getTaxonomy, getSinglePage, taxonomyFilter } from "@/utils/getAllTags";
-import { deslugify } from "@/utils/slug";
+import Layout from "@/layouts/Layout.astro"
+import { getSinglePage, getTaxonomy, taxonomyFilter } from "@/utils/getAllTags"
+import { deslugify } from "@/utils/slug"
 
 export async function getStaticPaths() {
-  const tags = await getTaxonomy("noticias", "tags");
+	const tags = await getTaxonomy("noticias", "tags")
 
-  return tags.map((tag:any) => {
-    return {
-      params: { tag: tag['slug'] },
-    };
-  });
+	return tags.map((tag: any) => {
+		return {
+			params: { tag: tag.slug },
+		}
+	})
 }
 
-const { tag } = Astro.params;
+const { tag } = Astro.params
 
-const posts = await getSinglePage("noticias");
-const filterByTags = taxonomyFilter(posts, "tags", tag);
+const posts = await getSinglePage("noticias")
+const filterByTags = taxonomyFilter(posts, "tags", tag)
 ---
 
 <Layout
-	description="Últimas noticias en la Web Oficial del programa Alineación Indebida."
-	title="Últimas noticias - Alineación indebida"
+	title=`${deslugify(tag)} - Alineación indebida`
+	description=`Todas las noticias sobre ${deslugify(tag)} de tu programa del deporte salmantino`
 >
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Tag: {deslugify(tag)}</h1>
-	<Posts posts={filterByTags}/>
+	<Posts posts={filterByTags} />
 </Layout>

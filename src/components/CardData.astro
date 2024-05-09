@@ -1,0 +1,10 @@
+---
+const { dato, texto } = Astro.props
+---
+
+<div class="relative w-full flex flex-col items-center justify-center text-center before:absolute before:inset-x-[-5px] before:inset-y-0 before:bg-gradient-to-b before:from-white/5 before:via-transparent before:to-transparent before:[clip-path:polygon(3.5%_0,100%_0%,97.5%_100%,0%_100%)] before:pointer-events-none">
+    <div class="relative flex font-atomic mt-8">
+        <span class="tabular-nums text-7xl text-accent">{dato}</span>
+    </div>
+    <span class="mt-4 text-center text-xl">{texto}</span>
+</div>

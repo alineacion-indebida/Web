@@ -1,7 +1,8 @@
 import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
-import partytown from '@astrojs/partytown'
+import partytown from "@astrojs/partytown"
 import vercel from "@astrojs/vercel/serverless"
+import decapCmsOauth from "astro-decap-cms-oauth"
 
 import { VitePWA } from "vite-plugin-pwa"
 import { defineConfig } from "astro/config"
@@ -16,14 +17,16 @@ export default defineConfig({
 	integrations: [
 		tailwind(),
 		sitemap(),
+		decapCmsOauth({ adminDisabled: true }),
 		partytown({
 			config: {
 				forward: ["dataLayer.push"],
 			},
-		})
+		}),
 	],
 	adapter: vercel({
 		webAnalytics: { enabled: true },
+		functionPerRoute: false,
 	}),
 	build: {
 		inlineStylesheets: "always",
@@ -31,6 +34,9 @@ export default defineConfig({
 	output: "hybrid",
 	site: seoConfig.baseURL,
 	vite: {
+		resolve: {
+			preserveSymlinks: true,
+		},
 		build: {
 			cssMinify: "lightningcss",
 		},
@@ -50,8 +56,7 @@ export default defineConfig({
 		],
 	},
 	redirects: {
-		'/noticias/la-firma-osasuna-promesas/': '/noticias/240318-la-firma-osasuna-promesas/',
-		'/noticias/la-vision-indebida-osasuna-promesas/': '/noticias/240317-la-opinion-osasuna-promesas/',
-		'/quiensomos/': '/quienes-somos/',
-	}
+		"/quiensomos/": "/quienes-somos/",
+		"/noticias/2024-04-22-vuelve-el-doctor-jekill-y-mr-hide/": "/noticias/2024-04-22-vuelve-el-doctor-jekyll-y-mr-hide/",
+	},
 })

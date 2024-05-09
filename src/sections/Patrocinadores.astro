@@ -6,7 +6,7 @@ import { PatrocinadoresList } from "@/consts/patrocinadores"
 ---
 
 <section class="mt-16 px-4">
-	<Typography as="h3" variant="h3" color="white" class:list={"text-center"}> Gracias a nuestros patrocinadores </Typography>
+	<Typography as="h3" variant="h3" color="white" class="text-center"> Gracias a nuestros patrocinadores </Typography>
 	<div class="mt-4 grid select-none grid-cols-4 gap-2 md:gap-8">
 		{
 			PatrocinadoresList.map(({ id, name, url, image, svg }) => (
@@ -18,21 +18,23 @@ import { PatrocinadoresList } from "@/consts/patrocinadores"
 					rel="noopener noreferrer"
 					aria-label={`Link con el logo de ${name} que lleva a ${url}`}
 				>
-					{svg ? (
-						<PatrocinadorLogo
-							logo={id}
-							width={image.width}
-							height={image.height}
-							class:list={["company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"]}
-						/>
-					) : (
-						<PatrocinadorLogoImg
-							logo={id}
-							width={image.width}
-							height={image.height}
-							class:list={["company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"]}
-						/>
-					)}
+					{ svg
+						? (
+							<PatrocinadorLogo
+								logo={id}
+								width={image.width}
+								height={image.height}
+								class="company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"
+							/>
+						)
+						: (
+							<PatrocinadorLogoImg
+								logo={id}
+								width={image.width}
+								height={image.height}
+								class="company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"
+							/>
+						)}
 				</a>
 			))
 		}

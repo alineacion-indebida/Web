@@ -1,4 +1,6 @@
 import defaultTheme from "tailwindcss/defaultTheme"
+import Typography from "@tailwindcss/typography"
+
 /** @type {import('tailwindcss').Config} */
 export default {
 	content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
@@ -11,6 +13,8 @@ export default {
 				primary: "var(--color-primary)",
 				secondary: "var(--color-secondary)",
 				accent: "var(--color-accent)",
+				accentlight: "var(--color-accent-light)",
+				accentdark: "var(--color-accent-dark)",
 				twitch: "var(--color-twitch)",
 				ice: "var(--color-twitch-ice)",
 			},
@@ -21,7 +25,7 @@ export default {
 		},
 	},
 	plugins: [
-		require('@tailwindcss/typography'),
+		Typography,
 		function ({ addVariant }) {
 			addVariant("any-hover", "@media (any-hover: hover) { &:hover }")
 			addVariant("mobile", "@media (any-hover: none) { & }")

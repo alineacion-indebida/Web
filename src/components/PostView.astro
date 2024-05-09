@@ -1,9 +1,9 @@
 ---
+import { Image } from "astro:assets"
+import ButtonsShare from "./ButtonsShare.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import Layout from "@/layouts/Layout.astro"
 import { slugify } from "@/utils/slug"
-import { Image } from "astro:assets"
-import ButtonsShare from "./ButtonsShare.astro"
 
 const { title, description, date, imagen, categorias, tags, autor, slug } = Astro.props
 const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
@@ -25,7 +25,7 @@ const formatDate = {
 				)
 			}
 		</div>
-		<div class="md:col-10 mb-4 mt-4">
+		<div class="md:col-10 mt-6">
 			<h1 class="text-2xl font-bold md:text-4xl">{title}</h1>
 			<div class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200">
 				<div class="mt-2 flex flex-wrap items-center font-medium">
@@ -46,7 +46,7 @@ const formatDate = {
 		<div class="text-text mt-4 flex flex-wrap text-zinc-300">
 			{
 				categorias?.slice(0, 1).map((categoria: any) => (
-					<a href={`/categorias/${slugify(categoria)}`} class="mr-2 font-medium capitalize hover:text-accent">
+					<a href={`/categorias/${slugify(categoria)}`} class="mb-1 mr-2 font-medium capitalize hover:text-accent">
 						{categoria}
 					</a>
 				))

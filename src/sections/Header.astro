@@ -9,9 +9,9 @@ const pages = [
 	{ name: "CRÓNICAS", href: "/cronicas" },
 	{ name: "VÍDEOS", href: "/videos" },
 	{ name: "QUIÉNES SOMOS", href: "/quienes-somos/" },
-].map((page) => ({
+].map(page => ({
 	...page,
-	active: Astro.url.pathname.replaceAll("/", "") == page.href.replaceAll("/", ""),
+	active: Astro.url.pathname.replaceAll("/", "") === page.href.replaceAll("/", ""),
 }))
 ---
 
@@ -33,12 +33,12 @@ const pages = [
 
 						<div class="background absolute -z-10 h-full w-full" />
 					</a>
-					{key == 1 && <div class:list={"hidden w-64 lg:block"} />}
+					{key === 1 && <div class="hidden w-64 lg:block" />}
 				</>
 			))
 		}
-		<a href="/" class:list={"block lg:hidden"}><HomeLogo class="w-10" /></a>
-		<HamburgerButton class:list={"block lg:hidden"} id="menuButton" />
+		<a href="/" class="block lg:hidden"><HomeLogo class="w-10" /></a>
+		<HamburgerButton class="block lg:hidden" id="menuButton" />
 		<div
 			class="fixed inset-0 z-[888] flex w-screen flex-col items-center overflow-x-auto bg-[var(--background-color)] lg:hidden"
 			id="menuMobileContent"
@@ -75,13 +75,13 @@ const pages = [
 	</nav>
 	<div class="relative flex h-2 w-full flex-col items-center">
 		<div class="gridBottomBarContainer absolute grid h-full w-full items-center justify-between">
-			<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
-			<div class="-ml-[8px] -mr-[4px]">
+			<span aria-hidden="true" class="z-0 h-[2px] w-full border-t-2 border-primary"></span>
+			<div class="z-10 -ml-[8px] -mr-[4px]">
 				<a href="/">
-					<LogoAI class:list={"h-auto w-full"} id="program-logo-header" noEffect />
+					<LogoAI class="h-auto w-full" id="program-logo-header" noEffect />
 				</a>
 			</div>
-			<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
+			<span aria-hidden="true" class="z-0 h-[2px] w-full border-t-2 border-primary"></span>
 		</div>
 	</div>
 </header>
@@ -105,6 +105,7 @@ const pages = [
 		opacity: 0;
 		pointer-events: none;
 		transition: opacity 0.3s;
+		scrollbar-gutter: stable;
 	}
 
 	#menuMobileContent.open {
@@ -115,6 +116,7 @@ const pages = [
 	.current-page {
 	}
 	.current-page:before {
+		view-transition-name: nav-item;
 		background: var(--color-accent);
 		width: 100%;
 		content: "";

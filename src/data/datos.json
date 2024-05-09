@@ -1,0 +1,70 @@
+{
+  "temporadas": [
+    {
+      "updateAt": "29/04/24",
+      "year": "2023-24",
+      "partidos": 37,
+      "programas": 73,
+      "horas": 142,
+      "viajes": 7,
+      "km": 5987
+    }
+  ],
+  "equipo": [
+    {
+      "nombre": "Key Galán",
+      "puesto": "Capitán del barco",
+      "img": "/img/equipo/key.webp"
+    },
+    {
+      "nombre": "Carlos Matia",
+      "puesto": "Analista",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Sr. Fuentes",
+      "puesto": "Director creativo",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Don. Valeriano",
+      "puesto": "La voz de la cordura",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Jaime",
+      "puesto": "Opinador de barra",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Pol Zakour",
+      "puesto": "Corresponsal",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Miguel Ontiyuelo",
+      "puesto": "Glosador",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Yuri Ramos",
+      "puesto": "Caballo de hierro",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Cotobal",
+      "puesto": "El objetivo",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Selu",
+      "puesto": "Mago",
+      "img": "/img/usuario.webp"
+    },
+    {
+      "nombre": "Adri Diarte",
+      "puesto": "Druida",
+      "img": "/img/usuario.webp"
+    }
+  ]
+}

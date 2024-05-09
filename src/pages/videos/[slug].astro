@@ -1,26 +1,23 @@
 ---
-import Layout from "@/layouts/Layout.astro"
-
 import LiteYouTube from "@/components/LiteYouTube.astro"
-
 import { videosMap } from "@/data/videos"
+import Layout from "@/layouts/Layout.astro"
 
 export const prerender = false
 
 const slug = Astro.params.slug
-var video: any
+let video: any
 
-if (slug && videosMap.has(slug)) {
+if (slug && videosMap.has(slug))
 	video = videosMap.get(slug)
-} else {
+else
 	return Astro.redirect("/404")
-}
 ---
 
 <Layout
+	title=`${video.title} - Alineación indebida`
 	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
-	title="Alineación indebida - El programa del deporte salmantino"
->	
+>
 	<section class="mt-6">
 		<LiteYouTube videoId={video.slug} backgroundImage={video.image} />
 		<h2 class="mt-6 text-xl font-semibold leading-6 text-white">
