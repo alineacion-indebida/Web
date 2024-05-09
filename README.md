@@ -32,7 +32,7 @@ Alineacion indebida es un programa de información sobre Unionistas de Salamanca
 
 - **Listado de noticias**: Informate de la actualidad del deporte salmantino.
 - **Visionado de videos**: Disfruta con nuestros últimos videos de youtube.
-- **Redes sociales**: Conoce las redes oficiales donde podrás informarte sobre el evento.
+- **Redes sociales**: Conoce las redes oficiales del programa.
 - **¡Mucho más!**
 
 ## Contribuir al proyecto
