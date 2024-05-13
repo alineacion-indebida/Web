@@ -1,23 +1,19 @@
 ---
-title: La opinión indebida del Unionistas - Real Sociedad B
+title: La opinión indebida del Unionistas - CE Sabadell
 description: Nuestra opinión del encuentro disputado entre Unionistas de
-  Salamanca CF y la Real Sociedad B. Primera Federación, grupo 1, jornada 36.
-date: 2024-05-12T19:23:00.000Z
-imagen: /img/noticias/53717384857_f85a58c42b_k.jpg
+  Salamanca CF y el CE Sabadell FC. Primera Federación, grupo 1, jornada 34.
+date: 2024-04-29T21:23:00.000Z
+imagen: /img/noticias/slavy-reina.webp
 categorias:
   - La Opinión Indebida
 tags:
   - Primera Federación
-  - Real Sociedad B
+  - Sabadell
   - Unionistas
   - Reina Sofia
   - Crónica
 autor: Indebiders
 ---
-## Sufrimiento indebido - Miguel Ontiyuelo
+## Recordando errores pasados... - Pol Zakour
 
-Bien sabe el aficionado unionista que los partidos de su equipo contra los filiales de los *primeras* suelen ser difíciles. La tradición manda que son partidos que se le dan mal, partidos en los que los jóvenes cachorros del club correspondiente dan mucho y bueno de lo que tienen. Partidos en los que un empate puede ser un buen resultado. Pero en esta jornada, la antepenúltima de la 23-24, eso podía no ser suficiente.
-
-Las condiciones en las que llegaba el enfrentamiento eran peculiares: Unionistas en buena dinámica peleando por los puestos que dan derecho a Copa y la Real B, el equipo que nos había asombrado allá en septiembre, desconectada de cualquier aspiración y en medio de una segunda vuelta poco agraciada, pero por eso mismo, libre de presión, dispuesta para cualquier inspiración. El contexto ambiental, casi 4000 personas en el Reina Sofía, ayudaba a sentirse futbolista.
-
-La suma de todo pronosticaba un resultado incierto. Y empezó a rodar el balón con 10 minutos de calidad de los *potrillos* para después, irse decantando por el lado charro. Tanto es así que el 1-0 de Losada se antojaba corto cuando llega el descanso, según lo percibido en el césped. Parecía que la segunda parte iba a ir en la misma tónica, la Real B inquietaba poco a un Unionistas que tampoco mostraba mayor clarividencia. Hasta que en medio del desafío táctico entre los dos técnicos y sus cambios, Unionistas marraba las 2 ocasiones más claras que tuvo para desquiciamiento de la parroquia congregada. La recta final iba a ser de progresivo temblar de piernas: una, dos situaciones de peligro, hasta que a la tercera el balón de Pablo Marín se va al larguero y pitido final. Puntos muy celebrados que pudieron escaparse y sensación de haber sufrido innecesariamente, más de lo merecido.
+Unionistas de Salamanca vence de nuevo en casa con otra goleada y se queda cerca de la Copa del Rey a falta de 4 jornadas. Cualquiera de nosotros hubiéramos firmado un titular como este si lo leemos a principio de temporada. Sin embargo, no todo ha sido un camino de rosas. El conjunto charro se sitúa ahora mismo a tan solo 9 puntos de playoff. ¿Qué hubiera pasado si hubiéramos tenido más acierto de cara a puerta? ¿Y si hubiéramos sabido rematar partidos a priori más asequibles? Se vienen a la cabeza numerosos duelos en los que a la salida del Reina Sofía  el sentir generalizado eran premisas como "se han escapado vivos", "este partido era de 3 puntos"..., sin contar otros choques en los que el equipo ha estado irreconocible y con una relajación excesiva, con fallos a los que no nos tiene acostumbrados. Quizás transformando algún empate en victoria estaríamos luchando por cotas más altas. O quizás no. Mucho se habla de la labor de Dani Ponz con una plantilla que por momentos, y siempre bajo una visión subjetiva y viendo cómo machaca a rivales de renombre en el Reina Sofía, podía haber hecho más y mejor.
