@@ -11,7 +11,6 @@ tags:
   - Eldense
   - Fichaje
   - Afición
-  - Apuntes desde la Panelais
 autor: "Jaime García (Món) "
 ---
 **De Amores de verano y lanzaderas.**

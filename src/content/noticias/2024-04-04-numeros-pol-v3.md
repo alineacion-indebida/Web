@@ -4,11 +4,11 @@ description: Los números de Pol. Primera Federación, grupo 1, jornada 31.
 date: 2024-04-04T20:00:00.000+01:00
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los números de Pol
+  - Los Números De Pol
 tags:
   - Primera Federación
   - Riazor
-  - Dépor
+  - Deportivo
   - Unionistas
   - Estadísticas
 autor: Pol Zakour

@@ -7,10 +7,7 @@ imagen: /img/noticias/gmmhlb5xqaacb04.jpeg
 categorias:
   - La Opinión Indebida
 tags:
-  - La Opinión Indebida
   - Primera Federación
-  - Grupo 1
-  - Jornada 34
   - Sabadell
   - Unionistas
   - Reina Sofía

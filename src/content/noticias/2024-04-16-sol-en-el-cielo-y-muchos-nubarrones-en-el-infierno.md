@@ -8,15 +8,12 @@ categorias:
   - La Jornada Indebida
 tags:
   - Primera Federación
-  - Grupo 1
-  - Jornada 32
-  - La Jornada Indebida
   - Fútbol
 autor: "Key Galán "
 ---
 Tras la jornada 32 de Primera Federación en su Grupo 1 todo hace indicar que e lReal Club Deportivo de La Coruña tiene a su alcance el ascenso de categoría. Tras su victoria labrada en una gran segunda mitad en Teruel, los blanquiazules se acercan a la Plata. Los rivales, presionados por el ritmo frenético en forma de victorias que han impuesto los de Idiákez, no son capaces de enlazar dos jornadas consecutivas en sumar de tres en tres.
 
-Los perseguidores catalanes, Nastic y Barcelona At, fuera de casa bajan enteros y caen sin paliativo alguno en Salamanca, ante Unionistas de Salamanca colosal, - los charros mira a los ojos a su próximo objetivo, Lacopa de SM el Rey - , y los tarraconenses caen ante el Tarazona. Los aragoneses tras su inicial y obligado peregrinaje por Tudela, cosas de la RFEF, han encontrado la estabilidad necesaria en su casita para acariciarl la permanencia en su primera temporada en la máxima categoría federativa.
+Los perseguidores catalanes, Nàstic y Barcelona At, fuera de casa bajan enteros y caen sin paliativo alguno en Salamanca, ante Unionistas de Salamanca colosal, - los charros mira a los ojos a su próximo objetivo, Lacopa de SM el Rey - , y los tarraconenses caen ante el Tarazona. Los aragoneses tras su inicial y obligado peregrinaje por Tudela, cosas de la RFEF, han encontrado la estabilidad necesaria en su casita para acariciarl la permanencia en su primera temporada en la máxima categoría federativa.
 
 Por otro lado, Deportiva Ponferradina y Cultural y Deportiva Leonesa, siguen con el quiero y no puedo en su campeonato particular. En esta jornada les tocó ganar, aunque unos, Deportiva, lejos de la pelea por ascender directo y otros, con el agua al cuello por no aclarar su panorama de Play off de ascenso y Copa. Se quedan los objetivos algo cortos para lo que se gastan por esas tierras. Ambos ganaron y bien. Con contundencia, los bercianos se deshicieron de un esperpento de equipo que se presentó en el Toralín, SDL, y los otros ganaron a una muy endeble Real B, que defensivamente ha dejado mucho que desear en esta segunda vuelta.
 

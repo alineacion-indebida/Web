@@ -4,7 +4,7 @@ description: Los números de Pol. Primera Federación, grupo 1, jornada 30.
 date: 2024-03-28T20:00:00.000+01:00
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Números de Pol
+  - Los Números De Pol
 tags:
   - Primera Federación
   - Reina Sofía

@@ -6,15 +6,12 @@ description: La firma destacada de Miguel Ontiyuelo. Unionistas de Salamanca vs
 date: 2024-03-18T10:00:00.000+01:00
 imagen: /img/noticias/osasunapromesas.webp
 categorias:
-  - La firma Destacada
+  - La Firma Destacada
 tags:
   - Primera Federación
-  - jornada 28
-  - grupo 1
   - Unionistas
   - Osasuna Promesas
   - Reina Sofía
-  - La Firma Destacada
   - Crónica
 autor: Miguel Ontiyuelo
 ---

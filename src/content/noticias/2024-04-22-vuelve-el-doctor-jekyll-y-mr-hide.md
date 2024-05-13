@@ -4,16 +4,13 @@ description: Opinión y resumen del partido Real Union de Irún contra Unionista
 date: 2024-04-22T14:49:00.000Z
 imagen: /img/noticias/stadium-gal.webp
 categorias:
-  - La Firma Indebida
+  - La Firma Destacada
 tags:
   - Primera Federación
-  - Jornada 33
-  - Grupo 1
   - Real Unión
   - Unionistas
   - Irún
   - Gal
-  - La Firma Destacada
   - Crónica
 autor: "Jaime García (Món) "
 ---

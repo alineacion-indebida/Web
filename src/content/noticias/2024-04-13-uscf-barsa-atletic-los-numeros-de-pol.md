@@ -1,15 +1,15 @@
 ---
-title: USCF - Barça Atlètic - Los números de Pol
+title: USCF - Barcelona Atlètic - Los números de Pol
 description: Los números de Pol. Primera Federación, grupo 1, jornada 32.
 date: 2024-04-13T15:45:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Números de Pol
+  - Los Números De Pol
 tags:
   - Primera Federación
   - Reina Sofía
   - Unionistas
-  - Barça Atlètic
+  - Barcelona Atlètic
   - Estadísticas
 autor: Pol Zakour
 ---

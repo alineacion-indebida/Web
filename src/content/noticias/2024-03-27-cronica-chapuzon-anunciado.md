@@ -1,11 +1,15 @@
 ---
 date: '2024-03-27T21:00:00.000+01:00'
 title: 'Crónica de un chapuzón anunciado'
-description: 'Te contamos desde dentro el desplazamiento hasta tarragona para enfrentarnos contra el Nastic. Primera federación grupo 1, jornada 29'
+description: 'Te contamos desde dentro el desplazamiento hasta tarragona para enfrentarnos contra el Nàstic. Primera federación grupo 1, jornada 29'
 imagen: '/img/noticias/aficioncostadourada.webp'
-categorias: ['Viajes indebiders']
+categorias:
+  - Viajes indebiders
+tags:
+  - Primera Federación
+  - Nàstic
+  - Desplazamiento
 autor: 'Yuri Ramos'
-tags: ['Primera federacion','jornada 29','grupo 1', 'Nastic','desplazamiento']
 ---
 
 Para alguien que vive fuera, y que no puede acercarse a su tierra en muchas ocasiones, que vengan a tu "segunda casa" (mi casa siempre será Salamanca/Garrido) es motivo de alegría inmensa. Los exiliados sabrán muy bien de lo que hablo.

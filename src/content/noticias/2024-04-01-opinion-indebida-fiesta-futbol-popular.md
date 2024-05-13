@@ -5,7 +5,7 @@ description: 'Nuestra opinión de la fiesta y el encuentro disputado entre Union
 imagen: '/img/noticias/mesa-redonda-futbol-popular.webp'
 categorias: ['La Opinión Indebida']
 autor: 'Indebiders'
-tags: ['Primera federacion','Unionistas', 'SDL', 'fútbol', 'Fútbol popular']
+tags: ['Primera Federación','Unionistas', 'SD Logroñés', 'Fútbol', 'Fútbol popular']
 ---
 
 ## El fútbol no es lo más importante - Key Galán

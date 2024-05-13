@@ -10,7 +10,6 @@ tags:
   - Unionistas
   - Barcelona Atlètic
   - Reina Sofía
-  - La Firma Destacada
   - Crónica
 autor: Jaime García (Món)
 ---

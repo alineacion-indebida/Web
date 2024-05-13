@@ -5,14 +5,13 @@ description: Todos los datos que debes saber para ponerte a ver el partido entre
 date: 2024-05-03T10:19:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Números de Pol
+  - Los Números De Pol
 tags:
-  - Primera Federacion
+  - Primera Federación
   - Unionistas
   - Teruel
   - Pinilla
   - Estadisticas
-  - Los numeros de Pol
 autor: Pol Zakour
 ---
 Se acerca el final de competición en Primera Federación y nos esperan unas jornadas agónicas, con equipos luchando por la supervivencia y otros por escapar de esta categoría. Muchas veces hablamos desde la perspectiva de la comodidad en la que vive clasificatoriamente Unionistas de Salamanca acerca de lo bonita que es la lucha por evitar el descenso vista sin el peligro de vivir en ella. Sí que está involucrado y con creces el rival de este fin de semana. **Un CD Teruel que se encuentra en los puestos rojos de la tabla, a tan solo 2 puntos de la salvación.** Por su parte, Unionistas de Salamanca no cesa en el empeño en su lucha individual ante un sorprendente Arenteiro que quiere arrebatar a los charros esa última plaza que da acceso a la Copa del Rey 2024/25.

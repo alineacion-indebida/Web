@@ -5,14 +5,13 @@ description: Todo lo que debes leer para llegar al Unionistas-Real B con los
 date: 2024-05-10T16:49:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los números de Pol
+  - Los Números De Pol
 tags:
   - Primera Federación
   - Unionistas
   - Real B
   - Reina Sofía
   - Estadísticas
-  - Los números de Pol
 autor: Pol Zakour
 ---
 Tres partidos para el final de la temporada regular en la Primera RFEF y la lucha sigue. Unionistas de Salamanca continúa con su duelo habitual por entrar en Copa del Rey frente a un CD Arenteiro que pinchó la semana pasada, lo que hace que los charros se pongan por delante y ocupen una ansiada posición que no habían vuelto a pisar desde la Jornada 5 de competición, cuando los de Dani Ponz se situaban quintos clasificados, precedidos precisamente del rival de este fin de semana. **Un filial de la Real Sociedad al que no le ha salido la temporada deseada y que llega al Reina Sofía sin jugarse ya nada**, con la salvación bajo el brazo y sin opciones de llegar al playoff de ascenso.

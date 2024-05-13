@@ -5,13 +5,12 @@ description: La opinión del señor Fuentes sobre lo acontecido en las últimas
 date: 2024-04-24T17:23:00.000Z
 imagen: /img/noticias/gracias.webp
 categorias:
-  - Crónicas
+  - La Opinión Indebida
 tags:
   - Dani Ponz
   - Unionistas
   - Eldense
   - Entrenador
-  - Crónicas
 autor: Señor Fuentes
 ---
 Sobre Dani Ponz.

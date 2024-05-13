@@ -4,14 +4,13 @@ description: Los números de Pol. Primera Federación, grupo 1, jornada 34
 date: 2024-04-25T20:57:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Números de Pol
+  - Los Números De Pol
 tags:
   - Primera Federación
   - Sabadell
   - Unionistas
   - Reina Sofía
   - Estadísticas
-  - Los números de Pol
 autor: Pol Zakour
 ---
 Último tramo de la temporada y prácticamente todos los equipos mantienen objetivos en juego. Nadie puede dejarse llevar, e incluso algún otro tiene aún obligaciones si quiere mantenerse en esta categoría la próxima temporada. Es el caso, por ejemplo, del rival que visita el Reina Sofía este fin de semana. Un CE Sabadell que pese a este buen último tramo de temporada no termina de abandonar los igualadísimos e intrigantes puestos rojos de la clasificación. Unionistas de Salamanca, por su parte, se sitúa en una zona más tranquila, aunque mirando de reojo a su actual rival por la Copa del Rey, un Arenteiro que visita Riazor este fin de semana en una de las salidas más difíciles de la temporada.

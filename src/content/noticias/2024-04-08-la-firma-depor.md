@@ -8,17 +8,14 @@ categorias:
   - La Firma Destacada
 tags:
   - Primera Federación
-  - jornada 31
-  - grupo 1
   - Unionistas
-  - Depor
+  - Deportivo
   - Riazor
-  - La Firma Destacada
   - Crónica
 autor: Carlos Matía
 ---
 
-Hay una idea general en el aficionado Unionista, de que este partido de la jornada 31 en Riazor podía ser el último que se jugase en Coruña en una buena temporada. El posible ascenso del Depor lanzó a más de 500 personas a viajar. Quizá sabiendo que sería difícil. Pero, ¿Por qué no? ¿No se había competido en el Johan Cruyff? ¿No se había conseguido ganar en Tarragona?
+Hay una idea general en el aficionado Unionista, de que este partido de la jornada 31 en Riazor podía ser el último que se jugase en Coruña en una buena temporada. El posible ascenso del Dépor lanzó a más de 500 personas a viajar. Quizá sabiendo que sería difícil. Pero, ¿Por qué no? ¿No se había competido en el Johan Cruyff? ¿No se había conseguido ganar en Tarragona?
 
 El recibimiento del pueblo deportivista fue una vez más excelente. La comunión de aficiones anunciaba un partido de altos vuelos. Los dos mejores equipos del mundo frente a frente en un estadio hasta la bandera.
 
@@ -26,4 +23,4 @@ Comenzó el encuentro y Unionistas de Salamanca buscó cortocircuitar al Deporti
 
 Pero entre la falta de pegada, no finalizar bien las numeras ocasiones, y el acierto de Iván Martínez, se llego al descanso con empate a cero en el marcador. Y tras el paso por los vestuarios, Dani Ponz intentó cerrar la puerta. Puso en el campo a Rastrojo, y busco reforzar ese trabajo en bandas. Pero no pudo. A los 52 minutos Barbero posiblemente en la oportunidad menos clara que tuvo, desvió lo justo un disparo lejano de José Ángel y adelantó al cuadro de Imanol Idiakez. Gol Partita.
 
-La segunda parte se durmió entre ocasiones del Deportivo. Un dominio del partido y la posesión, que solo la falta de contundencia, y las paradas de Iván, dejó que tímidamente hubiese opciones al final para Unionistas. Una jugada en banda y una falta lateral plantearon la posibilidad de poder rascar algo, pero no era la tarde. Un Depor a otro ritmo se impusó en el encuentro, consiguió distanciarse en el liderato, y alejó la copa para Unionistas.
+La segunda parte se durmió entre ocasiones del Deportivo. Un dominio del partido y la posesión, que solo la falta de contundencia, y las paradas de Iván, dejó que tímidamente hubiese opciones al final para Unionistas. Una jugada en banda y una falta lateral plantearon la posibilidad de poder rascar algo, pero no era la tarde. Un Dépor a otro ritmo se impusó en el encuentro, consiguió distanciarse en el liderato, y alejó la copa para Unionistas.

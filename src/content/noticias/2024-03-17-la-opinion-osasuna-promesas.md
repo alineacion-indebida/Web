@@ -5,7 +5,7 @@ description: 'Nuestra opinión indebida del partido disputado contra el Osasuna 
 imagen: '/img/noticias/osasunapromesas.webp'
 categorias: ['La Opinión Indebida']
 autor: 'Indebiders'
-tags: ['Primera federacion', 'CA Osasuna Promesas']
+tags: ['Primera Federación', 'Osasuna Promesas']
 ---
 
 ## Bad- Worse- The worst - Key Galán
@@ -26,7 +26,7 @@ Los baches de juego o físicos se pueden modificar en los entrenos, pero la acti
 
 ## Entre dos montañas - Carlos Matía
 
-Unionistas cosechó en el Reina Sofía, su segunda derrota consecutiva ante Osasuna Promesas y lleva ya un mes sin ganar, en lo que parece un valle en la temporada. Un valle de dudas. Un valle de poco juego. Un valle de malos resultados. Para llegar aquí tuvo que subir una gran montaña que comenzaba en enero. A un punto del descenso viajaba a Barcelona a enfrentarse al filial culé. Esa ladera se subió con paso firme, mezclando liga y copa, y consiguiendo tres victorias y un empate, mas la eliminación del Villarreal y el premio del Barça en una noche mágica.
+Unionistas cosechó en el Reina Sofía, su segunda derrota consecutiva ante Osasuna Promesas y lleva ya un mes sin ganar, en lo que parece un valle en la temporada. Un valle de dudas. Un valle de poco juego. Un valle de malos resultados. Para llegar aquí tuvo que subir una gran montaña que comenzaba en enero. A un punto del descenso viajaba a Barcelona a enfrentarse al filial culé. Esa ladera se subió con paso firme, mezclando liga y copa, y consiguiendo tres victorias y un empate, mas la eliminación del Villarreal y el premio del Barcelona en una noche mágica.
 
 Y comenzó la bajada del monte. En racha de resultados, con un juego alegre y vistoso, y con la permanencia cerca después de empatar en León, Ponferrada y Tarazona, y de ganar a Fuenlabrada, se hablaba de buenos resultados pero se empezaba a deslizar la falta de juego. Faltaba algo. Se competía. Se aguantaba. Pero se iba borrando la tiza de la pizarra.
 

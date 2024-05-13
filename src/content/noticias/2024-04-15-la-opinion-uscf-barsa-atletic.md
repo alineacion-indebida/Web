@@ -23,7 +23,7 @@ Todo lo que relatamos con anterioridad se formó nada más comenzar el envite y 
 
 Maniataron al oponente en lo táctico y engulleron de un trago a los infantes de la ciudad condal que veían desde el césped con  perplejidad y algo de incredulidad como los : Álvaro Gómez, Planas, Slavy, Losada, Tur, Adrian Gómez, Carlos Giménez, Erik Ruiz, Jon Rojo, Camus, Iván Martínez y demás, los pasaban por encima de forma supersónica.
 
-Redondo el partido de Unionistas, que ante los equipos de arriba de la tabla clasificatoria es un autentico dolor de cabeza.  Ejemplo de esto es que al Barcelona AT y Nastic de Tarragona les ha ganado los dos partidos del campeonato, resaltando bien a las claras que las empresas de escenarios grandes, a los salmantinos les ponen muy cachondos, amén de la ayuda indirecta con estos resultados al Deportivo de La Coruña que lo dispara hasta la segunda división.
+Redondo el partido de Unionistas, que ante los equipos de arriba de la tabla clasificatoria es un autentico dolor de cabeza.  Ejemplo de esto es que al Barcelona AT y Nàstic de Tarragona les ha ganado los dos partidos del campeonato, resaltando bien a las claras que las empresas de escenarios grandes, a los salmantinos les ponen muy cachondos, amén de la ayuda indirecta con estos resultados al Deportivo de La Coruña que lo dispara hasta la segunda división.
 
 Sigo pensando que con el ambiente de ayer, enchufado todo el mundo desde el minuto uno, este Unionistas tiene caca día más cerca el fútbol profesional.
 

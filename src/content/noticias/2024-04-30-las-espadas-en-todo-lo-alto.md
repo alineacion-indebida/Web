@@ -4,12 +4,9 @@ description: Análisis de lo acontecido en la jornada 34 del Grupo 1 de Primera 
 date: 2024-04-30T21:23:00.000Z
 imagen: /img/noticias/1000064944.jpg
 categorias:
-  - PrimeraFederación
+  - La Jornada Indebida
 tags:
   - Primera Federación
-  - Grupo 1
-  - Jornada 34
-  - La Jornada Indebida
   - Fútbol
 autor: Yuri Ramos
 ---
@@ -18,9 +15,9 @@ Muy buenas, indebiders!!!
 
 Pasamos a repasar lo que aconteció la jornada 34.
 
-**La parte de arriba se comprime, metiéndose la Cultural de lleno en la lucha por el playoff**, y un Depor que tuvo todo a su favor para dejar el primer puesto muy cerquita, pero un gol en las postrimerías del Arenteiro abre la posibilidad al Barça B de alcanzarles. El duelo en Riazor de la jornada 36 entre los dos primeros promete.
+**La parte de arriba se comprime, metiéndose la Cultural de lleno en la lucha por el playoff**, y un Dépor que tuvo todo a su favor para dejar el primer puesto muy cerquita, pero un gol en las postrimerías del Arenteiro abre la posibilidad al Barcelona Atlètic de alcanzarles. El duelo en Riazor de la jornada 36 entre los dos primeros promete.
 
-**En la lucha por la Copa Unionistas fue capaz de recortar dos puntos** al Arenteiro, a pesar de que los gallegos sacaron un valioso punto ante el Depor. La Copa será un mano a mano entre dos de las relevaciones del grupo.
+**En la lucha por la Copa Unionistas fue capaz de recortar dos puntos** al Arenteiro, a pesar de que los gallegos sacaron un valioso punto ante el Dépor. La Copa será un mano a mano entre dos de las relevaciones del grupo.
 
 La lucha por eludir el descenso también está muy igualada. Tan solo el filial rojillo fue capaz de ganar entre los últimos 10 equipos de la clasificación, y estas **4 jornadas restantes prometen dar espectáculo para dilucidar qué equipos acompañarán a Rayo Majadahonda (ya descendido) y SD Logroñés (quasi descendido) a 2ª Federación**.
 
@@ -28,11 +25,11 @@ La lucha por eludir el descenso también está muy igualada. Tan solo el filial 
 
 importante victoria la lograda por el conjunto rojillo para escapar de la zona de descenso. Además de forma muy meritoria, porque se quedaron con 10 muy pronto por la expulsión del guardameta Valencia. Un doblete de **Svensson**, con dos disparos ajustados al palo largo, daban una ventaja muy importante a los locales, ya con 10 jugadores. Sin embargo el Real Unión no bajó los brazos, recortó distancias por medio de Asier Benito. Tuvieron ocasiones los irundarras de empatar con un par de testarazos, pero uno salió fuera y el otro se marchó al palo, así que los tres puntos quedaron en casa. Oportunidad de oro perdida por el Real Unión para sumar puntos en un partido que se les puso de cara y **alejarse del descenso**.
 
-## PONFERRADINA 1 - BARÇA ATLÈTIC 3
+## PONFERRADINA 1 - BARCELONA ATLÈTIC 3
 
 La **Deportiva se complica el playoff** tras su derrota ante un filial blaugrana superior. Pronto se adelantaron los visitantes. El pichichi de la categoría Pau Víctor presiona arriba y se lleva un balón que define magistralmente en el mano a mano con el portero local. Sin embargo, un córner botado por el onminepresente Igbekeme que remató Sibille devolvía las tablas.
 
-Tras el descanso pudo adelantarse la Deportiva con un remate al larguero, pero fue Marc Guiu el que adelantaría a su equipo aprovechando una indecisión en la salida del meta Prieto. Certificó la victoria el filial blaugrana desde los 11 metros, con otra salida dubitativa del meta local. No estuvo acertada la zaga berciana, y tienen a sus vecinos leoneses acechando la última plaza que da acceso al playoff. Los blaugranas recortan dos puntos al Depor en su lucha por el pimer puesto, y tendrán una oportunidad de oro de seguir recortando puntos en el duelo que enfrentará a ambos en Riazor en dos jornadas.
+Tras el descanso pudo adelantarse la Deportiva con un remate al larguero, pero fue Marc Guiu el que adelantaría a su equipo aprovechando una indecisión en la salida del meta Prieto. Certificó la victoria el filial blaugrana desde los 11 metros, con otra salida dubitativa del meta local. No estuvo acertada la zaga berciana, y tienen a sus vecinos leoneses acechando la última plaza que da acceso al playoff. Los blaugranas recortan dos puntos al Dépor en su lucha por el pimer puesto, y tendrán una oportunidad de oro de seguir recortando puntos en el duelo que enfrentará a ambos en Riazor en dos jornadas.
 
 ## UNIONISTAS DE SALAMANCA 4 - CE SABADELL 0
 
@@ -116,13 +113,13 @@ Tuvo una ocasión muy clara el conjunto turiasonense para igualar la contienda, 
 
 El Tarazona no pudo alejarse del descenso, y tendrá que seguir luchando para mantener la categoría.
 
-## DEPOR 2 - ARENTEIRO 2
+## DEPORTIVO 2 - ARENTEIRO 2
 
-Grandísima **oportunidad que desperdició el Depor** para casi asegurar la primera plaza, tras dejar escapar una renta de dos goles ante un rival que está haciendo una campaña extraordinaria. La curiosidad del partido fue que el equipo de O Carballiño tuvo que hacer ficha al preparador de porteros para que jugara de titular, y a la postre **Diego Rivas** resultaría decisivo de una manera inesperada.
+Grandísima **oportunidad que desperdició el Dépor** para casi asegurar la primera plaza, tras dejar escapar una renta de dos goles ante un rival que está haciendo una campaña extraordinaria. La curiosidad del partido fue que el equipo de O Carballiño tuvo que hacer ficha al preparador de porteros para que jugara de titular, y a la postre **Diego Rivas** resultaría decisivo de una manera inesperada.
 
-El Arenteiro salió valiente, pero fue el Depor el que golpeó primero. Enésima asistencia de Lucas Pérez, y Mella que hacía el primero. Hubo ocasiones para ambos conjuntos, pero fue Villares el amplió la ventaja con un disparo desde la frontal en el minuto 63. Parecía que lo tenían hecho, pero el Arenteiro no se rindió. Al poco recortaba distancias Luis Chacón tras rematar un córner. Y ya en el añadido otro saque de esquina es rematado por el portero visitante, que había subido a rematar; el balón queda muerto para que Romay hiciera el definitivo 2-2.
+El Arenteiro salió valiente, pero fue el Dépor el que golpeó primero. Enésima asistencia de Lucas Pérez, y Mella que hacía el primero. Hubo ocasiones para ambos conjuntos, pero fue Villares el amplió la ventaja con un disparo desde la frontal en el minuto 63. Parecía que lo tenían hecho, pero el Arenteiro no se rindió. Al poco recortaba distancias Luis Chacón tras rematar un córner. Y ya en el añadido otro saque de esquina es rematado por el portero visitante, que había subido a rematar; el balón queda muerto para que Romay hiciera el definitivo 2-2.
 
-Lo tuvo el Depor muy cerca para tener un colchón muy importante con el segundo clasificado. No se pueden despistar si quieren subir directos, que los playoffs son muy traicioneros (y ellos bien lo saben).
+Lo tuvo el Dépor muy cerca para tener un colchón muy importante con el segundo clasificado. No se pueden despistar si quieren subir directos, que los playoffs son muy traicioneros (y ellos bien lo saben).
 
 El Arenteiro sumó un punto "inesperado" que le mantiene con ventaja para la clasificación para Copa ante Unionistas, aunque les queda por **visitar en la última jornada el Reina Sofía**, en lo que puede ser uno de los partidos más emocionantes de la temporada.
 

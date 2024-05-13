@@ -4,19 +4,16 @@ description: La Jornada Indebida de Carlos Matía. Primera Federación, grupo 1,
 date: 2024-03-26T17:00:00.000+01:00
 imagen: /img/noticias/primerafed.webp
 categorias:
-  - Primera federación
+  - La Jornada Indebida
 tags:
   - Primera Federación
-  - Grupo 1
-  - Jornada 29
-  - La Jornada Indebida
   - Fútbol
 autor: Carlos Matía
 ---
 
 A falta de 9 jornadas para la conclusión de la liga, la tabla del grupo 1 en primera federación parece haberse convertido en una temporada de la serie de Warner.
 
-En el capitulo 29, cada objetivo se empieza a separar del siguiente. La lucha por el ascenso y playoff parece ser ya cosa de 5. El Real Club Correcaminos de la Coruña superó por 0-2 al Rayo Majadahonda, en un cerro del espino teñido de blanquiazul, que bailaba al son que tocaba el joven Yeremay. Perseguido por cuatro Coyotes, el Barça Atlétic tiene la fórmula para alcanzarlo, y tras su victoria por 1-0 ante el Cornellá, consiguió el “atajo” para ponerse a un punto. Por su parte el Celta Fortuna sigue su estrategia de persecución, y con un 4-1 rotundo al Fuenlabrada se coloca a 4 del bip-bip gallego. Misma distancia trae el Nástic que detonó por error la trampa de ACME y retraso su avance con el 0-1 en el Costa Daurada ante Unionistas. Cierra este grupo la Ponfe, que se vio sorprendido por el Tarazona 2-0 y se aleja del correcaminos a 5 puntos.
+En el capitulo 29, cada objetivo se empieza a separar del siguiente. La lucha por el ascenso y playoff parece ser ya cosa de 5. El Real Club Correcaminos de la Coruña superó por 0-2 al Rayo Majadahonda, en un cerro del espino teñido de blanquiazul, que bailaba al son que tocaba el joven Yeremay. Perseguido por cuatro Coyotes, el Barcelona Atlétic tiene la fórmula para alcanzarlo, y tras su victoria por 1-0 ante el Cornellá, consiguió el “atajo” para ponerse a un punto. Por su parte el Celta Fortuna sigue su estrategia de persecución, y con un 4-1 rotundo al Fuenlabrada se coloca a 4 del bip-bip gallego. Misma distancia trae el Nástic que detonó por error la trampa de ACME y retraso su avance con el 0-1 en el Costa Daurada ante Unionistas. Cierra este grupo la Ponfe, que se vio sorprendido por el Tarazona 2-0 y se aleja del correcaminos a 5 puntos.
 
 Nuevo y diferente correcaminos ha resultado ser la Cultural. Alejándose del playoff tras una derrota y cuatro empates, debe empezar a mirar a los coyotes que amenazan su puesto en copa al empatar a cero en Tajonar. El Arenteiro, sin prisa, pero sin pausa, con su victoria en Sabadell 0-1, oscila entre el coyote que quiere más, y el correcaminos que defiende lo que tiene. Lugo y Unionistas siguen la caza, y vuelven a intentar agarrar la copa. Con su remontada 4-3 los gallegos, y la trabajada victoria charra en Tarragona.
 

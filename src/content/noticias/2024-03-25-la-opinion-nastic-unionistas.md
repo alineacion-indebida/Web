@@ -1,11 +1,11 @@
 ---
 date: '2024-03-25T17:00:00.000+01:00'
-title: 'La opinión indebida del Nastic - Unionistas'
-description: 'Nuestra opinión del encuentro disputado entre Nastic de Tarragona y Unionistas de Salamanca. Primera federación grupo 1, jornada 29.'
+title: 'La opinión indebida del Nàstic - Unionistas'
+description: 'Nuestra opinión del encuentro disputado entre Nàstic de Tarragona y Unionistas de Salamanca. Primera federación grupo 1, jornada 29.'
 imagen: '/img/noticias/nasticuscf.webp'
 categorias: ['La Opinión Indebida']
 autor: 'Indebiders'
-tags: ['Primera federacion', 'Nastic','Tarragona','Unionistas','Salamanca','Nou estadi Costa Dourada']
+tags: ['Primera Federación', 'Nàstic','Tarragona','Unionistas','Salamanca','Nou estadi Costa Dourada']
 ---
 
 ## ADN Unionistas - Key Galán
@@ -28,7 +28,7 @@ El resultado fue óptimo pero el trabajo fue excelente y, ese curro, es el term�
 
 En mi primera crónica futbolera no hablaré de tácticas ni técnicas. Hablaré sencillamente de UNIONISTAS DE SALAMANCA, así en mayúsculas. Porque este es un equipo mayúsculo en la victoria (como es el caso) pero también en la derrota. Porque a través de los 22 tíos (pronto también tías) que se ponen la camiseta con el escudo del toro sentimos cosas en algunos casos olvidadas, y en otros que no habíamos sentido nunca. Porque si no, díganme ustedes que sentido tiene que unos 50 valientes se presenten en Tarragona, a un partido perdido previamente, o que casi 400 personas decidan pasar su tarde de domingo viendo y oyendo a cuatro señores hablar y dar su opinión sobre lo que pasa en el verde.
 
-Todo esto amig@s lo provoca ese ciclón llamado UNIONISTAS DE SALAMANCA, así, en mayúsculas. Porque unos pocos nos quedamos huérfanos de todo y vimos un oasis en medio del desierto y otros tantos han descubierto (y aprendido) que se puede ser feliz incluso en la derrota. Porque este equipo es así. Nos une a todos y nos deja lecciones inolvidables que también nos valen para nuestro día a día. Cuando os digan que no podéis, que no valéis, que algo es inalcanzable pensar en el partido de ayer (por no irnos mas lejos). Estadio TOP, equipo TOP, jugadores TOP, presupuesto TOP….”¿como vamos a ganar al Nastic, pensábamos muchos, si son mejores en todo?” pues sabiendo que si, que lo son, pero también que tienen que correr mas y mejor que nosotros. También hay que tener una pizca de suerte y ayer indudablemente la tuvimos.
+Todo esto amig@s lo provoca ese ciclón llamado UNIONISTAS DE SALAMANCA, así, en mayúsculas. Porque unos pocos nos quedamos huérfanos de todo y vimos un oasis en medio del desierto y otros tantos han descubierto (y aprendido) que se puede ser feliz incluso en la derrota. Porque este equipo es así. Nos une a todos y nos deja lecciones inolvidables que también nos valen para nuestro día a día. Cuando os digan que no podéis, que no valéis, que algo es inalcanzable pensar en el partido de ayer (por no irnos mas lejos). Estadio TOP, equipo TOP, jugadores TOP, presupuesto TOP….”¿como vamos a ganar al Nàstic, pensábamos muchos, si son mejores en todo?” pues sabiendo que si, que lo son, pero también que tienen que correr mas y mejor que nosotros. También hay que tener una pizca de suerte y ayer indudablemente la tuvimos.
 
 Ese balón que en otras ocasiones se va por encima del travesaño entró al fondo de la red. El sentimiento colectivo que genera celebrar un gol es inenarrable y no estoy capacitado si quiera para intentarlo pero, celebrar un gol desde la habitación de un niño de 8 años junto con otros 3 amigos y a través de una pantalla de ordenar es sencillamente gloria bendita. ¡Imagínense a esos locos valientes que estaban en el campo!
 

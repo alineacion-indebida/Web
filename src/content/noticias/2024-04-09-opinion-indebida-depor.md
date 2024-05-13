@@ -1,11 +1,11 @@
 ---
 date: '2024-04-10T10:00:00.000+01:00'
-title: 'La opinión indebida del Depor Unionistas en Riazor'
+title: 'La opinión indebida del Dépor Unionistas en Riazor'
 description: 'Nuestra opinión del encuentro disputado entre Real Club Deportivo de la Coruña y Unionistas de Salamanca. Primera federación grupo 1, jornada 31.'
 imagen: '/img/noticias/aficion-coruna.webp'
 categorias: ['La Opinión Indebida']
 autor: 'Indebiders'
-tags: ['Primera federacion', 'Unionistas', 'Deportivo', 'fútbol', 'Riazor', 'Coruña']
+tags: ['Primera Federación', 'Unionistas', 'Deportivo', 'Fútbol', 'Riazor', 'Coruña']
 ---
 
 ## Los vemos volver - Key Galán
@@ -24,7 +24,7 @@ Unionistas de Salamanca compitió. Prácticamente, desbordados desde el pitido i
 
 Sigo diciendo que Unionistas tiene dos porterazos esta temporada y ahí se ha basado, una parte importante, que los nuestros, desde los palos, compitan siempre.
 
-Me alegro que Coruña y Su Depor salga del ostracismo futbolero en el que se encuentran. Esa buena gente se merece lo mejor y nosotros nos alegramos.
+Me alegro que Coruña y Su Dépor salga del ostracismo futbolero en el que se encuentran. Esa buena gente se merece lo mejor y nosotros nos alegramos.
 
 ## Al lugar donde has sido feliz no debieras tratar de volver - Por Yuri Ramos
 
@@ -32,10 +32,10 @@ Como dice Joaquín Sabina en una de sus canciones, no debiéramos volver a A Cor
 
 Y qué impresionante es ver un estadio como Riazor rozando el lleno. Impresiona y llena el alma de alegría ver el campo así. Cuando asomé por el vomitorio de la puerta 20 aluciné. El resultado iba a ser lo de menos, al menos para mí.
 
-Del partido por mi parte poco que comentar. Estaba embriagado con el ambiente. Un Depor superior pero fallón se llevó el partido de manera justa, pero exigua. No tuvimos ocasiones, aunque ver al portero subir al remate final denota que alguna posibilidad hubo. Yeremai y Mella son muy buenos, eso sí que quería remarcarlo. Pero no solo ellos.
+Del partido por mi parte poco que comentar. Estaba embriagado con el ambiente. Un Dépor superior pero fallón se llevó el partido de manera justa, pero exigua. No tuvimos ocasiones, aunque ver al portero subir al remate final denota que alguna posibilidad hubo. Yeremai y Mella son muy buenos, eso sí que quería remarcarlo. Pero no solo ellos.
 
-Realmente creo que casi todos salimos bastante contentos por lo vivido. No puedo decir que hiciéramos fútbol champagne, fue más fútbol champín, pero si es la última vez que visitamos Riazor contra un Depor de 1ª Federación la ocasión no defraudó.
+Realmente creo que casi todos salimos bastante contentos por lo vivido. No puedo decir que hiciéramos fútbol champagne, fue más fútbol champín, pero si es la última vez que visitamos Riazor contra un Dépor de 1ª Federación la ocasión no defraudó.
 
 Estoy seguro que van a subir, y lo harán como primeros.
 
-**Forza Depor, os vamos a ver volver!!!**
+**Forza Dépor, os vamos a ver volver!!!**

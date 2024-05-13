@@ -9,7 +9,6 @@ tags:
   - Unionistas
   - Mercado
   - Fichajes
-  - Apuntes desde la Panelais
 autor: "Jaime García (Món) "
 ---
 Con los ecos del saludo entre equipo y grada tras la fiesta del partido contra el filial del FC Barcelona, la idea de que la salvación estaba sellada asaltaba a todos los presentes, del césped al último escalón del Reina. Abrazos, sonrisas, puños cerrados al aire, palmadas en la espalda y apretones de mano.

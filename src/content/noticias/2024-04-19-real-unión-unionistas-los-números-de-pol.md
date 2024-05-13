@@ -4,7 +4,7 @@ description: Los números de Pol. Primera Federación, grupo 1, jornada 33
 date: 2024-04-19T19:11:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Números de Pol
+  - Los Números De Pol
 tags:
   - Primera Federación
   - Real Unión

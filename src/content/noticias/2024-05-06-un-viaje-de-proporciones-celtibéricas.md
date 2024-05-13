@@ -8,13 +8,10 @@ categorias:
   - Viajes indebiders
 tags:
   - Primera Federación
-  - jornada 35
-  - grupo 1
   - Teruel
   - Unionistas
   - Pinilla
   - Desplazamiento
-  - Viajes Indebiders
 autor: Miguel Ontiyuelo
 ---
 Hasta la fecha no habían sido demasiados los partidos que Unionistas había jugado por Celtiberia. Aquellos enfrentamientos por la provincia de Soria o Tarazona, todos hace varias temporadas salvo el último acercamiento turiasonense. El resto de la temporada 23-24 había deparado largas travesías hasta el horizonte mediterráneo por tierra o aire, pero esta vez el viaje consistía en internarse y dejarse empapar de recio iberismo, en la medida en que los parajes interiores de la *piel de toro* puedan mojar. Dejar las autovías y sus áreas de servicio y abrir los sentidos. Anchos y despoblados paisajes alcarreños, imponentes torres molinesas, severos páramos ibéricos y pequeños pueblos, todos con alma, salpicados de recuerdos y ambiciones de lo que alguna vez fue o quiso ser.

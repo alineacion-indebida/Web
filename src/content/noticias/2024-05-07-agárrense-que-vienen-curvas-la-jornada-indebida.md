@@ -4,16 +4,13 @@ description: Análisis de lo acontecido en la jorna 35 del Grupo 1 de 1ª Federa
 date: 2024-05-07T21:43:00.000Z
 imagen: /img/noticias/1000066468.jpg
 categorias:
-  - PrimeraFederación
+  - La Jornada Indebida
 tags:
   - Primera Federación
-  - Grupo 1
-  - Jornada 35
-  - La Jornada Indebida
   - Fútbol
 autor: Yuri Ramos
 ---
-Vamos con el repaso de la **jornada 35!!! Una jornada que mantiene la ventaja del líder, el Depor**, que aunque saca 4 puntos al filial blaugrana deberá defender su ventaja en Riazor en el enfrentamiento de la próxima jornada. 
+Vamos con el repaso de la **jornada 35!!! Una jornada que mantiene la ventaja del líder, el Dépor**, que aunque saca 4 puntos al filial blaugrana deberá defender su ventaja en Riazor en el enfrentamiento de la próxima jornada. 
 **La Cultu no pudo acercarse al playoff**, tras su empate y la victoria in extremis de la Ponferradina.
 **Unionistas ocupa ahora plaza de Copa del Rey tras su victoria en Teruel** y el tropiezo del Arenteiro en casa. 5 puntos han remontado los charros en las dos últimas jornadas.
 **La lucha por el descenso sigue muy igualada**. Otra jornada que ninguno de los 10 últimos pudo vencer, por lo que las distancias se mantienen, y prometen un desenlace de infarto.
@@ -21,14 +18,14 @@ Vamos con el repaso de la **jornada 35!!! Una jornada que mantiene la ventaja de
 **Empate a poco entre los dos filiales**. Empezó mejor el Celta Fortuna, y dispuso de varias ocasiones para adelantarse. Incisivo Raúl Blanco. La Real B empezó a hacer daño en transiciones rápidas, y tuvo la más clara en las botas de Rupérez, pero su disparo salió lamiendo el palo de la portería defendida por Rulli.
 La segunda parte bajó de intensidad, y apenas hubo acercamientos peligrosos. De nuevo Raúl Blanco fue que más cerca estuvo de lograr el gol, pero al final se mantuvo el resultado inicial en Zubieta.
 
-## BARÇA ATLÈTIC 2 - TARAZONA 1
+## BARCELONA ATLÈTIC 2 - TARAZONA 1
 Partido donde el filial blaugrana dispuso de muchas y buenas ocasiones, y se adelantó pronto en el marcador con gol de Naim en una buena combinación en el centro de la zaga turiasonense. Unai Hernández aumentó la ventaja en el minuto 35 con una buena jugada infividual. Parecía un partido plácido para los blaugrana, pero el gol del central Amoah en el descuento le daba emoción al encuentro.
-Tras la reanudación el Barça Atlétic siguió dominando y teniendo buenas ocasiones, pero Salvi Carrasco y el larguero daban vida al Tarazona. Y Dieste pudo lograr la igualada, pero su remate salió por encima del larguero. 
-Victoria más ajustada vistos los méritos de unos y otros. **El Barça Atlètic viajará a Riazor para hacer un último intento para conseguir la primera plaza**. El Tarazona tendrá que seguir luchando por no caer en descenso.
+Tras la reanudación el Barcelona Atlétic siguió dominando y teniendo buenas ocasiones, pero Salvi Carrasco y el larguero daban vida al Tarazona. Y Dieste pudo lograr la igualada, pero su remate salió por encima del larguero. 
+Victoria más ajustada vistos los méritos de unos y otros. **El Barcelona Atlètic viajará a Riazor para hacer un último intento para conseguir la primera plaza**. El Tarazona tendrá que seguir luchando por no caer en descenso.
 
-## SESTAO RIVER 0 - DEPOR 1
-**Partido poco brillante del líder, pero donde sacó una victoria en unas Llanas con gran ambiente.** Pocas ocasiones y cierta polémica, ya que los locales reclamaron un penalty por agarrón en el área deportivista que el árbitro consideró insuficiente para ser sancionado. Otro agarrón, que parece fuera del área, sí que fue señalado como pena máxima a favor del Depor, y Lucas Pérez no falló. Pudo aumentar la ventaja el propio delantero blanquiazul, pero el marcador no se movería.
-Victoria que le da cierta tranquilidad a los coruñeses, ya que aunque pierdan contra el Barça B seguirán por delante de su rival por el ascenso directo. Una victoria aseguraría esa primera plaza.
+## SESTAO RIVER 0 - DEPORTIVO 1
+**Partido poco brillante del líder, pero donde sacó una victoria en unas Llanas con gran ambiente.** Pocas ocasiones y cierta polémica, ya que los locales reclamaron un penalty por agarrón en el área deportivista que el árbitro consideró insuficiente para ser sancionado. Otro agarrón, que parece fuera del área, sí que fue señalado como pena máxima a favor del Dépor, y Lucas Pérez no falló. Pudo aumentar la ventaja el propio delantero blanquiazul, pero el marcador no se movería.
+Victoria que le da cierta tranquilidad a los coruñeses, ya que aunque pierdan contra el Barcelona Atlètic seguirán por delante de su rival por el ascenso directo. Una victoria aseguraría esa primera plaza.
 El Sestao River está igualado a puntos con el descenso, que a día de hoy marca el Sabadell, por lo que le esperan tres jornadas de mucho estrés por mantener la categoría.
 
 ## TERUEL 1 - UNIONISTAS 2

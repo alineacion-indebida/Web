@@ -4,12 +4,9 @@ description: Tiempo de nervios, pasión, alegrías incontenibles, sorteos, viaje
 date: 2024-05-06T18:29:00.000Z
 imagen: /img/noticias/aficion-coruna.webp
 categorias:
-  - La firma destacada
+  - La Firma Destacada
 tags:
   - Primera Federación
-  - Jornada 35
-  - Grupo 1
-  - La firma destacada
   - Crónica
 autor: "Key Galán "
 ---

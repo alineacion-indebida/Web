@@ -8,12 +8,9 @@ categorias:
   - La Firma Destacada
 tags:
   - Primera Federación
-  - jornada 30
-  - grupo 1
   - Unionistas
   - SD Logroñés
   - Reina Sofía
-  - La Firma Destacada
   - Crónica
 autor: Miguel Ontiyuelo
 ---
