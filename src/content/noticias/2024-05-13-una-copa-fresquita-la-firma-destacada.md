@@ -1,18 +1,18 @@
 ---
 title: Una copa fresquita - La firma destacada
-description: La firma de Key Galan sobre el partido de Unionistas contra la Real
-  Sociedad B. Primera Federacion, grupo 1, jornada 36
+description: La firma de Key Galán sobre el partido de Unionistas contra la Real
+  Sociedad B. Primera Federación, grupo 1, jornada 36
 date: 2024-05-13T16:11:00.000Z
 imagen: /img/noticias/53718286201_3bb8457276_k.jpg
 categorias:
   - La Firma Destacada
 tags:
-  - Primera Federacion
+  - Primera Federación
   - Unionistas
   - Real Sociedad B
-  - Reina Sofia
+  - Reina Sofía
   - Futbol
-  - Cronica
+  - Crónica
 autor: Key Galán
 ---
 Se acercan tiempos estivales. El sol parece definitivamente que ha ganado la partida al oscuro frío y el astro rey está encargado, a partir de ahora, de dar luminosidad a los días que cada vez se estiran más. Hay bullicio y algarabía en las calles, las ropas que atavían a las gentes son de colores alegres, el cuerpo va cogiendo temperatura y color moreno. Hay sonrisas y festividad. Hay ganas de vivir, hay ganas de estirar el cuerpo y alzar los brazos al cielo azul. Hay ganas de gritar y descargar el peso del invierno. Hay ganas de pasarlo bien. Hay muchas ganas de Copa y a poder ser fresquita.
