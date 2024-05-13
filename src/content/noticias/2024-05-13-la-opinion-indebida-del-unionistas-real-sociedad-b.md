@@ -1,17 +1,17 @@
 ---
-title: La opinion indebida del Unionistas - Real Sociedad B
-description: Nuestra opinion del encuentro disputado entre Unionistas de
-  Salamanca CF y la Real Sociedad B. Primera Federacion, grupo 1, jornada 36.
+title: La opinión indebida del Unionistas - Real Sociedad B
+description: Nuestra opinión del encuentro disputado entre Unionistas de
+  Salamanca CF y la Real Sociedad B. Primera Federación, grupo 1, jornada 36.
 date: 2024-05-12T21:23:00.000Z
 imagen: /img/noticias/53717384857_f85a58c42b_k.jpg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
-  - Primera Federacion
+  - Primera Federación
   - Real Sociedad B
   - Unionistas
-  - Reina Sofia
-  - Cronica
+  - Reina Sofía
+  - Crónica
 autor: Indebiders
 ---
 ## Sufrimiento indebido - Miguel Ontiyuelo
