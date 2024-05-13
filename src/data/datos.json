@@ -1,11 +1,11 @@
 {
   "temporadas": [
     {
-      "updateAt": "29/04/24",
+      "updateAt": "13/05/24",
       "year": "2023-24",
-      "partidos": 37,
-      "programas": 74,
-      "horas": 144,
+      "partidos": 38,
+      "programas": 76,
+      "horas": 148,
       "viajes": 7,
       "km": 5987
     }
