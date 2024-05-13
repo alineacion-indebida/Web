@@ -2,7 +2,7 @@
 title: Agárrense que vienen curvas!!! - La Jornada Indebida
 description: Análisis de lo acontecido en la jorna 35 del Grupo 1 de 1ª Federación
 date: 2024-05-07T21:43:00.000Z
-imagen: /img/noticias/1000066468.jpg
+imagen: /img/noticias/montana-curvas.webp
 categorias:
   - La Jornada Indebida
 tags:

@@ -10,7 +10,7 @@ export const seoConfig = {
 		"Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino.",
 	type: "website",
 	image: {
-		url: "https://www.alineacionindebida.com/img/og.jpg",
+		url: "https://www.alineacionindebida.com/img/og.webp",
 		alt: "Alineacion indebida",
 		width: 705,
 		height: 606,

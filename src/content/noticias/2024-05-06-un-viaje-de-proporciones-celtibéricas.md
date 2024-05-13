@@ -3,7 +3,7 @@ title: Un viaje de proporciones celtibéricas - Viajes Indebiders
 description: Te contamos desde dentro el desplazamiento hasta Teruel. Primera
   Federación, grupo 1, jornada 35
 date: 2024-05-07T14:00:00.000Z
-imagen: /img/noticias/2024-05-04-17.54.21.jpg
+imagen: /img/noticias/teruel-pinilla.webp
 categorias:
   - Viajes indebiders
 tags:

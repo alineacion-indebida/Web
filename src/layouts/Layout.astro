@@ -4,7 +4,6 @@ import SpeedInsights from "@vercel/speed-insights/astro"
 import { ViewTransitions } from "astro:transitions"
 
 import ButtonUp from "@/components/ButtonUp.astro"
-import KonamiCode from "@/components/KonamiCode.astro"
 import SEO from "@/components/SEO.astro"
 
 import Footer from "@/sections/Footer.astro"
@@ -42,7 +41,6 @@ const { title, description, preload, canonical, image } = Astro.props
 				<slot />
 			</main>
 			<Footer />
-			<KonamiCode />
 		</div>
 		<ButtonUp />
 		<style is:global>

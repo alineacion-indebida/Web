@@ -3,7 +3,7 @@
     {
       "id": 1,
       "slug": "2324-nastic-unionistas",
-      "imagen": "/img/noticias/osasunapromesas.webp",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
       "date": "2024-03-24T20:00:00.000+01:00",
       "jornada": "29",
       "local": false,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "slug": "2324-unionistas-sdlogrones",
-      "imagen": "/img/noticias/osasunapromesas.webp",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
       "date": "2024-03-30T16:00:00.000+01:00",
       "jornada": "30",
       "local": true,
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "slug": "2324-unionistas-barsab",
-      "imagen": "/img/noticias/aficionreinasofia.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-04-14T19:00:00.000+01:00",
       "jornada": "32",
       "local": true,
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "slug": "2324-real-union-unionistas",
-      "imagen": "/img/noticias/aficionreinasofia.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-04-21T18:00:00.000+01:00",
       "jornada": "33",
       "local": false,
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "slug": "2324-unionistas-sabadell",
-      "imagen": "/img/noticias/aficionreinasofia.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-04-27T16:00:00.000+01:00",
       "jornada": "34",
       "local": true,
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "slug": "2324-teruel-unionistas",
-      "imagen": "/img/noticias/aficionreinasofia.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-05-04T18:00:00.000+01:00",
       "jornada": "35",
       "local": false,
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "slug": "2324-unionistas-realb",
-      "imagen": "/img/noticias/aficionreinasofia.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-05-12T16:00:00.000+01:00",
       "jornada": "36",
       "local": true,
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "slug": "2324-majadahonda-unionistas",
-      "imagen": "/img/noticias/aficionreinasofia.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-05-18T19:00:00.000+01:00",
       "jornada": "37",
       "local": false,
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "slug": "2324-unionistas-arenteiro",
-      "imagen": "/img/noticias/aficionreinasofia.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-5-25T19:00:00.000+01:00",
       "jornada": "38",
       "local": true,

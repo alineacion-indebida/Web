@@ -4,7 +4,7 @@ title: Unionistas no encuentra el punto de inflexión contra osasuna promesas -
 description: La firma destacada de Miguel Ontiyuelo. Unionistas de Salamanca vs
   Osasuna Promesas. Primera Federación, grupo 1, jornada 28.
 date: 2024-03-18T10:00:00.000+01:00
-imagen: /img/noticias/osasunapromesas.webp
+imagen: /img/noticias/osasuna-promesas.webp
 categorias:
   - La Firma Destacada
 tags:

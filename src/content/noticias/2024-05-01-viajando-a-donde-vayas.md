@@ -2,7 +2,7 @@
 title: "Viajando a donde vayas"
 description: "Una afición viajera que siempre acompaña al equipo. El nunca viaja solo es textual"
 date: 2024-05-01T22:22:00.000Z
-imagen: /img/noticias/mapa_de_carreteras_de_espana.gif
+imagen: /img/noticias/mapa-carreteras-espana.webp
 categorias:
   - Apuntes desde la Panelais
 tags:

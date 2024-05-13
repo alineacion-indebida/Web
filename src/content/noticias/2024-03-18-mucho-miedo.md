@@ -2,7 +2,7 @@
 date: '2024-03-19T10:00:00.000+01:00'
 title: 'Mucho miedo - La jornada indebida'
 description: 'La jornada indebida de Key Galán. Primera federación grupo 1, jornada 28.'
-imagen: '/img/noticias/osasunapromesas.webp'
+imagen: '/img/noticias/osasuna-promesas.webp'
 categorias:
   - La Jornada Indebida
 tags:

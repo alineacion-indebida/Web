@@ -2,7 +2,7 @@
 title: Las espadas en todo lo alto - La Jornada Indebida
 description: Análisis de lo acontecido en la jornada 34 del Grupo 1 de Primera Federación
 date: 2024-04-30T21:23:00.000Z
-imagen: /img/noticias/1000064944.jpg
+imagen: /img/noticias/espadas.webp
 categorias:
   - La Jornada Indebida
 tags:
