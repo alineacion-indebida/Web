@@ -2,7 +2,7 @@
 title: La opinión indebida del Unionistas - Real Sociedad B
 description: Nuestra opinión del encuentro disputado entre Unionistas de
   Salamanca CF y la Real Sociedad B. Primera Federación, grupo 1, jornada 36.
-date: 2024-05-12T21:23:00.000Z
+date: 2024-05-14T10:00:00.000Z
 imagen: /img/noticias/53717384857_f85a58c42b_k.jpg
 categorias:
   - La Opinión Indebida
