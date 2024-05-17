@@ -2,7 +2,7 @@
 title: Rayo Majadahonda - Unionistas - Los números de Pol
 description: Todo lo que debes leer para llegar al Rayo Majadahonda - Unionistas
   con los datos en la cabeza. Primera Federación, grupo 1, jornada 37
-date: 2024-05-17T16:00:00.000Z
+date: 2024-05-17T14:54:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Los Números De Pol
