@@ -1,7 +1,7 @@
 ---
 title: Jornada de transistor - La Jornada Indebida
 description: Análisis de lo acontecido en la jornada 37 del Grupo 1 de Primera Federación
-date: 2024-05-22T20:24:00.000Z
+date: 2024-05-22T20:26:00.000Z
 imagen: /img/noticias/1000069684.jpg
 categorias:
   - La Jornada Indebida
