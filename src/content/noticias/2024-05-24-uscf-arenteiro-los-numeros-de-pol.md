@@ -1,20 +1,20 @@
 ---
-title: USCF - Arenteiro - Los numeros de Pol
+title: USCF - Arenteiro - Los números de Pol
 description: Todos los datos que debes llevar en la cabeza para ver el
-  Unionistas - Arenteiro. Primera Federacion, grupo 1, jornada 38
+  Unionistas - Arenteiro. Primera Federación, grupo 1, jornada 38
 date: 2024-05-24T20:08:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los numeros de Pol
+  - Los números de Pol
 tags:
-  - Primera Federacion
+  - Primera Federación
   - Unionistas
   - Arenteiro
   - Reina Sofia
-  - Estadisticas
+  - Estadísticas
 autor: Pol Zakour
 ---
-**Último partido de la competición en esta apasionante Primera Federación con todo en juego.** Muchas finales por disputarse y todo por decidirse tanto por arriba como por abajo, así como en lo que más nos atañe, en lo relativo a la clasificación de la Copa del Rey.
+Último partido de la competición en esta apasionante Primera Federación con todo en juego. **Muchas finales por disputarse y todo por decidirse tanto por arriba como por abajo,** así como en lo que más nos atañe, en lo relativo a la clasificación de la Copa del Rey.
 
 Haciendo un resumen rápido, un RC Deportivo ya ascendido espera acompañante en la división de plata entre los que disputen el playoff. Ya clasificados, y pendientes de colocar por puesto en esta jornada final, tenemos al Nàstic, Barcelona Atlètic y RC Celta Fortuna. La última posición se la jugarán SD Ponferradina y Cultural Leonesa, con ventaja de 3 puntos para los bercianos. Por la parte de abajo Sabadell (41), Fuenlabrada (41), Sestao River (42) y Real Unión (43) se juegan esa última plaza que les llevaría al hoyo de Segunda Federación. Por su parte, Unionistas de Salamanca y CD Arenteiro se enfrentan en duelo directo para dirimir quién disputará esa bonita e ilusionante Copa del Rey la temporada 2024/2025 en un duelo directo en el Reina Sofía en el que a los charros les sirve tanto la victoria como el empate, y en el que tan solo una derrota les echaría de disputar dicha competición.
 
@@ -37,10 +37,6 @@ Choque correspondiente a la Jornada 38 del Campeonato Nacional de Primera Federa
 El encuentro será dirigido por el **colegiado navarro Alejandro Morilla Turrión, de tan solo 24 años de edad** y que afronta su último partido de su primera temporada en Primera Federación. Un año deportivo en que ha arbitrado 12 encuentros con 5 victorias locales, 5 empates y tan solo 2 victorias visitantes. El navarro se ensalza como **uno de los colegiados menos tarjeteros de la competición,** con 47 cartulinas amarillas en los 12 partidos, una media de 3’92 cartulinas amarillas por choque. Como curiosidad, **aún no ha tenido que protagonizar una expulsión** en ninguno de los encuentros disputados.
 
 En una ocasión se han encontrado Morilla Turrión y Unionistas de Salamanca y fue precisamente esta temporada en el Estadio Gernika-Lumo en el encuentro inaugural de la Copa del Rey para el conjunto charro que acabó llevándose la eliminatoria por 0-2 en feudo vasco. Por su parte, también en una sola oportunidad ha dirigido el navarro al conjunto carballinés; fue en la jornada 20, en la que el Arenteiro consiguió llevarse los 3 puntos del Stadium Gal con victoria por 1-2.
-
-
-
-
 
 **Penúltimo encuentro de la temporada regular y último desplazamiento de la temporada para un Unionistas de Salamanca que viajará hasta Majadahonda**, como no puede ser de otra manera, muy bien acompañado de su gente. Luchas en esta Primera Federación por arriba, por abajo y por el medio, con la guerra por un puesto final de playoff, una trepidante por evitar el descenso y el duelo por entrar en el torneo del KO. Partido trascendental en el Cerro del Espino para los de Dani Ponz que puede significar el cierre de forma definitiva de cara a asegurar esa ansiada **última plaza de Copa del Rey**. Enfrente tendrán los charros a un Rayo Majadahonda ya descendido matemáticamente y al que la temporada no le ha sonreído tal y como los majariegos planeaban. Un año para olvidar en este municipio madrileño que jugará la próxima temporada en Segunda Federación.
 
