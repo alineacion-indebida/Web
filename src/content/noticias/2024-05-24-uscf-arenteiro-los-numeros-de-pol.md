@@ -2,7 +2,7 @@
 title: USCF - Arenteiro - Los numeros de Pol
 description: Todos los datos que debes llevar en la cabeza para ver el
   Unionistas - Arenteiro. Primera Federacion, grupo 1, jornada 38
-date: 2024-05-17T14:54:00.000Z
+date: 2024-05-24T23:07:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Los numeros de Pol
