@@ -1,17 +1,17 @@
 ---
-title: La opinion indebida del Unionistas - Arenteiro
+title: La opinión indebida del Unionistas - Arenteiro
 description: Nuestra opinión del encuentro disputado entre Unionistas de
   Salamanca CF y el CD Arenteiro. Primera Federación, grupo 1, jornada 38
 date: 2024-05-26T21:27:00.000Z
 imagen: /img/noticias/53717384857_f85a58c42b_k.jpg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
-  - Primera Federacion
+  - Primera Federación
   - Unionistas
   - Arenteiro
   - Reina Sofía
-  - Cronica
+  - Crónica
 autor: Indebiders
 ---
 ## El poder del gol - Miguel Ontiyuelo
