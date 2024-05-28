@@ -1,10 +1,10 @@
 ---
+import { Image } from "astro:assets"
 import Layout from "@/layouts/Layout.astro"
 import { getTaxonomy } from "@/utils/getAllTags"
-import { Image } from "astro:assets"
 
 const allCategorias = await getTaxonomy("noticias", "categorias")
-const uniqueCategorias = [...new Set(allCategorias.map((item: any) => item.slug))].map((slug) => allCategorias.find((cat: any) => cat.slug === slug))
+const uniqueCategorias = [...new Set(allCategorias.map((item: any) => item.slug))].map(slug => allCategorias.find((cat: any) => cat.slug === slug))
 
 const imagenes = new Map([
 	{
@@ -54,7 +54,7 @@ const imagenes = new Map([
 									height={480}
 									decoding="async"
 									loading="lazy"
-									/>
+								/>
 							</figure>
 						</a>
 					</div>
