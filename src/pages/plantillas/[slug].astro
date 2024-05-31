@@ -1,0 +1,66 @@
+---
+import { plantillasMap } from "@/data/plantillas"
+import Layout from "@/layouts/Layout.astro"
+
+export const prerender = false
+
+interface jugadorType {
+	nombre: string
+	numero: string
+	posicion: string
+	nacim: string
+	altura: string
+	fichaje: string
+	procedencia: string
+	contrato: string
+}
+
+const slug = Astro.params.slug
+let dataClub: any
+
+if (slug && plantillasMap.has(slug))
+	dataClub = plantillasMap.get(slug)
+else
+	return Astro.redirect("/404")
+---
+
+<Layout
+	title=`${dataClub.nombre} - Alineación indebida`
+	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
+>
+	<section class="mt-6">
+		<h2 class="mt-6 text-2xl font-semibold leading-6 text-white">
+			{dataClub.nombre}
+		</h2>
+		<table class="mt-6 w-full table-auto border-separate">
+			<thead>
+			  <tr>
+				<th class="">Num</th>
+				<th class="">Pos</th>
+				<th class="">Nombre</th>
+				<th class="">Nacimiento</th>
+				<th class="">Altura</th>
+				<th class="">Fichaje</th>
+				<th class="">Procedencia</th>
+				<th class="">Contrato</th>
+			  </tr>
+			</thead>
+			<tbody>
+				{
+					dataClub?.plantilla?.map((jugador: jugadorType) => (
+						<tr class="text-center">
+							<td class="">{jugador.numero}</td>
+							<td class="">{jugador.posicion}</td>
+							<td class="">{jugador.nombre}</td>
+							<td class="">{jugador.nacim}</td>
+							<td class="">{jugador.altura}</td>
+							<td class="">{jugador.fichaje}</td>
+							<td class="">{jugador.procedencia}</td>
+							<td class="">{jugador.contrato}</td>
+						</tr>
+					))
+				}
+			</tbody>
+		  </table>
+	</section>
+</Layout>
