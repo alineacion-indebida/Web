@@ -10,7 +10,6 @@ tags:
   - Llacer
   - Unionistas
   - entrenador
-  - ""
 autor: "Pol Zakour "
 ---
 **Primera piedra para el proyecto**
