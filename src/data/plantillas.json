@@ -1,0 +1,70 @@
+{
+  "plantillas": [
+    {
+      "id": "UnionistasCF",
+      "nombre": "Unionistas de Salamanca CF",
+      "plantilla": [
+        {
+          "nombre": "Ramiro Mayor",
+          "numero": 4,
+          "posicion": "CT",
+          "nacim":"09/05/91",
+          "altura":"1.85",
+          "fichaje":"jul-20",
+          "procedencia":"Langreo",
+          "contrato":"2025"
+        },
+        {
+          "nombre": "Álvaro Cómez",
+          "numero": 11,
+          "posicion": "MP",
+          "nacim":"06/06/97",
+          "altura":"1.78",
+          "fichaje":"jul-23",
+          "procedencia":"Alzira",
+          "contrato":"2025"
+        },
+        {
+          "nombre": "Rastrojo",
+          "numero": 17,
+          "posicion": "EI",
+          "nacim":"01/04/00",
+          "altura":"??",
+          "fichaje":"jul-23",
+          "procedencia":"Alzira",
+          "contrato":"2025"
+        },
+        {
+          "nombre": "Etxaniz",
+          "numero": 0,
+          "posicion": "XX",
+          "nacim":"00/00/00",
+          "altura":"0.00",
+          "fichaje":"ene-24",
+          "procedencia":"xx",
+          "contrato":"2025"
+        },
+        {
+          "nombre": "Iván Moreno",
+          "numero": 0,
+          "posicion": "XX",
+          "nacim":"00/00/00",
+          "altura":"0.00",
+          "fichaje":"jun-24",
+          "procedencia":"xx",
+          "contrato":"2025"
+        },
+        {
+          "nombre": "Hugo de Bustos",
+          "numero": 24,
+          "posicion": "ED",
+          "nacim":"04/09/04",
+          "altura":"0.00",
+          "fichaje":"ago-23",
+          "procedencia":"Juv A",
+          "contrato":"2026"
+        }
+      ]
+    }
+  ]
+}
