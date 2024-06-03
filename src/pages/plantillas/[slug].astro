@@ -32,18 +32,20 @@ else
 		<h2 class="mt-6 text-2xl font-semibold leading-6 text-white">
 			{dataClub.nombre}
 		</h2>
-		<table class="mt-6 w-full table-auto border-separate overflow-x-auto">
-			<thead>
+		<div class="overflow-x-auto">
+
+			<table class="mt-6 w-full table-auto">
+				<thead>
 			  <tr>
-				<th class="">Num</th>
-				<th class="">Pos</th>
+				  <th class="">Num</th>
+				  <th class="">Pos</th>
 				<th class="">Nombre</th>
 				<th class="">Nacimiento</th>
 				<th class="">Altura</th>
 				<th class="">Fichaje</th>
 				<th class="">Procedencia</th>
 				<th class="">Contrato</th>
-			  </tr>
+			</tr>
 			</thead>
 			<tbody>
 				{
@@ -62,5 +64,6 @@ else
 				}
 			</tbody>
 		  </table>
-	</section>
+		</div>
+		</section>
 </Layout>
