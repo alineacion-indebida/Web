@@ -7,12 +7,12 @@ imagen: /img/noticias/barco-de-teseo.jpg
 categorias:
   - Apuntes desde la Panelais
 tags:
-  - UnionistasDeSalamanca
+  - Unionistas
+  - Salamanca
   - mercado
   - fichajes
   - barco
   - teseo
-  - equipo
 autor: "Jaime García (Món) "
 ---
 *A la vuelta de Creta, el barco de Teseo había sufrido tantas reparaciones y ajustes que cabía preguntarse si era el mismo barco o qué quedaba del barco original. Por encima de lo material son la esencia, función y autor los que configuran la identidad.* 
