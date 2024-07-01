@@ -22,7 +22,7 @@
     "@vercel/speed-insights": "1.0.11",
     "astro": "4.9.2",
     "astro-decap-cms-oauth": "0.3.0",
-    "decap-cms-app": "3.1.10"
+    "decap-cms-app": "3.1.11"
   },
   "devDependencies": {
     "@antfu/eslint-config": "2.17.0",
