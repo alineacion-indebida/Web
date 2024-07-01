@@ -32,38 +32,37 @@ else
 		<h2 class="mt-6 text-2xl font-semibold leading-6 text-white">
 			{dataClub.nombre}
 		</h2>
-		<div class="overflow-x-auto">
-
-			<table class="mt-6 w-full table-auto">
-				<thead>
-			  <tr>
-				  <th class="">Num</th>
-				  <th class="">Pos</th>
-				<th class="">Nombre</th>
-				<th class="">Nacimiento</th>
-				<th class="">Altura</th>
-				<th class="">Fichaje</th>
-				<th class="">Procedencia</th>
-				<th class="">Contrato</th>
-			</tr>
-			</thead>
-			<tbody>
-				{
-					dataClub?.plantilla?.map((jugador: jugadorType) => (
-						<tr class="text-center">
-							<td class="">{jugador.numero}</td>
-							<td class="">{jugador.posicion}</td>
-							<td class="">{jugador.nombre}</td>
-							<td class="">{jugador.nacim}</td>
-							<td class="">{jugador.altura}</td>
-							<td class="">{jugador.fichaje}</td>
-							<td class="">{jugador.procedencia}</td>
-							<td class="">{jugador.contrato}</td>
-						</tr>
-					))
-				}
-			</tbody>
-		  </table>
+		<div class="mt-6 overflow-x-auto rounded-lg bg-gray-700">
+			<table class="w-full table-auto whitespace-nowrap rounded-lg ">
+				<thead class="bg-gray-800">
+					<tr>
+						<th class="px-4 py-2">Num</th>
+						<th class="px-4 py-2">Pos</th>
+						<th class="px-4 py-2">Nombre</th>
+						<th class="px-4 py-2">Nacimiento</th>
+						<th class="px-4 py-2">Altura</th>
+						<th class="px-4 py-2">Fichaje</th>
+						<th class="px-4 py-2">Procedencia</th>
+						<th class="px-4 py-2">Contrato</th>
+					</tr>
+				</thead>
+				<tbody>
+					{
+						dataClub?.plantilla?.map((jugador: jugadorType) => (
+							<tr class="text-center ">
+								<td class="px-4 py-1">{jugador.numero}</td>
+								<td class="px-4 py-1">{jugador.posicion}</td>
+								<td class="px-4 py-1">{jugador.nombre}</td>
+								<td class="px-4 py-1">{jugador.nacim}</td>
+								<td class="px-4 py-1">{jugador.altura}</td>
+								<td class="px-4 py-1">{jugador.fichaje}</td>
+								<td class="px-4 py-1">{jugador.procedencia}</td>
+								<td class="px-4 py-1">{jugador.contrato}</td>
+							</tr>
+						))
+					}
+				</tbody>
+			</table>
 		</div>
-		</section>
+	</section>
 </Layout>
