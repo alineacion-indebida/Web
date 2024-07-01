@@ -1,8 +1,8 @@
 ---
-import Layout from "@/layouts/Layout.astro"
 import { plantillas } from "@/data/plantillas"
+import Layout from "@/layouts/Layout.astro"
 
-var plantillasList = plantillas.sort((a, b) => (b.id > a.id ? -1 : 1))
+const plantillasList = plantillas.sort((a, b) => (b.id > a.id ? -1 : 1))
 ---
 
 <Layout
@@ -11,13 +11,19 @@ var plantillasList = plantillas.sort((a, b) => (b.id > a.id ? -1 : 1))
 >
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Plantillas 2024/24</h1>
 
-	{
-		plantillasList?.map((plantilla) => (
-			<div>
-				<a href={`/plantillas/${plantilla.id}/`}>{plantilla.nombre}</a> 
-			</div>
-		))
-	}
+	<div class="mt-4 grid select-none grid-cols-1 gap-8 md:grid-cols-3">
+		{
+			plantillasList?.map(equipo => (
+				<article class="flex w-full flex-col items-center">
+					<img src={equipo.escudo} alt="Escudo" width="100px" />
+					<div class="relative w-full content-center">
+						<h2 class="mt-3 text-base font-semibold leading-6 text-white hover:text-accent text-center">
+							<a href={`/videos/${equipo.id}/`}>{equipo.nombre}</a>
+						</h2>
+					</div>
+				</article>
+			))
+		}
+	</div>
 
 </Layout>
-

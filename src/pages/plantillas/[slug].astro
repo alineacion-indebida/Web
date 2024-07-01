@@ -2,6 +2,10 @@
 import { plantillasMap } from "@/data/plantillas"
 import Layout from "@/layouts/Layout.astro"
 
+import XIcon from "@/icons/X.astro"
+import InstagramIcon from "@/icons/instagram.astro"
+import WebIcon from "@/icons/web.astro"
+
 export const prerender = false
 
 interface jugadorType {
@@ -32,6 +36,55 @@ else
 		<h2 class="mt-6 text-2xl font-semibold leading-6 text-white">
 			{dataClub.nombre}
 		</h2>
+		<div class="flex flex-row w-full gap-x-3 mt-2">
+			<div class="mt-2 w-1/5">
+				<img src={dataClub.escudo} alt="Escudo" />
+			</div>
+			<div class="w-full">
+				<p>Entrenador: {dataClub.entrenador}</p>
+				<p>Presidente: {dataClub.presidente}</p>
+				<p>Estadio: {dataClub.estadio} ({dataClub.aforo})</p>
+				<div class="flex flex-row">
+					<nav>
+						<ul class="flex flex-row items-center gap-x-6 px-1" aria-label="redes sociales y botón para alternar tema">
+							<li>
+								<a
+									target="_blank"
+									rel="noopener"
+									aria-label="Twitch del equipo, se abrirá en una nueva pestaña"
+									href={`https://${dataClub.web}/`}
+									class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+								>
+									<WebIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+								</a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									rel="noopener"
+									aria-label="Instagram del equipo, se abrirá en una nueva pestaña"
+									href={`https://instagram.com/${dataClub.instagram}/`}
+									class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+								>
+									<InstagramIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+								</a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									rel="noopener"
+									aria-label="X del equipo, se abrirá en una nueva pestaña"
+									href={`https://x.com/${dataClub.x}/`}
+									class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+								>
+									<XIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+								</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
 		<div class="mt-6 overflow-x-auto">
 			<table class="w-full table-auto whitespace-nowrap rounded-lg bg-gray-700">
 				<thead class="bg-gray-600">
