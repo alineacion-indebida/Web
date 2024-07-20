@@ -175,32 +175,32 @@
       ]
     },
     {
-      "id": "Arenteiro",
-      "nombre": "CD Arenteiro",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
-      "estadio": "O Espiñedo",
-      "aforo": "4500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
+      "id": "Amorebieta",
+      "nombre": "SD Amorebieta",
+      "entrenador": "Julen Guerrero",
+      "presidente": "Jon Larrea",
+      "estadio": "C.M. Urritxe",
+      "aforo": "3000",
+      "web": "sdamorebieta.eus",
+      "x": "SDAmorebieta",
+      "instagram": "sdamorebieta",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/213.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
        {
        }
       ]
        },
     {
-      "id": "Arenteiro",
-      "nombre": "CD Arenteiro",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
-      "estadio": "O Espiñedo",
-      "aforo": "4500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
+      "id": "Andorra",
+      "nombre": "FC Andorra",
+      "entrenador": "Ferrán Costa",
+      "presidente": "Ferrán Vilaseca",
+      "estadio": "Estadi Nacional d'Andorra",
+      "aforo": "3306",
+      "web": "fcandorra.com",
+      "x": "fcandorra",
+      "instagram": "fcandorra",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/9501.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
        }
