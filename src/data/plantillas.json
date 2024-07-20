@@ -257,13 +257,13 @@
     {
       "id": "Bilbao At",
       "nombre": "Bilbao Athletic",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
-      "estadio": "O Espiñedo",
-      "aforo": "4500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
+      "entrenador": "Jokin Aranbarri",
+      "presidente": "Aitor Elizegi",
+      "estadio": "Lezama",
+      "aforo": "2500",
+      "web": "athletic-club.eus",
+      "x": "AthleticClub",
+      "instagram": "athleticclub",
       "escudo": "https://cdn.resfu.com/img_data/equipos/348.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
@@ -273,13 +273,13 @@
     {
       "id": "Celta F",
       "nombre": "RC Celta Fortuna",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
-      "estadio": "O Espiñedo",
+      "entrenador": "Fredi Álvarez",
+      "presidente": "Marián Mouriño",
+      "estadio": "C.M. Barreiro",
       "aforo": "4500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
+      "web": "rccelta.es",
+      "x": "CanteiraCeleste",
+      "instagram": "canteiraceleste",
       "escudo": "https://cdn.resfu.com/img_data/equipos/713.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
        {
