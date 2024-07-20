@@ -43,6 +43,76 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Imanol Baz",
+          "numero": 5,
+          "posicion": "CT",
+          "nacim": "27/01/01",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Real Unión",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Mikel García",
+          "numero": 26,
+          "posicion": "CT",
+          "nacim": "16/06/03",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "Tudelano",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "David Rabadán",
+          "numero": 6,
+          "posicion": "MC",
+          "nacim": "22/05/00",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Osasuna Promesas",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Carlos de la Nava",
+          "numero": 10,
+          "posicion": "MCO",
+          "nacim": "21/04/93",
+          "altura": "1.87",
+          "fichaje": "jul-24",
+          "procedencia": "Hércules CF",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Jorge Rastrojo",
+          "numero": 7,
+          "posicion": "EI",
+          "nacim": "01/04/00",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "RZ Deportivo Aragón",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pau Martínez",
+          "numero": 8,
+          "posicion": "ED",
+          "nacim": "10/11/00",
+          "altura": "1,68",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Iván Moreno",
+          "numero": 9,
+          "posicion": "ED",
+          "nacim": "11/04/97",
+          "altura": "1.77",
+          "fichaje": "jul-24",
+          "procedencia": "CD Guadalajara",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Álvaro Cómez",
           "numero": 11,
           "posicion": "MP",
@@ -53,44 +123,14 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Rastrojo",
+          "nombre": "Dani García",
           "numero": 17,
-          "posicion": "EI",
-          "nacim": "01/04/00",
-          "altura": "??",
-          "fichaje": "jul-23",
-          "procedencia": "Alzira",
+          "posicion": "DC",
+          "nacim": "20/12/98",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "UD Melilla",
           "contrato": "2025"
-        },
-        {
-          "nombre": "Etxaniz",
-          "numero": 0,
-          "posicion": "XX",
-          "nacim": "00/00/00",
-          "altura": "0.00",
-          "fichaje": "ene-24",
-          "procedencia": "xx",
-          "contrato": "2025"
-        },
-        {
-          "nombre": "Iván Moreno",
-          "numero": 0,
-          "posicion": "XX",
-          "nacim": "00/00/00",
-          "altura": "0.00",
-          "fichaje": "jun-24",
-          "procedencia": "xx",
-          "contrato": "2025"
-        },
-        {
-          "nombre": "Hugo de Bustos",
-          "numero": 24,
-          "posicion": "ED",
-          "nacim": "04/09/04",
-          "altura": "0.00",
-          "fichaje": "ago-23",
-          "procedencia": "Juv A",
-          "contrato": "2026"
         }
       ]
     }
