@@ -42,7 +42,7 @@
           "procedencia": "Langreo",
           "contrato": "2025"
         },
-        {
+         {
           "nombre": "Imanol Baz",
           "numero": 5,
           "posicion": "CT",
@@ -50,6 +50,16 @@
           "altura": "1.84",
           "fichaje": "jul-24",
           "procedencia": "Real Unión",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Carlos García",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "07/07/00",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "Cádiz CF Mirandilla",
           "contrato": "2025"
         },
         {
