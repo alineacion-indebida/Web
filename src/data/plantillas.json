@@ -223,32 +223,32 @@
       ]
        },
     {
-      "id": "Arenteiro",
-      "nombre": "CD Arenteiro",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
-      "estadio": "O Espiñedo",
-      "aforo": "4500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
+      "id": "Barakaldo",
+      "nombre": "Barakaldo CF",
+      "entrenador": "Imanol de la Sota",
+      "presidente": "Ricardo Arana",
+      "estadio": "Nuevo Lasesarre",
+      "aforo": "7960",
+      "web": "barakaldocf.com",
+      "x": "BarakaldoCF",
+      "instagram": "barakaldoclubdefutbol",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/425.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
        {
        }
       ]
        },
     {
-      "id": "Arenteiro",
-      "nombre": "CD Arenteiro",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
-      "estadio": "O Espiñedo",
-      "aforo": "4500",
+      "id": "Barcelona At",
+      "nombre": "FC Barcelona Atlétic",
+      "entrenador": "Rafa Márquez",
+      "presidente": "Joan Laporta",
+      "estadio": "Johan Cruyff",
+      "aforo": "6000",
       "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
+      "x": "FCBarcelonaB",
+      "instagram": "fcbarcelonab",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/430.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
        }
