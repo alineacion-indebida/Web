@@ -171,9 +171,11 @@
           "fichaje": "jul-24",
           "procedencia": "UD Melilla",
           "contrato": "2025"
-        },
-      {
-       "id": "Arenteiro",
+        }
+      ]
+    },
+    {
+      "id": "Arenteiro",
       "nombre": "CD Arenteiro",
       "entrenador": "Raúl Jardiel",
       "presidente": "Argimiro Marnotes",
@@ -185,7 +187,7 @@
       "escudo": "https://www.lapreferente.com/imagenes/escudos_his/escudo-1209.png",
       "plantilla": [
        {
-    }
+       }
       ]
-  ]
+    }]
 }
