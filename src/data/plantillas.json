@@ -189,5 +189,38 @@
        {
        }
       ]
+       },
+    {
+      "id": "Arenteiro",
+      "nombre": "CD Arenteiro",
+      "entrenador": "Raúl Jardiel",
+      "presidente": "Argimiro Marnotes",
+      "estadio": "O Espiñedo",
+      "aforo": "4500",
+      "web": "cdarenteiro.es",
+      "x": "CD_Arenteiro",
+      "instagram": "cd_arenteiro",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
+      "plantilla": [
+        {
+       }
+      ]
+       },
+    {
+      "id": "Arenteiro",
+      "nombre": "CD Arenteiro",
+      "entrenador": "Raúl Jardiel",
+      "presidente": "Argimiro Marnotes",
+      "estadio": "O Espiñedo",
+      "aforo": "4500",
+      "web": "cdarenteiro.es",
+      "x": "CD_Arenteiro",
+      "instagram": "cd_arenteiro",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
+      "plantilla": [
+        {
+       }
+      ]
+      
     }]
 }
