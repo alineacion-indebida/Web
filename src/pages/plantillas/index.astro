@@ -13,7 +13,7 @@ const plantillasList = plantillas.sort((a, b) => (b.id > a.id ? -1 : 1))
 
 	<div class="mt-4 grid select-none grid-cols-1 gap-8 md:grid-cols-3">
 		{
-			plantillasList?.map(equipo => (
+			plantillas?.map(equipo => (
 				<article class="flex w-full flex-col items-center">
 					<img src={equipo.escudo} alt="Escudo" width="100px" />
 					<div class="relative w-full content-center">
