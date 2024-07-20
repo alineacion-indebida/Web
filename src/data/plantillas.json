@@ -12,6 +12,26 @@
       "instagram": "unionistascf",
       "escudo": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4567.png",
       "plantilla": [
+       {
+          "nombre": "Iván Martínez",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "19/02/02",
+          "altura": "1.82",
+          "fichaje": "jul-23",
+          "procedencia": "Hércules CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marco Suárez",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "26/02/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "R. Oviedo Vetusta",
+          "contrato": "2026"
+        },
         {
           "nombre": "Ramiro Mayor",
           "numero": 4,
