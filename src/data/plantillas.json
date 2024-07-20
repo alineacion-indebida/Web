@@ -63,6 +63,46 @@
           "contrato": "2026"
         },
         {
+          "nombre": "Eudald Vergés",
+          "numero": 21,
+          "posicion": "LI",
+          "nacim": "08/05/97",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "UE Cornellá",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Aitor Pascual",
+          "numero": 23,
+          "posicion": "LD",
+          "nacim": "10/10/98",
+          "altura": "1.79",
+          "fichaje": "jul-24",
+          "procedencia": "CD Teruel",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Raúl Tavares",
+          "numero": 14,
+          "posicion": "MC",
+          "nacim": "30/01/99",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Rayo Majadahonda",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jordi Tur",
+          "numero": 20,
+          "posicion": "MC",
+          "nacim": "19/05/98",
+          "altura": "1.75",
+          "fichaje": "jul-23",
+          "procedencia": "CD Numancia",
+          "contrato": "2025"
+        },
+        {
           "nombre": "David Rabadán",
           "numero": 6,
           "posicion": "MC",
@@ -131,8 +171,20 @@
           "fichaje": "jul-24",
           "procedencia": "UD Melilla",
           "contrato": "2025"
-        }
-      ]
+        },
+      {
+       "id": "Arenteiro",
+      "nombre": "CD Arenteiro",
+      "entrenador": "Raúl Jardiel",
+      "presidente": "Argimiro Marnotes",
+      "estadio": "O Espiñedo",
+      "aforo": "4500",
+      "web": "cdarenteiro.es",
+      "x": "CD_Arenteiro",
+      "instagram": "cd_arenteiro",
+      "escudo": "https://www.lapreferente.com/imagenes/escudos_his/escudo-1209.png",
+      "plantilla": [
+       {
     }
   ]
 }
