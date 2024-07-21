@@ -411,13 +411,13 @@
     {
       "id": "R. Sociedad B",
       "nombre": "Real Sociedad B",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
+      "entrenador": "Sergio Francisco",
+      "presidente": "Jokin Aperribay",
       "estadio": "Zubieta",
       "aforo": "2500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
+      "web": "realsociedad.eus",
+      "x": "RealSociedad",
+      "instagram": "realsociedad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2121.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
@@ -427,13 +427,13 @@
     {
       "id": "R. Union",
       "nombre": "Real Unión Club",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
+      "entrenador": "Mikel Llorente",
+      "presidente": "Igor Emery",
       "estadio": "Stadium Gal",
       "aforo": "5500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
+      "web": "realunionclub.com",
+      "x": "REALUNIONCIRUN",
+      "instagram": "realunionclubirun",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2130.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
        {
@@ -443,13 +443,13 @@
     {
       "id": "Sestao",
       "nombre": "Sestao River",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
+      "entrenador": "Ángel Viadero",
+      "presidente": "Ángel Castro",
       "estadio": "C.M. Las Llanas",
       "aforo": "4367",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
+      "web": "sestaoriverclub.com",
+      "x": "SestaoRC",
+      "instagram": "sestaorc",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
@@ -459,13 +459,13 @@
     {
       "id": "Tarazona",
       "nombre": "SD Tarazona",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
+      "entrenador": "Juanma Barrero",
+      "presidente": "Aniceto Navarro",
       "estadio": "Municipal de Tarazona",
       "aforo": "1500",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
+      "web": "sdtarazona.com",
+      "x": "SDTarazona",
+      "instagram": "sdtarazona1924",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2466.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
@@ -475,13 +475,13 @@
     {
       "id": "Zamora",
       "nombre": "Zamora CF",
-      "entrenador": "Raúl Jardiel",
-      "presidente": "Argimiro Marnotes",
+      "entrenador": "Juan Sabas",
+      "presidente": "Javier Páez",
       "estadio": "Ruta de la Plata",
       "aforo": "7813",
-      "web": "cdarenteiro.es",
-      "x": "CD_Arenteiro",
-      "instagram": "cd_arenteiro",
+      "web": "zamoracf.es",
+      "x": "ZCFoficial",
+      "instagram": "zcfoficial",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2785.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
