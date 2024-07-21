@@ -218,7 +218,7 @@
         },
         {
           "nombre": "Álvaro Yuste",
-          "numero": -,
+          "numero": 0,
           "posicion": "CT",
           "nacim": "04/04/01",
           "altura": "1.85",
@@ -227,8 +227,8 @@
           "contrato": "2025"
          },
          {
-          "nombre": "Mikel Cortázarz",
-          "numero": -,
+          "nombre": "Mikel Cortázar",
+          "numero": 0,
           "posicion": "LI",
           "nacim": "10/03/99",
           "altura": "1.87",
@@ -238,7 +238,7 @@
         },
         {
           "nombre": "Sergio Camacho",
-          "numero": -,
+          "numero": 0,
           "posicion": "LI",
           "nacim": "08/05/02",
           "altura": "1.73",
@@ -248,7 +248,7 @@
         },
         {
           "nombre": "Álex Carbonell",
-          "numero": -,
+          "numero": 0,
           "posicion": "LD",
           "nacim": "13/03/01",
           "altura": "1.72",
@@ -258,7 +258,7 @@
         },
         {
           "nombre": "Nassourou Ben Hamed",
-          "numero": -,
+          "numero": 0,
           "posicion": "MC",
           "nacim": "20/07/02",
           "altura": "1.70",
@@ -268,7 +268,7 @@
         },
         {
           "nombre": "Pipi Nakai",
-          "numero": -,
+          "numero": 0,
           "posicion": "MCO",
           "nacim": "24/10/03",
           "altura": "1.82",
@@ -278,7 +278,7 @@
         },
         {
           "nombre": "Berto",
-          "numero": -,
+          "numero": 0,
           "posicion": "EI",
           "nacim": "02/04/98",
           "altura": "1.73",
@@ -288,7 +288,7 @@
         },
         {
           "nombre": "Pablo Hervías",
-          "numero": -,
+          "numero": 0,
           "posicion": "ED",
           "nacim": "08/03/93",
           "altura": "1.74",
@@ -298,14 +298,14 @@
         },
         {
           "nombre": "Kaxe",
-          "numero": -,
+          "numero": 0,
           "posicion": "DC",
           "nacim": "21/01/94",
           "altura": "1.83",
           "fichaje": "jul-24",
           "procedencia": "Sestao River",
           "contrato": "2025"
-        }}
+        }
       ]
        },
     {
