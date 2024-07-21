@@ -41,7 +41,7 @@
           "fichaje": "jul-20",
           "procedencia": "Langreo",
           "contrato": "2025"
-        },
+         },
          {
           "nombre": "Imanol Baz",
           "numero": 5,
@@ -54,7 +54,7 @@
         },
         {
           "nombre": "Carlos García",
-          "numero": ,
+          "numero": 
           "posicion": "CT",
           "nacim": "07/07/00",
           "altura": "1.88",
