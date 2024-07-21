@@ -54,7 +54,7 @@
         },
         {
           "nombre": "Carlos García",
-          "numero": .,
+          "numero": 0,
           "posicion": "CT",
           "nacim": "07/07/00",
           "altura": "1.88",
