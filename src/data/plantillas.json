@@ -197,7 +197,115 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/213.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
        {
-       }
+         "nombre": "Unai Marino",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "10/12/99",
+          "altura": "1.85",
+          "fichaje": "ene-21",
+          "procedencia": "UA Horta",
+          "contrato": "2025"
+       },
+        {
+          "nombre": "Jon Ander Amelibia",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "13/01/94",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "CE Sabadell",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álvaro Yuste",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "04/04/01",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "AD Alcorcón",
+          "contrato": "2025"
+         },
+         {
+          "nombre": "Mikel Cortázarz",
+          "numero": -,
+          "posicion": "LI",
+          "nacim": "10/03/99",
+          "altura": "1.87",
+          "fichaje": "jul-24",
+          "procedencia": "SD Tarazona",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Sergio Camacho",
+          "numero": -,
+          "posicion": "LI",
+          "nacim": "08/05/02",
+          "altura": "1.73",
+          "fichaje": "jul-24",
+          "procedencia": "Rayo Majadahonda",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Carbonell",
+          "numero": -,
+          "posicion": "LD",
+          "nacim": "13/03/01",
+          "altura": "1.72",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Nassourou Ben Hamed",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "20/07/02",
+          "altura": "1.70",
+          "fichaje": "jul-24",
+          "procedencia": "Moralo CP",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pipi Nakai",
+          "numero": -,
+          "posicion": "MCO",
+          "nacim": "24/10/03",
+          "altura": "1.82",
+          "fichaje": "jul-24",
+          "procedencia": "Real Madrid Castilla",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Berto",
+          "numero": -,
+          "posicion": "EI",
+          "nacim": "02/04/98",
+          "altura": "1.73",
+          "fichaje": "jul-24",
+          "procedencia": "Cultural Leonesa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pablo Hervías",
+          "numero": -,
+          "posicion": "ED",
+          "nacim": "08/03/93",
+          "altura": "1.74",
+          "fichaje": "jul-24",
+          "procedencia": "Rayo Majadahonda",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Kaxe",
+          "numero": -,
+          "posicion": "DC",
+          "nacim": "21/01/94",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "Sestao River",
+          "contrato": "2025"
+        }}
       ]
        },
     {
