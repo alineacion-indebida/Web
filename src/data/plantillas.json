@@ -297,13 +297,23 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Kaxe",
+          "nombre": "Álex Aizpuru "Kaxe"",
           "numero": 0,
           "posicion": "DC",
           "nacim": "21/01/94",
           "altura": "1.83",
           "fichaje": "jul-24",
           "procedencia": "Sestao River",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Dani Selma",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "01/03/01",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "CD Tenerife",
           "contrato": "2025"
         }
       ]
