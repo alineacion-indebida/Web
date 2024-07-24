@@ -369,6 +369,16 @@
           "fichaje": "jul-24",
           "procedencia": "CD Lugo",
           "contrato": "2025"
+         },
+        {
+          "nombre": "Pablo Trigueros",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "04/04/93",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "Gimnástic de Tarragona",
+          "contrato": "2026"
         }
       ]
     },
