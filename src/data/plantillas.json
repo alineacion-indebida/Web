@@ -330,7 +330,46 @@
       "instagram": "fcandorra",
       "escudo": "https://cdn.resfu.com/img_data/equipos/9501.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Nico Ratti",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "18/09/93",
+          "altura": "1.79",
+          "fichaje": "ene-19",
+          "procedencia": "UE Sant Julia",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Oier Olazábal",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "14/09/89",
+          "altura": "1.89",
+          "fichaje": "ago-23",
+          "procedencia": "Pafos FC, (Chipre)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Diego Alende",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "25/08/97",
+          "altura": "1.83",
+          "fichaje": "jul-22",
+          "procedencia": "Real Valladolid",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "César Morgado",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "26/01/93",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "CD Lugo",
+          "contrato": "2025"
+        }
       ]
     },
     {
