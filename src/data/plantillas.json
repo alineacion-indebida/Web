@@ -12,7 +12,7 @@
       "instagram": "unionistascf",
       "escudo": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/4567.png",
       "plantilla": [
-       {
+        {
           "nombre": "Iván Martínez",
           "numero": 1,
           "posicion": "PT",
@@ -41,8 +41,8 @@
           "fichaje": "jul-20",
           "procedencia": "Langreo",
           "contrato": "2025"
-         },
-         {
+        },
+        {
           "nombre": "Imanol Baz",
           "numero": 5,
           "posicion": "CT",
@@ -196,8 +196,8 @@
       "instagram": "sdamorebieta",
       "escudo": "https://cdn.resfu.com/img_data/equipos/213.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-       {
-         "nombre": "Unai Marino",
+        {
+          "nombre": "Unai Marino",
           "numero": 1,
           "posicion": "PT",
           "nacim": "10/12/99",
@@ -205,7 +205,7 @@
           "fichaje": "ene-21",
           "procedencia": "UA Horta",
           "contrato": "2025"
-       },
+        },
         {
           "nombre": "Jon Ander Amelibia",
           "numero": 0,
@@ -225,8 +225,8 @@
           "fichaje": "jul-24",
           "procedencia": "AD Alcorcón",
           "contrato": "2025"
-         },
-         {
+        },
+        {
           "nombre": "Mikel Cortázar",
           "numero": 0,
           "posicion": "LI",
@@ -307,7 +307,7 @@
           "contrato": "2025"
         }
       ]
-     },
+    },
     {
       "id": "Andorra",
       "nombre": "FC Andorra",
@@ -320,10 +320,9 @@
       "instagram": "fcandorra",
       "escudo": "https://cdn.resfu.com/img_data/equipos/9501.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Arenteiro",
       "nombre": "CD Arenteiro",
@@ -336,10 +335,9 @@
       "instagram": "cd_arenteiro",
       "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Barakaldo",
       "nombre": "Barakaldo CF",
@@ -352,10 +350,9 @@
       "instagram": "barakaldoclubdefutbol",
       "escudo": "https://cdn.resfu.com/img_data/equipos/425.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-       {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Barcelona At",
       "nombre": "FC Barcelona Atlétic",
@@ -369,9 +366,259 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/430.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
-       }
+          "nombre": "Iván Martínez",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "19/02/02",
+          "altura": "1.82",
+          "fichaje": "jul-23",
+          "procedencia": "Hércules CF",
+          "contrato": "2025"
+        },
+        {
+          "numero": "1",
+          "nombre": "Ander Astralaga",
+          "posicion": "Portero",
+          "nacim": "03/03/2004 (20)",
+          "altura": "1,90m",
+          "pie": "derecho",
+          "fichaje": "01/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": "-"
+        },
+        {
+          "numero": "24",
+          "nombre": "Diego Kochen",
+          "posicion": "Portero",
+          "nacim": "19/03/2006 (18)",
+          "altura": "1,88m",
+          "pie": "derecho",
+          "fichaje": "31/01/2024",
+          "contrato": "30/06/2028",
+          "procedencia": ""
+        },
+        {
+          "numero": "4",
+          "nombre": "Mamadou Mbacke",
+          "posicion": "Defensa central",
+          "nacim": "21/11/2002 (21)",
+          "altura": "1,89m",
+          "pie": "derecho",
+          "fichaje": "22/07/2024",
+          "contrato": "30/06/2026",
+          "procedencia": ""
+        },
+        {
+          "numero": "-",
+          "nombre": "Rubén Cantero",
+          "posicion": "Defensa central",
+          "nacim": "12/06/2004 (20)",
+          "altura": "1,84m",
+          "pie": "derecho",
+          "fichaje": "01/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "5",
+          "nombre": "Sergi Domínguez",
+          "posicion": "Defensa central",
+          "nacim": "01/04/2005 (19)",
+          "altura": "1,91m",
+          "pie": "derecho",
+          "fichaje": "01/07/2023",
+          "contrato": "30/06/2027",
+          "procedencia": ""
+        },
+        {
+          "numero": "34",
+          "nombre": "Alexis Olmedo",
+          "posicion": "Defensa central",
+          "nacim": "02/01/2006 (18)",
+          "altura": "-",
+          "pie": "derecho",
+          "fichaje": "01/01/2024",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "-",
+          "nombre": "Álvaro Cortés",
+          "posicion": "Defensa central",
+          "nacim": "17/03/2005 (19)",
+          "altura": "1,90m",
+          "pie": "izquierdo",
+          "fichaje": "01/07/2024",
+          "contrato": "30/06/2026",
+          "procedencia": "-"
+        },
+        {
+          "numero": "3",
+          "nombre": "Gerard Martín",
+          "posicion": "Lateral izquierdo",
+          "nacim": "26/02/2002 (22)",
+          "altura": "1,86m",
+          "pie": "izquierdo",
+          "fichaje": "19/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "16",
+          "nombre": "Edu Sánchez",
+          "posicion": "Lateral izquierdo",
+          "nacim": "21/06/2005 (19)",
+          "altura": "1,79m",
+          "pie": "izquierdo",
+          "fichaje": "10/08/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "2",
+          "nombre": "Trilli",
+          "posicion": "Lateral derecho",
+          "nacim": "19/05/2003 (21)",
+          "altura": "1,84m",
+          "pie": "derecho",
+          "fichaje": "23/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "-",
+          "nombre": "Joan Anaya",
+          "posicion": "Lateral derecho",
+          "nacim": "16/02/2005 (19)",
+          "altura": "1,74m",
+          "pie": "derecho",
+          "fichaje": "01/07/2024",
+          "contrato": "30/06/2027",
+          "procedencia": ""
+        },
+        {
+          "numero": "27",
+          "nombre": "Marc Bernal",
+          "posicion": "Pivote",
+          "nacim": "26/05/2007 (17)",
+          "altura": "1,91m",
+          "pie": "izquierdo",
+          "fichaje": "01/07/2023",
+          "contrato": "30/06/2026",
+          "procedencia": ""
+        },
+        {
+          "numero": "26",
+          "nombre": "Pau Prim",
+          "posicion": "Pivote",
+          "nacim": "22/02/2006 (18)",
+          "altura": "1,79m",
+          "pie": "derecho",
+          "fichaje": "01/01/2024",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "20",
+          "nombre": "Unai Hernández",
+          "posicion": "Mediocentro",
+          "nacim": "14/12/2004 (19)",
+          "altura": "1,71m",
+          "pie": "derecho",
+          "fichaje": "01/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "-",
+          "nombre": "Guille Fernández",
+          "posicion": "Mediocentro",
+          "nacim": "18/06/2008 (16)",
+          "altura": "1,71m",
+          "pie": "derecho",
+          "fichaje": "01/07/2024",
+          "contrato": "30/06/2027",
+          "procedencia": ""
+        },
+        {
+          "numero": "10",
+          "nombre": "Aleix Garrido",
+          "posicion": "Mediocentro",
+          "nacim": "22/02/2004 (20)",
+          "altura": "1,70m",
+          "pie": "derecho",
+          "fichaje": "01/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "-",
+          "nombre": "Biel Vicens",
+          "posicion": "Mediocentro",
+          "nacim": "26/07/2004 (19)",
+          "altura": "-",
+          "pie": "derecho",
+          "fichaje": "18/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "21",
+          "nombre": "Noah Darvich",
+          "posicion": "Mediocentro ofensivo",
+          "nacim": "25/09/2006 (17)",
+          "altura": "1,84m",
+          "pie": "izquierdo",
+          "fichaje": "08/08/2023",
+          "contrato": "30/06/2026",
+          "procedencia": ""
+        },
+        {
+          "numero": "7",
+          "nombre": "Ángel Alarcón",
+          "posicion": "Extremo izquierdo",
+          "nacim": "15/05/2004 (20)",
+          "altura": "1,75m",
+          "pie": "derecho",
+          "fichaje": "01/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        },
+        {
+          "numero": "30",
+          "nombre": "Dani Rodríguez",
+          "posicion": "Extremo izquierdo",
+          "nacim": "09/08/2005 (18)",
+          "altura": "1,70m",
+          "pie": "izquierdo",
+          "fichaje": "01/01/2024",
+          "contrato": "30/06/2027",
+          "procedencia": ""
+        },
+        {
+          "numero": "18",
+          "nombre": "Pocho Román",
+          "posicion": "Extremo derecho",
+          "nacim": "10/02/2004 (20)",
+          "altura": "-",
+          "pie": "izquierdo",
+          "fichaje": "18/01/2023",
+          "contrato": "30/06/2026",
+          "procedencia": ""
+        },
+        {
+          "numero": "9",
+          "nombre": "Diego Percan",
+          "posicion": "Delantero centro",
+          "nacim": "13/11/2001 (22)",
+          "altura": "1,79m",
+          "pie": "derecho",
+          "fichaje": "19/07/2023",
+          "contrato": "30/06/2025",
+          "procedencia": ""
+        }
       ]
-       },
+    },
     {
       "id": "Bilbao At",
       "nombre": "Bilbao Athletic",
@@ -384,10 +631,9 @@
       "instagram": "athleticclub",
       "escudo": "https://cdn.resfu.com/img_data/equipos/348.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Celta F",
       "nombre": "RC Celta Fortuna",
@@ -400,10 +646,9 @@
       "instagram": "canteiraceleste",
       "escudo": "https://cdn.resfu.com/img_data/equipos/713.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-       {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Cultural",
       "nombre": "Cultural Y Deportiva Leonesa",
@@ -416,10 +661,9 @@
       "instagram": "cydleonesasad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/877.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "G. Segoviana",
       "nombre": "Gimnástica Segoviana",
@@ -432,10 +676,9 @@
       "instagram": "gimnasticasegovianaoficial",
       "escudo": "https://cdn.resfu.com/img_data/equipos/5715.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Nástic Tarragona",
       "nombre": "Gimnástic Tarragona",
@@ -448,10 +691,9 @@
       "instagram": "nastictarragona",
       "escudo": "https://cdn.resfu.com/img_data/equipos/1228.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-       {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Lugo",
       "nombre": "CD Lugo",
@@ -464,10 +706,9 @@
       "instagram": "cdeportivolugo",
       "escudo": "https://cdn.resfu.com/img_data/equipos/1598.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Ourense",
       "nombre": "Ourense CF",
@@ -480,10 +721,9 @@
       "instagram": "ourensecf",
       "escudo": "https://cdn.resfu.com/img_data/equipos/9401.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Osasuna P",
       "nombre": "CA Osasuna Promesas",
@@ -496,10 +736,9 @@
       "instagram": "caosasuna",
       "escudo": "https://cdn.resfu.com/img_data/equipos/327.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-       {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Ponferradina",
       "nombre": "SD Ponferradina",
@@ -512,10 +751,9 @@
       "instagram": "sdp_1922_sad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/3287.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "R. Sociedad B",
       "nombre": "Real Sociedad B",
@@ -528,10 +766,9 @@
       "instagram": "realsociedad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2121.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "R. Union",
       "nombre": "Real Unión Club",
@@ -544,10 +781,9 @@
       "instagram": "realunionclubirun",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2130.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-       {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Sestao",
       "nombre": "Sestao River",
@@ -560,10 +796,9 @@
       "instagram": "sestaorc",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Tarazona",
       "nombre": "SD Tarazona",
@@ -576,10 +811,9 @@
       "instagram": "sdtarazona1924",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2466.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-       },
+    },
     {
       "id": "Zamora",
       "nombre": "Zamora CF",
@@ -592,8 +826,8 @@
       "instagram": "zcfoficial",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2785.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-       }
+        {}
       ]
-    }]
+    }
+  ]
 }
