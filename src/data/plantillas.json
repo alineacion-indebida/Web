@@ -785,7 +785,7 @@
         {
           "numero": "1",
           "nombre": "Ander Astralaga",
-          "posicion": "Portero",
+          "posicion": "PT",
           "nacim": "03/03/2004 (20)",
           "altura": "1,90m",
           "pie": "derecho",
@@ -796,7 +796,7 @@
         {
           "numero": "24",
           "nombre": "Diego Kochen",
-          "posicion": "Portero",
+          "posicion": "PT",
           "nacim": "19/03/2006 (18)",
           "altura": "1,88m",
           "pie": "derecho",
@@ -807,7 +807,7 @@
         {
           "numero": "4",
           "nombre": "Mamadou Mbacke",
-          "posicion": "Defensa central",
+          "posicion": "CT",
           "nacim": "21/11/2002 (21)",
           "altura": "1,89m",
           "pie": "derecho",
@@ -818,7 +818,7 @@
         {
           "numero": "-",
           "nombre": "Rubén Cantero",
-          "posicion": "Defensa central",
+          "posicion": "CT",
           "nacim": "12/06/2004 (20)",
           "altura": "1,84m",
           "pie": "derecho",
@@ -829,7 +829,7 @@
         {
           "numero": "5",
           "nombre": "Sergi Domínguez",
-          "posicion": "Defensa central",
+          "posicion": "CT",
           "nacim": "01/04/2005 (19)",
           "altura": "1,91m",
           "pie": "derecho",
@@ -840,7 +840,7 @@
         {
           "numero": "34",
           "nombre": "Alexis Olmedo",
-          "posicion": "Defensa central",
+          "posicion": "CT",
           "nacim": "02/01/2006 (18)",
           "altura": "-",
           "pie": "derecho",
@@ -851,7 +851,7 @@
         {
           "numero": "-",
           "nombre": "Álvaro Cortés",
-          "posicion": "Defensa central",
+          "posicion": "CT",
           "nacim": "17/03/2005 (19)",
           "altura": "1,90m",
           "pie": "izquierdo",
@@ -862,7 +862,7 @@
         {
           "numero": "3",
           "nombre": "Gerard Martín",
-          "posicion": "Lateral izquierdo",
+          "posicion": "LI",
           "nacim": "26/02/2002 (22)",
           "altura": "1,86m",
           "pie": "izquierdo",
@@ -873,7 +873,7 @@
         {
           "numero": "16",
           "nombre": "Edu Sánchez",
-          "posicion": "Lateral izquierdo",
+          "posicion": "LI",
           "nacim": "21/06/2005 (19)",
           "altura": "1,79m",
           "pie": "izquierdo",
@@ -884,7 +884,7 @@
         {
           "numero": "2",
           "nombre": "Trilli",
-          "posicion": "Lateral derecho",
+          "posicion": "LD",
           "nacim": "19/05/2003 (21)",
           "altura": "1,84m",
           "pie": "derecho",
@@ -895,7 +895,7 @@
         {
           "numero": "-",
           "nombre": "Joan Anaya",
-          "posicion": "Lateral derecho",
+          "posicion": "LD",
           "nacim": "16/02/2005 (19)",
           "altura": "1,74m",
           "pie": "derecho",
@@ -906,7 +906,7 @@
         {
           "numero": "27",
           "nombre": "Marc Bernal",
-          "posicion": "Pivote",
+          "posicion": "MC",
           "nacim": "26/05/2007 (17)",
           "altura": "1,91m",
           "pie": "izquierdo",
@@ -917,7 +917,7 @@
         {
           "numero": "26",
           "nombre": "Pau Prim",
-          "posicion": "Pivote",
+          "posicion": "MC",
           "nacim": "22/02/2006 (18)",
           "altura": "1,79m",
           "pie": "derecho",
@@ -928,7 +928,7 @@
         {
           "numero": "20",
           "nombre": "Unai Hernández",
-          "posicion": "Mediocentro",
+          "posicion": "MC",
           "nacim": "14/12/2004 (19)",
           "altura": "1,71m",
           "pie": "derecho",
@@ -939,7 +939,7 @@
         {
           "numero": "-",
           "nombre": "Guille Fernández",
-          "posicion": "Mediocentro",
+          "posicion": "MC",
           "nacim": "18/06/2008 (16)",
           "altura": "1,71m",
           "pie": "derecho",
@@ -950,7 +950,7 @@
         {
           "numero": "10",
           "nombre": "Aleix Garrido",
-          "posicion": "Mediocentro",
+          "posicion": "MC",
           "nacim": "22/02/2004 (20)",
           "altura": "1,70m",
           "pie": "derecho",
@@ -961,7 +961,7 @@
         {
           "numero": "-",
           "nombre": "Biel Vicens",
-          "posicion": "Mediocentro",
+          "posicion": "MC",
           "nacim": "26/07/2004 (19)",
           "altura": "-",
           "pie": "derecho",
@@ -972,7 +972,7 @@
         {
           "numero": "21",
           "nombre": "Noah Darvich",
-          "posicion": "Mediocentro ofensivo",
+          "posicion": "MCO",
           "nacim": "25/09/2006 (17)",
           "altura": "1,84m",
           "pie": "izquierdo",
@@ -983,7 +983,7 @@
         {
           "numero": "7",
           "nombre": "Ángel Alarcón",
-          "posicion": "Extremo izquierdo",
+          "posicion": "EI",
           "nacim": "15/05/2004 (20)",
           "altura": "1,75m",
           "pie": "derecho",
@@ -994,7 +994,7 @@
         {
           "numero": "30",
           "nombre": "Dani Rodríguez",
-          "posicion": "Extremo izquierdo",
+          "posicion": "EI",
           "nacim": "09/08/2005 (18)",
           "altura": "1,70m",
           "pie": "izquierdo",
@@ -1005,7 +1005,7 @@
         {
           "numero": "18",
           "nombre": "Pocho Román",
-          "posicion": "Extremo derecho",
+          "posicion": "ED",
           "nacim": "10/02/2004 (20)",
           "altura": "-",
           "pie": "izquierdo",
@@ -1016,7 +1016,7 @@
         {
           "numero": "9",
           "nombre": "Diego Percan",
-          "posicion": "Delantero centro",
+          "posicion": "DC",
           "nacim": "13/11/2001 (22)",
           "altura": "1,79m",
           "pie": "derecho",
