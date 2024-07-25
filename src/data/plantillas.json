@@ -558,7 +558,216 @@
       "instagram": "barakaldoclubdefutbol",
       "escudo": "https://cdn.resfu.com/img_data/equipos/425.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Jon Tena",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "21/02/93",
+          "altura": "1.89",
+          "fichaje": "oct-21",
+          "procedencia": "-",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Unai Pérez",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "22/11/01",
+          "altura": "1.88",
+          "fichaje": "jul-23",
+          "procedencia": "UD Logroñés",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Markel Artetxe",
+          "numero": 12,
+          "posicion": "CT",
+          "nacim": "23/03/99",
+          "altura": "-",
+          "fichaje": "jul-22",
+          "procedencia": "CD Vitoria",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Borja García",
+          "numero": 3,
+          "posicion": "CT",
+          "nacim": "07/01/90",
+          "altura": "1.85",
+          "fichaje": "ago-23",
+          "procedencia": "CD Badajoz",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Aymane Jelbat",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "27/05/00",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Bilbao Athletic",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Imanol Torre",
+          "numero": 10,
+          "posicion": "LI",
+          "nacim": "06/10/00",
+          "altura": "-",
+          "fichaje": "jul-22",
+          "procedencia": "Cultural Durango",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Oier López",
+          "numero": 16,
+          "posicion": "LI",
+          "nacim": "08/03/02",
+          "altura": "1.78",
+          "fichaje": "jul-23",
+          "procedencia": "Bilbao Athletic",
+          "contrato": "2025"
+        },
+        {
+          "nombre": Iker Pedernales",
+          "numero": 7,
+          "posicion": "LD",
+          "nacim": "20/12/98",
+          "altura": "-",
+          "fichaje": "jul-21",
+          "procedencia": "Urduliz FT",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Beñat de Jesús",
+          "numero": 0,
+          "posicion": "LD",
+          "nacim": "22/01/02",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "Bilbao Athletic",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Unai Naveira",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "30/04/01",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jon Gaztañaga",
+          "numero": 4,
+          "posicion": "MC",
+          "nacim": "28/06/91",
+          "altura": "1.81",
+          "fichaje": "ago-23",
+          "procedencia": "Karmiotissa Pano Polemidion",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Julen Huidobro",
+          "numero": 8,
+          "posicion": "MC",
+          "nacim": "01/04/95",
+          "altura": "1.77",
+          "fichaje": "jul-22",
+          "procedencia": "SD Leioa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ekaitz Molina",
+          "numero": 5,
+          "posicion": "MC",
+          "nacim": "25/09/90",
+          "altura": "-",
+          "fichaje": "jul-22",
+          "procedencia": "Gernika Club",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Urki Txoperena",
+          "numero": 14,
+          "posicion": "MCO",
+          "nacim": "06/10/98",
+          "altura": "1.72",
+          "fichaje": "ene-22",
+          "procedencia": "Beti Gazte KJKE",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Bittor Isuskiza",
+          "numero": 19,
+          "posicion": "MCO",
+          "nacim": "17/12/98",
+          "altura": "1.85",
+          "fichaje": "ene-22",
+          "procedencia": "Sestao River",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Kepa Uriarte",
+          "numero": 0,
+          "posicion": "MCO",
+          "nacim": "23/02/02",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Sestao River",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Unai Buján",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "08/02/01",
+          "altura": "1.74",
+          "fichaje": "jul-24",
+          "procedencia": "CA Osasuna Promesas",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pablo Santiago",
+          "numero": 18,
+          "posicion": "EI",
+          "nacim": "27/09/00",
+          "altura": "1.73",
+          "fichaje": "jul-23",
+          "procedencia": "CD Vitoria",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Aimar Vicandi",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "09/02/05",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "Bilbao Athletic",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Maroan Sannadi",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "01/02/01",
+          "altura": "1.92",
+          "fichaje": "jul-24",
+          "procedencia": "Deportivo Alavés",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Adrián Revilla",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "30/09/97",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Orihuela CF",
+          "contrato": "2025"
+        }
       ]
     },
     {
@@ -573,16 +782,6 @@
       "instagram": "fcbarcelonab",
       "escudo": "https://cdn.resfu.com/img_data/equipos/430.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {
-          "nombre": "Iván Martínez",
-          "numero": 1,
-          "posicion": "PT",
-          "nacim": "19/02/02",
-          "altura": "1.82",
-          "fichaje": "jul-23",
-          "procedencia": "Hércules CF",
-          "contrato": "2025"
-        },
         {
           "numero": "1",
           "nombre": "Ander Astralaga",
