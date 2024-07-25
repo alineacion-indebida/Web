@@ -54,7 +54,7 @@
         },
         {
           "nombre": "Carlos García",
-          "numero": 0,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "07/07/00",
           "altura": "1.88",
@@ -208,7 +208,7 @@
         },
         {
           "nombre": "Jon Ander Amelibia",
-          "numero": 0,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "13/01/94",
           "altura": "1.80",
@@ -218,7 +218,7 @@
         },
         {
           "nombre": "Álvaro Yuste",
-          "numero": 0,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "04/04/01",
           "altura": "1.85",
@@ -228,7 +228,7 @@
         },
         {
           "nombre": "Mikel Kortazar",
-          "numero": 0,
+          "numero": "-",
           "posicion": "LI",
           "nacim": "10/03/99",
           "altura": "1.87",
@@ -238,7 +238,7 @@
         },
         {
           "nombre": "Sergio Camacho",
-          "numero": 0,
+          "numero": "-",
           "posicion": "LI",
           "nacim": "08/05/02",
           "altura": "1.73",
@@ -248,7 +248,7 @@
         },
         {
           "nombre": "Álex Carbonell",
-          "numero": 0,
+          "numero": "-",
           "posicion": "LD",
           "nacim": "13/03/01",
           "altura": "1.72",
@@ -258,7 +258,7 @@
         },
         {
           "nombre": "Nassourou Ben Hamed",
-          "numero": 0,
+          "numero": "-",
           "posicion": "MC",
           "nacim": "20/07/02",
           "altura": "1.70",
@@ -268,7 +268,7 @@
         },
         {
           "nombre": "Pipi Nakai",
-          "numero": 0,
+          "numero": "-",
           "posicion": "MCO",
           "nacim": "24/10/03",
           "altura": "1.82",
@@ -278,7 +278,7 @@
         },
         {
           "nombre": "Berto González",
-          "numero": 0,
+          "numero": "-",
           "posicion": "EI",
           "nacim": "02/04/98",
           "altura": "1.73",
@@ -288,7 +288,7 @@
         },
         {
           "nombre": "Pablo Hervías",
-          "numero": 0,
+          "numero": "-",
           "posicion": "ED",
           "nacim": "08/03/93",
           "altura": "1.74",
@@ -298,17 +298,17 @@
         },
         {
           "nombre": "Álex Aizpuru \"Kaxe\"",
-          "numero": 0,
+          "numero": "-",
           "posicion": "DC",
           "nacim": "21/01/94",
           "altura": "1.83",
           "fichaje": "jul-24",
           "procedencia": "Sestao River",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Dani Selma",
-          "numero": 0,
+          "numero": "-",
           "posicion": "DC",
           "nacim": "01/03/01",
           "altura": "1.86",
@@ -332,7 +332,7 @@
       "plantilla": [
         {
           "nombre": "Nico Ratti",
-          "numero": 0,
+          "numero": "-",
           "posicion": "PT",
           "nacim": "18/09/93",
           "altura": "1.79",
@@ -342,7 +342,7 @@
         },
         {
           "nombre": "Oier Olazábal",
-          "numero": 0,
+          "numero": "-",
           "posicion": "PT",
           "nacim": "14/09/89",
           "altura": "1.89",
@@ -352,7 +352,7 @@
         },
         {
           "nombre": "Diego Alende",
-          "numero": 0,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "25/08/97",
           "altura": "1.83",
@@ -362,17 +362,17 @@
         },
         {
           "nombre": "César Morgado",
-          "numero": 0,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "26/01/93",
           "altura": "1.85",
           "fichaje": "jul-24",
           "procedencia": "CD Lugo",
           "contrato": "2025"
-         },
+        },
         {
           "nombre": "Pablo Trigueros",
-          "numero": 0,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "04/04/93",
           "altura": "1.88",
@@ -396,7 +396,7 @@
       "plantilla": [
         {
           "nombre": "Diego García",
-          "numero": 0,
+          "numero": "-",
           "posicion": "PT",
           "nacim": "15/03/95",
           "altura": "1.76",
@@ -406,7 +406,7 @@
         },
         {
           "nombre": "Darío Ramos",
-          "numero": 0,
+          "numero": "-",
           "posicion": "PT",
           "nacim": "19/10/99",
           "altura": "1.91",
@@ -436,7 +436,7 @@
         },
         {
           "nombre": "Joao Días",
-          "numero": 0,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "15/06/01",
           "altura": "1.86",
@@ -446,7 +446,7 @@
         },
         {
           "nombre": "Iván Muñoz",
-          "numero": 0,
+          "numero": "-",
           "posicion": "LI",
           "nacim": "27/02/02",
           "altura": "1.88",
@@ -466,7 +466,7 @@
         },
         {
           "nombre": "Mangel Prendes",
-          "numero": 0,
+          "numero": "-",
           "posicion": "MC",
           "nacim": "28/06/01",
           "altura": "-",
@@ -486,7 +486,7 @@
         },
         {
           "nombre": "Curro Rivelott",
-          "numero": 0,
+          "numero": "-",
           "posicion": "MC",
           "nacim": "13/12/99",
           "altura": "1.83",
@@ -506,7 +506,7 @@
         },
         {
           "nombre": "David Ferreiro",
-          "numero": 0,
+          "numero": "-",
           "posicion": "EI",
           "nacim": "01/04/88",
           "altura": "1.70",
@@ -516,7 +516,7 @@
         },
         {
           "nombre": "Diego Gómez",
-          "numero": 0,
+          "numero": "-",
           "posicion": "ED",
           "nacim": "31/07/04",
           "altura": "1.77",
@@ -536,7 +536,7 @@
         },
         {
           "nombre": "Nacho Ramón",
-          "numero": 0,
+          "numero": "-",
           "posicion": "DC",
           "nacim": "30/03/979",
           "altura": "-",
