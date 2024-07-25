@@ -1476,7 +1476,205 @@
       "instagram": "nastictarragona",
       "escudo": "https://cdn.resfu.com/img_data/equipos/1228.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Dani Rebollo",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "10/12/99",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "Real Zaragoza",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alberto Varo",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "18/03/93",
+          "altura": "1.91",
+          "fichaje": "jul-23",
+          "procedencia": "Real Balompédica Linense",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Gorka Pérez",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "19/06/95",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "CD Lugo",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Antonio Leal",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "28/01/99",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "SD Ponferradina",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Unai Dufur",
+          "numero": "5",
+          "posicion": "CT",
+          "nacim": "21/01/99",
+          "altura": "1.87",
+          "fichaje": "jul-23",
+          "procedencia": "CA Osasuna Promesas",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Iván de la Peña",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "09/04/01",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Pobla de Mafumet CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Joan Oriol",
+          "numero": 21,
+          "posicion": "LI",
+          "nacim": "05/11/86",
+          "altura": "1.75",
+          "fichaje": "sep-20",
+          "procedencia": "Club Lleida Esportiú",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pol Domingo",
+          "numero": 4,
+          "posicion": "LD",
+          "nacim": "04/11/99",
+          "altura": "1.80",
+          "fichaje": "ene-20",
+          "procedencia": "Pobla de Mafumet CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alexandru Tirlea",
+          "numero": 20,
+          "posicion": "LD",
+          "nacim": "28/03/00",
+          "altura": "1.82",
+          "fichaje": "jul-22",
+          "procedencia": "Deportivo Alavés B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marc Montalvo",
+          "numero": 8,
+          "posicion": "MC",
+          "nacim": "09/04/02",
+          "altura": "-",
+          "fichaje": "jul-22",
+          "procedencia": "Pobla de Mafumet CF",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Óscar Sanz",
+          "numero": 14,
+          "posicion": "MC",
+          "nacim": "08/03/00",
+          "altura": "1.83",
+          "fichaje": "jul-21",
+          "procedencia": "Pobla de Mafumet CF",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Borja Martínez",
+          "numero": 18,
+          "posicion": "MC",
+          "nacim": "08/02/95",
+          "altura": "1.78",
+          "fichaje": "jul-23",
+          "procedencia": "SD Logroñés",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ander Gorostidi",
+          "numero": 6,
+          "posicion": "MC",
+          "nacim": "23/02/96",
+          "altura": "1.85",
+          "fichaje": "jul-22",
+          "procedencia": "AD Alcorcón",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marc Fernández",
+          "numero": 11,
+          "posicion": "EI",
+          "nacim": "29/04/90",
+          "altura": "1,79",
+          "fichaje": "ene-23",
+          "procedencia": "FC Andorra",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Mario Rodríguez",
+          "numero": 19,
+          "posicion": "EI",
+          "nacim": "03/03/97",
+          "altura": "1.80",
+          "fichaje": "jul-23",
+          "procedencia": "SD Compostela",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jaume Jardí",
+          "numero": 22,
+          "posicion": "ED",
+          "nacim": "07/04/02",
+          "altura": "1.75",
+          "fichaje": "jul-23",
+          "procedencia": "Real Madrid Castilla",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Víctor Narro",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "27/05/99",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "CD Lugo",
+          "contrato": "2026"
+        },
+         {
+          "nombre": "David Concha",
+          "numero": 23,
+          "posicion": "ED",
+          "nacim": "27/05/99",
+          "altura": "1.79",
+          "fichaje": "jul-23",
+          "procedencia": "-",
+          "contrato": "2025"
+         },
+        {
+          "nombre": "Antonio Cortés\"Antoñín\"",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "16/04/02",
+          "altura": "1.82",
+          "fichaje": "jul-24",
+          "procedencia": "CD Lugo",
+          "contrato": "2026"
+        },
+         {
+          "nombre": "Pablo Fernández",
+          "numero": 17,
+          "posicion": "DC",
+          "nacim": "17/09/96",
+          "altura": "1.92",
+          "fichaje": "jul-21",
+          "procedencia": "UE Cornellá",
+          "contrato": "2025"}
       ]
     },
     {
