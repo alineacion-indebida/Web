@@ -651,7 +651,7 @@
         {
           "nombre": "Unai Naveira",
           "numero": 0,
-          "posicion": "MC",
+          "posicion": "MCD",
           "nacim": "30/04/01",
           "altura": "1.83",
           "fichaje": "jul-24",
@@ -906,7 +906,7 @@
         {
           "numero": "27",
           "nombre": "Marc Bernal",
-          "posicion": "MC",
+          "posicion": "MCD",
           "nacim": "26/05/2007 (17)",
           "altura": "1,91m",
           "pie": "izquierdo",
@@ -917,7 +917,7 @@
         {
           "numero": "26",
           "nombre": "Pau Prim",
-          "posicion": "MC",
+          "posicion": "MCD",
           "nacim": "22/02/2006 (18)",
           "altura": "1,79m",
           "pie": "derecho",
