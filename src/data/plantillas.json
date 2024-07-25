@@ -1068,7 +1068,186 @@
       "instagram": "cydleonesasad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/877.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        { 
+          "nombre": "Miguel Bañuz",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "26/06/93",
+          "altura": "1.88",
+          "fichaje": "jul-23",
+          "procedencia": "CD Alcoyano",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alejandro Fernández",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "17/01/01",
+          "altura": "1.83",
+          "fichaje": "jul-23",
+          "procedencia": "Gimnástica Torrelavega",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Rodri Suárez",
+          "numero": 20,
+          "posicion": "CT",
+          "nacim": "14/11/02",
+          "altura": "1.86",
+          "fichaje": "jul-21",
+          "procedencia": "CyD Júpiter Leonés",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Quique Fornos",
+          "numero": 15,
+          "posicion": "CT",
+          "nacim": "01/01/97",
+          "altura": "1.79",
+          "fichaje": "jul-23",
+          "procedencia": "Racing Ferrol",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Víctor Ruiz",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "12/04/95",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Eneko Satrústegui",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "25/09/90",
+          "altura": "1.87",
+          "fichaje": "jul-24",
+          "procedencia": "Wisla Cracovia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álvaro Martínez",
+          "numero": 17,
+          "posicion": "LI",
+          "nacim": "04/05/02",
+          "altura": "1.81",
+          "fichaje": "jul-23",
+          "procedencia": "Betis Deportivo",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Víctor García",
+          "numero": 2,
+          "posicion": "LD",
+          "nacim": "11/06/94",
+          "altura": "1.78",
+          "fichaje": "ago-23",
+          "procedencia": "Moreirense FC",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Kevin Presa",
+          "numero": 6,
+          "posicion": "MC",
+          "nacim": "15/05/94",
+          "altura": "1.78",
+          "fichaje": "jul-22",
+          "procedencia": "Racing Ferrol",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Txus Alba",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "31/01/03",
+          "altura": "1.73",
+          "fichaje": "jul-24",
+          "procedencia": "Antequera CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Diego Barri",
+          "numero": 8,
+          "posicion": "MC",
+          "nacim": "19/09/95",
+          "altura": "1.88",
+          "fichaje": "jul-23",
+          "procedencia": "NK Osijek",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Sergi Maestre",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "18/11/90",
+          "altura": "1.87",
+          "fichaje": "jul-24",
+          "procedencia": "CE Sabadell",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Bicho",
+          "numero": 14,
+          "posicion": "MCO",
+          "nacim": "20/02/96",
+          "altura": "1.75",
+          "fichaje": "jul-23",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Agustín Pastoriza",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "31/01/96",
+          "altura": "1,77",
+          "fichaje": "jul-24",
+          "procedencia": "CD Arenteiro",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Santi Samanes",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "28/07/95",
+          "altura": "1.76",
+          "fichaje": "jul-23",
+          "procedencia": "SD Logroñés",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Carlos Calderón",
+          "numero": 7,
+          "posicion": "ED",
+          "nacim": "14/04/95",
+          "altura": "1.83",
+          "fichaje": "jul-23",
+          "procedencia": "CD Badajoz",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Manu Justo",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "09/02/96",
+          "altura": "1.74",
+          "fichaje": "jul-24",
+          "procedencia": "Racing Ferrol",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "Antón Escobar",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "16/06/98",
+          "altura": "1.79",
+          "fichaje": "jul-24",
+          "procedencia": "Real Unión",
+          "contrato": "2025"
+        }
       ]
     },
     {
