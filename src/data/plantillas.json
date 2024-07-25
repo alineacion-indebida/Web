@@ -1262,7 +1262,196 @@
       "instagram": "gimnasticasegovianaoficial",
       "escudo": "https://cdn.resfu.com/img_data/equipos/5715.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Pablo Carmona",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "11/06/88",
+          "altura": "1.88",
+          "fichaje": "sep-20",
+          "procedencia": "Arandina CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Héctor Oliva",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "15/03/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Gimnástica Segoviana Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Abel Pascual",
+          "numero": 20,
+          "posicion": "CT",
+          "nacim": "24/02/95",
+          "altura": "1.83",
+          "fichaje": "jul-23",
+          "procedencia": "Palencia Cristo Atlético",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Sergi Molina",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "21/07/00",
+          "altura": "1.89",
+          "fichaje": "jul-24",
+          "procedencia": "Hércules CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "David López",
+          "numero": "4",
+          "posicion": "CT",
+          "nacim": "05/11/00",
+          "altura": "1.83",
+          "fichaje": "jul-22",
+          "procedencia": "UD Alzira",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Chupo",
+          "numero": 17,
+          "posicion": "LI",
+          "nacim": "12/12/90",
+          "altura": "1.75",
+          "fichaje": "jul-09",
+          "procedencia": "Gimnástica Segoviana Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Juan Silva",
+          "numero": 21,
+          "posicion": "LD",
+          "nacim": "02/08/98",
+          "altura": "1.83",
+          "fichaje": "ago-23",
+          "procedencia": "Zamora CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Hugo Marcos",
+          "numero": 2,
+          "posicion": "LD",
+          "nacim": "22/07/03",
+          "altura": "-",
+          "fichaje": "sep-22",
+          "procedencia": "Gimnástica Segoviana Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Hugo Díaz",
+          "numero": 8,
+          "posicion": "MC",
+          "nacim": "09/02/97",
+          "altura": "1.84",
+          "fichaje": "jul-22",
+          "procedencia": "Bergantiños FC",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Juan de la Mata",
+          "numero": 22,
+          "posicion": "MC",
+          "nacim": "24/04/98",
+          "altura": "1.87",
+          "fichaje": "jul-21",
+          "procedencia": "CD Mirandés B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Manu Olmedilla",
+          "numero": 6,
+          "posicion": "MC",
+          "nacim": "07/07/89",
+          "altura": "1.73",
+          "fichaje": "jul-08",
+          "procedencia": "Gimnástica Segoviana Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Fernán Ferreiroá",
+          "numero": 7,
+          "posicion": "MC",
+          "nacim": "10/02/95",
+          "altura": "1.69",
+          "fichaje": "abr-24",
+          "procedencia": "-",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Fernando Llorente",
+          "numero": 14,
+          "posicion": "MCO",
+          "nacim": "18/09/90",
+          "altura": "1.79",
+          "fichaje": "ago-22",
+          "procedencia": "UD San Sebastián de los Reyes",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pedro Astray",
+          "numero": 11,
+          "posicion": "MCO",
+          "nacim": "18/03/92",
+          "altura": "1,84",
+          "fichaje": "feb-23",
+          "procedencia": "-",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ignacio Tellechea",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "11/10/96",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CP Cacereño",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Javi Borrego",
+          "numero": 10,
+          "posicion": "ED",
+          "nacim": "22/10/96",
+          "altura": "1.75",
+          "fichaje": "sep-20",
+          "procedencia": "CD Guijuelo",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Miguel Berlanga",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "10/10/00",
+          "altura": "1.87",
+          "fichaje": "jul-24",
+          "procedencia": "Linares Deportivo",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "Davo",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "02/09/00",
+          "altura": "1.75",
+          "fichaje": "jul-24",
+          "procedencia": "Coruxo FC",
+          "contrato": "2025"
+        }, 
+        {
+          "nombre": "Diego Gómez",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "13/06/99",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CF Fuenlabrada",
+          "contrato": "2025"
+        }
       ]
     },
     {
