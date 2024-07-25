@@ -379,6 +379,16 @@
           "fichaje": "jul-24",
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2026"
+           },
+        {
+          "nombre": "Martí Vilá",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "26/05/99",
+          "altura": "1.66",
+          "fichaje": "ago-20",
+          "procedencia": "RC Deportivo Fabril",
+          "contrato": "2026"
         }
       ]
     },
@@ -773,7 +783,7 @@
     {
       "id": "Barcelona At",
       "nombre": "FC Barcelona Atlétic",
-      "entrenador": "Rafa Márquez",
+      "entrenador": "Albert Sánchez",
       "presidente": "Joan Laporta",
       "estadio": "Johan Cruyff",
       "aforo": "6000",
