@@ -181,6 +181,16 @@
           "fichaje": "jul-24",
           "procedencia": "UD Melilla",
           "contrato": "2025"
+        },
+        {
+          "nombre": "Gorka Santamaría",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "03/07/95",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "Gimnástic de Tarragona",
+          "contrato": "2025"
         }
       ]
     },
@@ -675,7 +685,7 @@
           "nacim": "28/06/91",
           "altura": "1.81",
           "fichaje": "ago-23",
-          "procedencia": "Karmiotissa Pano Polemidion",
+          "procedencia": "Karmiotissa Pano Polemidion (Chipre)",
           "contrato": "2025"
         },
         {
@@ -823,7 +833,7 @@
           "pie": "derecho",
           "fichaje": "22/07/2024",
           "contrato": "30/06/2026",
-          "procedencia": "Los Ángeles FC"
+          "procedencia": "Los Ángeles FC (EEUU)"
         },
         {
           "numero": "-",
@@ -988,7 +998,7 @@
           "pie": "izquierdo",
           "fichaje": "08/08/2023",
           "contrato": "30/06/2026",
-          "procedencia": "SC Freiburg II"
+          "procedencia": "SC Freiburg II (Alemania)"
         },
         {
           "numero": "7",
@@ -1021,7 +1031,7 @@
           "pie": "izquierdo",
           "fichaje": "18/01/2023",
           "contrato": "30/06/2026",
-          "procedencia": "Club Ferro Carril Oeste"
+          "procedencia": "Club Ferro Carril Oeste (Argentina)"
         },
         {
           "numero": "9",
@@ -1135,7 +1145,7 @@
           "nacim": "25/09/90",
           "altura": "1.87",
           "fichaje": "jul-24",
-          "procedencia": "Wisla Cracovia",
+          "procedencia": "Wisla Cracovia (Polonia)",
           "contrato": "2025"
         },
         {
@@ -1155,7 +1165,7 @@
           "nacim": "11/06/94",
           "altura": "1.78",
           "fichaje": "ago-23",
-          "procedencia": "Moreirense FC",
+          "procedencia": "Moreirense FC (Portugal)",
           "contrato": "2025"
         },
         {
@@ -1185,7 +1195,7 @@
           "nacim": "19/09/95",
           "altura": "1.88",
           "fichaje": "jul-23",
-          "procedencia": "NK Osijek",
+          "procedencia": "NK Osijek (Croacia)",
           "contrato": "2025"
         },
         {
