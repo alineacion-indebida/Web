@@ -1903,7 +1903,176 @@
       "instagram": "ourensecf",
       "escudo": "https://cdn.resfu.com/img_data/equipos/9401.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Raúl Marqueta",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "05/08/94",
+          "altura": "1.85",
+          "fichaje": "jul-21",
+          "procedencia": "Casino SD Arzúa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pato Guillén",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "28/12/84",
+          "altura": "1.81",
+          "fichaje": "jul-24",
+          "procedencia": "SD Compostela",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Miguel Prado",
+          "numero": 5,
+          "posicion": "CT",
+          "nacim": "31/03/99",
+          "altura": "1.84",
+          "fichaje": "jul-23",
+          "procedencia": "Marino de Luanco",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Fran Carmona",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "26/06/99",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "CD Teruel",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Moisés Rodríguez",
+          "numero": "0",
+          "posicion": "CT",
+          "nacim": "02/04/97",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "UD Melilla",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Raúl Prada",
+          "numero": 0,
+          "posicion": "LI",
+          "nacim": "23/05/01",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Mérida AD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Hugo Sanz",
+          "numero": 17,
+          "posicion": "LI",
+          "nacim": "21/04/02",
+          "altura": "1.77",
+          "fichaje": "ene-24",
+          "procedencia": "Real Murcia CF",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Fernando Andrada",
+          "numero": 2,
+          "posicion": "LD",
+          "nacim": "22/04/95",
+          "altura": "1.77",
+          "fichaje": "jul-23",
+          "procedencia": "SE Penya Indepndent",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jerin Ramos",
+          "numero": 8,
+          "posicion": "MC",
+          "nacim": "14/01/96",
+          "altura": "-",
+          "fichaje": "oct-20",
+          "procedencia": "Rayo Cantabria",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Iván del Olmo",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "17/02/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Guadalajara",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alejandro Fidalgo",
+          "numero": 18,
+          "posicion": "MCO",
+          "nacim": "15/05/01",
+          "altura": "1.85",
+          "fichaje": "jul-23",
+          "procedencia": "CD Lugo B Polvorín",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Gil",
+          "numero": 11,
+          "posicion": "EI",
+          "nacim": "22/10/97",
+          "altura": "1.69",
+          "fichaje": "jul-23",
+          "procedencia": "CDA Navalcarnero",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "José Manuel Raigal",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "30/08/99",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "UCAM Murcia CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alberto Gil",
+          "numero": 10,
+          "posicion": "ED",
+          "nacim": "14/06/97",
+          "altura": "1.78",
+          "fichaje": "ago-23",
+          "procedencia": "AD Ceuta FC",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Gonzalo Di Renzo",
+          "numero": 9,
+          "posicion": "DC",
+          "nacim": "30/12/95",
+          "altura": "1.87",
+          "fichaje": "feb-24",
+          "procedencia": "UD Lanzarote",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jorge Delgado",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "09/11/02",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "Rayo Cantabria",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Javier Carbonell",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "23/03/97",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "GetFE CF B",
+          "contrato": "2025"
+        }
       ]
     },
     {
