@@ -409,6 +409,76 @@
           "fichaje": "ago-20",
           "procedencia": "RC Deportivo Fabril",
           "contrato": "2026"
+         },
+        {
+          "nombre": "Joel Arumí",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "26/04/00",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "Atlético Madrid B",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Miguel Leal",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "01/02/97",
+          "altura": "1.70",
+          "fichaje": "jul-23",
+          "procedencia": "Villarreal CF B",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Pau Casadesús",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "30/10/03",
+          "altura": "1.82",
+          "fichaje": "jul-22",
+          "procedencia": "Gimnástic Manresa Juv A",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Sergio Molina",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "18/02/96",
+          "altura": "1.78",
+          "fichaje": "jul-21",
+          "procedencia": "Salamanca CF",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Álvaro Peña",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "24/10/91",
+          "altura": "1.79",
+          "fichaje": "jul-24",
+          "procedencia": "Almere City FC (P. Bajos)",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Erik Morán",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "25/05/91",
+          "altura": "1.87",
+          "fichaje": "jul-24",
+          "procedencia": "SD Amorebieta",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Moha Moukhliss",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "06/02/00",
+          "altura": "1.69",
+          "fichaje": "ago-22",
+          "procedencia": "R. Valladolid Promesas",
+          "contrato": "2025"
         }
       ]
     },
