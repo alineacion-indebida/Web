@@ -1699,7 +1699,196 @@
       "instagram": "cdeportivolugo",
       "escudo": "https://cdn.resfu.com/img_data/equipos/1598.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        { 
+          "nombre": "Pablo Cacharrón",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "12/06/97",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "Unionistas de Salamanca CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marcos Lavín",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "02/09/96",
+          "altura": "1.90",
+          "fichaje": "jul-24",
+          "procedencia": "Algeciras CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Juan Rodríguez",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "08/05/95",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "Algeciras CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Erik Ruiz",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "08/03/95",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Unionistas de Salamanca CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Bernardo Cruz",
+          "numero": "5",
+          "posicion": "CT",
+          "nacim": "17/07/93",
+          "altura": "1.90",
+          "fichaje": "jul-23",
+          "procedencia": "Recreativo de Huelva",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Nathaniel Nicholas",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "03/12/00",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "Racing Villalbés",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Ander Zoilo",
+          "numero": 0,
+          "posicion": "LI",
+          "nacim": "14/02/00",
+          "altura": "1.75",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marcos Sánchez",
+          "numero": 0,
+          "posicion": "LD",
+          "nacim": "26/10/03",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "Villarreal CF B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Lizancos",
+          "numero": 0,
+          "posicion": "LD",
+          "nacim": "14/09/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Lugo B Polvorín",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Yayo González",
+          "numero": 6,
+          "posicion": "MC",
+          "nacim": "30/00/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Real Oviedo",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jon Ceberio",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "21/09/96",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "CF Intercity",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Dani Vidal",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "16/05/00",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Coruxo FC",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jon Cabo",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "20/06/00",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Sestao River,
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jaume Cuéllar",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "23/08/01",
+          "altura": "1.80",
+          "fichaje": "ago-21",
+          "procedencia": "SPAL Primavera (Italia)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Guille Perero",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "31/10/97",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "UD San Sebastián de los Reyes",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Raúl Hernández",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "11/09/94",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "CF Fuenlabrada",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jorge González",
+          "numero": 27,
+          "posicion": "ED",
+          "nacim": "03/02/04",
+          "altura": "1.74",
+          "fichaje": "jul-23",
+          "procedencia": "CD Lugo B Polvorín",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Willy Ledesma",
+          "numero": 7,
+          "posicion": "MP",
+          "nacim": "23/01/89",
+          "altura": "1.85",
+          "fichaje": "jul-23",
+          "procedencia": "Cçordoba CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Leandro Antonetti",
+          "numero": 23,
+          "posicion": "DC",
+          "nacim": "13/11/03",
+          "altura": "1.89",
+          "fichaje": "jul-23",
+          "procedencia": "CD Lugo B Polvorín",
+          "contrato": "2025"
+        }
       ]
     },
     {
