@@ -2720,7 +2720,176 @@
       "instagram": "realunionclubirun",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2130.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Jon Irazusta",
+          "numero": -,
+          "posicion": "PT",
+          "nacim": "30/04/86",
+          "altura": "1.84",
+          "fichaje": "jul-18",
+          "procedencia": "Barakaldo CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Charlie Pérez",
+          "numero": -,
+          "posicion": "PT",
+          "nacim": "07/06/02",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Castellón B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Iñaki Olartua",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "03/08/93",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "UD Ibiza",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Javi Domínguez",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "26/03/01",
+          "altura": "1.95",
+          "fichaje": "jul-24",
+          "procedencia": "RC Celta Fortuna",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "José Carlos Márquez",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "17/04/97",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "CD Arenteiro",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Víctor Eimil",
+          "numero": -,
+          "posicion": "LD",
+          "nacim": "18/01/99",
+          "altura": "1.73",
+          "fichaje": "jul-23",
+          "procedencia": "Hércules CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ander Vidorreta",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "12/07/97",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "CD Calahorra",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Iker Bilbao",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "20/03/96",
+          "altura": "1.82",
+          "fichaje": "jul-24",
+          "procedencia": "AD Alcorcón",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alberto Quintana",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "05/10/01",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "Real Valladolid Promesas",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Quique Rivero",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "16/04/92",
+          "altura": "1.76",
+          "fichaje": "sep-20",
+          "procedencia": "Recreativo de Huelva",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Víctor San Bartolomé",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "26/10/99",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "RC Celta Fortuna",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Dani Garrido",
+          "numero": -,
+          "posicion": "MCO",
+          "nacim": "19/01/00",
+          "altura": "1.70",
+          "fichaje": "jul-24",
+          "procedencia": "SD Logroñés",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Aitor Aranzabe",
+          "numero": -,
+          "posicion": "EI",
+          "nacim": "28/06/98",
+          "altura": "1.77",
+          "fichaje": "jul-24",
+          "procedencia": "Sestao River Club",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Iván Ayllón",
+          "numero": -,
+          "posicion": "DC",
+          "nacim": "23/04/01",
+          "altura": "1,75",
+          "fichaje": "jul-24",
+          "procedencia": "FC Cartagena",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Koldo Obieta",
+          "numero": -,
+          "posicion": "DC",
+          "nacim": "08/10/93",
+          "altura": "1.87",
+          "fichaje": "jul-24",
+          "procedencia": "AD Alcorcón",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Sergio Benito",
+          "numero": -,
+          "posicion": "DC",
+          "nacim": "23/03/99",
+          "altura": "1.74",
+          "fichaje": "jul-24",
+          "procedencia": "CF Fuenlabrada",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Asier Benito",
+          "numero": -,
+          "posicion": "DC",
+          "nacim": "11/02/95",
+          "altura": "1.83",
+          "fichaje": "jul-23",
+          "procedencia": "Asteras Aktor (Grecia)",
+          "contrato": "2025"
+        }
       ]
     },
     {
