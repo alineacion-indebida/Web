@@ -1790,7 +1790,7 @@
           "contrato": "2026"
         },
         {
-          "nombre": "Yayo González",
+          "nombre": "Pelayo González\"Yayo\"",
           "numero": 6,
           "posicion": "MC",
           "nacim": "30/00/04",
@@ -1980,7 +1980,7 @@
           "nacim": "22/04/95",
           "altura": "1.77",
           "fichaje": "jul-23",
-          "procedencia": "SE Penya Indepndent",
+          "procedencia": "CD Subiza",
           "contrato": "2025"
         },
         {
@@ -2087,7 +2087,166 @@
       "instagram": "caosasuna",
       "escudo": "https://cdn.resfu.com/img_data/equipos/327.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Pablo Valencia",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "16/03/01",
+          "altura": "1.88",
+          "fichaje": "jul-20",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Dimitrios Stamatakis",
+          "numero": 24,
+          "posicion": "PT",
+          "nacim": "23/04/03",
+          "altura": "1.91",
+          "fichaje": "jul-23",
+          "procedencia": "Atlético de Madrid B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ibaider Garriz",
+          "numero": 4,
+          "posicion": "CT",
+          "nacim": "03/02/01",
+          "altura": "-",
+          "fichaje": "jul-20",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Christian Mutilva",
+          "numero": 5,
+          "posicion": "CT",
+          "nacim": "23/10/03",
+          "altura": "1.90",
+          "fichaje": "jul-21",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Jiménez",
+          "numero": "0",
+          "posicion": "CT",
+          "nacim": "01/01/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Subiza",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Mauro Echegoyen",
+          "numero": 18,
+          "posicion": "MC",
+          "nacim": "03/03/05",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Jon García",
+          "numero": 21,
+          "posicion": "MC",
+          "nacim": "28/01/03",
+          "altura": "1.82",
+          "fichaje": "jul-23",
+          "procedencia": "Villarreal CF C",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Miguel Auría",
+          "numero": 34,
+          "posicion": "MC",
+          "nacim": "06/04/05",
+          "altura": "1.79",
+          "fichaje": "jul-23",
+          "procedencia": "CD Subiza",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Asier Osambela",
+          "numero": 8,
+          "posicion": "MCO",
+          "nacim": "30/10/04",
+          "altura": "1.86",
+          "fichaje": "jul-22",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Xabi Huarte",
+          "numero": 14,
+          "posicion": "MCO",
+          "nacim": "25/02/01",
+          "altura": "1.72",
+          "fichaje": "jul-20",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Anai Morales",
+          "numero": 0,
+          "posicion": "MCO",
+          "nacim": "01/01/06",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Íñigo Arguibide",
+          "numero": 36,
+          "posicion": "ED",
+          "nacim": "19/04/05",
+          "altura": "1.78",
+          "fichaje": "jul-23",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Nowend Lorenzo",
+          "numero": 29,
+          "posicion": "ED",
+          "nacim": "02/01/02",
+          "altura": "1.81",
+          "fichaje": "jul-22",
+          "procedencia": "CD Subiza",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Roberto Arroyo",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "25/08/03",
+          "altura": "1.81",
+          "fichaje": "jul-24",
+          "procedencia": "Real Valladolid Promesas",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Dani Sancho",
+          "numero": 30,
+          "posicion": "DC",
+          "nacim": "30/01/02",
+          "altura": "1.88",
+          "fichaje": "jul-23",
+          "procedencia": "CD Subiza",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Carlos Lumbreras",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "20/02/05",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "CD Subiza",
+          "contrato": "2025"
+        }
       ]
     },
     {
