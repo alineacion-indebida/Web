@@ -2904,7 +2904,146 @@
       "instagram": "sestaorc",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Carlos Cordero",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "26/09/96",
+          "altura": "1.81",
+          "fichaje": "jul-24",
+          "procedencia": "CD Badajoz",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Adri Miranda",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "26/04/03",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "Cádiz CF Mirandilla",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Diego Almeida",
+          "numero": -,
+          "posicion": "CT",
+          "nacim": "12/02/04",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Columbus Crew 2 (EEUU)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Markel Etxeberría",
+          "numero": -,
+          "posicion": "LD",
+          "nacim": "15/02/95",
+          "altura": "1.78",
+          "fichaje": "ene-22",
+          "procedencia": "CD Eldense",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Joseda Álvarez",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "22/01/01",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "Deportivo Alavés B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Sergi García",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "14/04/99",
+          "altura": "1.95",
+          "fichaje": "jul-24",
+          "procedencia": "Rayo Majadahonda",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Gorka Garai",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "02/01/97",
+          "altura": "1.79",
+          "fichaje": "jul-21",
+          "procedencia": "SD Leioa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Asier del Río",
+          "numero": -,
+          "posicion": "MC",
+          "nacim": "01/02/03",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Sestao River B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marcos Bustillo",
+          "numero": -,
+          "posicion": "MCO",
+          "nacim": "12/01/01",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Rayo Cantabria",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Leandro Martínez",
+          "numero": -,
+          "posicion": "EI",
+          "nacim": "07/07/94",
+          "altura": "1.75",
+          "fichaje": "ago-22",
+          "procedencia": "Real Balompédica Linense",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Asier Córdoba",
+          "numero": -,
+          "posicion": "EI",
+          "nacim": "31/03/00",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Real Unión",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alfred Planas",
+          "numero": -,
+          "posicion": "ED",
+          "nacim": "15/02/96",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Unionistas de Salamanca CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ion Etxaniz",
+          "numero": -,
+          "posicion": "DC",
+          "nacim": "10/01/91",
+          "altura": "1.82",
+          "fichaje": "jul-24",
+          "procedencia": "Unionistas de Salamanca CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Diego Aznar",
+          "numero": -,
+          "posicion": "DC",
+          "nacim": "20/09/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "SD Huesca",
+          "contrato": "2025"
+        }
       ]
     },
     {
