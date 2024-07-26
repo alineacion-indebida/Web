@@ -2261,7 +2261,246 @@
       "instagram": "sdp_1922_sad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/3287.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Andrés Prieto",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "17/10/93",
+          "altura": "1.94",
+          "fichaje": "jul-23",
+          "procedencia": "AD Alcorcón",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Ángel Jiménez",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "22/06/02",
+          "altura": "1.94",
+          "fichaje": "ago-23",
+          "procedencia": "Recreativo Granada",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pablo Barredo",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "05/09/03",
+          "altura": "1.77",
+          "fichaje": "jul-24",
+          "procedencia": "Atlético Astorga",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alexandru Pascanu",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "28/09/98",
+          "altura": "1.87",
+          "fichaje": "ene-22",
+          "procedencia": "CFR Cluj (Rumanía)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Kevin Sibille",
+          "numero": "4",
+          "posicion": "CT",
+          "nacim": "15/09/98",
+          "altura": "1.82",
+          "fichaje": "jul-23",
+          "procedencia": "CD Atlético Baleares",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Germán Novoa",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "06/08/96",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Arenteiro",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "David Andújar",
+          "numero": 21,
+          "posicion": "CT",
+          "nacim": "21/08/91",
+          "altura": "1.89",
+          "fichaje": "ene-24",
+          "procedencia": "Tianjin Jinmen Tiger (China)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jesús Fernández",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "01/03/02",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "CD Lugo B Polvorín",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álvaro Ramón",
+          "numero": 0,
+          "posicion": "LI",
+          "nacim": "06/04/00",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Arenteiro",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Andoni López",
+          "numero": 19,
+          "posicion": "LI",
+          "nacim": "05/04/96",
+          "altura": "1.87",
+          "fichaje": "ago-23",
+          "procedencia": "CD Lugo",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Javi Lancho",
+          "numero": 20,
+          "posicion": "LI",
+          "nacim": "08/04/02",
+          "altura": "1.85",
+          "fichaje": "ago-23",
+          "procedencia": "RCD Espanyol B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Thomas Carrique",
+          "numero": 17,
+          "posicion": "LD",
+          "nacim": "26/02/99",
+          "altura": "1.73",
+          "fichaje": "jul-23",
+          "procedencia": "RC Celta Fortuna",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Mario Jorrín",
+          "numero": 0,
+          "posicion": "LD",
+          "nacim": "28/06/02",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "Rayo Cantabria",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Borja Fernández",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "16/05/95",
+          "altura": "1,78",
+          "fichaje": "jul-24",
+          "procedencia": "Algeciras CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Markel Lozano",
+          "numero": 16,
+          "posicion": "MC",
+          "nacim": "03/05/96",
+          "altura": "1.89",
+          "fichaje": "jul-23",
+          "procedencia": "UD Logroñés",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Vicente Esquerdo",
+          "numero": 0,
+          "posicion": "MCO",
+          "nacim": "02/01/99",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "CD Arenteiro",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Nacho Castillo",
+          "numero": 0,
+          "posicion": "MCO",
+          "nacim": "03/07/00",
+          "altura": "1.83",
+          "fichaje": "jul-24",
+          "procedencia": "CD Teruel",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "Álex Mula",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "23/07/96",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "Gimnástic de Tarragona",
+          "contrato": "2025"
+         },
+        {
+          "nombre": "Ernesto Gómez",
+          "numero": 7,
+          "posicion": "ED",
+          "nacim": "18/07/94",
+          "altura": "1.73",
+          "fichaje": "jul-23",
+          "procedencia": "AD Alcorcón",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "Brais Abelenda",
+          "numero": 18,
+          "posicion": "ED",
+          "nacim": "27/10/95",
+          "altura": "1.79",
+          "fichaje": "jul-23",
+          "procedencia": "Pontevedra CF",
+          "contrato": "2025"
+         }, 
+        {
+          "nombre": "David Soto",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "13/07/92",
+          "altura": "1.73",
+          "fichaje": "jul-23",
+          "procedencia": "CD Badajoz",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "Borja Valle",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "09/07/92",
+          "altura": "1.77",
+          "fichaje": "ene-24",
+          "procedencia": "Rapid de Bucarest (Rumanía)",
+          "contrato": "2025"
+         },
+        {
+          "nombre": "José Luis Cortés",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "22/08/01",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CF Rayo Majadahonda",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "Álex Costa",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "12/01/03",
+          "altura": "1.89",
+          "fichaje": "jul-24",
+          "procedencia": "SD Ponferradina B",
+          "contrato": "2025"
+         }
       ]
     },
     {
