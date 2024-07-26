@@ -479,6 +479,116 @@
           "fichaje": "ago-22",
           "procedencia": "R. Valladolid Promesas",
           "contrato": "2025"
+        }. 
+        {
+          "nombre": "Alberto Solís",
+          "numero": 0,
+          "posicion": "MCO",
+          "nacim": "01/01/98",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "Real Unión",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Álvaro Martín",
+          "numero": 11,
+          "posicion": "EI",
+          "nacim": "15/01/01",
+          "altura": "1.74",
+          "fichaje": "ago-23",
+          "procedencia": "Real Madrid Castilla",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Christos Almpanis",
+          "numero": 12,
+          "posicion": "EI",
+          "nacim": "05/11/94",
+          "altura": "1.84",
+          "fichaje": "jul-23",
+          "procedencia": "AEK Atenas (Grecia)",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Juan David Fuentes",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "19/05/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "KV Ostende (Bélgica)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Josep Cerdà",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "04/02/03",
+          "altura": "1.75",
+          "fichaje": "jul-24",
+          "procedencia": "FC Barcelona Atlètic",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Arnau Prat",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "01/01/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Gimnástic Manresa Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Calvo",
+          "numero": 17,
+          "posicion": "ED",
+          "nacim": "20/02/04",
+          "altura": "1,70",
+          "fichaje": "ago-23",
+          "procedencia": "Málaga CF",
+          "contrato": "2028"
+        },
+        {
+          "nombre": "Manu Nieto",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "29/03/98",
+          "altura": "1.83",
+          "fichaje": "jul-22",
+          "procedencia": "Cádiz CF Mirandilla",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Pablo Moreno",
+          "numero": 24,
+          "posicion": "DC",
+          "nacim": "03/05/02",
+          "altura": "1.78",
+          "fichaje": "ago-23",
+          "procedencia": "CS Marítimo (Portugal)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Lautaro de León",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "09/02/01",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "RC Celta Fortuna",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Berto Rosas",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "19/08/02",
+          "altura": "1.79",
+          "fichaje": "jul-21",
+          "procedencia": "FC Andorra U19",
+          "contrato": "2025"
         }
       ]
     },
