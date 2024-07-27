@@ -3212,7 +3212,176 @@
       "instagram": "zcfoficial",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2785.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Fermín Sobrón",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "15/01/95",
+          "altura": "1.77",
+          "fichaje": "jul-23",
+          "procedencia": "CD Izarra",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "José Carlos Ramírez",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "10/05/96",
+          "altura": "1.82",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Aleix Gorjón",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "26/09/02",
+          "altura": "1.82",
+          "fichaje": "jul-24",
+          "procedencia": "RCD Espanyol B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Adrián Pérez \"Bolo\"",
+          "numero": 5,
+          "posicion": "CT",
+          "nacim": "05/10/01",
+          "altura": "1.91",
+          "fichaje": "jul-23",
+          "procedencia": "Rayo Vallecano B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Carlos Gutiérrez",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "04/11/91",
+          "altura": "1.92",
+          "fichaje": "jul-24",
+          "procedencia": "SD Huesca",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Sergio Nieto",
+          "numero": 0,
+          "posicion": "LI",
+          "nacim": "21/01/99",
+          "altura": "1.73",
+          "fichaje": "jul-24",
+          "procedencia": "CD Alcoyano",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Julen Castañeda",
+          "numero": 22,
+          "posicion": "LI",
+          "nacim": "14/11/90",
+          "altura": "1.80",
+          "fichaje": "ago-23",
+          "procedencia": "Cultural Leonesa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Edu Campabadal",
+          "numero": 0,
+          "posicion": "LD",
+          "nacim": "26/01/93",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "CD Atlético Baleares",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Carlos Ramos",
+          "numero": 10,
+          "posicion": "MC",
+          "nacim": "31/08/94",
+          "altura": "1.82",
+          "fichaje": "jul-23",
+          "procedencia": "UD Logroñes",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Juanan Del Álamo",
+          "numero": 8,
+          "posicion": "MC",
+          "nacim": "08/11/93",
+          "altura": "1.86",
+          "fichaje": "jul-18",
+          "procedencia": "Salamanca CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Guillermo Macho",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "03/01/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "UD San Sebastián de los Reyes",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Joel Priego",
+          "numero": 21,
+          "posicion": "EI",
+          "nacim": "01/04/99",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "CE Manresa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Luis Rivas",
+          "numero": 24,
+          "posicion": "EI",
+          "nacim": "11/07/03",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Zamora CF B",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Adrián Mancebo",
+          "numero": 11,
+          "posicion": "ED",
+          "nacim": "21/03/96",
+          "altura": "1,71",
+          "fichaje": "jul-23",
+          "procedencia": "CD Numancia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Kike Márquez",
+          "numero": 0,
+          "posicion": "MP",
+          "nacim": "23/07/89",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "Córdoba CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Dani Hernández",
+          "numero": 7,
+          "posicion": "MP",
+          "nacim": "30/05/92",
+          "altura": "1.77",
+          "fichaje": "ago-17",
+          "procedencia": "SD Amorebieta",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Antonio Camacho \"Pito Camacho\"",
+          "numero": 9,
+          "posicion": "DC",
+          "nacim": "27/02/90",
+          "altura": "1.76",
+          "fichaje": "jul-23",
+          "procedencia": "UCAM Murcia CF",
+          "contrato": "2025"
+        }
       ]
     }
   ]
