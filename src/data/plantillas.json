@@ -2914,7 +2914,256 @@
       "instagram": "realsociedad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2121.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Aitor Fraga",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "09/03/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Egoitz Arana",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "19/02/02",
+          "altura": "1.97",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jon Martín",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "23/04/06",
+          "altura": "1.87",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad Juvenil A",
+          "contrato": "2030"
+        },
+        {
+          "nombre": "Yago Cantero",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "26/01/00",
+          "altura": "1.85",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Peru Rodríguez",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "03/04/02",
+          "altura": "1.80",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+           },
+        {
+          "nombre": "Luken Beiti",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "30/06/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+         },
+        {
+          "nombre": "Ibra Cámara",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "18/01/03",
+          "altura": "1.81",
+          "fichaje": "jul-23",
+          "procedencia": "Atlético Madrid B",
+          "contrato": "2026"
+          },
+        {
+          "nombre": "Eneko Astigarraga",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "08/01/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Jonathan Gómez",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "01/09/03",
+          "altura": "1.78",
+          "fichaje": "ene-22",
+          "procedencia": "Louisville City FC (EEUU)",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Unax Agote",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "28/03/03",
+          "altura": "1.80",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Jon Merino",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "03/03/03",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2026"
+          },
+        {
+          "nombre": "Iñaki Rupérez",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "07/01/03",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+          },
+        {
+          "nombre": "Jon Gorrotxategi",
+          "numero": "-",
+          "posicion": "MCD",
+          "nacim": "02/02/02",
+          "altura": "1.77",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2027"
+        }, 
+        {
+          "nombre": "Álex Lebarbier",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "23/08/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Mikel Rodríguez",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "03/04/02",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pablo Marín",
+          "numero": "-",
+          "posicion": "MCO",
+          "nacim": "03/07/03",
+          "altura": "1.78",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Jon Magunazelaia",
+          "numero": "-",
+          "posicion": "MCO",
+          "nacim": "13/07/01",
+          "altura": "1.80",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Arkaitz Mariezkurrena",
+          "numero": "-",
+          "posicion": "EI",
+          "nacim": "05/04/05",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Eder García",
+          "numero": "-",
+          "posicion": "EI",
+          "nacim": "04/01/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jon Balda",
+          "numero": "-",
+          "posicion": "EI",
+          "nacim": "20/04/02",
+          "altura": "1,74",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Alberto Dadie",
+          "numero": "-",
+          "posicion": "ED",
+          "nacim": "20/07/02",
+          "altura": "1.70",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Job Ochieng",
+          "numero": "-",
+          "posicion": "ED",
+          "nacim": "17/01/03",
+          "altura": "1.85",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Mikel Goti",
+          "numero": "-",
+          "posicion": "MP",
+          "nacim": "23/05/02",
+          "altura": "1.85",
+          "fichaje": "jul-23",
+          "procedencia": "Bilbao Athletic",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Ekain Orobengoa",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "17/06/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "Sydney Osazuwa",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "21/04/07",
+          "altura": "1.93",
+          "fichaje": "jul-24",
+          "procedencia": "CD Leganés Juvenil A",
+          "contrato": "2028"
+        }
       ]
     },
     {
