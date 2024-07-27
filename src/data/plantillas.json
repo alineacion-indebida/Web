@@ -1263,7 +1263,216 @@
       "instagram": "canteiraceleste",
       "escudo": "https://cdn.resfu.com/img_data/equipos/713.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Marc Vidal",
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "14/02/00",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "FC Andorra",
+          "contrato": "2028"
+        },
+        {
+          "nombre": "Coke Carrillo",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "07/01/02",
+          "altura": "1.88",
+          "fichaje": "ago-22",
+          "procedencia": "FC Barcelona Atlètic",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "César Fernández",
+          "numero": 24,
+          "posicion": "PT",
+          "nacim": "28/01/04",
+          "altura": "1.81",
+          "fichaje": "jul-23",
+          "procedencia": "RC Celta C Gran Peña",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pablo Gavián",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "02/03/06",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Yoel Lago",
+          "numero": 2,
+          "posicion": "CT",
+          "nacim": "02/03/04",
+          "altura": "-",
+          "fichaje": "jul-22",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Gael Alonso",
+          "numero": 5,
+          "posicion": "CT",
+          "nacim": "22/07/02",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "RC Celta C Gran Peña",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Pablo Meixús",
+          "numero": 34,
+          "posicion": "CT",
+          "nacim": "21/05/03",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "Bergantiños FC",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Iván Garriel",
+          "numero": 0,
+          "posicion": "LI",
+          "nacim": "03/04/05",
+          "altura": "1.77",
+          "fichaje": "jul-24",
+          "procedencia": "Real Valladolid Promesas",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Joel López",
+          "numero": 18,
+          "posicion": "LI",
+          "nacim": "31/03/02",
+          "altura": "1.80",
+          "fichaje": "jul-23",
+          "procedencia": "Cultural Leonesa",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Martín Conde \"Tincho\"",
+          "numero": 3,
+          "posicion": "LI",
+          "nacim": "25/03/03",
+          "altura": "-",
+          "fichaje": "jul-22",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Javi Rueda",
+          "numero": 17,
+          "posicion": "LD",
+          "nacim": "08/05/02",
+          "altura": "1.77",
+          "fichaje": "jul-23",
+          "procedencia": "Real Madrid Castilla",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Javi Rodríguez",
+          "numero": 20,
+          "posicion": "LD",
+          "nacim": "26/06/03",
+          "altura": "-",
+          "fichaje": "ene-23",
+          "procedencia": "RC Celta C Gran Peña",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Hugo Burcio",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "01/01/06",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Miguel Román",
+          "numero": 14,
+          "posicion": "MC",
+          "nacim": "26/12/02",
+          "altura": "1,78",
+          "fichaje": "jul-23",
+          "procedencia": "Pontevedra CF",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Manu Fernández",
+          "numero": 12,
+          "posicion": "MC",
+          "nacim": "23/04/01",
+          "altura": "1.85",
+          "fichaje": "jul-23",
+          "procedencia": "RC Celta C Gran Peña",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "David de la Iglesia",
+          "numero": 29,
+          "posicion": "MC",
+          "nacim": "15/01/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "RC Celta C Gran Peña",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Óscar Marcos",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "19/02/06",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Fer López",
+          "numero": 15,
+          "posicion": "MCO",
+          "nacim": "24/05/04",
+          "altura": "1.88",
+          "fichaje": "jul-23",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2028"
+        },
+        {
+          "nombre": "Alfon González",
+          "numero": 11,
+          "posicion": "EI",
+          "nacim": "04/05/99",
+          "altura": "1.72",
+          "fichaje": "jul-21",
+          "procedencia": "Albacete Balompié",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Emi Rodríguez",
+          "numero": 0,
+          "posicion": "ED",
+          "nacim": "21/04/03",
+          "altura": "1,75",
+          "fichaje": "jul-24",
+          "procedencia": "CF Pachuca (México)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ángel Arcos",
+          "numero": 0,
+          "posicion": "DC",
+          "nacim": "18/04/06",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2027"
+        }
       ]
     },
     {
