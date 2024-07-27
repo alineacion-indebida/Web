@@ -3058,7 +3058,146 @@
       "instagram": "sdtarazona1924",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2466.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Diego Fuoli,
+          "numero": 0,
+          "posicion": "PT",
+          "nacim": "20/10/97",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Yoel Ramírez",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "05/02/02",
+          "altura": "1.84",
+          "fichaje": "jul-23",
+          "procedencia": "CA Osasuna Promesas",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Vadik Murria",
+          "numero": 0,
+          "posicion": "CT",
+          "nacim": "03/09/01",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "CF Intercity",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marc Trilles",
+          "numero": 4,
+          "posicion": "CT",
+          "nacim": "08/08/01",
+          "altura": "1.87",
+          "fichaje": "jul-23",
+          "procedencia": "Gimnástic de Tarragona",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Juan Rodríguez",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "01/03/02",
+          "altura": "1.86",
+          "fichaje": "jul-24",
+          "procedencia": "Real Madrid Castilla",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Lluis Llácer",
+          "numero": 0,
+          "posicion": "LI",
+          "nacim": "05/10/99",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "Mérida AD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Sergio Camus",
+          "numero": 0,
+          "posicion": "LD",
+          "nacim": "19/04/97",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "Unionistas de Salamanca CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Borja Romero",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "23/10/92",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "CD Teruel",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jorge Mencía",
+          "numero": 0,
+          "posicion": "MC",
+          "nacim": "01/01/02",
+          "altura": "-",
+          "fichaje": "feb-24",
+          "procedencia": "-",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pepe Mena",
+          "numero": 0,
+          "posicion": "MCO",
+          "nacim": "15/05/98",
+          "altura": "1.75",
+          "fichaje": "jul-24",
+          "procedencia": "Antequera CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Javi Martín",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "16/09/98",
+          "altura": "1.81",
+          "fichaje": "jul-24",
+          "procedencia": "Mérida AD",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marc Álvarez",
+          "numero": 0,
+          "posicion": "EI",
+          "nacim": "07/06/01",
+          "altura": "1.75",
+          "fichaje": "jul-24",
+          "procedencia": "Gimnástic de Tarragona",
+          "contrato": "2020"
+        },
+        {
+          "nombre": "Javi Areso",
+          "numero": 18,
+          "posicion": "ED",
+          "nacim": "03/09/97",
+          "altura": "1.87",
+          "fichaje": "jul-22",
+          "procedencia": "CA Pulpileño",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "David Cubillas",
+          "numero": 11,
+          "posicion": "DC",
+          "nacim": "19/06/90",
+          "altura": "1,91",
+          "fichaje": "jul-23",
+          "procedencia": "CD Castellón",
+          "contrato": "2025"
+        }
       ]
     },
     {
