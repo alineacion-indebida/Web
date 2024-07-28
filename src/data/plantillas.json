@@ -3693,6 +3693,16 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
+          "nombre": "Carlos Blanco",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "06/01/96",
+          "altura": "1.89",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Carlos Cordero",
           "numero": "-",
           "posicion": "CT",
