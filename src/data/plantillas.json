@@ -1248,7 +1248,316 @@
       "instagram": "athleticclub",
       "escudo": "https://cdn.resfu.com/img_data/equipos/348.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        {}
+        {
+          "nombre": "Álex Padilla",
+          "numero": 1,
+          "posicion": "PT",
+          "nacim": "01/09/03",
+          "altura": "1.90",
+          "fichaje": "jul-22",
+          "procedencia": "CD Basconia",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Oier Gastesi",
+          "numero": 13,
+          "posicion": "PT",
+          "nacim": "30/10/03",
+          "altura": "1.90",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Jon de Luis",
+          "numero": 15,
+          "posicion": "CT",
+          "nacim": "05/08/03",
+          "altura": "1.86",
+          "fichaje": "jul-23",
+          "procedencia": "CD Subiza",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Aimar Duñabeitia",
+          "numero": 4,
+          "posicion": "CT",
+          "nacim": "26/02/03",
+          "altura": "1.84",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Unai Egiluz",
+          "numero": "5",
+          "posicion": "CT",
+          "nacim": "19/03/02",
+          "altura": "1.86",
+          "fichaje": "jul-22",
+          "procedencia": "CD Basconia",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Eneko Ebro",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "29/09/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ander Izaguirre",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "28/06/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Vitoria",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Adama Boiro",
+          "numero": 11,
+          "posicion": "LI",
+          "nacim": "22/06/02",
+          "altura": "1.83",
+          "fichaje": "ene-24",
+          "procedencia": "CA Osasuna Promesas",
+          "contrato": "2029"
+        },
+        {
+          "nombre": "Miguel Barandalla",
+          "numero": 3,
+          "posicion": "LI",
+          "nacim": "24/03/04",
+          "altura": "1.80",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Javier Elías",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "01/11/04",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Club Portugalete",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Hugo Rincón",
+          "numero": 22,
+          "posicion": "LD",
+          "nacim": "27/01/03",
+          "altura": "1.83",
+          "fichaje": "jul-22",
+          "procedencia": "CD Basconia",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Xabi Irurita",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "02/01/02",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "CD Tudelano",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Erlantz Palacín",
+          "numero": 2,
+          "posicion": "LD",
+          "nacim": "10/02/03",
+          "altura": "1.83",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Mikel Jauregizar",
+          "numero": 16,
+          "posicion": "MC",
+          "nacim": "13/11/03",
+          "altura": "1,77",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Eneko Aguilar",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "21/04/00",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "CA Osasuna Promesas",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Beñat Gerenabarrena",
+          "numero": 8,
+          "posicion": "MC",
+          "nacim": "29/03/03",
+          "altura": "1.73",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Alejandro Rego",
+          "numero": 6,
+          "posicion": "MC",
+          "nacim": "11/06/03",
+          "altura": "1.92",
+          "fichaje": "jul-22",
+          "procedencia": "CD Basconia",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Junior Bita",
+          "numero": 14,
+          "posicion": "MC",
+          "nacim": "08/06/05",
+          "altura": "1.82",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Eñaut Lete",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "08/06/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Javi Sola",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "04/10/05",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ibón Sánchez",
+          "numero": 12,
+          "posicion": "MCO",
+          "nacim": "08/06/04",
+          "altura": "-",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Peio Canales",
+          "numero": 28,
+          "posicion": "MCO",
+          "nacim": "17/01/05",
+          "altura": "1.75",
+          "fichaje": "jul-23",
+          "procedencia": "Athletic Club Juvenil A",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Luis Bilbao",
+          "numero": "-",
+          "posicion": "EI",
+          "nacim": "24/03/03",
+          "altura": "1.83",
+          "fichaje": "ene-22",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Aingeru Olabarrieta",
+          "numero": 27,
+          "posicion": "ED",
+          "nacim": "14/11/05",
+          "altura": "1.82",
+          "fichaje": "jul-23",
+          "procedencia": "Athletic Club Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Endika Buján",
+          "numero": "-",
+          "posicion": "ED",
+          "nacim": "16/01/03",
+          "altura": "1.70",
+          "fichaje": "jul-24",
+          "procedencia": "Barakaldo CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Iker Varela",
+          "numero": 20,
+          "posicion": "ED",
+          "nacim": "01/13/03",
+          "altura": "1,88",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Urko Izeta",
+          "numero": 9,
+          "posicion": "DC",
+          "nacim": "29/09/99",
+          "altura": "1.75",
+          "fichaje": "ene-23",
+          "procedencia": "SD Eibar",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ekain Azkune",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "26/01/01",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álvaro Marín",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "01/05/03",
+          "altura": "1.87",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ibai Sanz",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "13/08/03",
+          "altura": "1.83",
+          "fichaje": "jul-22",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Asier Hierro",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "06/05/05",
+          "altura": "º.90",
+          "fichaje": "jul-24",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
+        }
       ]
     },
     {
