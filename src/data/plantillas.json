@@ -184,7 +184,7 @@
         },
         {
           "nombre": "Gorka Santamaría",
-          "numero": 0,
+          "numero": "-",
           "posicion": "DC",
           "nacim": "03/07/95",
           "altura": "1.76",
@@ -559,16 +559,6 @@
           "fichaje": "jul-22",
           "procedencia": "Cádiz CF Mirandilla",
           "contrato": "2026"
-        },
-        {
-          "nombre": "Pablo Moreno",
-          "numero": "-",
-          "posicion": "DC",
-          "nacim": "03/05/02",
-          "altura": "1.78",
-          "fichaje": "ago-23",
-          "procedencia": "CS Marítimo (Portugal)",
-          "contrato": "2025"
         },
         {
           "nombre": "Lautaro de León",
@@ -2923,6 +2913,16 @@
           "altura": "1.81",
           "fichaje": "jul-22",
           "procedencia": "CD Subiza",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pablo Moreno",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "03/05/02",
+          "altura": "1.78",
+          "fichaje": "ago-23",
+          "procedencia": "CS Marítimo (Portugal)",
           "contrato": "2025"
         },
         {
