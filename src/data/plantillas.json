@@ -1,7 +1,7 @@
 {
   "plantillas": [
     {
-      "id": "UnionistasCF",
+      "id": "unionistas-salamanca",
       "nombre": "Unionistas de Salamanca CF",
       "entrenador": "Dani Llacer",
       "presidente": "Roberto Pescador",
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "id": "Amorebieta",
+      "id": "amorebieta",
       "nombre": "SD Amorebieta",
       "entrenador": "Julen Guerrero",
       "presidente": "Jon Larrea",
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "id": "Andorra",
+      "id": "andorra",
       "nombre": "FC Andorra",
       "entrenador": "Ferrán Costa",
       "presidente": "Ferrán Vilaseca",
@@ -399,7 +399,7 @@
           "fichaje": "jul-24",
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2026"
-           },
+        },
         {
           "nombre": "Martí Vilá",
           "numero": "-",
@@ -409,7 +409,7 @@
           "fichaje": "ago-20",
           "procedencia": "RC Deportivo Fabril",
           "contrato": "2026"
-         },
+        },
         {
           "nombre": "Joel Arumí",
           "numero": "-",
@@ -419,7 +419,7 @@
           "fichaje": "jul-24",
           "procedencia": "Atlético Madrid B",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Miguel Leal",
           "numero": "-",
@@ -429,7 +429,7 @@
           "fichaje": "jul-23",
           "procedencia": "Villarreal CF B",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Pau Casadesús",
           "numero": "-",
@@ -439,7 +439,7 @@
           "fichaje": "jul-22",
           "procedencia": "Gimnástic Manresa Juv A",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Sergio Molina",
           "numero": "-",
@@ -449,7 +449,7 @@
           "fichaje": "jul-21",
           "procedencia": "Salamanca CF",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Álvaro Peña",
           "numero": "-",
@@ -459,7 +459,7 @@
           "fichaje": "jul-24",
           "procedencia": "Almere City FC (P. Bajos)",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Erik Morán",
           "numero": "-",
@@ -469,7 +469,7 @@
           "fichaje": "jul-24",
           "procedencia": "SD Amorebieta",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Moha Moukhliss",
           "numero": "-",
@@ -479,7 +479,7 @@
           "fichaje": "ago-22",
           "procedencia": "R. Valladolid Promesas",
           "contrato": "2025"
-        }, 
+        },
         {
           "nombre": "Alberto Solís",
           "numero": "-",
@@ -583,7 +583,7 @@
       ]
     },
     {
-      "id": "Arenteiro",
+      "id": "arenteiro",
       "nombre": "CD Arenteiro",
       "entrenador": "Raúl Jardiel",
       "presidente": "Argimiro Marnotes",
@@ -747,7 +747,7 @@
       ]
     },
     {
-      "id": "Barakaldo",
+      "id": "barakaldo",
       "nombre": "Barakaldo CF",
       "entrenador": "Imanol de la Sota",
       "presidente": "Ricardo Arana",
@@ -971,7 +971,7 @@
       ]
     },
     {
-      "id": "Barcelona At",
+      "id": "barcelona-at",
       "nombre": "FC Barcelona Atlétic",
       "entrenador": "Albert Sánchez",
       "presidente": "Joan Laporta",
@@ -1190,7 +1190,7 @@
           "fichaje": "26/07/2024",
           "contrato": "30/06/2027",
           "procedencia": "SD Ponferradina"
-        },  
+        },
         {
           "numero": "-",
           "nombre": "Ángel Alarcón",
@@ -1238,7 +1238,7 @@
       ]
     },
     {
-      "id": "Bilbao At",
+      "id": "bilbao-at",
       "nombre": "Bilbao Athletic",
       "entrenador": "Jokin Aranbarri",
       "presidente": "Aitor Elizegi",
@@ -1562,7 +1562,7 @@
       ]
     },
     {
-      "id": "Celta F",
+      "id": "celta-fortuna",
       "nombre": "RC Celta Fortuna",
       "entrenador": "Fredi Álvarez",
       "presidente": "Marián Mouriño",
@@ -1786,7 +1786,7 @@
       ]
     },
     {
-      "id": "Cultural",
+      "id": "cultural-deportiva-leonesa",
       "nombre": "Cultural Y Deportiva Leonesa",
       "entrenador": "Raúl Llona",
       "presidente": "Mohd Khalifa M. F. Al-Suwaidi",
@@ -1797,7 +1797,7 @@
       "instagram": "cydleonesasad",
       "escudo": "https://cdn.resfu.com/img_data/equipos/877.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        { 
+        {
           "nombre": "Miguel Bañuz",
           "numero": 1,
           "posicion": "PT",
@@ -1967,7 +1967,7 @@
           "procedencia": "Racing Ferrol",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Antón Escobar",
           "numero": "-",
           "posicion": "DC",
@@ -1980,7 +1980,7 @@
       ]
     },
     {
-      "id": "G. Segoviana",
+      "id": "gimnastica-segoviana",
       "nombre": "Gimnástica Segoviana",
       "entrenador": "Ramsés Gil",
       "presidente": "Agustín Cuenca",
@@ -2161,7 +2161,7 @@
           "procedencia": "Linares Deportivo",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "David Martinez\"Davo\"",
           "numero": "-",
           "posicion": "DC",
@@ -2170,7 +2170,7 @@
           "fichaje": "jul-24",
           "procedencia": "Coruxo FC",
           "contrato": "2025"
-        }, 
+        },
         {
           "nombre": "Diego Gómez",
           "numero": "-",
@@ -2184,7 +2184,7 @@
       ]
     },
     {
-      "id": "Nástic Tarragona",
+      "id": "nastic-tarragona",
       "nombre": "Gimnástic Tarragona",
       "entrenador": "Dani Vidal",
       "presidente": "Lluís Fàbregas",
@@ -2365,7 +2365,7 @@
           "procedencia": "CD Lugo",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "David Concha",
           "numero": 23,
           "posicion": "ED",
@@ -2374,7 +2374,7 @@
           "fichaje": "jul-23",
           "procedencia": "-",
           "contrato": "2025"
-         },
+        },
         {
           "nombre": "Antonio Cortés\"Antoñín\"",
           "numero": "-",
@@ -2385,7 +2385,7 @@
           "procedencia": "CD Lugo",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "Pablo Fernández",
           "numero": 17,
           "posicion": "DC",
@@ -2393,11 +2393,12 @@
           "altura": "1.92",
           "fichaje": "jul-21",
           "procedencia": "UE Cornellá",
-          "contrato": "2025"}
+          "contrato": "2025"
+        }
       ]
     },
     {
-      "id": "Lugo",
+      "id": "lugo",
       "nombre": "CD Lugo",
       "entrenador": "Lolo Escobar",
       "presidente": "Tino Saqués",
@@ -2408,7 +2409,7 @@
       "instagram": "cdeportivolugo",
       "escudo": "https://cdn.resfu.com/img_data/equipos/1598.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-        { 
+        {
           "nombre": "Pablo Cacharrón",
           "numero": "-",
           "posicion": "PT",
@@ -2527,7 +2528,7 @@
           "fichaje": "jul-24",
           "procedencia": "Coruxo FC",
           "contrato": "2025"
-        }, 
+        },
         {
           "nombre": "Alberto Vaquero",
           "numero": "-",
@@ -3000,7 +3001,7 @@
           "procedencia": "AD Alcorcón",
           "contrato": "2027"
         },
-         {
+        {
           "nombre": "Ángel Jiménez",
           "numero": 13,
           "posicion": "PT",
@@ -3010,7 +3011,7 @@
           "procedencia": "Recreativo Granada",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Pablo Barredo",
           "numero": "-",
           "posicion": "PT",
@@ -3020,7 +3021,7 @@
           "procedencia": "Atlético Astorga",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Alexandru Pascanu",
           "numero": "-",
           "posicion": "CT",
@@ -3030,7 +3031,7 @@
           "procedencia": "CFR Cluj (Rumanía)",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Kevin Sibille",
           "numero": 4,
           "posicion": "CT",
@@ -3040,7 +3041,7 @@
           "procedencia": "CD Atlético Baleares",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Germán Novoa",
           "numero": "-",
           "posicion": "CT",
@@ -3050,7 +3051,7 @@
           "procedencia": "CD Arenteiro",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "David Andújar",
           "numero": 21,
           "posicion": "CT",
@@ -3060,7 +3061,7 @@
           "procedencia": "Tianjin Jinmen Tiger (China)",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Jesús Fernández",
           "numero": "-",
           "posicion": "CT",
@@ -3070,7 +3071,7 @@
           "procedencia": "CD Lugo B Polvorín",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Álvaro Ramón",
           "numero": "-",
           "posicion": "LI",
@@ -3080,7 +3081,7 @@
           "procedencia": "CD Arenteiro",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Andoni López",
           "numero": 19,
           "posicion": "LI",
@@ -3090,7 +3091,7 @@
           "procedencia": "CD Lugo",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Javi Lancho",
           "numero": 20,
           "posicion": "LI",
@@ -3100,7 +3101,7 @@
           "procedencia": "RCD Espanyol B",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Thomas Carrique",
           "numero": 17,
           "posicion": "LD",
@@ -3110,7 +3111,7 @@
           "procedencia": "RC Celta Fortuna",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Mario Jorrín",
           "numero": "-",
           "posicion": "LD",
@@ -3120,7 +3121,7 @@
           "procedencia": "Rayo Cantabria",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Borja Fernández",
           "numero": "-",
           "posicion": "MC",
@@ -3130,7 +3131,7 @@
           "procedencia": "Algeciras CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Markel Lozano",
           "numero": 16,
           "posicion": "MC",
@@ -3140,7 +3141,7 @@
           "procedencia": "UD Logroñés",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Vicente Esquerdo",
           "numero": "-",
           "posicion": "MCO",
@@ -3150,7 +3151,7 @@
           "procedencia": "CD Arenteiro",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Nacho Castillo",
           "numero": "-",
           "posicion": "MCO",
@@ -3160,7 +3161,7 @@
           "procedencia": "CD Teruel",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Álex Mula",
           "numero": "-",
           "posicion": "EI",
@@ -3170,7 +3171,7 @@
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Ernesto Gómez",
           "numero": 7,
           "posicion": "ED",
@@ -3180,7 +3181,7 @@
           "procedencia": "AD Alcorcón",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Brais Abelenda",
           "numero": 18,
           "posicion": "ED",
@@ -3189,8 +3190,8 @@
           "fichaje": "jul-23",
           "procedencia": "Pontevedra CF",
           "contrato": "2025"
-        }, 
-         {
+        },
+        {
           "nombre": "David Soto",
           "numero": "-",
           "posicion": "ED",
@@ -3200,7 +3201,7 @@
           "procedencia": "CD Badajoz",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Borja Valle",
           "numero": "-",
           "posicion": "DC",
@@ -3209,8 +3210,8 @@
           "fichaje": "ene-24",
           "procedencia": "Rapid de Bucarest (Rumanía)",
           "contrato": "2025"
-         },
-         {
+        },
+        {
           "nombre": "José Luis Cortés",
           "numero": "-",
           "posicion": "DC",
@@ -3220,7 +3221,7 @@
           "procedencia": "CF Rayo Majadahonda",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Álex Costa",
           "numero": "-",
           "posicion": "DC",
@@ -3229,7 +3230,7 @@
           "fichaje": "jul-24",
           "procedencia": "SD Ponferradina B",
           "contrato": "2025"
-         }
+        }
       ]
     },
     {
@@ -3293,7 +3294,7 @@
           "fichaje": "jul-22",
           "procedencia": "Real Sociedad C",
           "contrato": "2025"
-           },
+        },
         {
           "nombre": "Luken Beiti",
           "numero": "-",
@@ -3303,7 +3304,7 @@
           "fichaje": "jul-23",
           "procedencia": "Real Sociedad C",
           "contrato": "2025"
-         },
+        },
         {
           "nombre": "Ibra Cámara",
           "numero": "-",
@@ -3313,7 +3314,7 @@
           "fichaje": "jul-23",
           "procedencia": "Atlético Madrid B",
           "contrato": "2026"
-          },
+        },
         {
           "nombre": "Eneko Astigarraga",
           "numero": "-",
@@ -3323,7 +3324,7 @@
           "fichaje": "jul-23",
           "procedencia": "Real Sociedad C",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Jonathan Gómez",
           "numero": "-",
@@ -3333,7 +3334,7 @@
           "fichaje": "ene-22",
           "procedencia": "Louisville City FC (EEUU)",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Unax Agote",
           "numero": "-",
@@ -3343,7 +3344,7 @@
           "fichaje": "jul-23",
           "procedencia": "Real Sociedad C",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Jon Merino",
           "numero": "-",
@@ -3353,7 +3354,7 @@
           "fichaje": "jul-24",
           "procedencia": "Real Sociedad C",
           "contrato": "2026"
-          },
+        },
         {
           "nombre": "Iñaki Rupérez",
           "numero": "-",
@@ -3363,7 +3364,7 @@
           "fichaje": "jul-23",
           "procedencia": "Real Sociedad C",
           "contrato": "2025"
-          },
+        },
         {
           "nombre": "Jon Gorrotxategi",
           "numero": "-",
@@ -3373,7 +3374,7 @@
           "fichaje": "jul-22",
           "procedencia": "Real Sociedad C",
           "contrato": "2027"
-        }, 
+        },
         {
           "nombre": "Álex Lebarbier",
           "numero": "-",
@@ -3484,7 +3485,7 @@
           "procedencia": "Real Sociedad C",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Sydney Osazuwa",
           "numero": "-",
           "posicion": "DC",
@@ -3518,7 +3519,7 @@
           "procedencia": "Barakaldo CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Charlie Pérez",
           "numero": "-",
           "posicion": "PT",
@@ -3528,7 +3529,7 @@
           "procedencia": "CD Castellón B",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Iñaki Olartua",
           "numero": "-",
           "posicion": "CT",
@@ -3538,7 +3539,7 @@
           "procedencia": "UD Ibiza",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "Javi Domínguez",
           "numero": "-",
           "posicion": "CT",
@@ -3548,7 +3549,7 @@
           "procedencia": "RC Celta Fortuna",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "José Carlos Márquez",
           "numero": "-",
           "posicion": "LI",
@@ -3558,7 +3559,7 @@
           "procedencia": "CD Arenteiro",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Víctor Eimil",
           "numero": "-",
           "posicion": "LD",
@@ -3568,7 +3569,7 @@
           "procedencia": "Hércules CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Ander Vidorreta",
           "numero": "-",
           "posicion": "MC",
@@ -3578,7 +3579,7 @@
           "procedencia": "CD Calahorra",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Iker Bilbao",
           "numero": "-",
           "posicion": "MC",
@@ -3588,7 +3589,7 @@
           "procedencia": "AD Alcorcón",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Alberto Quintana",
           "numero": "-",
           "posicion": "MC",
@@ -3598,7 +3599,7 @@
           "procedencia": "Real Valladolid Promesas",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Quique Rivero",
           "numero": "-",
           "posicion": "MC",
@@ -3608,7 +3609,7 @@
           "procedencia": "Recreativo de Huelva",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Víctor San Bartolomé",
           "numero": "-",
           "posicion": "MC",
@@ -3618,7 +3619,7 @@
           "procedencia": "RC Celta Fortuna",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Dani Garrido",
           "numero": "-",
           "posicion": "MCO",
@@ -3628,7 +3629,7 @@
           "procedencia": "SD Logroñés",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Aitor Aranzabe",
           "numero": "-",
           "posicion": "EI",
@@ -3638,7 +3639,7 @@
           "procedencia": "Sestao River Club",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Iván Ayllón",
           "numero": "-",
           "posicion": "DC",
@@ -3648,7 +3649,7 @@
           "procedencia": "FC Cartagena",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Koldo Obieta",
           "numero": "-",
           "posicion": "DC",
@@ -3658,7 +3659,7 @@
           "procedencia": "AD Alcorcón",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Sergio Benito",
           "numero": "-",
           "posicion": "DC",
@@ -3668,7 +3669,7 @@
           "procedencia": "CF Fuenlabrada",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Asier Benito",
           "numero": "-",
           "posicion": "DC",
@@ -3712,7 +3713,7 @@
           "procedencia": "CD Badajoz",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Adri Miranda",
           "numero": "-",
           "posicion": "CT",
@@ -3722,7 +3723,7 @@
           "procedencia": "Cádiz CF Mirandilla",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Diego Almeida",
           "numero": "-",
           "posicion": "CT",
@@ -3732,7 +3733,7 @@
           "procedencia": "Columbus Crew 2 (EEUU)",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Markel Etxeberría",
           "numero": "-",
           "posicion": "LD",
@@ -3742,7 +3743,7 @@
           "procedencia": "CD Eldense",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "José David Álvarez\"Joseda\"",
           "numero": "-",
           "posicion": "LD",
@@ -3752,7 +3753,7 @@
           "procedencia": "Deportivo Alavés B",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Sergi García",
           "numero": "-",
           "posicion": "MC",
@@ -3762,7 +3763,7 @@
           "procedencia": "Rayo Majadahonda",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Gorka Garai",
           "numero": "-",
           "posicion": "MC",
@@ -3772,7 +3773,7 @@
           "procedencia": "SD Leioa",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Asier del Río",
           "numero": "-",
           "posicion": "MC",
@@ -3782,7 +3783,7 @@
           "procedencia": "Sestao River B",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Marcos Bustillo",
           "numero": "-",
           "posicion": "MCO",
@@ -3792,7 +3793,7 @@
           "procedencia": "Rayo Cantabria",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Leandro Martínez",
           "numero": "-",
           "posicion": "EI",
@@ -3802,7 +3803,7 @@
           "procedencia": "Real Balompédica Linense",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Asier Córdoba",
           "numero": "-",
           "posicion": "EI",
@@ -3812,7 +3813,7 @@
           "procedencia": "Real Unión",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Alfred Planas",
           "numero": "-",
           "posicion": "ED",
@@ -3822,7 +3823,7 @@
           "procedencia": "Unionistas de Salamanca CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Ion Etxaniz",
           "numero": "-",
           "posicion": "DC",
@@ -3832,7 +3833,7 @@
           "procedencia": "Unionistas de Salamanca CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Diego Aznar",
           "numero": "-",
           "posicion": "DC",
@@ -3866,7 +3867,7 @@
           "procedencia": "San Fernando CD",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Yoel Ramírez",
           "numero": 13,
           "posicion": "PT",
@@ -3876,7 +3877,7 @@
           "procedencia": "CA Osasuna Promesas",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Vadik Murria",
           "numero": "-",
           "posicion": "CT",
@@ -3886,7 +3887,7 @@
           "procedencia": "CF Intercity",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Marc Trilles",
           "numero": 4,
           "posicion": "CT",
@@ -3896,7 +3897,7 @@
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Juan Rodríguez",
           "numero": "-",
           "posicion": "CT",
@@ -3906,7 +3907,7 @@
           "procedencia": "Real Madrid Castilla",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Lluis Llácer",
           "numero": "-",
           "posicion": "LI",
@@ -3926,7 +3927,7 @@
           "procedencia": "UD Melilla",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Sergio Camus",
           "numero": "-",
           "posicion": "LD",
@@ -3936,7 +3937,7 @@
           "procedencia": "Unionistas de Salamanca CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Borja Romero",
           "numero": "-",
           "posicion": "MC",
@@ -3946,7 +3947,7 @@
           "procedencia": "CD Teruel",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Jorge Mencía",
           "numero": "-",
           "posicion": "MC",
@@ -3956,7 +3957,7 @@
           "procedencia": "-",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Pepe Mena",
           "numero": "-",
           "posicion": "MCO",
@@ -3966,7 +3967,7 @@
           "procedencia": "Antequera CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Javi Martín",
           "numero": "-",
           "posicion": "EI",
@@ -3976,7 +3977,7 @@
           "procedencia": "Mérida AD",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Marc Álvarez",
           "numero": "-",
           "posicion": "EI",
@@ -3986,7 +3987,7 @@
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2020"
         },
-         {
+        {
           "nombre": "Javi Areso",
           "numero": 18,
           "posicion": "ED",
@@ -3996,7 +3997,7 @@
           "procedencia": "CA Pulpileño",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "David Cubillas",
           "numero": 11,
           "posicion": "DC",
