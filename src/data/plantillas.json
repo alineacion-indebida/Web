@@ -2937,6 +2937,16 @@
           "procedencia": "CD Subiza",
           "contrato": "2025"
         },
+         {
+          "nombre": "Toni Herrero",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "12/05/01",
+          "altura": "1.79",
+          "fichaje": "jul-24",
+          "procedencia": "CE Sabadell",
+          "contrato": "2025"
+        },
         {
           "nombre": "Mauro Echegoyen",
           "numero": 18,
@@ -3376,7 +3386,7 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Luken Beiti",
+          "nombre": "Luken Beitia",
           "numero": "-",
           "posicion": "CT",
           "nacim": "30/06/04",
@@ -3610,7 +3620,7 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Iñaki Olartua",
+          "nombre": "Iñaki Olaortua",
           "numero": "-",
           "posicion": "CT",
           "nacim": "03/08/93",
@@ -3637,6 +3647,16 @@
           "altura": "-",
           "fichaje": "jul-23",
           "procedencia": "CD Arenteiro",
+          "contrato": "2025"
+        },
+          {
+          "nombre": "Sergio Santos",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "03/01/01",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "Real Murcia CF",
           "contrato": "2025"
         },
         {
@@ -3773,6 +3793,16 @@
       "instagram": "sestaorc",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
+        {
+          "nombre": "Rafa Gálvez",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "20/05/93",
+          "altura": "1.90",
+          "fichaje": "jul-24",
+          "procedencia": "CF Intercity",
+          "contrato": "2025"
+        },
         {
           "nombre": "Carlos Blanco",
           "numero": "-",
@@ -4018,6 +4048,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Jannick Buyla",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "06/10/98",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "Linares Deportivo",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Borja Romero",
           "numero": "-",
           "posicion": "MC",
@@ -4077,6 +4117,16 @@
           "procedencia": "CA Pulpileño",
           "contrato": "2025"
         },
+        {
+          "nombre": "Adrián Fuentes",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "17/07/96",
+          "altura": "1,86",
+          "fichaje": "jul-24",
+          "procedencia": "CD Castellón",
+          "contrato": "2025"
+        }
         {
           "nombre": "David Cubillas",
           "numero": 11,
@@ -4189,6 +4239,16 @@
           "altura": "1.82",
           "fichaje": "jul-23",
           "procedencia": "UD Logroñes",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Pablo Clavería",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "01/04/96",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "SD Ponferradina",
           "contrato": "2025"
         },
         {
