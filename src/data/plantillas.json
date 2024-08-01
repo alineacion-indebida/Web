@@ -207,6 +207,16 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/213.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
+          "nombre": "Gaizka Campos",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "16/05/97",
+          "altura": "1.90",
+          "fichaje": "jul-24",
+          "procedencia": "CF Intercity",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Unai Marino",
           "numero": "-",
           "posicion": "PT",
@@ -400,6 +410,16 @@
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2026"
         },
+         {
+          "nombre": "Marc Bombardó",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "23/11/05",
+          "altura": "1.85",
+          "fichaje": "jul-24",
+          "procedencia": "Gimnástic Manresa Juvenil A",
+          "contrato": "2025"
+        },
         {
           "nombre": "Martí Vilá",
           "numero": "-",
@@ -479,6 +499,16 @@
           "fichaje": "ago-22",
           "procedencia": "R. Valladolid Promesas",
           "contrato": "2025"
+        },
+         {
+          "nombre": "Assane Ndiaye",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "10/10/99",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Atlético de Madrid B",
+          "contrato": "2026"
         },
         {
           "nombre": "Alberto Solís",
