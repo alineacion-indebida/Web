@@ -685,6 +685,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Tomás Berardozzi",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "12/09/02",
+          "altura": "1.76",
+          "fichaje": "jul-24",
+          "procedencia": "CA Newells Ol Boys u20 (Argentina)",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Jordan Sánchez",
           "numero": 22,
           "posicion": "LD",
@@ -694,6 +704,16 @@
           "procedencia": "Zamora CF",
           "contrato": "2025"
         },
+         {
+          "nombre": "Martín Solar",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "30/01/00",
+          "altura": "1.75",
+          "fichaje": "jul-24",
+          "procedencia": "Cultural Leonesa",
+          "contrato": "2025"
+        },
         {
           "nombre": "Mangel Prendes",
           "numero": "-",
@@ -701,7 +721,7 @@
           "nacim": "28/06/01",
           "altura": "-",
           "fichaje": "jul-24",
-          "procedencia": "Rel Oviedo",
+          "procedencia": "Real Oviedo",
           "contrato": "2025"
         },
         {
@@ -732,6 +752,16 @@
           "altura": "1.81",
           "fichaje": "jul-21",
           "procedencia": "Pontevedra CF",
+          "contrato": "2025"
+        },
+         {
+          "nombre": "José Pascual Alba \"Pascu\"",
+          "numero": "-",
+          "posicion": "MCO",
+          "nacim": "02/04/00",
+          "altura": "1.84",
+          "fichaje": "jul-24",
+          "procedencia": "Almere City CF (P. Bajos)",
           "contrato": "2025"
         },
         {
