@@ -1833,6 +1833,16 @@
           "procedencia": "CF Pachuca (México)",
           "contrato": "2025"
         },
+         {
+          "nombre": "Jordi Escobar",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "10/02/02",
+          "altura": "1.88",
+          "fichaje": "jul-24",
+          "procedencia": "SD Logroñés",
+          "contrato": "2029"
+        }
         {
           "nombre": "Ángel Arcos",
           "numero": "-",
@@ -2811,6 +2821,16 @@
           "altura": "1.80",
           "fichaje": "jul-24",
           "procedencia": "UCAM Murcia CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Ángel Sánchez",
+          "numero": "-",
+          "posicion": "EI",
+          "nacim": "28/07/97",
+          "altura": "1.80",
+          "fichaje": "jul-24",
+          "procedencia": "San Fernando CD",
           "contrato": "2025"
         },
         {
