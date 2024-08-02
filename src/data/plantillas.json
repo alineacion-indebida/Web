@@ -54,7 +54,7 @@
         },
         {
           "nombre": "Carlos García",
-          "numero": "-",
+          "numero": 3,
           "posicion": "CT",
           "nacim": "07/07/00",
           "altura": "1.88",
@@ -124,7 +124,7 @@
         },
         {
           "nombre": "Iñaki González",
-          "numero": "-",
+          "numero": 16,
           "posicion": "MC",
           "nacim": "27/07/04",
           "altura": "1.83",
@@ -194,7 +194,7 @@
         },
         {
           "nombre": "Gorka Santamaría",
-          "numero": "-",
+          "numero": 22,
           "posicion": "DC",
           "nacim": "03/07/95",
           "altura": "1.76",
