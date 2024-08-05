@@ -42,7 +42,7 @@
     "lightningcss": "1.25.1",
     "lint-staged": "15.2.7",
     "postcss-import": "16.1.0",
-    "postcss-nesting": "12.1.5",
+    "postcss-nesting": "13.0.0",
     "prettier": "3.3.3",
     "prettier-plugin-astro": "0.13.0",
     "prettier-plugin-astro-organize-imports": "0.4.9",
