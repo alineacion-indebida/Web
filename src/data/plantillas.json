@@ -4252,6 +4252,16 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/2785.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
+          "nombre": "Diego Altube",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "22/02/00",
+          "altura": "1.88",
+          "fichaje": "ago-24",
+          "procedencia": "Albacete Balompié",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Fermín Sobrón",
           "numero": 13,
           "posicion": "PT",
