@@ -5,7 +5,7 @@ const { streamer = "alineacionindebida" } = Astro.props
 
 <div
 	id="live"
-	class="fixed bottom-2  hidden rounded-lg bg-accent p-2 text-center font-bold text-gray-950 shadow-accent transition-all ease-in z-50"
+	class="fixed bottom-2 hidden rounded-lg bg-accent p-2 text-center font-bold text-gray-950 shadow-accent transition-all ease-in z-50"
 >
 	<input type="hidden" id="streamer" name="streamer" value=`${streamer}` />
 	<button
@@ -41,7 +41,6 @@ const { streamer = "alineacionindebida" } = Astro.props
 <script is:inline>
 	const CONFIG = {
 		MIDU_API_UPTIME_WORKER: "https://midudev-apis.midudev.workers.dev/uptime",
-		VELADA_DATE: "2024-07-13 19:00:00 GMT+0100",
 		TWITCH_PLAYER_URL: "https://player.twitch.tv",
 	}
 	const streamer = document.querySelector("#streamer").value
