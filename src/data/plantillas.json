@@ -859,6 +859,16 @@
           "contrato": "2026"
         },
         {
+          "nombre": "Reily Arroyo",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "22/08/04",
+          "altura": "1.92",
+          "fichaje": "ago-24",
+          "procedencia": "CF América u23 (México)",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Markel Artetxe",
           "numero": 12,
           "posicion": "CT",
@@ -939,6 +949,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Íñigo Aritzia",
+          "numero": "-",
+          "posicion": "MCD",
+          "nacim": "18/10/05",
+          "altura": "1.75",
+          "fichaje": "ago-24",
+          "procedencia": "CF América u23 (México)",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Jon Gaztañaga",
           "numero": 4,
           "posicion": "MC",
@@ -956,6 +976,16 @@
           "altura": "1.77",
           "fichaje": "jul-22",
           "procedencia": "SD Leioa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jesús Martínez",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "08/02/04",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "Real Valladolid Promesas",
           "contrato": "2025"
         },
         {
