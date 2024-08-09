@@ -58,10 +58,6 @@ const { streamer = "alineacionindebida" } = Astro.props
 			console.error(err)
 		})
 
-	document.querySelector("#live").style.display = "block"
-	document.querySelector("#live-frame").innerHTML =
-		`<iframe src="${CONFIG.TWITCH_PLAYER_URL}/?channel=${streamer}&parent=${document.location.hostname}" frameborder="0" width="380" height="200" allowfullscreen="true" scrolling="no"></iframe>`
-
 	const closeButton = document.querySelector("#live-close")
 	closeButton?.addEventListener("click", () => {
 		document.querySelector("#live").style.display = "none"
