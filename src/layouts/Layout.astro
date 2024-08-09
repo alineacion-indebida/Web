@@ -5,6 +5,7 @@ import { ViewTransitions } from "astro:transitions"
 
 import ButtonUp from "@/components/ButtonUp.astro"
 import SEO from "@/components/SEO.astro"
+import TwitchLiveBox from "@/components/TwitchLiveBox.astro"
 
 import Footer from "@/sections/Footer.astro"
 import Header from "@/sections/Header.astro"
@@ -36,6 +37,7 @@ const { title, description, preload, canonical, image } = Astro.props
 
 	<body class="selection:bg-accent [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary">
 		<Header />
+		<TwitchLiveBox />
 		<div class="mx-auto max-w-6xl pt-6 selection:bg-primary selection:text-secondary md:pt-8 lg:px-10 lg:pt-12" id="main-content">
 			<main class="mw-full m-auto max-w-[960px] p-4 text-xl leading-7 text-white">
 				<slot />
