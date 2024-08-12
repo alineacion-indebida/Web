@@ -2060,6 +2060,16 @@
           "procedencia": "Moreirense FC (Portugal)",
           "contrato": "2025"
         },
+         {
+          "nombre": "Guzmán Ortega",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "12/01/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CyD Júpiter Leonés",
+          "contrato": "2026"
+        },
         {
           "nombre": "Kevin Presa",
           "numero": 6,
@@ -2169,6 +2179,16 @@
           "fichaje": "jul-24",
           "procedencia": "Real Unión",
           "contrato": "2025"
+        },
+        {
+          "nombre": "David López",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "25/07/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "CyD Júpiter Leonés",
+          "contrato": "2026"
         }
       ]
     },
