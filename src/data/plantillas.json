@@ -3976,6 +3976,16 @@
       "instagram": "sestaorc",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
+       {
+          "nombre": "Javi Garrido",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "06/08/24",
+          "altura": "1.87",
+          "fichaje": "ago-24",
+          "procedencia": "CD Leganés B",
+          "contrato": "2025"
+        },       
         {
           "nombre": "Rafa Gálvez",
           "numero": "-",
