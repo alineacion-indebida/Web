@@ -218,7 +218,7 @@
       "plantilla": [
         {
           "nombre": "Gaizka Campos",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "16/05/97",
           "altura": "1.90",
@@ -228,7 +228,7 @@
         },
         {
           "nombre": "Unai Marino",
-          "numero": "-",
+          "numero": 1,
           "posicion": "PT",
           "nacim": "10/12/99",
           "altura": "1.85",
@@ -238,7 +238,7 @@
         },
         {
           "nombre": "Jon Ander Amelibia",
-          "numero": "-",
+          "numero": 5,
           "posicion": "CT",
           "nacim": "13/01/94",
           "altura": "1.80",
@@ -248,7 +248,7 @@
         },
         {
           "nombre": "Álvaro Yuste",
-          "numero": "-",
+          "numero": 22,
           "posicion": "CT",
           "nacim": "04/04/01",
           "altura": "1.85",
@@ -257,8 +257,18 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Jon Aurtenetxe",
+          "numero": 15,
+          "posicion": "CT",
+          "nacim": "03/01/92",
+          "altura": "1.83",
+          "fichaje": "ago-24",
+          "procedencia": "SD Logroñés",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Mikel Kortazar",
-          "numero": "-",
+          "numero": 4,
           "posicion": "LI",
           "nacim": "10/03/99",
           "altura": "1.87",
@@ -268,7 +278,7 @@
         },
         {
           "nombre": "Sergio Camacho",
-          "numero": "-",
+          "numero": 3,
           "posicion": "LI",
           "nacim": "08/05/02",
           "altura": "1.73",
@@ -277,8 +287,18 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Jordi Calavera",
+          "numero": 21,
+          "posicion": "LD",
+          "nacim": "02/08/95",
+          "altura": "1.80",
+          "fichaje": "ago-24",
+          "procedencia": "CE Sabadell",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Álex Carbonell",
-          "numero": "-",
+          "numero": 2,
           "posicion": "LD",
           "nacim": "13/03/01",
           "altura": "1.72",
@@ -286,9 +306,19 @@
           "procedencia": "Real Sociedad B",
           "contrato": "2025"
         },
+         {
+          "nombre": "Enol Coto",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "23/03/01",
+          "altura": "1.74",
+          "fichaje": "ago-24",
+          "procedencia": "Sporting de Gijón",
+          "contrato": "2025"
+        },
         {
           "nombre": "Nassourou Ben Hamed",
-          "numero": "-",
+          "numero": 14,
           "posicion": "MC",
           "nacim": "20/07/02",
           "altura": "1.70",
@@ -298,7 +328,7 @@
         },
         {
           "nombre": "Pipi Nakai",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MCO",
           "nacim": "24/10/03",
           "altura": "1.82",
@@ -308,7 +338,7 @@
         },
         {
           "nombre": "Berto González",
-          "numero": "-",
+          "numero": 10,
           "posicion": "EI",
           "nacim": "02/04/98",
           "altura": "1.73",
@@ -318,7 +348,7 @@
         },
         {
           "nombre": "Pablo Hervías",
-          "numero": "-",
+          "numero": 11,
           "posicion": "ED",
           "nacim": "08/03/93",
           "altura": "1.74",
@@ -328,7 +358,7 @@
         },
         {
           "nombre": "Íñigo Muñoz",
-          "numero": "-",
+          "numero": 17,
           "posicion": "ED",
           "nacim": "16/12/96",
           "altura": "1.65",
@@ -337,8 +367,18 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Álex Aizpuru \"Kaxe\"",
+          "nombre": "Álvaro Marín",
           "numero": "-",
+          "posicion": "DC",
+          "nacim": "01/05/03",
+          "altura": "1.87",
+          "fichaje": "ago-24",
+          "procedencia": "Bilbao Athletic",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Aizpuru \"Kaxe\"",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "21/01/94",
           "altura": "1.83",
@@ -348,7 +388,7 @@
         },
         {
           "nombre": "Dani Selma",
-          "numero": "-",
+          "numero": 7,
           "posicion": "DC",
           "nacim": "01/03/01",
           "altura": "1.86",
