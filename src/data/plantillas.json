@@ -1145,6 +1145,17 @@
           "procedencia": "FC Barcelona Juvenil A"
         },
         {
+          "numero": "-",
+          "nombre": "Eldar Taghizada",
+          "posicion": "PT",
+          "nacim": "30/05/2003 (21)",
+          "altura": "1,87m",
+          "pie": "derecho",
+          "fichaje": "10/08/2024",
+          "contrato": "30/06/2026",
+          "procedencia": "CD Lugo B Polvorín"
+        },
+        {
           "numero": "4",
           "nombre": "Mamadou Mbacke",
           "posicion": "CT",
@@ -1305,6 +1316,17 @@
           "nacim": "26/07/2004 (19)",
           "altura": "-",
           "pie": "derecho",
+          "fichaje": "06/08/2024",
+          "contrato": "30/06/2025",
+          "procedencia": "FC Barcelona Juvenil A"
+        },
+         {
+          "numero": "-",
+          "nombre": "Jan Molina",
+          "posicion": "MC",
+          "nacim": "30/03/2005 (19)",
+          "altura": "1.69",
+          "pie": "derecho",
           "fichaje": "18/07/2023",
           "contrato": "30/06/2025",
           "procedencia": "FC Barcelona Juvenil A"
@@ -1374,6 +1396,17 @@
           "fichaje": "19/07/2023",
           "contrato": "30/06/2025",
           "procedencia": "Cultural Leonesa"
+        }
+         {
+          "numero": "-",
+          "nombre": "Antonio Martín",
+          "posicion": "DC",
+          "nacim": "04/04/2005 (19)",
+          "altura": "-",
+          "pie": "derecho",
+          "fichaje": "06/08/2024",
+          "contrato": "30/06/2025",
+          "procedencia": "FC Barcelona Juvenil B
         }
       ]
     },
