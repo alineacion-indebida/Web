@@ -1796,6 +1796,16 @@
           "procedencia": "Bergantiños FC",
           "contrato": "2026"
         },
+         {
+          "nombre": "Ivaldine Da Sila \"Ju\"",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "12/03/02",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Gran Peña FC",
+          "contrato": "2025"
+        },
         {
           "nombre": "Iván Garriel",
           "numero": "-",
@@ -1825,16 +1835,6 @@
           "fichaje": "jul-22",
           "procedencia": "Celta de Vigo Juvenil A",
           "contrato": "2025"
-        },
-        {
-          "nombre": "Javi Rueda",
-          "numero": 17,
-          "posicion": "LD",
-          "nacim": "08/05/02",
-          "altura": "1.77",
-          "fichaje": "jul-23",
-          "procedencia": "Real Madrid Castilla",
-          "contrato": "2027"
         },
         {
           "nombre": "Javi Rodríguez",
@@ -1897,6 +1897,26 @@
           "contrato": "2027"
         },
         {
+          "nombre": "Manu Rodríguez",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "01/01/05",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2026"
+        },
+         {
+          "nombre": "Andrés Antañón",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "01/01/07",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2027"
+        },
+        {
           "nombre": "Fer López",
           "numero": 15,
           "posicion": "MCO",
@@ -1905,16 +1925,6 @@
           "fichaje": "jul-23",
           "procedencia": "Celta de Vigo Juvenil A",
           "contrato": "2028"
-        },
-        {
-          "nombre": "Alfon González",
-          "numero": 11,
-          "posicion": "EI",
-          "nacim": "04/05/99",
-          "altura": "1.72",
-          "fichaje": "jul-21",
-          "procedencia": "Albacete Balompié",
-          "contrato": "2025"
         },
         {
           "nombre": "Johan Guedes",
