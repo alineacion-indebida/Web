@@ -147,7 +147,7 @@ function issub23(dateString: String) {
 								<td
 									class:list={[
 										" px-4 py-1",
-										{ "bg-[#414d60]": issub23(jugador.nacim) },
+										{ "bg-[#414d60]": jugador.nacim ? issub23(jugador.nacim) : false },
 									]}
 								>{jugador.nacim ? getEdad(jugador.nacim) : ""}</td>
 								<td class="px-4 py-1">{jugador.altura}</td>
