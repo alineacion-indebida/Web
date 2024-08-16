@@ -54,6 +54,11 @@ function issub23(dateString: String) {
 		return true
 	return false
 }
+
+function issub23false() {
+	return false
+}
+
 ---
 
 <Layout
@@ -147,7 +152,7 @@ function issub23(dateString: String) {
 								<td
 									class:list={[
 										" px-4 py-1",
-										{ "bg-[#414d60]": jugador.nacim ? issub23(jugador.nacim) : false },
+										{ "bg-[#414d60]": jugador.nacim ? issub23false() : false },
 									]}
 								>{jugador.nacim ? getEdad(jugador.nacim) : ""}</td>
 								<td class="px-4 py-1">{jugador.altura}</td>
