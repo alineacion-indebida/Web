@@ -47,6 +47,14 @@ function getEdad(dateString: String) {
 	return edad
 }
 
+function issub23(dateString: String) {
+	const fecharray = dateString?.split("/")
+	const fechastring = fecharray[1].concat("/".concat(fecharray[0].concat("/".concat(fecharray[2]))))
+	if (new Date(fechastring).valueOf() - new Date("1/1/2002").valueOf() > 0)
+		return true
+	return false
+}
+
 ---
 
 <Layout
@@ -137,7 +145,12 @@ function getEdad(dateString: String) {
 								</td>
 								<td class="px-2 py-1">{jugador.posicion}</td>
 								<td class="px-4 py-1">{jugador.nombre}</td>
-								<td class="px-4 py-1">{jugador.nacim ? getEdad(jugador.nacim) : ""}</td>
+								<td
+									class:list={[
+										" px-4 py-1",
+										{ "bg-[#414d60]": jugador.nacim ? issub23(jugador.nacim) : false },
+									]}
+								>{jugador.nacim ? getEdad(jugador.nacim) : ""}</td>
 								<td class="px-4 py-1">{jugador.altura}</td>
 								<td class="px-2 py-1">{jugador.fichaje}</td>
 								<td class="px-2 py-1">{jugador.procedencia}</td>
