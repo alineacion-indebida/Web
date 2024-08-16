@@ -4061,6 +4061,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Adrián Gómez",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "17/01/94",
+          "altura": "1.82",
+          "fichaje": "ago-24",
+          "procedencia": "Unionistas de Salamanca CF",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Asier del Río",
           "numero": "-",
           "posicion": "MC",
@@ -4185,13 +4195,23 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Mario Camero",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "18/02/04",
+          "altura": "1.78",
+          "fichaje": "ago-24",
+          "procedencia": "Real Madrid C",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Juan Rodríguez",
           "numero": "-",
           "posicion": "CT",
           "nacim": "01/03/02",
           "altura": "1.86",
           "fichaje": "jul-24",
-          "procedencia": "Real Madrid Castilla",
+          "procedencia": "Real Madrid C",
           "contrato": "2025"
         },
         {
@@ -4282,7 +4302,17 @@
           "altura": "1.75",
           "fichaje": "jul-24",
           "procedencia": "Gimnástic de Tarragona",
-          "contrato": "2020"
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Manu Rico",
+          "numero": "-",
+          "posicion": "EI",
+          "nacim": "11/01/03",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "SD Huesca",
+          "contrato": "2025"
         },
         {
           "nombre": "Javi Areso",
