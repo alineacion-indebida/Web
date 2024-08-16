@@ -27,7 +27,7 @@
           "numero": 13,
           "posicion": "PT",
           "nacim": "26/02/04",
-          "altura": "-",
+          "altura": "1.80",
           "fichaje": "jul-24",
           "procedencia": "R. Oviedo Vetusta",
           "contrato": "2026"
@@ -97,7 +97,7 @@
           "numero": 14,
           "posicion": "MC",
           "nacim": "30/01/99",
-          "altura": "-",
+          "altura": "1.75",
           "fichaje": "jul-24",
           "procedencia": "Rayo Majadahonda",
           "contrato": "2025"
@@ -147,7 +147,7 @@
           "numero": 7,
           "posicion": "EI",
           "nacim": "01/04/00",
-          "altura": "-",
+          "altura": "1.79",
           "fichaje": "jul-23",
           "procedencia": "RZ Deportivo Aragón",
           "contrato": "2025"
@@ -157,7 +157,7 @@
           "numero": 8,
           "posicion": "ED",
           "nacim": "10/11/00",
-          "altura": "1,68",
+          "altura": "1.68",
           "fichaje": "jul-24",
           "procedencia": "San Fernando CD",
           "contrato": "2025"
@@ -306,7 +306,7 @@
           "procedencia": "Real Sociedad B",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Enol Coto",
           "numero": "-",
           "posicion": "LD",
@@ -460,7 +460,7 @@
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "Marc Bombardó",
           "numero": "-",
           "posicion": "CT",
@@ -490,7 +490,7 @@
           "procedencia": "Atlético Madrid B",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Jesús Clemente",
           "numero": "-",
           "posicion": "LD",
@@ -560,7 +560,7 @@
           "procedencia": "R. Valladolid Promesas",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Assane Ndiaye",
           "numero": "-",
           "posicion": "MC",
@@ -635,7 +635,7 @@
           "numero": "-",
           "posicion": "ED",
           "nacim": "20/02/04",
-          "altura": "1,70",
+          "altura": "1.70",
           "fichaje": "ago-23",
           "procedencia": "Málaga CF",
           "contrato": "2028"
@@ -764,7 +764,7 @@
           "procedencia": "Zamora CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Martín Solar",
           "numero": "-",
           "posicion": "MC",
@@ -814,7 +814,7 @@
           "procedencia": "Pontevedra CF",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "José Pascual Alba \"Pascu\"",
           "numero": "-",
           "posicion": "MCO",
@@ -1127,7 +1127,7 @@
           "nombre": "Ander Astralaga",
           "posicion": "PT",
           "nacim": "03/03/2004 (20)",
-          "altura": "1,90m",
+          "altura": "1.90m",
           "pie": "derecho",
           "fichaje": "01/07/2023",
           "contrato": "30/06/2025",
@@ -1138,7 +1138,7 @@
           "nombre": "Diego Kochen",
           "posicion": "PT",
           "nacim": "19/03/2006 (18)",
-          "altura": "1,88m",
+          "altura": "1.88m",
           "pie": "derecho",
           "fichaje": "31/01/2024",
           "contrato": "30/06/2028",
@@ -1149,7 +1149,7 @@
           "nombre": "Eldar Taghizada",
           "posicion": "PT",
           "nacim": "30/05/2003 (21)",
-          "altura": "1,87m",
+          "altura": "1.87m",
           "pie": "derecho",
           "fichaje": "10/08/2024",
           "contrato": "30/06/2026",
@@ -1160,7 +1160,7 @@
           "nombre": "Mamadou Mbacke",
           "posicion": "CT",
           "nacim": "21/11/2002 (21)",
-          "altura": "1,89m",
+          "altura": "1.89m",
           "pie": "derecho",
           "fichaje": "22/07/2024",
           "contrato": "30/06/2026",
@@ -1171,7 +1171,7 @@
           "nombre": "Rubén Cantero",
           "posicion": "CT",
           "nacim": "12/06/2004 (20)",
-          "altura": "1,84m",
+          "altura": "1.84m",
           "pie": "derecho",
           "fichaje": "01/07/2023",
           "contrato": "30/06/2025",
@@ -1182,7 +1182,7 @@
           "nombre": "Sergi Domínguez",
           "posicion": "CT",
           "nacim": "01/04/2005 (19)",
-          "altura": "1,91m",
+          "altura": "1.91m",
           "pie": "derecho",
           "fichaje": "01/07/2023",
           "contrato": "30/06/2027",
@@ -1204,7 +1204,7 @@
           "nombre": "Álvaro Cortés",
           "posicion": "CT",
           "nacim": "17/03/2005 (19)",
-          "altura": "1,90m",
+          "altura": "1.90m",
           "pie": "izquierdo",
           "fichaje": "01/07/2024",
           "contrato": "30/06/2026",
@@ -1215,7 +1215,7 @@
           "nombre": "Gerard Martín",
           "posicion": "LI",
           "nacim": "26/02/2002 (22)",
-          "altura": "1,86m",
+          "altura": "1.86m",
           "pie": "izquierdo",
           "fichaje": "19/07/2023",
           "contrato": "30/06/2025",
@@ -1226,7 +1226,7 @@
           "nombre": "Edu Sánchez",
           "posicion": "LI",
           "nacim": "21/06/2005 (19)",
-          "altura": "1,79m",
+          "altura": "1.79m",
           "pie": "izquierdo",
           "fichaje": "10/08/2023",
           "contrato": "30/06/2025",
@@ -1237,7 +1237,7 @@
           "nombre": "Álvaro Pérez\"Trilli\"",
           "posicion": "LD",
           "nacim": "19/05/2003 (21)",
-          "altura": "1,84m",
+          "altura": "1.84m",
           "pie": "derecho",
           "fichaje": "23/07/2023",
           "contrato": "30/06/2025",
@@ -1248,7 +1248,7 @@
           "nombre": "Joan Anaya",
           "posicion": "LD",
           "nacim": "16/02/2005 (19)",
-          "altura": "1,74m",
+          "altura": "1.74m",
           "pie": "derecho",
           "fichaje": "01/07/2024",
           "contrato": "30/06/2027",
@@ -1259,7 +1259,7 @@
           "nombre": "Marc Bernal",
           "posicion": "MCD",
           "nacim": "26/05/2007 (17)",
-          "altura": "1,91m",
+          "altura": "1.91m",
           "pie": "izquierdo",
           "fichaje": "01/07/2023",
           "contrato": "30/06/2026",
@@ -1270,7 +1270,7 @@
           "nombre": "Pau Prim",
           "posicion": "MCD",
           "nacim": "22/02/2006 (18)",
-          "altura": "1,79m",
+          "altura": "1.79m",
           "pie": "derecho",
           "fichaje": "01/01/2024",
           "contrato": "30/06/2025",
@@ -1281,7 +1281,7 @@
           "nombre": "Unai Hernández",
           "posicion": "MC",
           "nacim": "14/12/2004 (19)",
-          "altura": "1,71m",
+          "altura": "1.71m",
           "pie": "derecho",
           "fichaje": "01/07/2023",
           "contrato": "30/06/2025",
@@ -1292,7 +1292,7 @@
           "nombre": "Guille Fernández",
           "posicion": "MC",
           "nacim": "18/06/2008 (16)",
-          "altura": "1,71m",
+          "altura": "1.71m",
           "pie": "derecho",
           "fichaje": "01/07/2024",
           "contrato": "30/06/2027",
@@ -1303,7 +1303,7 @@
           "nombre": "Aleix Garrido",
           "posicion": "MC",
           "nacim": "22/02/2004 (20)",
-          "altura": "1,70m",
+          "altura": "1.70m",
           "pie": "derecho",
           "fichaje": "01/07/2023",
           "contrato": "30/06/2025",
@@ -1320,7 +1320,7 @@
           "contrato": "30/06/2025",
           "procedencia": "FC Barcelona Juvenil A"
         },
-         {
+        {
           "numero": "-",
           "nombre": "Jan Molina",
           "posicion": "MC",
@@ -1336,7 +1336,7 @@
           "nombre": "Noah Darvich",
           "posicion": "MCO",
           "nacim": "25/09/2006 (17)",
-          "altura": "1,84m",
+          "altura": "1.84m",
           "pie": "izquierdo",
           "fichaje": "08/08/2023",
           "contrato": "30/06/2026",
@@ -1347,7 +1347,7 @@
           "nombre": "Raúl Dacosta",
           "posicion": "EI",
           "nacim": "26/01/2002 (22)",
-          "altura": "1,75m",
+          "altura": "1.75m",
           "pie": "-",
           "fichaje": "26/07/2024",
           "contrato": "30/06/2027",
@@ -1358,7 +1358,7 @@
           "nombre": "Ángel Alarcón",
           "posicion": "EI",
           "nacim": "15/05/2004 (20)",
-          "altura": "1,75m",
+          "altura": "1.75m",
           "pie": "derecho",
           "fichaje": "01/07/2023",
           "contrato": "30/06/2025",
@@ -1369,7 +1369,7 @@
           "nombre": "Dani Rodríguez",
           "posicion": "EI",
           "nacim": "09/08/2005 (18)",
-          "altura": "1,70m",
+          "altura": "1.70m",
           "pie": "izquierdo",
           "fichaje": "01/01/2024",
           "contrato": "30/06/2027",
@@ -1391,13 +1391,13 @@
           "nombre": "Diego Percan",
           "posicion": "DC",
           "nacim": "13/11/2001 (22)",
-          "altura": "1,79m",
+          "altura": "1.79m",
           "pie": "derecho",
           "fichaje": "19/07/2023",
           "contrato": "30/06/2025",
           "procedencia": "Cultural Leonesa"
         },
-         {
+        {
           "numero": "-",
           "nombre": "Antonio Martín",
           "posicion": "DC",
@@ -1557,7 +1557,7 @@
           "numero": 16,
           "posicion": "MC",
           "nacim": "13/11/03",
-          "altura": "1,77",
+          "altura": "1.77",
           "fichaje": "jul-23",
           "procedencia": "CD Basconia",
           "contrato": "2027"
@@ -1677,7 +1677,7 @@
           "numero": 20,
           "posicion": "ED",
           "nacim": "01/13/03",
-          "altura": "1,88",
+          "altura": "1.88",
           "fichaje": "jul-23",
           "procedencia": "CD Basconia",
           "contrato": "2025"
@@ -1796,7 +1796,7 @@
           "procedencia": "Bergantiños FC",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "Ivaldine Da Sila \"Ju\"",
           "numero": "-",
           "posicion": "CT",
@@ -1861,7 +1861,7 @@
           "numero": 14,
           "posicion": "MC",
           "nacim": "26/12/02",
-          "altura": "1,78",
+          "altura": "1.78",
           "fichaje": "jul-23",
           "procedencia": "Pontevedra CF",
           "contrato": "2026"
@@ -1906,7 +1906,7 @@
           "procedencia": "Celta de Vigo Juvenil A",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "Andrés Antañón",
           "numero": "-",
           "posicion": "MC",
@@ -1941,12 +1941,12 @@
           "numero": "-",
           "posicion": "ED",
           "nacim": "21/04/03",
-          "altura": "1,75",
+          "altura": "1.75",
           "fichaje": "jul-24",
           "procedencia": "CF Pachuca (México)",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Jordi Escobar",
           "numero": "-",
           "posicion": "DC",
@@ -2060,7 +2060,7 @@
           "procedencia": "Moreirense FC (Portugal)",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Guzmán Ortega",
           "numero": "-",
           "posicion": "LD",
@@ -2125,7 +2125,7 @@
           "numero": "-",
           "posicion": "EI",
           "nacim": "31/01/96",
-          "altura": "1,77",
+          "altura": "1.77",
           "fichaje": "jul-24",
           "procedencia": "CD Arenteiro",
           "contrato": "2025"
@@ -2140,7 +2140,7 @@
           "procedencia": "SD Logroñés",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Juan Artola",
           "numero": "-",
           "posicion": "ED",
@@ -2349,7 +2349,7 @@
           "numero": 11,
           "posicion": "MCO",
           "nacim": "18/03/92",
-          "altura": "1,84",
+          "altura": "1.84",
           "fichaje": "feb-23",
           "procedencia": "-",
           "contrato": "2025"
@@ -2478,7 +2478,7 @@
           "procedencia": "Pobla de Mafumet CF",
           "contrato": "2025"
         },
-          {
+        {
           "nombre": "Nil Jiménez",
           "numero": "-",
           "posicion": "LI",
@@ -2563,7 +2563,7 @@
           "numero": 11,
           "posicion": "EI",
           "nacim": "29/04/90",
-          "altura": "1,79",
+          "altura": "1.79",
           "fichaje": "ene-23",
           "procedencia": "FC Andorra",
           "contrato": "2025"
@@ -2732,7 +2732,7 @@
           "procedencia": "CD Lugo B Polvorín",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "Roger Martínez",
           "numero": "-",
           "posicion": "MC",
@@ -3120,7 +3120,7 @@
           "procedencia": "CD Subiza",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Toni Herrero",
           "numero": "-",
           "posicion": "LI",
@@ -3409,7 +3409,7 @@
           "numero": "-",
           "posicion": "MC",
           "nacim": "16/05/95",
-          "altura": "1,78",
+          "altura": "1.78",
           "fichaje": "jul-24",
           "procedencia": "Algeciras CF",
           "contrato": "2025"
@@ -3713,7 +3713,7 @@
           "numero": "-",
           "posicion": "EI",
           "nacim": "20/04/02",
-          "altura": "1,74",
+          "altura": "1.74",
           "fichaje": "jul-22",
           "procedencia": "Real Sociedad C",
           "contrato": "2025"
@@ -3832,7 +3832,7 @@
           "procedencia": "CD Arenteiro",
           "contrato": "2025"
         },
-          {
+        {
           "nombre": "Sergio Santos",
           "numero": "-",
           "posicion": "LD",
@@ -3927,7 +3927,7 @@
           "numero": "-",
           "posicion": "DC",
           "nacim": "23/04/01",
-          "altura": "1,75",
+          "altura": "1.75",
           "fichaje": "jul-24",
           "procedencia": "FC Cartagena",
           "contrato": "2025"
@@ -3976,7 +3976,7 @@
       "instagram": "sestaorc",
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
-       {
+        {
           "nombre": "Javi Garrido",
           "numero": "-",
           "posicion": "PT",
@@ -3985,7 +3985,7 @@
           "fichaje": "ago-24",
           "procedencia": "CD Leganés B",
           "contrato": "2025"
-        },       
+        },
         {
           "nombre": "Rafa Gálvez",
           "numero": "-",
@@ -4315,7 +4315,7 @@
           "numero": "-",
           "posicion": "DC",
           "nacim": "17/07/96",
-          "altura": "1,86",
+          "altura": "1.86",
           "fichaje": "jul-24",
           "procedencia": "CD Castellón",
           "contrato": "2025"
@@ -4325,7 +4325,7 @@
           "numero": 11,
           "posicion": "DC",
           "nacim": "19/06/90",
-          "altura": "1,91",
+          "altura": "1.91",
           "fichaje": "jul-23",
           "procedencia": "CD Castellón",
           "contrato": "2025"
@@ -4499,7 +4499,7 @@
           "numero": 11,
           "posicion": "ED",
           "nacim": "21/03/96",
-          "altura": "1,71",
+          "altura": "1.71",
           "fichaje": "jul-23",
           "procedencia": "CD Numancia",
           "contrato": "2025"
