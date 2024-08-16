@@ -3757,6 +3757,16 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/2130.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
+          "nombre": "James Wright",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "02/12/04",
+          "altura": "1.88",
+          "fichaje": "ago-24",
+          "procedencia": "Aston Villa U21 (Inglaterra)",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Jon Irazusta",
           "numero": "-",
           "posicion": "PT",
