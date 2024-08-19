@@ -201,6 +201,16 @@
           "fichaje": "jul-24",
           "procedencia": "Gimnástic de Tarragona",
           "contrato": "2025"
+        },
+        {
+          "nombre": "Steffan Witmer",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "01/01/05",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "-",
+          "contrato": "2028"
         }
       ]
     },
