@@ -1487,16 +1487,6 @@
           "contrato": "2029"
         },
         {
-          "nombre": "Miguel Barandalla",
-          "numero": 3,
-          "posicion": "LI",
-          "nacim": "24/03/04",
-          "altura": "1.80",
-          "fichaje": "jul-23",
-          "procedencia": "CD Basconia",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Javier Elías",
           "numero": "-",
           "posicion": "LI",
@@ -3961,10 +3951,20 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
+          "nombre": "Iago Herrerín",
+          "numero": "-",
+          "posicion": "PT",
+          "nacim": "25/01/88",
+          "altura": "1.87",
+          "fichaje": "ago-24",
+          "procedencia": "AEK Larnaka (Chipre)",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Javi Garrido",
           "numero": "-",
           "posicion": "PT",
-          "nacim": "06/08/24",
+          "nacim": "07/09/03",
           "altura": "1.87",
           "fichaje": "ago-24",
           "procedencia": "CD Leganés B",
@@ -4018,6 +4018,16 @@
           "altura": "1.84",
           "fichaje": "jul-24",
           "procedencia": "Columbus Crew 2 (EEUU)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Miguel Barandalla",
+          "numero": 3,
+          "posicion": "LI",
+          "nacim": "24/03/04",
+          "altura": "1.80",
+          "fichaje": "jul-23",
+          "procedencia": "CD Basconia",
           "contrato": "2025"
         },
         {
