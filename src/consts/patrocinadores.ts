@@ -50,16 +50,6 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 		svg: false,
 	},
 	{
-		id: "Newcotel",
-		name: "Newcotel",
-		url: "https://www.newcotel.es/",
-		image: {
-			width: 133,
-			height: 38,
-		},
-		svg: false,
-	},
-	{
 		id: "Osdama",
 		name: "Osdama",
 		url: "https://www.instagram.com/osdama_salamanca/",
@@ -103,6 +93,16 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 		id: "Guinaldo",
 		name: "Restaurante Guinaldo",
 		url: "https://restauranteguinaldo.com/",
+		image: {
+			width: 133,
+			height: 38,
+		},
+		svg: false,
+	},
+	{
+		id: "Newcotel",
+		name: "Newcotel",
+		url: "https://www.newcotel.es/",
 		image: {
 			width: 133,
 			height: 38,
