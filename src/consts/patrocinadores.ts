@@ -5,7 +5,7 @@ type PatrocinadorId =
 	| "Casaserra"
 	| "Albia"
 	| "Fantasmas"
-	| "LiliCook"
+	| "Newcotel"
 	| "Guinaldo"
 type PatrocinadorName =
 	| "Sercine"
@@ -14,7 +14,7 @@ type PatrocinadorName =
 	| "Casaserra"
 	| "Grupo Albia"
 	| "Fantasmas en el desvan"
-	| "LiliCook Gastrobar"
+	| "Newcotel"
 	| "Restaurante Guinaldo"
 
 interface Patrocinador {
@@ -50,9 +50,9 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 		svg: false,
 	},
 	{
-		id: "LiliCook",
-		name: "LiliCook Gastrobar",
-		url: "https://www.lilicook.es/",
+		id: "Newcotel",
+		name: "Newcotel",
+		url: "https://www.newcotel.es/",
 		image: {
 			width: 133,
 			height: 38,
