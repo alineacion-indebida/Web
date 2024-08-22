@@ -1801,6 +1801,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Sergio Díez",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "28/07/03",
+          "altura": "1.78",
+          "fichaje": "ago-24",
+          "procedencia": "Atlético de Madrid B",
+          "contrato": "2029"
+        },
+        {
           "nombre": "Javi Rodríguez",
           "numero": 20,
           "posicion": "LD",
@@ -1862,6 +1872,26 @@
         },
         {
           "nombre": "Manu Rodríguez",
+          "numero": 29,
+          "posicion": "MC",
+          "nacim": "01/01/05",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Óscar Marcos",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "01/01/07",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2027"
+        },
+        {
+          "nombre": "Manu Rodríguez",
           "numero": "-",
           "posicion": "MC",
           "nacim": "01/01/05",
@@ -1874,7 +1904,7 @@
           "nombre": "Andrés Antañón",
           "numero": "-",
           "posicion": "MC",
-          "nacim": "01/01/07",
+          "nacim": "19/02/06",
           "altura": "-",
           "fichaje": "ago-24",
           "procedencia": "Celta de Vigo Juvenil A",
