@@ -521,16 +521,6 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Miguel Leal",
-          "numero": "-",
-          "posicion": "LD",
-          "nacim": "01/02/97",
-          "altura": "1.70",
-          "fichaje": "jul-23",
-          "procedencia": "Villarreal CF B",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Pau Casadesús",
           "numero": "-",
           "posicion": "LD",
@@ -649,16 +639,6 @@
           "fichaje": "jul-24",
           "procedencia": "FC Barcelona Atlètic",
           "contrato": "2026"
-        },
-        {
-          "nombre": "Álex Calvo",
-          "numero": "-",
-          "posicion": "ED",
-          "nacim": "20/02/04",
-          "altura": "1.70",
-          "fichaje": "ago-23",
-          "procedencia": "Málaga CF",
-          "contrato": "2028"
         },
         {
           "nombre": "Manu Nieto",
