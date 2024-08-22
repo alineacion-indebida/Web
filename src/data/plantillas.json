@@ -696,7 +696,7 @@
         },
         {
           "nombre": "Darío Ramos",
-          "numero": "-",
+          "numero": 1,
           "posicion": "PT",
           "nacim": "19/10/99",
           "altura": "1.91",
@@ -706,7 +706,7 @@
         },
         {
           "nombre": "Manu Figueroa",
-          "numero": "-",
+          "numero": 24,
           "posicion": "PT",
           "nacim": "23/02/04",
           "altura": "-",
@@ -716,7 +716,7 @@
         },
         {
           "nombre": "Javi Moreno",
-          "numero": "-",
+          "numero": 4,
           "posicion": "CT",
           "nacim": "16/05/02",
           "altura": "-",
@@ -736,7 +736,7 @@
         },
         {
           "nombre": "Iván Muñoz",
-          "numero": "-",
+          "numero": 3,
           "posicion": "LI",
           "nacim": "27/02/02",
           "altura": "1.88",
@@ -746,7 +746,7 @@
         },
         {
           "nombre": "Tomás Berardozzi",
-          "numero": "-",
+          "numero": 20,
           "posicion": "LI",
           "nacim": "12/09/02",
           "altura": "1.76",
@@ -766,7 +766,7 @@
         },
         {
           "nombre": "Martín Solar",
-          "numero": "-",
+          "numero": 8,
           "posicion": "MC",
           "nacim": "30/01/00",
           "altura": "1.75",
@@ -776,7 +776,7 @@
         },
         {
           "nombre": "Mangel Prendes",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "28/06/01",
           "altura": "-",
@@ -786,7 +786,7 @@
         },
         {
           "nombre": "Tiago Rodríguez",
-          "numero": 6,
+          "numero": "-",
           "posicion": "MC",
           "nacim": "07/07/00",
           "altura": "1.80",
@@ -816,7 +816,7 @@
         },
         {
           "nombre": "José Pascual Alba \"Pascu\"",
-          "numero": "-",
+          "numero": 17,
           "posicion": "MCO",
           "nacim": "02/04/00",
           "altura": "1.84",
@@ -826,7 +826,7 @@
         },
         {
           "nombre": "David Ferreiro",
-          "numero": "-",
+          "numero": 7,
           "posicion": "EI",
           "nacim": "01/04/88",
           "altura": "1.70",
@@ -836,7 +836,7 @@
         },
         {
           "nombre": "Diego Gómez",
-          "numero": "-",
+          "numero": 11,
           "posicion": "ED",
           "nacim": "31/07/04",
           "altura": "1.77",
@@ -930,7 +930,7 @@
         },
         {
           "nombre": "Aymane Jelbat",
-          "numero": "-",
+          "numero": 4,
           "posicion": "CT",
           "nacim": "27/05/00",
           "altura": "1.84",
@@ -940,7 +940,7 @@
         },
         {
           "nombre": "Aritz Muguruza",
-          "numero": "-",
+          "numero": 15,
           "posicion": "CT",
           "nacim": "08/12/01",
           "altura": "-",
@@ -980,7 +980,7 @@
         },
         {
           "nombre": "Beñat de Jesús",
-          "numero": "-",
+          "numero": 2,
           "posicion": "LD",
           "nacim": "22/01/02",
           "altura": "1.78",
@@ -990,7 +990,7 @@
         },
         {
           "nombre": "Unai Naveira",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MCD",
           "nacim": "30/04/01",
           "altura": "1.83",
@@ -1060,7 +1060,7 @@
         },
         {
           "nombre": "Kepa Uriarte",
-          "numero": "-",
+          "numero": 21,
           "posicion": "MCO",
           "nacim": "23/02/02",
           "altura": "1.84",
@@ -1070,7 +1070,7 @@
         },
         {
           "nombre": "Unai Buján",
-          "numero": "-",
+          "numero": 11,
           "posicion": "EI",
           "nacim": "08/02/01",
           "altura": "1.74",
@@ -1090,7 +1090,7 @@
         },
         {
           "nombre": "Aimar Vicandi",
-          "numero": "-",
+          "numero": 17,
           "posicion": "ED",
           "nacim": "09/02/05",
           "altura": "1.83",
@@ -1100,7 +1100,7 @@
         },
         {
           "nombre": "Maroan Sannadi",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "01/02/01",
           "altura": "1.92",
