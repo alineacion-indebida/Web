@@ -3300,7 +3300,7 @@
         },
         {
           "nombre": "Pablo Barredo",
-          "numero": "-",
+          "numero": 25,
           "posicion": "PT",
           "nacim": "05/09/03",
           "altura": "1.77",
@@ -3320,7 +3320,7 @@
         },
         {
           "nombre": "Germán Novoa",
-          "numero": "-",
+          "numero": 3,
           "posicion": "CT",
           "nacim": "06/08/96",
           "altura": "-",
@@ -3330,7 +3330,7 @@
         },
         {
           "nombre": "David Andújar",
-          "numero": 21,
+          "numero": 2,
           "posicion": "CT",
           "nacim": "21/08/91",
           "altura": "1.89",
@@ -3339,18 +3339,8 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Jesús Fernández",
-          "numero": "-",
-          "posicion": "CT",
-          "nacim": "01/03/02",
-          "altura": "-",
-          "fichaje": "jul-23",
-          "procedencia": "CD Lugo B Polvorín",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Álvaro Ramón",
-          "numero": "-",
+          "numero": 18,
           "posicion": "LI",
           "nacim": "06/04/00",
           "altura": "-",
@@ -3370,7 +3360,7 @@
         },
         {
           "nombre": "Javi Lancho",
-          "numero": 20,
+          "numero": 5,
           "posicion": "LI",
           "nacim": "08/04/02",
           "altura": "1.85",
@@ -3390,7 +3380,7 @@
         },
         {
           "nombre": "Mario Jorrín",
-          "numero": "-",
+          "numero": 23,
           "posicion": "LD",
           "nacim": "28/06/02",
           "altura": "1.80",
@@ -3400,7 +3390,7 @@
         },
         {
           "nombre": "Borja Fernández",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "16/05/95",
           "altura": "1.78",
@@ -3420,7 +3410,7 @@
         },
         {
           "nombre": "Vicente Esquerdo",
-          "numero": "-",
+          "numero": 22,
           "posicion": "MCO",
           "nacim": "02/01/99",
           "altura": "1.80",
@@ -3430,7 +3420,7 @@
         },
         {
           "nombre": "Nacho Castillo",
-          "numero": "-",
+          "numero": 14,
           "posicion": "MCO",
           "nacim": "03/07/00",
           "altura": "1.83",
@@ -3450,12 +3440,22 @@
         },
         {
           "nombre": "Álex Mula",
-          "numero": "-",
+          "numero": 11,
           "posicion": "EI",
           "nacim": "23/07/96",
           "altura": "1.78",
           "fichaje": "jul-24",
           "procedencia": "Gimnástic de Tarragona",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Yeray Cabanzón",
+          "numero": "-",
+          "posicion": "ED",
+          "nacim": "14/05/03",
+          "altura": "1.70",
+          "fichaje": "ago-24",
+          "procedencia": "Real Racing Club",
           "contrato": "2025"
         },
         {
@@ -3470,7 +3470,7 @@
         },
         {
           "nombre": "Brais Abelenda",
-          "numero": 18,
+          "numero": 8,
           "posicion": "ED",
           "nacim": "27/10/95",
           "altura": "1.79",
@@ -3490,7 +3490,7 @@
         },
         {
           "nombre": "Borja Valle",
-          "numero": "-",
+          "numero": 10,
           "posicion": "DC",
           "nacim": "09/07/92",
           "altura": "1.77",
@@ -3499,8 +3499,18 @@
           "contrato": "2025"
         },
         {
-          "nombre": "José Luis Cortés",
+          "nombre": "Oliver Jürgens",
           "numero": "-",
+          "posicion": "DC",
+          "nacim": "10/05/03",
+          "altura": "1.80",
+          "fichaje": "ago-24",
+          "procedencia": "DAC Dunajska Streda (Eslovaquia)",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "José Luis Cortés",
+          "numero": 21,
           "posicion": "DC",
           "nacim": "22/08/01",
           "altura": "-",
@@ -3510,7 +3520,7 @@
         },
         {
           "nombre": "Álex Costa",
-          "numero": "-",
+          "numero": 20,
           "posicion": "DC",
           "nacim": "12/01/03",
           "altura": "1.89",
