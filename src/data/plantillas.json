@@ -3564,7 +3564,7 @@
         },
         {
           "nombre": "Jon Martín",
-          "numero": "-",
+          "numero": 17,
           "posicion": "CT",
           "nacim": "23/04/06",
           "altura": "1.87",
@@ -3574,7 +3574,7 @@
         },
         {
           "nombre": "Yago Cantero",
-          "numero": "-",
+          "numero": 5,
           "posicion": "CT",
           "nacim": "26/01/00",
           "altura": "1.85",
@@ -3584,7 +3584,7 @@
         },
         {
           "nombre": "Peru Rodríguez",
-          "numero": "-",
+          "numero": 4,
           "posicion": "CT",
           "nacim": "03/04/02",
           "altura": "1.80",
@@ -3594,7 +3594,7 @@
         },
         {
           "nombre": "Luken Beitia",
-          "numero": "-",
+          "numero": 29,
           "posicion": "CT",
           "nacim": "30/06/04",
           "altura": "-",
@@ -3604,7 +3604,7 @@
         },
         {
           "nombre": "Ibra Cámara",
-          "numero": "-",
+          "numero": 14,
           "posicion": "CT",
           "nacim": "18/01/03",
           "altura": "1.81",
@@ -3614,7 +3614,7 @@
         },
         {
           "nombre": "Eneko Astigarraga",
-          "numero": "-",
+          "numero": 15,
           "posicion": "CT",
           "nacim": "08/01/04",
           "altura": "-",
@@ -3634,7 +3634,7 @@
         },
         {
           "nombre": "Unax Agote",
-          "numero": "-",
+          "numero": 23,
           "posicion": "LI",
           "nacim": "28/03/03",
           "altura": "1.80",
@@ -3654,7 +3654,7 @@
         },
         {
           "nombre": "Iñaki Rupérez",
-          "numero": "-",
+          "numero": 22,
           "posicion": "LD",
           "nacim": "07/01/03",
           "altura": "-",
@@ -3664,7 +3664,7 @@
         },
         {
           "nombre": "Álex Lebarbier",
-          "numero": "-",
+          "numero": 16,
           "posicion": "MC",
           "nacim": "23/08/04",
           "altura": "-",
@@ -3674,7 +3674,7 @@
         },
         {
           "nombre": "Mikel Rodríguez",
-          "numero": "-",
+          "numero": 20,
           "posicion": "MC",
           "nacim": "03/04/02",
           "altura": "-",
@@ -3684,7 +3684,7 @@
         },
         {
           "nombre": "Pablo Marín",
-          "numero": "-",
+          "numero": 8,
           "posicion": "MCO",
           "nacim": "03/07/03",
           "altura": "1.78",
@@ -3704,7 +3704,7 @@
         },
         {
           "nombre": "Eder García",
-          "numero": "-",
+          "numero": 18,
           "posicion": "EI",
           "nacim": "04/01/04",
           "altura": "-",
@@ -3714,7 +3714,7 @@
         },
         {
           "nombre": "Jon Balda",
-          "numero": "-",
+          "numero": 21,
           "posicion": "EI",
           "nacim": "20/04/02",
           "altura": "1.74",
@@ -3724,7 +3724,7 @@
         },
         {
           "nombre": "Alberto Dadie",
-          "numero": "-",
+          "numero": 7,
           "posicion": "ED",
           "nacim": "20/07/02",
           "altura": "1.70",
@@ -3734,7 +3734,7 @@
         },
         {
           "nombre": "Job Ochieng",
-          "numero": "-",
+          "numero": 27,
           "posicion": "ED",
           "nacim": "17/01/03",
           "altura": "1.85",
@@ -3744,7 +3744,7 @@
         },
         {
           "nombre": "Mikel Goti",
-          "numero": "-",
+          "numero": 10,
           "posicion": "MP",
           "nacim": "23/05/02",
           "altura": "1.85",
@@ -3754,7 +3754,7 @@
         },
         {
           "nombre": "Ekain Orobengoa",
-          "numero": "-",
+          "numero": 28,
           "posicion": "DC",
           "nacim": "17/06/04",
           "altura": "-",
@@ -3798,7 +3798,7 @@
         },
         {
           "nombre": "Jon Irazusta",
-          "numero": "-",
+          "numero": 1,
           "posicion": "PT",
           "nacim": "30/04/86",
           "altura": "1.84",
@@ -3808,7 +3808,7 @@
         },
         {
           "nombre": "Charlie Pérez",
-          "numero": "-",
+          "numero": 24,
           "posicion": "PT",
           "nacim": "07/06/02",
           "altura": "-",
@@ -3838,7 +3838,7 @@
         },
         {
           "nombre": "José Carlos Márquez",
-          "numero": "-",
+          "numero": 17,
           "posicion": "LI",
           "nacim": "17/04/97",
           "altura": "-",
@@ -3858,7 +3858,7 @@
         },
         {
           "nombre": "Víctor Eimil",
-          "numero": "-",
+          "numero": 19,
           "posicion": "LD",
           "nacim": "18/01/99",
           "altura": "1.73",
@@ -3868,7 +3868,7 @@
         },
         {
           "nombre": "Ander Vidorreta",
-          "numero": "-",
+          "numero": 16,
           "posicion": "MC",
           "nacim": "12/07/97",
           "altura": "-",
@@ -3898,7 +3898,7 @@
         },
         {
           "nombre": "Quique Rivero",
-          "numero": "-",
+          "numero": 10,
           "posicion": "MC",
           "nacim": "16/04/92",
           "altura": "1.76",
@@ -3968,7 +3968,7 @@
         },
         {
           "nombre": "Asier Benito",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "11/02/95",
           "altura": "1.83",
@@ -4002,7 +4002,7 @@
         },
         {
           "nombre": "Javi Garrido",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "07/09/03",
           "altura": "1.87",
@@ -4012,7 +4012,7 @@
         },
         {
           "nombre": "Rafa Gálvez",
-          "numero": "-",
+          "numero": 16,
           "posicion": "CT",
           "nacim": "20/05/93",
           "altura": "1.90",
@@ -4022,7 +4022,7 @@
         },
         {
           "nombre": "Carlos Blanco",
-          "numero": "-",
+          "numero": 5,
           "posicion": "CT",
           "nacim": "06/01/96",
           "altura": "1.89",
@@ -4032,7 +4032,7 @@
         },
         {
           "nombre": "Carlos Cordero",
-          "numero": "-",
+          "numero": 3,
           "posicion": "CT",
           "nacim": "26/09/96",
           "altura": "1.81",
@@ -4042,7 +4042,7 @@
         },
         {
           "nombre": "Adri Miranda",
-          "numero": "-",
+          "numero": 21,
           "posicion": "CT",
           "nacim": "26/04/03",
           "altura": "1.83",
@@ -4052,7 +4052,7 @@
         },
         {
           "nombre": "Diego Almeida",
-          "numero": "-",
+          "numero": 4,
           "posicion": "CT",
           "nacim": "12/02/04",
           "altura": "1.84",
@@ -4062,7 +4062,7 @@
         },
         {
           "nombre": "Miguel Barandalla",
-          "numero": 3,
+          "numero": "-",
           "posicion": "LI",
           "nacim": "24/03/04",
           "altura": "1.80",
@@ -4072,7 +4072,7 @@
         },
         {
           "nombre": "Markel Etxeberría",
-          "numero": "-",
+          "numero": 22,
           "posicion": "LD",
           "nacim": "15/02/95",
           "altura": "1.78",
@@ -4102,7 +4102,7 @@
         },
         {
           "nombre": "Sergi García",
-          "numero": "-",
+          "numero": 14,
           "posicion": "MC",
           "nacim": "14/04/99",
           "altura": "1.95",
@@ -4112,7 +4112,7 @@
         },
         {
           "nombre": "Gorka Garai",
-          "numero": "-",
+          "numero": 8,
           "posicion": "MC",
           "nacim": "02/01/97",
           "altura": "1.79",
@@ -4132,7 +4132,7 @@
         },
         {
           "nombre": "Asier del Río",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "01/02/03",
           "altura": "-",
@@ -4142,7 +4142,7 @@
         },
         {
           "nombre": "Marcos Bustillo",
-          "numero": "-",
+          "numero": 15,
           "posicion": "MCO",
           "nacim": "12/01/01",
           "altura": "1.84",
@@ -4152,7 +4152,7 @@
         },
         {
           "nombre": "Leandro Martínez",
-          "numero": "-",
+          "numero": 10,
           "posicion": "EI",
           "nacim": "07/07/94",
           "altura": "1.75",
@@ -4162,7 +4162,7 @@
         },
         {
           "nombre": "Asier Córdoba",
-          "numero": "-",
+          "numero": 18,
           "posicion": "EI",
           "nacim": "31/03/00",
           "altura": "1.84",
@@ -4172,7 +4172,7 @@
         },
         {
           "nombre": "Alfred Planas",
-          "numero": "-",
+          "numero": 7,
           "posicion": "ED",
           "nacim": "15/02/96",
           "altura": "-",
@@ -4192,7 +4192,7 @@
         },
         {
           "nombre": "Diego Aznar",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "20/09/03",
           "altura": "-",
@@ -4450,7 +4450,7 @@
       "plantilla": [
         {
           "nombre": "Diego Altube",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "22/02/00",
           "altura": "1.88",
@@ -4460,7 +4460,7 @@
         },
         {
           "nombre": "Fermín Sobrón",
-          "numero": 13,
+          "numero": 1,
           "posicion": "PT",
           "nacim": "15/01/95",
           "altura": "1.77",
@@ -4480,7 +4480,7 @@
         },
         {
           "nombre": "Aleix Gorjón",
-          "numero": "-",
+          "numero": 2,
           "posicion": "CT",
           "nacim": "26/09/02",
           "altura": "1.82",
@@ -4500,7 +4500,7 @@
         },
         {
           "nombre": "Carlos Gutiérrez",
-          "numero": "-",
+          "numero": 23,
           "posicion": "CT",
           "nacim": "04/11/91",
           "altura": "1.92",
@@ -4510,7 +4510,7 @@
         },
         {
           "nombre": "Sergio Nieto",
-          "numero": "-",
+          "numero": 3,
           "posicion": "LI",
           "nacim": "21/01/99",
           "altura": "1.73",
@@ -4580,7 +4580,7 @@
         },
         {
           "nombre": "Guillermo Macho",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "03/01/03",
           "altura": "-",
