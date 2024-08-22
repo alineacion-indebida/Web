@@ -1344,7 +1344,7 @@
         },
         {
           "nombre": "Raúl Dacosta",
-          "numero": 7,
+          "numero": "-",
           "posicion": "EI",
           "nacim": "26/01/02",
           "altura": 1.75,
@@ -1354,7 +1354,7 @@
         },
         {
           "nombre": "Ángel Alarcón",
-          "numero": "-",
+          "numero": 7,
           "posicion": "EI",
           "nacim": "15/05/04",
           "altura": 1.75,
@@ -1408,7 +1408,7 @@
       "plantilla": [
         {
           "nombre": "Álex Padilla",
-          "numero": 1,
+          "numero": 13,
           "posicion": "PT",
           "nacim": "01/09/03",
           "altura": "1.90",
@@ -1418,13 +1418,23 @@
         },
         {
           "nombre": "Oier Gastesi",
-          "numero": 13,
+          "numero": 1,
           "posicion": "PT",
           "nacim": "30/10/03",
           "altura": "1.90",
           "fichaje": "jul-23",
           "procedencia": "CD Basconia",
           "contrato": "2026"
+        },
+        {
+          "nombre": "Mikel Santos",
+          "numero": 25,
+          "posicion": "PT",
+          "nacim": "01/11/04",
+          "altura": "1.82",
+          "fichaje": "jul-24",
+          "procedencia": "CD Basconia",
+          "contrato": "2025"
         },
         {
           "nombre": "Jon de Luis",
@@ -1458,7 +1468,7 @@
         },
         {
           "nombre": "Eneko Ebro",
-          "numero": "-",
+          "numero": 27,
           "posicion": "CT",
           "nacim": "29/09/03",
           "altura": "-",
@@ -1468,7 +1478,7 @@
         },
         {
           "nombre": "Ander Izaguirre",
-          "numero": "-",
+          "numero": 14,
           "posicion": "CT",
           "nacim": "28/06/03",
           "altura": "-",
@@ -1478,7 +1488,7 @@
         },
         {
           "nombre": "Adama Boiro",
-          "numero": 11,
+          "numero": 20,
           "posicion": "LI",
           "nacim": "22/06/02",
           "altura": "1.83",
@@ -1488,7 +1498,7 @@
         },
         {
           "nombre": "Javier Elías",
-          "numero": "-",
+          "numero": 14,
           "posicion": "LI",
           "nacim": "01/11/04",
           "altura": "1.84",
@@ -1498,7 +1508,7 @@
         },
         {
           "nombre": "Johaneko Louis-Jean",
-          "numero": 22,
+          "numero": 24,
           "posicion": "LD",
           "nacim": "28/06/04",
           "altura": "1.75",
@@ -1508,22 +1518,12 @@
         },
         {
           "nombre": "Xabi Irurita",
-          "numero": "-",
+          "numero": 22,
           "posicion": "LD",
           "nacim": "02/01/02",
           "altura": "1.85",
           "fichaje": "jul-24",
           "procedencia": "CD Tudelano",
-          "contrato": "2025"
-        },
-        {
-          "nombre": "Erlantz Palacín",
-          "numero": 2,
-          "posicion": "LD",
-          "nacim": "10/02/03",
-          "altura": "1.83",
-          "fichaje": "jul-23",
-          "procedencia": "CD Basconia",
           "contrato": "2025"
         },
         {
@@ -1538,7 +1538,7 @@
         },
         {
           "nombre": "Eneko Aguilar",
-          "numero": "-",
+          "numero": 17,
           "posicion": "MC",
           "nacim": "21/04/00",
           "altura": "1.78",
@@ -1568,7 +1568,7 @@
         },
         {
           "nombre": "Junior Bita",
-          "numero": 14,
+          "numero": 15,
           "posicion": "MC",
           "nacim": "08/06/05",
           "altura": "1.82",
@@ -1578,7 +1578,7 @@
         },
         {
           "nombre": "Eñaut Lete",
-          "numero": "-",
+          "numero": 28,
           "posicion": "MC",
           "nacim": "08/06/04",
           "altura": "-",
@@ -1588,7 +1588,7 @@
         },
         {
           "nombre": "Javi Sola",
-          "numero": "-",
+          "numero": 26,
           "posicion": "MC",
           "nacim": "04/10/05",
           "altura": "-",
@@ -1598,7 +1598,7 @@
         },
         {
           "nombre": "Ibón Sánchez",
-          "numero": 12,
+          "numero": 10,
           "posicion": "MCO",
           "nacim": "08/06/04",
           "altura": "-",
@@ -1608,7 +1608,7 @@
         },
         {
           "nombre": "Peio Canales",
-          "numero": 28,
+          "numero": 18,
           "posicion": "MCO",
           "nacim": "17/01/05",
           "altura": "1.75",
@@ -1628,7 +1628,7 @@
         },
         {
           "nombre": "Aingeru Olabarrieta",
-          "numero": 27,
+          "numero": 11,
           "posicion": "ED",
           "nacim": "14/11/05",
           "altura": "1.82",
@@ -1638,7 +1638,7 @@
         },
         {
           "nombre": "Endika Buján",
-          "numero": "-",
+          "numero": 21,
           "posicion": "ED",
           "nacim": "16/01/03",
           "altura": "1.70",
@@ -1648,7 +1648,7 @@
         },
         {
           "nombre": "Iker Varela",
-          "numero": 20,
+          "numero": 7,
           "posicion": "ED",
           "nacim": "01/13/03",
           "altura": "1.88",
@@ -1658,7 +1658,7 @@
         },
         {
           "nombre": "Ekain Azkune",
-          "numero": "-",
+          "numero": 19,
           "posicion": "DC",
           "nacim": "26/01/01",
           "altura": "1.80",
@@ -1668,7 +1668,7 @@
         },
         {
           "nombre": "Ibai Sanz",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "13/08/03",
           "altura": "1.83",
@@ -1678,7 +1678,7 @@
         },
         {
           "nombre": "Asier Hierro",
-          "numero": "-",
+          "numero": 23,
           "posicion": "DC",
           "nacim": "06/05/05",
           "altura": "º.90",
