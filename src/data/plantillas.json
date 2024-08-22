@@ -1996,7 +1996,7 @@
         },
         {
           "nombre": "Rodri Suárez",
-          "numero": 20,
+          "numero": 4,
           "posicion": "CT",
           "nacim": "14/11/02",
           "altura": "1.86",
@@ -2006,7 +2006,7 @@
         },
         {
           "nombre": "Quique Fornos",
-          "numero": 15,
+          "numero": 5,
           "posicion": "CT",
           "nacim": "01/01/97",
           "altura": "1.79",
@@ -2016,7 +2016,7 @@
         },
         {
           "nombre": "Víctor Ruiz",
-          "numero": "-",
+          "numero": 15,
           "posicion": "CT",
           "nacim": "12/04/95",
           "altura": "1.76",
@@ -2026,7 +2026,7 @@
         },
         {
           "nombre": "Eneko Satrústegui",
-          "numero": "-",
+          "numero": 3,
           "posicion": "CT",
           "nacim": "25/09/90",
           "altura": "1.87",
@@ -2056,7 +2056,7 @@
         },
         {
           "nombre": "Guzmán Ortega",
-          "numero": "-",
+          "numero": 12,
           "posicion": "LD",
           "nacim": "12/01/04",
           "altura": "-",
@@ -2076,7 +2076,7 @@
         },
         {
           "nombre": "Txus Alba",
-          "numero": "-",
+          "numero": 20,
           "posicion": "MC",
           "nacim": "31/01/03",
           "altura": "1.73",
@@ -2096,7 +2096,7 @@
         },
         {
           "nombre": "Sergi Maestre",
-          "numero": "-",
+          "numero": 16,
           "posicion": "MC",
           "nacim": "18/11/90",
           "altura": "1.87",
@@ -2116,7 +2116,7 @@
         },
         {
           "nombre": "Agustín Pastoriza",
-          "numero": "-",
+          "numero": 22,
           "posicion": "EI",
           "nacim": "31/01/96",
           "altura": "1.77",
@@ -2136,7 +2136,7 @@
         },
         {
           "nombre": "Juan Artola",
-          "numero": "-",
+          "numero": 21,
           "posicion": "ED",
           "nacim": "07/04/00",
           "altura": "1.77",
@@ -2156,7 +2156,7 @@
         },
         {
           "nombre": "Manu Justo",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "09/02/96",
           "altura": "1.74",
@@ -2166,7 +2166,7 @@
         },
         {
           "nombre": "Antón Escobar",
-          "numero": "-",
+          "numero": 19,
           "posicion": "DC",
           "nacim": "16/06/98",
           "altura": "1.79",
@@ -2176,7 +2176,7 @@
         },
         {
           "nombre": "David López",
-          "numero": "-",
+          "numero": 23,
           "posicion": "DC",
           "nacim": "25/07/04",
           "altura": "-",
@@ -2220,7 +2220,7 @@
         },
         {
           "nombre": "Abel Pascual",
-          "numero": 20,
+          "numero": 5,
           "posicion": "CT",
           "nacim": "24/02/95",
           "altura": "1.83",
@@ -2230,7 +2230,7 @@
         },
         {
           "nombre": "Sergi Molina",
-          "numero": "-",
+          "numero": 3,
           "posicion": "CT",
           "nacim": "21/07/00",
           "altura": "1.89",
@@ -2260,7 +2260,7 @@
         },
         {
           "nombre": "Gabriel Palmero",
-          "numero": "-",
+          "numero": 18,
           "posicion": "LI",
           "nacim": "15/01/00",
           "altura": "-",
@@ -2320,7 +2320,7 @@
         },
         {
           "nombre": "Fernán Ferreiroá",
-          "numero": 7,
+          "numero": 23,
           "posicion": "MC",
           "nacim": "10/02/95",
           "altura": "1.69",
@@ -2350,7 +2350,7 @@
         },
         {
           "nombre": "Ignacio Tellechea",
-          "numero": "-",
+          "numero": 20,
           "posicion": "EI",
           "nacim": "11/10/96",
           "altura": "-",
@@ -2380,7 +2380,7 @@
         },
         {
           "nombre": "David Martinez\"Davo\"",
-          "numero": "-",
+          "numero": 19,
           "posicion": "DC",
           "nacim": "02/09/00",
           "altura": "1.75",
