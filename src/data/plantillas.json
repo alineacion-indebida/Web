@@ -4176,7 +4176,7 @@
       "plantilla": [
         {
           "nombre": "Diego Fuoli",
-          "numero": "-",
+          "numero": 1,
           "posicion": "PT",
           "nacim": "20/10/97",
           "altura": "1.88",
@@ -4196,7 +4196,7 @@
         },
         {
           "nombre": "Vadik Murria",
-          "numero": "-",
+          "numero": 5,
           "posicion": "CT",
           "nacim": "03/09/01",
           "altura": "1.88",
@@ -4216,7 +4216,7 @@
         },
         {
           "nombre": "Mario Camero",
-          "numero": "-",
+          "numero": 16,
           "posicion": "CT",
           "nacim": "18/02/04",
           "altura": "1.78",
@@ -4226,7 +4226,7 @@
         },
         {
           "nombre": "Juan Rodríguez",
-          "numero": "-",
+          "numero": 15,
           "posicion": "CT",
           "nacim": "01/03/02",
           "altura": "1.86",
@@ -4236,7 +4236,7 @@
         },
         {
           "nombre": "Lluis Llácer",
-          "numero": "-",
+          "numero": 22,
           "posicion": "LI",
           "nacim": "05/10/99",
           "altura": "1.78",
@@ -4246,7 +4246,7 @@
         },
         {
           "nombre": "Chechu Martínez",
-          "numero": "-",
+          "numero": 3,
           "posicion": "LI",
           "nacim": "17/08/01",
           "altura": "1.87",
@@ -4256,7 +4256,7 @@
         },
         {
           "nombre": "Sergio Camus",
-          "numero": "-",
+          "numero": 2,
           "posicion": "LD",
           "nacim": "19/04/97",
           "altura": "1.76",
@@ -4265,8 +4265,18 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Jannick Buyla",
+          "nombre": "Edward Cedeño",
           "numero": "-",
+          "posicion": "MCD",
+          "nacim": "05/07/03",
+          "altura": "1.88",
+          "fichaje": "ago-24",
+          "procedencia": "Potros Del Este (Panamá)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jannick Buyla",
+          "numero": 14,
           "posicion": "MC",
           "nacim": "06/10/98",
           "altura": "1.80",
@@ -4276,7 +4286,7 @@
         },
         {
           "nombre": "Borja Romero",
-          "numero": "-",
+          "numero": 8,
           "posicion": "MC",
           "nacim": "23/10/92",
           "altura": "1.84",
@@ -4286,7 +4296,7 @@
         },
         {
           "nombre": "Jorge Mencía",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "01/01/02",
           "altura": "-",
@@ -4296,7 +4306,7 @@
         },
         {
           "nombre": "Pepe Mena",
-          "numero": "-",
+          "numero": 10,
           "posicion": "MCO",
           "nacim": "15/05/98",
           "altura": "1.75",
@@ -4306,7 +4316,7 @@
         },
         {
           "nombre": "Javi Martín",
-          "numero": "-",
+          "numero": 11,
           "posicion": "EI",
           "nacim": "16/09/98",
           "altura": "1.81",
@@ -4316,7 +4326,7 @@
         },
         {
           "nombre": "Marc Álvarez",
-          "numero": "-",
+          "numero": 18,
           "posicion": "EI",
           "nacim": "07/06/01",
           "altura": "1.75",
@@ -4336,7 +4346,7 @@
         },
         {
           "nombre": "Javi Areso",
-          "numero": 18,
+          "numero": 7,
           "posicion": "ED",
           "nacim": "03/09/97",
           "altura": "1.87",
@@ -4356,7 +4366,7 @@
         },
         {
           "nombre": "Adrián Fuentes",
-          "numero": "-",
+          "numero": 19,
           "posicion": "DC",
           "nacim": "17/07/96",
           "altura": "1.86",
@@ -4376,7 +4386,7 @@
         },
         {
           "nombre": "David Cubillas",
-          "numero": 11,
+          "numero": 9,
           "posicion": "DC",
           "nacim": "19/06/90",
           "altura": "1.91",
