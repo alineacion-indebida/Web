@@ -328,7 +328,7 @@
         },
         {
           "nombre": "Aly Coulibaly",
-          "numero": "-",
+          "numero": 18,
           "posicion": "MC",
           "nacim": "08/04/96",
           "altura": "1.83",
@@ -432,7 +432,7 @@
       "plantilla": [
         {
           "nombre": "Nico Ratti",
-          "numero": "-",
+          "numero": 1,
           "posicion": "PT",
           "nacim": "18/09/93",
           "altura": "1.79",
@@ -442,7 +442,7 @@
         },
         {
           "nombre": "Oier Olazábal",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "14/09/89",
           "altura": "1.89",
@@ -452,7 +452,7 @@
         },
         {
           "nombre": "Diego Alende",
-          "numero": "-",
+          "numero": 23,
           "posicion": "CT",
           "nacim": "25/08/97",
           "altura": "1.83",
@@ -462,7 +462,7 @@
         },
         {
           "nombre": "César Morgado",
-          "numero": "-",
+          "numero": 5,
           "posicion": "CT",
           "nacim": "26/01/93",
           "altura": "1.85",
@@ -472,7 +472,7 @@
         },
         {
           "nombre": "Pablo Trigueros",
-          "numero": "-",
+          "numero": 4,
           "posicion": "CT",
           "nacim": "04/04/93",
           "altura": "1.88",
@@ -482,7 +482,7 @@
         },
         {
           "nombre": "Marc Bombardó",
-          "numero": "-",
+          "numero": 17,
           "posicion": "CT",
           "nacim": "23/11/05",
           "altura": "1.85",
@@ -492,7 +492,7 @@
         },
         {
           "nombre": "Martí Vilá",
-          "numero": "-",
+          "numero": 20,
           "posicion": "LI",
           "nacim": "26/05/99",
           "altura": "1.66",
@@ -502,7 +502,7 @@
         },
         {
           "nombre": "Joel Arumí",
-          "numero": "-",
+          "numero": 2,
           "posicion": "LI",
           "nacim": "26/04/00",
           "altura": "1.80",
@@ -512,7 +512,7 @@
         },
         {
           "nombre": "Jesús Clemente",
-          "numero": "-",
+          "numero": 3,
           "posicion": "LD",
           "nacim": "08/09/00",
           "altura": "1.83",
@@ -522,7 +522,7 @@
         },
         {
           "nombre": "Pau Casadesús",
-          "numero": "-",
+          "numero": 24,
           "posicion": "LD",
           "nacim": "30/10/03",
           "altura": "1.82",
@@ -532,7 +532,7 @@
         },
         {
           "nombre": "Sergio Molina",
-          "numero": "-",
+          "numero": 14,
           "posicion": "MC",
           "nacim": "18/02/96",
           "altura": "1.78",
@@ -542,7 +542,7 @@
         },
         {
           "nombre": "Álvaro Peña",
-          "numero": "-",
+          "numero": 16,
           "posicion": "MC",
           "nacim": "24/10/91",
           "altura": "1.79",
@@ -552,7 +552,7 @@
         },
         {
           "nombre": "Erik Morán",
-          "numero": "-",
+          "numero": 8,
           "posicion": "MC",
           "nacim": "25/05/91",
           "altura": "1.87",
@@ -562,7 +562,7 @@
         },
         {
           "nombre": "Moha Moukhliss",
-          "numero": "-",
+          "numero": 15,
           "posicion": "MC",
           "nacim": "06/02/00",
           "altura": "1.69",
@@ -572,7 +572,7 @@
         },
         {
           "nombre": "Assane Ndiaye",
-          "numero": "-",
+          "numero": 12,
           "posicion": "MC",
           "nacim": "10/10/99",
           "altura": "-",
@@ -592,7 +592,7 @@
         },
          {
           "nombre": "Alberto Solís",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MCO",
           "nacim": "01/01/98",
           "altura": "1.78",
@@ -602,7 +602,7 @@
         },
         {
           "nombre": "Álvaro Martín",
-          "numero": "-",
+          "numero": 10,
           "posicion": "EI",
           "nacim": "15/01/01",
           "altura": "1.74",
@@ -612,7 +612,7 @@
         },
         {
           "nombre": "Christos Almpanis",
-          "numero": "-",
+          "numero": 19,
           "posicion": "EI",
           "nacim": "05/11/94",
           "altura": "1.84",
@@ -622,7 +622,7 @@
         },
         {
           "nombre": "Juan David Fuentes",
-          "numero": "-",
+          "numero": 17,
           "posicion": "EI",
           "nacim": "19/05/03",
           "altura": "-",
@@ -632,7 +632,7 @@
         },
         {
           "nombre": "Josep Cerdà",
-          "numero": "-",
+          "numero": 21,
           "posicion": "EI",
           "nacim": "04/02/03",
           "altura": "1.75",
@@ -642,7 +642,7 @@
         },
         {
           "nombre": "Manu Nieto",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "29/03/98",
           "altura": "1.83",
@@ -652,7 +652,7 @@
         },
         {
           "nombre": "Lautaro de León",
-          "numero": "-",
+          "numero": 11,
           "posicion": "DC",
           "nacim": "09/02/01",
           "altura": "1.85",
@@ -662,7 +662,7 @@
         },
         {
           "nombre": "Berto Rosas",
-          "numero": "-",
+          "numero": 22,
           "posicion": "DC",
           "nacim": "19/08/02",
           "altura": "1.79",
