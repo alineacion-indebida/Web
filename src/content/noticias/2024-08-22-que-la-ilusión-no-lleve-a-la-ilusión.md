@@ -1,5 +1,5 @@
 ---
-title: "Que la ilusión no lleve a la ilusión "
+title: "Que la ilusión no lleve a una ilusión "
 description: "Arranca la nueva temporada con la ilusión por bandera en
   Unionistas de Salamanca. Tres séptimos puestos y un peñaldito más arriba en el
   perfil de fichajes dan para ello "
@@ -11,7 +11,7 @@ tags:
   - "#Ilusion"
 autor: "Jaime García (Món) "
 ---
-La palabra más repetida en el universo unionista desde que este verano ha sido Ilusión. Directivos, fichajes, Director Deportivo, entrenador, aficionados... En prens y en redes ha sido el vocablo más usado. Y mucho peso también en una campaña de socios que lleva por lema "Creemos" y que ha batido el récord absoluto de cualquier otra temporada. Y salva el tope del aforo del feudo blanquinegro, (un campo municipal Reina Sofía sobre el que planea el nonato plan director que se supone contendrá su ampliación) porque los simpatizantes no cuentan como *socios de asiento* y tendrán que confirmar su presencia para poder optar a entradas entre las que queden o sean liberadas por los socios no simpatizantes.
+La palabra más repetida en el universo unionista desde que arrancó este verano ha sido Ilusión. Directivos, fichajes, Director Deportivo, entrenador, aficionados... En prensa y en redes ha sido el vocablo más usado. Y mucho peso también en una campaña de socios que lleva por lema "Creemos" y que ha batido el récord absoluto de cualquier otra temporada. Y salva el tope del aforo del feudo blanquinegro, (un campo municipal Reina Sofía sobre el que planea el nonato plan director que se supone contendrá su ampliación) porque los simpatizantes no cuentan como *socios de asiento* y tendrán que confirmar su presencia para poder optar a entradas entre las que queden o sean liberadas por los socios no simpatizantes.
 
 *Ilusión: Sentimiento de satisfacción e interés en relación con algo*
 
