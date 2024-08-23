@@ -5,11 +5,14 @@ import { Temporadas } from "@/data/datos"
 ---
 
 <section class="mt-16 px-4">
+	<Typography as="h3" variant="h3" color="white" class="text-center">
+		Todos nuestros datos
+	</Typography>
 	{
 		Temporadas.map(({ year, viajes, programas, horas, km, partidos }) => (
 			<>
-				<Typography as="h3" variant="h3" color="white" class="text-center">
-					Nuestra temporada {year}
+				<Typography as="h4" variant="h4" color="white" class="text-center">
+					Temporada {year}
 				</Typography>
                 <section class="my-6 grid w-full grid-cols-2 lg:grid-cols-4 items-center justify-center gap-y-6 gap-x-2">
                     <CardData dato={partidos} texto="Partidos en directo" />
@@ -17,7 +20,6 @@ import { Temporadas } from "@/data/datos"
                     <CardData dato={horas} texto="Horas en directo" />
                     <CardData dato={programas} texto="Programas" />
                 </section>
-				<p>Para ofrecerte toda la actualidad deportiva.</p>
 			</>
 		))
 	}
