@@ -9,6 +9,16 @@
       "local": false,
       "rival": "Sestao River Club",
       "estadio": "Las Llanas"
+    },
+    {
+      "id": 2,
+      "slug": "2425-unionistas-bilbao-athletic",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-08-31T21:00:00.000+01:00",
+      "jornada": "2",
+      "local": true,
+      "rival": "Bilbao Athletic",
+      "estadio": "Reina Sofía"
     }
   ]
 }

@@ -6,7 +6,6 @@ const { videos } = Astro.props
 interface VideoType {
 	id: string
 	slug: string
-	image: string
 	title: string
 }
 ---
@@ -16,7 +15,7 @@ interface VideoType {
 	{
 		videos?.map((video: VideoType) => (
 			<article class="flex w-full flex-col items-start">
-				<LiteYouTube videoId={video.slug} backgroundImage={video.image} />
+				<LiteYouTube videoId={video.slug} backgroundImage={`https://i.ytimg.com/vi/${video.slug}/hqdefault.jpg`} />
 				<div class="relative">
 					<h2 class="mt-3 text-xl font-semibold leading-6 hover:text-accent text-white">
 						<a href={`/videos/${video.slug}/`}>
