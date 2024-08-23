@@ -8,7 +8,7 @@ imagen: /img/noticias/screenshot_20240822_162158_whatsapp.jpg
 categorias:
   - Apuntes desde la Panelais
 tags:
-  - "#Ilusion"
+  - "Ilusion"
 autor: "Jaime García (Món) "
 ---
 La palabra más repetida en el universo unionista desde que arrancó este verano ha sido Ilusión. Directivos, fichajes, Director Deportivo, entrenador, aficionados... En prensa y en redes ha sido el vocablo más usado. Y mucho peso también en una campaña de socios que lleva por lema "Creemos" y que ha batido el récord absoluto de cualquier otra temporada. Y salva el tope del aforo del feudo blanquinegro, (un campo municipal Reina Sofía sobre el que planea el nonato plan director que se supone contendrá su ampliación) porque los simpatizantes no cuentan como *socios de asiento* y tendrán que confirmar su presencia para poder optar a entradas entre las que queden o sean liberadas por los socios no simpatizantes.
