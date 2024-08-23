@@ -1,0 +1,51 @@
+---
+import Layout from "@/layouts/Layout.astro"
+
+---
+
+<Layout
+	title="Contacta con nosotros - Alineación indebida - El programa del deporte salmantino"
+	description="La Web Oficial del programa Alineación Indebida. La mejor información de Unionistas de Salamanca y todo el deporte salmantino"
+>
+	<section class="overflow-x-hidden">
+		<div class="relative">
+			<div class="flex flex-col items-center">
+				<h1 class="mb-4 mt-6 text-center text-5xl font-bold">
+					<span class="text-gradient">Alineación indebida</span>
+				</h1>
+				<h2 class="mb-4 text-center text-2xl font-bold">Contacta con nosotros</h2>
+			</div>
+		</div>
+		<div class="mt-4 text-justify">
+			<p>Si desea ponerse en contacto con nuestro equipo envíe un correo electrónico a alineacionindebida12@gmail.com.</p>
+		</div>
+	</section>
+</Layout>
+
+<style>
+	.text-gradient {
+		background-image: var(--color-accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-size: 400%;
+		background-position: 0%;
+	}
+	.instructions {
+		margin-bottom: 2rem;
+		border:
+			1px solid var(--color-accent-light),
+			25%;
+		background: linear-gradient(var(--color-accent-dark), 66%), var(--color-accent-dark), 33%;
+		padding: 1.5rem;
+		border-radius: 8px;
+	}
+	.instructions strong {
+		color: var(--color-accent-light);
+	}
+	.link-card-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		gap: 2rem;
+		padding: 0;
+	}
+</style>

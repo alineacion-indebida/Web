@@ -5,7 +5,7 @@ description: Todos los datos que debes llevar en la cabeza para ver el
 date: 2024-05-24T20:08:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los números de Pol
+  - Los Números De Pol
 tags:
   - Primera Federación
   - Unionistas
