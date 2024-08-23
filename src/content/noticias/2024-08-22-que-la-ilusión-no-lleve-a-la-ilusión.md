@@ -31,6 +31,6 @@ Unionistas de Salamanca no ha hecho una mala pretemporada pero el inicio de cale
 
 Hay quien dice que a los equipos que se presumen competitivos o trasatlántico mejor cogerlos al principio antes de que ajusten piezas y alcancen velocidad de crucero. Pero es que este factor también juega para El club charro. Ha señalado el míster que el 80% del planten es nuevo que los jugadores tienen que concocerse y que hay que ajustar cosas. Igual que creo que tenemos chispa de tres cuartos hacia arriba se nos ha visto algo espesos en salida de balón, con algunas faltas de entendimiento entre centrales, cierta vulnerabilidad en ABP. El centro del campo ha estado muy mediatizado por lesiones de Tur y Rabadán. 
 
-Como Ícaro, que tenía las alas para alzarse y volar lejos de la isla, se trata de no volar tan alto ni demasiado pronto y que el Sol derrita la cera las conjunta, pero jamás caer en el desanimo volando tan bajo que el mar las moje impidiendo remontar el vuelo. 
+Como Ícaro, que tenía las alas para alzarse y volar lejos de la isla, se trata de no volar tan alto ni demasiado pronto y que el Sol derrita la cera que las conjunta, pero jamás caer en el desánimo volando tan bajo que el mar las moje impidiendo remontar el vuelo. 
 
 Arranca la 24/25. Quedan un par de nombres por llegar. Un Las llanas vacío con ecos covidianos espera. Escenario raro, casi pretemporadil que imagino estorba a la tensión competitiva. El verde dictará sentencia. Una masa de locos itinerantes cree
