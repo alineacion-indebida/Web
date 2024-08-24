@@ -298,7 +298,7 @@
         },
         {
           "nombre": "Jordi Calavera",
-          "numero": 21,
+          "numero": 23,
           "posicion": "LD",
           "nacim": "02/08/95",
           "altura": "1.80",
@@ -318,7 +318,7 @@
         },
         {
           "nombre": "Enol Coto",
-          "numero": "-",
+          "numero": 20,
           "posicion": "LD",
           "nacim": "23/03/01",
           "altura": "1.74",
@@ -388,7 +388,7 @@
         },
         {
           "nombre": "Álvaro Marín",
-          "numero": "-",
+          "numero": 21,
           "posicion": "DC",
           "nacim": "01/05/03",
           "altura": "1.87",
