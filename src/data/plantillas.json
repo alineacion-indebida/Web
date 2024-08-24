@@ -4490,7 +4490,7 @@
         },
         {
           "nombre": "José Carlos Ramírez",
-          "numero": "-",
+          "numero": 4,
           "posicion": "CT",
           "nacim": "10/05/96",
           "altura": "1.82",
@@ -4540,7 +4540,7 @@
         },
         {
           "nombre": "Julen Castañeda",
-          "numero": 22,
+          "numero": 14,
           "posicion": "LI",
           "nacim": "14/11/90",
           "altura": "1.80",
@@ -4570,7 +4570,7 @@
         },
         {
           "nombre": "Carlos Ramos",
-          "numero": 10,
+          "numero": 8,
           "posicion": "MC",
           "nacim": "31/08/94",
           "altura": "1.82",
@@ -4590,7 +4590,7 @@
         },
         {
           "nombre": "Juanan Del Álamo",
-          "numero": 8,
+          "numero": "-",
           "posicion": "MC",
           "nacim": "08/11/93",
           "altura": "1.86",
@@ -4600,7 +4600,7 @@
         },
         {
           "nombre": "Guillermo Macho",
-          "numero": 6,
+          "numero": 10,
           "posicion": "MC",
           "nacim": "03/01/03",
           "altura": "-",
@@ -4660,7 +4660,7 @@
         },
         {
           "nombre": "Rafa Tresaco",
-          "numero": "-",
+          "numero": 20,
           "posicion": "DC",
           "nacim": "24/08/00",
           "altura": "1.80",
