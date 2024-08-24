@@ -3838,7 +3838,7 @@
         },
         {
           "nombre": "Javi Domínguez",
-          "numero": "-",
+          "numero": 5,
           "posicion": "CT",
           "nacim": "26/03/01",
           "altura": "1.95",
@@ -3847,8 +3847,18 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Finley Munroe",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "08/02/05",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "Aston Villa U21 (Inglaterra)",
+          "contrato": "2025"
+        },
+        {
           "nombre": "José Carlos Márquez",
-          "numero": 17,
+          "numero": 3,
           "posicion": "LI",
           "nacim": "17/04/97",
           "altura": "-",
@@ -3858,7 +3868,7 @@
         },
         {
           "nombre": "Sergio Santos",
-          "numero": "-",
+          "numero": 2,
           "posicion": "LD",
           "nacim": "03/01/01",
           "altura": "1.80",
@@ -3888,7 +3898,7 @@
         },
         {
           "nombre": "Iker Bilbao",
-          "numero": "-",
+          "numero": 8,
           "posicion": "MC",
           "nacim": "20/03/96",
           "altura": "1.82",
@@ -3898,7 +3908,7 @@
         },
         {
           "nombre": "Alberto Quintana",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "05/10/01",
           "altura": "1.86",
@@ -3938,7 +3948,7 @@
         },
         {
           "nombre": "Aitor Aranzabe",
-          "numero": "-",
+          "numero": 7,
           "posicion": "EI",
           "nacim": "28/06/98",
           "altura": "1.77",
@@ -3958,7 +3968,7 @@
         },
         {
           "nombre": "Koldo Obieta",
-          "numero": "-",
+          "numero": 11,
           "posicion": "DC",
           "nacim": "08/10/93",
           "altura": "1.87",
@@ -3968,7 +3978,7 @@
         },
         {
           "nombre": "Sergio Benito",
-          "numero": "-",
+          "numero": 20,
           "posicion": "DC",
           "nacim": "23/03/99",
           "altura": "1.74",
