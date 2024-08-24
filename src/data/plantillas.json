@@ -2434,7 +2434,7 @@
         },
         {
           "nombre": "Alberto Varo",
-          "numero": 13,
+          "numero": 1,
           "posicion": "PT",
           "nacim": "18/03/93",
           "altura": "1.91",
@@ -2444,7 +2444,7 @@
         },
         {
           "nombre": "Gorka Pérez",
-          "numero": "-",
+          "numero": 3,
           "posicion": "CT",
           "nacim": "19/06/95",
           "altura": "1.86",
@@ -2454,7 +2454,7 @@
         },
         {
           "nombre": "Antonio Leal",
-          "numero": 2,
+          "numero": 15,
           "posicion": "CT",
           "nacim": "28/01/99",
           "altura": "1.86",
@@ -2474,7 +2474,7 @@
         },
         {
           "nombre": "Iván de la Peña",
-          "numero": "-",
+          "numero": 2,
           "posicion": "CT",
           "nacim": "09/04/01",
           "altura": "-",
@@ -2484,7 +2484,7 @@
         },
         {
           "nombre": "Nil Jiménez",
-          "numero": "-",
+          "numero": 7,
           "posicion": "LI",
           "nacim": "24/04/00",
           "altura": "1.84",
@@ -2554,7 +2554,7 @@
         },
          {
           "nombre": "Álex López",
-          "numero": "-",
+          "numero": 16,
           "posicion": "MC",
           "nacim": "02/06/97",
           "altura": "1.76",
@@ -2594,7 +2594,7 @@
         },
         {
           "nombre": "Jaume Jardí",
-          "numero": 22,
+          "numero": 10,
           "posicion": "ED",
           "nacim": "07/04/02",
           "altura": "1.75",
@@ -2604,7 +2604,7 @@
         },
         {
           "nombre": "Víctor Narro",
-          "numero": "-",
+          "numero": 22,
           "posicion": "ED",
           "nacim": "27/05/99",
           "altura": "1.76",
@@ -2624,7 +2624,7 @@
         },
         {
           "nombre": "Antonio Cortés\"Antoñín\"",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "16/04/02",
           "altura": "1.82",
