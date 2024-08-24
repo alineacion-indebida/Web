@@ -1985,7 +1985,7 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Alejandro Fernández",
+          "nombre": "Alejandro Fernández\"Amigo\"",
           "numero": 13,
           "posicion": "PT",
           "nacim": "17/01/01",
@@ -2126,7 +2126,7 @@
         },
         {
           "nombre": "Santi Samanes",
-          "numero": "-",
+          "numero": 11,
           "posicion": "EI",
           "nacim": "28/07/95",
           "altura": "1.76",
