@@ -2370,7 +2370,7 @@
         },
         {
           "nombre": "Miguel Berlanga",
-          "numero": "-",
+          "numero": 7,
           "posicion": "ED",
           "nacim": "10/10/00",
           "altura": "1.87",
@@ -2390,12 +2390,22 @@
         },
         {
           "nombre": "Diego Gómez",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "13/06/99",
           "altura": "-",
           "fichaje": "jul-24",
           "procedencia": "CF Fuenlabrada",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Maroto",
+          "numero": 15,
+          "posicion": "DC",
+          "nacim": "26/08/04",
+          "altura": "-",
+          "fichaje": "ago-23",
+          "procedencia": "Gimnástica Segoviana Juvenil A",
           "contrato": "2025"
         }
       ]
