@@ -2843,7 +2843,17 @@
           "nacim": "23/01/89",
           "altura": "1.85",
           "fichaje": "jul-23",
-          "procedencia": "Cçordoba CF",
+          "procedencia": "Córdoba CF",
+          "contrato": "2025"
+        },
+        {
+          "nombre": Martín Ochoa",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "20/12/04",
+          "altura": "1.78",
+          "fichaje": "ago-24",
+          "procedencia": "RC Deportivo",
           "contrato": "2025"
         },
         {
