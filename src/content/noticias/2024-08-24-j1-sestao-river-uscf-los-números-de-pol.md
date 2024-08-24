@@ -52,8 +52,6 @@ RC Deportivo 5-0 Unionistas
 
 Real Oviedo 0-0 Unionistas
 
-Sestao River 4-0 Palencia CF
-
 Unionistas 1-0 RV Promesas
 
 
