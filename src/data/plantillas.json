@@ -2847,7 +2847,7 @@
           "contrato": "2025"
         },
         {
-          "nombre": Martín Ochoa",
+          "nombre": "Martín Ochoa",
           "numero": "-",
           "posicion": "DC",
           "nacim": "20/12/04",
@@ -4002,7 +4002,7 @@
       "plantilla": [
         {
           "nombre": "Iago Herrerín",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "25/01/88",
           "altura": "1.87",
@@ -4012,7 +4012,7 @@
         },
         {
           "nombre": "Javi Garrido",
-          "numero": 13,
+          "numero": 1,
           "posicion": "PT",
           "nacim": "07/09/03",
           "altura": "1.87",
@@ -4072,7 +4072,7 @@
         },
         {
           "nombre": "Miguel Barandalla",
-          "numero": "-",
+          "numero": 12,
           "posicion": "LI",
           "nacim": "24/03/04",
           "altura": "1.80",
@@ -4092,7 +4092,7 @@
         },
         {
           "nombre": "José David Álvarez\"Joseda\"",
-          "numero": "-",
+          "numero": 2,
           "posicion": "LD",
           "nacim": "22/01/01",
           "altura": "1.83",
@@ -4102,7 +4102,7 @@
         },
         {
           "nombre": "Erlantz Palacín",
-          "numero": "-",
+          "numero": 17,
           "posicion": "LD",
           "nacim": "10/02/03",
           "altura": "1.83",
@@ -4132,7 +4132,7 @@
         },
         {
           "nombre": "Adrián Gómez",
-          "numero": "-",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "17/01/94",
           "altura": "1.82",
@@ -4142,7 +4142,7 @@
         },
         {
           "nombre": "Asier del Río",
-          "numero": 6,
+          "numero": "-",
           "posicion": "MC",
           "nacim": "01/02/03",
           "altura": "-",
@@ -4192,7 +4192,7 @@
         },
         {
           "nombre": "Ion Etxaniz",
-          "numero": "-",
+          "numero": 11,
           "posicion": "DC",
           "nacim": "10/01/91",
           "altura": "1.82",
