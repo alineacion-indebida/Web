@@ -3086,7 +3086,7 @@
       "plantilla": [
         {
           "nombre": "Pablo Valencia",
-          "numero": 1,
+          "numero": 13,
           "posicion": "PT",
           "nacim": "16/03/01",
           "altura": "1.88",
@@ -3096,7 +3096,7 @@
         },
         {
           "nombre": "Dimitrios Stamatakis",
-          "numero": 24,
+          "numero": 1,
           "posicion": "PT",
           "nacim": "23/04/03",
           "altura": "1.91",
@@ -3126,7 +3126,7 @@
         },
         {
           "nombre": "Diego Espejo",
-          "numero": "-",
+          "numero": 18,
           "posicion": "CT",
           "nacim": "18/08/02",
           "altura": "1.87",
@@ -3136,7 +3136,7 @@
         },
         {
           "nombre": "Álex Jiménez",
-          "numero": "-",
+          "numero": 35,
           "posicion": "CT",
           "nacim": "01/01/04",
           "altura": "-",
@@ -3146,7 +3146,7 @@
         },
         {
           "nombre": "Toni Herrero",
-          "numero": "-",
+          "numero": 3,
           "posicion": "LI",
           "nacim": "12/05/01",
           "altura": "1.79",
@@ -3154,9 +3154,19 @@
           "procedencia": "CE Sabadell",
           "contrato": "2025"
         },
+         {
+          "nombre": "Diego Moreno",
+          "numero": 2,
+          "posicion": "LD",
+          "nacim": "21/06/01",
+          "altura": "1.77",
+          "fichaje": "jul-20",
+          "procedencia": "CA Osasuna Juvenil A",
+          "contrato": "2026"
+        },
         {
           "nombre": "Mauro Echegoyen",
-          "numero": 18,
+          "numero": 6,
           "posicion": "MC",
           "nacim": "03/03/05",
           "altura": "-",
@@ -3176,7 +3186,7 @@
         },
         {
           "nombre": "Miguel Auría",
-          "numero": 34,
+          "numero": 10,
           "posicion": "MC",
           "nacim": "06/04/05",
           "altura": "1.79",
@@ -3206,7 +3216,7 @@
         },
         {
           "nombre": "Anai Morales",
-          "numero": "-",
+          "numero": 34,
           "posicion": "MCO",
           "nacim": "01/01/06",
           "altura": "-",
@@ -3216,7 +3226,7 @@
         },
         {
           "nombre": "Íñigo Arguibide",
-          "numero": 36,
+          "numero": 22,
           "posicion": "ED",
           "nacim": "19/04/05",
           "altura": "1.78",
@@ -3226,7 +3236,7 @@
         },
         {
           "nombre": "Nowend Lorenzo",
-          "numero": 29,
+          "numero": 11,
           "posicion": "ED",
           "nacim": "02/01/02",
           "altura": "1.81",
@@ -3236,7 +3246,7 @@
         },
         {
           "nombre": "Pablo Moreno",
-          "numero": "-",
+          "numero": 17,
           "posicion": "DC",
           "nacim": "03/05/02",
           "altura": "1.78",
@@ -3246,7 +3256,7 @@
         },
         {
           "nombre": "Roberto Arroyo",
-          "numero": "-",
+          "numero": 20,
           "posicion": "DC",
           "nacim": "25/08/03",
           "altura": "1.81",
@@ -3266,7 +3276,7 @@
         },
         {
           "nombre": "Dani Sancho",
-          "numero": 30,
+          "numero": 9,
           "posicion": "DC",
           "nacim": "30/01/02",
           "altura": "1.88",
@@ -3276,7 +3286,7 @@
         },
         {
           "nombre": "Carlos Lumbreras",
-          "numero": "-",
+          "numero": 7,
           "posicion": "DC",
           "nacim": "20/02/05",
           "altura": "1.80",
