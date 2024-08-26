@@ -482,7 +482,7 @@
         },
         {
           "nombre": "Marc Bombardó",
-          "numero": 17,
+          "numero": 18,
           "posicion": "CT",
           "nacim": "23/11/05",
           "altura": "1.85",
@@ -562,7 +562,7 @@
         },
         {
           "nombre": "Moha Moukhliss",
-          "numero": 15,
+          "numero": "-",
           "posicion": "MC",
           "nacim": "06/02/00",
           "altura": "1.69",
@@ -582,7 +582,7 @@
         },
         {
           "nombre": "Luismi Redondo",
-          "numero": "-",
+          "numero": 15,
           "posicion": "MCO",
           "nacim": "04/02/98",
           "altura": "1.72",
@@ -622,7 +622,7 @@
         },
         {
           "nombre": "Juan David Fuentes",
-          "numero": 17,
+          "numero": 7,
           "posicion": "EI",
           "nacim": "19/05/03",
           "altura": "-",
