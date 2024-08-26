@@ -4416,7 +4416,7 @@
         },
         {
           "nombre": "Manu Rico",
-          "numero": "-",
+          "numero": 23,
           "posicion": "EI",
           "nacim": "11/01/03",
           "altura": "-",
@@ -4436,7 +4436,7 @@
         },
         {
           "nombre": "Mikel Pradera",
-          "numero": "-",
+          "numero": 21,
           "posicion": "DC",
           "nacim": "12/10/95",
           "altura": "1.90",
