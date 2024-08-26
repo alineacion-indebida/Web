@@ -3460,7 +3460,7 @@
         },
         {
           "nombre": "Álvaro Bustos",
-          "numero": "-",
+          "numero": 15,
           "posicion": "EI",
           "nacim": "26/06/95",
           "altura": "1.75",
@@ -3480,7 +3480,7 @@
         },
         {
           "nombre": "Yeray Cabanzón",
-          "numero": "-",
+          "numero": 9,
           "posicion": "ED",
           "nacim": "14/05/03",
           "altura": "1.70",
@@ -3520,7 +3520,7 @@
         },
         {
           "nombre": "Oliver Jürgens",
-          "numero": "-",
+          "numero": 12,
           "posicion": "DC",
           "nacim": "10/05/03",
           "altura": "1.80",
