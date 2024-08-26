@@ -1154,7 +1154,7 @@
         },
          {
           "nombre": "Diego Kochen",
-          "numero": 24,
+          "numero": 13,
           "posicion": "PT",
           "nacim": "19/03/06",
           "altura": "1.88",
@@ -1204,7 +1204,7 @@
         },
         {
           "nombre": "Alexis Olmedo",
-          "numero": 34,
+          "numero": 23,
           "posicion": "CT",
           "nacim": "02/01/06",
           "altura": "-",
@@ -1214,7 +1214,7 @@
         },
         {
           "nombre": "Álvaro Cortés",
-          "numero": "-",
+          "numero": 14,
           "posicion": "CT",
           "nacim": "17/03/05",
           "altura": 1.90,
@@ -1263,16 +1263,6 @@
           "contrato": "2027"
         },
         {
-          "nombre": "Marc Bernal",
-          "numero": 27,
-          "posicion": "MCD",
-          "nacim": "26/05/07",
-          "altura": 1.91,
-          "fichaje": "jul-23",
-          "procedencia": "FC Barcelona Cadete A",
-          "contrato": "2026"
-        },
-        {
           "nombre": "Pau Prim",
           "numero": 26,
           "posicion": "MCD",
@@ -1284,7 +1274,7 @@
         },
         {
           "nombre": "Unai Hernández",
-          "numero": 20,
+          "numero": 10,
           "posicion": "MC",
           "nacim": "14/12/04",
           "altura": 1.71,
@@ -1294,7 +1284,7 @@
         },
         {
           "nombre": "Guille Fernández",
-          "numero": "-",
+          "numero": 20,
           "posicion": "MC",
           "nacim": "18/06/08",
           "altura": 1.71,
@@ -1304,7 +1294,7 @@
         },
         {
           "nombre": "Aleix Garrido",
-          "numero": 10,
+          "numero": 8,
           "posicion": "MC",
           "nacim": "22/02/04",
           "altura": 1.70,
@@ -1344,7 +1334,7 @@
         },
         {
           "nombre": "Óscar Ureña",
-          "numero": "-",
+          "numero": 18,
           "posicion": "EI",
           "nacim": "31/05/03",
           "altura": 1.71,
@@ -1354,7 +1344,7 @@
         },
         {
           "nombre": "Raúl Dacosta",
-          "numero": "-",
+          "numero": 19,
           "posicion": "EI",
           "nacim": "26/01/02",
           "altura": 1.75,
@@ -1374,7 +1364,7 @@
         },
         {
           "nombre": "Dani Rodríguez",
-          "numero": 30,
+          "numero": "-",
           "posicion": "EI",
           "nacim": "09/08/05",
           "altura": 1.70,
@@ -1390,6 +1380,16 @@
           "altura": 1.79,
           "fichaje": "jul-23",
           "procedencia": "Cultural Leonesa",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Jua Piera",
+          "numero": 12,
+          "posicion": "DC",
+          "nacim": "20/10/04",
+          "altura": 1.80,
+          "fichaje": "ago-24",
+          "procedencia": "Átletico Baleares",
           "contrato": "2025"
         },
         {
