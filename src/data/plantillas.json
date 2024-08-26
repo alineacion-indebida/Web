@@ -1712,7 +1712,7 @@
       "plantilla": [
         {
           "nombre": "Marc Vidal",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "14/02/00",
           "altura": "1.85",
@@ -1732,7 +1732,7 @@
         },
         {
           "nombre": "César Fernández",
-          "numero": 24,
+          "numero": 25,
           "posicion": "PT",
           "nacim": "28/01/04",
           "altura": "1.81",
@@ -1752,7 +1752,7 @@
         },
         {
           "nombre": "Yoel Lago",
-          "numero": 2,
+          "numero": 5,
           "posicion": "CT",
           "nacim": "02/03/04",
           "altura": "-",
@@ -1762,7 +1762,7 @@
         },
         {
           "nombre": "Gael Alonso",
-          "numero": 5,
+          "numero": 4,
           "posicion": "CT",
           "nacim": "22/07/02",
           "altura": "-",
@@ -1772,7 +1772,7 @@
         },
         {
           "nombre": "Pablo Meixús",
-          "numero": 34,
+          "numero": 6,
           "posicion": "CT",
           "nacim": "21/05/03",
           "altura": "-",
@@ -1781,8 +1781,18 @@
           "contrato": "2026"
         },
         {
+          "nombre": "Moha Dahmouni",
+          "numero": 26,
+          "posicion": "CT",
+          "nacim": "17/04/06",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Celta de Vigo Juvenil A",
+          "contrato": "2028"
+        },
+        {
           "nombre": "Iván Garriel",
-          "numero": "-",
+          "numero": 23,
           "posicion": "LI",
           "nacim": "03/04/05",
           "altura": "1.77",
@@ -1812,7 +1822,7 @@
         },
         {
           "nombre": "Sergio Díez",
-          "numero": "-",
+          "numero": 7,
           "posicion": "LD",
           "nacim": "28/07/03",
           "altura": "1.78",
@@ -1832,7 +1842,7 @@
         },
         {
           "nombre": "Hugo Burcio",
-          "numero": "-",
+          "numero": 14,
           "posicion": "MC",
           "nacim": "01/01/06",
           "altura": "-",
@@ -1842,7 +1852,7 @@
         },
         {
           "nombre": "Miguel Román",
-          "numero": 14,
+          "numero": 8,
           "posicion": "MC",
           "nacim": "26/12/02",
           "altura": "1.78",
@@ -1852,7 +1862,7 @@
         },
         {
           "nombre": "Manu Fernández",
-          "numero": 12,
+          "numero": 21,
           "posicion": "MC",
           "nacim": "23/04/01",
           "altura": "1.85",
@@ -1862,7 +1872,7 @@
         },
         {
           "nombre": "David de la Iglesia",
-          "numero": 29,
+          "numero": 10,
           "posicion": "MC",
           "nacim": "15/01/03",
           "altura": "-",
@@ -1872,27 +1882,7 @@
         },
         {
           "nombre": "Óscar Marcos",
-          "numero": "-",
-          "posicion": "MC",
-          "nacim": "19/02/06",
-          "altura": "-",
-          "fichaje": "jul-24",
-          "procedencia": "Celta de Vigo Juvenil A",
-          "contrato": "2027"
-        },
-        {
-          "nombre": "Manu Rodríguez",
-          "numero": 29,
-          "posicion": "MC",
-          "nacim": "01/01/05",
-          "altura": "-",
-          "fichaje": "jul-24",
-          "procedencia": "Celta de Vigo Juvenil A",
-          "contrato": "2026"
-        },
-        {
-          "nombre": "Óscar Marcos",
-          "numero": "-",
+          "numero": 30,
           "posicion": "MC",
           "nacim": "01/01/07",
           "altura": "-",
@@ -1912,7 +1902,7 @@
         },
         {
           "nombre": "Andrés Antañón",
-          "numero": "-",
+          "numero": 27,
           "posicion": "MC",
           "nacim": "19/02/06",
           "altura": "-",
@@ -1922,7 +1912,7 @@
         },
         {
           "nombre": "Fer López",
-          "numero": 15,
+          "numero": 22,
           "posicion": "MCO",
           "nacim": "24/05/04",
           "altura": "1.88",
@@ -1932,7 +1922,7 @@
         },
         {
           "nombre": "Johan Guedes",
-          "numero": "-",
+          "numero": 11,
           "posicion": "EI",
           "nacim": "23/08/04",
           "altura": "-",
@@ -1942,7 +1932,7 @@
         },
         {
           "nombre": "Emi Rodríguez",
-          "numero": "-",
+          "numero": 19,
           "posicion": "ED",
           "nacim": "21/04/03",
           "altura": "1.75",
@@ -1952,7 +1942,7 @@
         },
         {
           "nombre": "Jordi Escobar",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
           "nacim": "10/02/02",
           "altura": "1.88",
@@ -1962,7 +1952,7 @@
         },
         {
           "nombre": "Ángel Arcos",
-          "numero": "-",
+          "numero": 31,
           "posicion": "DC",
           "nacim": "18/04/06",
           "altura": "-",
