@@ -686,7 +686,7 @@
       "plantilla": [
         {
           "nombre": "Diego García",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "15/03/95",
           "altura": "1.76",
@@ -706,7 +706,7 @@
         },
         {
           "nombre": "Manu Figueroa",
-          "numero": 24,
+          "numero": 27,
           "posicion": "PT",
           "nacim": "23/02/04",
           "altura": "-",
@@ -726,7 +726,7 @@
         },
         {
           "nombre": "Joao Días",
-          "numero": "-",
+          "numero": 23,
           "posicion": "CT",
           "nacim": "15/06/01",
           "altura": "1.86",
@@ -786,7 +786,7 @@
         },
         {
           "nombre": "Tiago Rodríguez",
-          "numero": "-",
+          "numero": 5,
           "posicion": "MC",
           "nacim": "07/07/00",
           "altura": "1.80",
@@ -796,7 +796,7 @@
         },
         {
           "nombre": "Curro Rivelott",
-          "numero": "-",
+          "numero": 16,
           "posicion": "MC",
           "nacim": "13/12/99",
           "altura": "1.83",
@@ -856,12 +856,22 @@
         },
         {
           "nombre": "Nacho Ramón",
-          "numero": "-",
+          "numero": 9,
           "posicion": "DC",
-          "nacim": "30/03/979",
+          "nacim": "30/03/99",
           "altura": "-",
           "fichaje": "jul-24",
           "procedencia": "At. Sanluqueño",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Enol Rodríguez",
+          "numero": 18,
+          "posicion": "DC",
+          "nacim": "28/07/01",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "Real Oviedo Vetusta",
           "contrato": "2025"
         }
       ]
