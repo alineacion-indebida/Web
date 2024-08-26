@@ -3564,7 +3564,7 @@
       "plantilla": [
         {
           "nombre": "Aitor Fraga",
-          "numero": "-",
+          "numero": 1,
           "posicion": "PT",
           "nacim": "09/03/03",
           "altura": "-",
@@ -3574,7 +3574,7 @@
         },
         {
           "nombre": "Egoitz Arana",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "19/02/02",
           "altura": "1.97",
@@ -3584,7 +3584,7 @@
         },
         {
           "nombre": "Jon Martín",
-          "numero": 17,
+          "numero": 4,
           "posicion": "CT",
           "nacim": "23/04/06",
           "altura": "1.87",
@@ -3594,7 +3594,7 @@
         },
         {
           "nombre": "Yago Cantero",
-          "numero": 5,
+          "numero": "-",
           "posicion": "CT",
           "nacim": "26/01/00",
           "altura": "1.85",
@@ -3604,7 +3604,7 @@
         },
         {
           "nombre": "Peru Rodríguez",
-          "numero": 4,
+          "numero": 15,
           "posicion": "CT",
           "nacim": "03/04/02",
           "altura": "1.80",
@@ -3614,7 +3614,7 @@
         },
         {
           "nombre": "Luken Beitia",
-          "numero": 29,
+          "numero": 24,
           "posicion": "CT",
           "nacim": "30/06/04",
           "altura": "-",
@@ -3633,23 +3633,23 @@
           "contrato": "2026"
         },
         {
+          "nombre": "Jon Balda",
+          "numero": 3,
+          "posicion": "LI",
+          "nacim": "20/04/02",
+          "altura": "1.74",
+          "fichaje": "jul-22",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Eneko Astigarraga",
-          "numero": 15,
+          "numero": 5,
           "posicion": "CT",
           "nacim": "08/01/04",
           "altura": "-",
           "fichaje": "jul-23",
           "procedencia": "Real Sociedad C",
-          "contrato": "2025"
-        },
-        {
-          "nombre": "Jonathan Gómez",
-          "numero": "-",
-          "posicion": "LI",
-          "nacim": "01/09/03",
-          "altura": "1.78",
-          "fichaje": "ene-22",
-          "procedencia": "Louisville City FC (EEUU)",
           "contrato": "2025"
         },
         {
@@ -3664,7 +3664,7 @@
         },
         {
           "nombre": "Jon Merino",
-          "numero": "-",
+          "numero": 21,
           "posicion": "LD",
           "nacim": "03/03/03",
           "altura": "1.84",
@@ -3683,8 +3683,18 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Álex Lebarbier",
+          "nombre": "Manex Gibelalde",
           "numero": 16,
+          "posicion": "MC",
+          "nacim": "22/04/04",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "Real Sociedad C",
+          "contrato": "2026"
+        },
+        {
+          "nombre": "Álex Lebarbier",
+          "numero": 6,
           "posicion": "MC",
           "nacim": "23/08/04",
           "altura": "-",
@@ -3694,7 +3704,7 @@
         },
         {
           "nombre": "Mikel Rodríguez",
-          "numero": 20,
+          "numero": 8,
           "posicion": "MC",
           "nacim": "03/04/02",
           "altura": "-",
@@ -3703,18 +3713,8 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Pablo Marín",
-          "numero": 8,
-          "posicion": "MCO",
-          "nacim": "03/07/03",
-          "altura": "1.78",
-          "fichaje": "jul-22",
-          "procedencia": "Real Sociedad C",
-          "contrato": "2027"
-        },
-        {
           "nombre": "Arkaitz Mariezkurrena",
-          "numero": "-",
+          "numero": 20,
           "posicion": "EI",
           "nacim": "05/04/05",
           "altura": "-",
@@ -3733,14 +3733,14 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Jon Balda",
-          "numero": 21,
+          "nombre": "Darío Ramírez",
+          "numero": 17,
           "posicion": "EI",
-          "nacim": "20/04/02",
-          "altura": "1.74",
-          "fichaje": "jul-22",
+          "nacim": "14/01/05",
+          "altura": "-",
+          "fichaje": "jul-24",
           "procedencia": "Real Sociedad C",
-          "contrato": "2025"
+          "contrato": "2026"
         },
         {
           "nombre": "Alberto Dadie",
@@ -3754,7 +3754,7 @@
         },
         {
           "nombre": "Job Ochieng",
-          "numero": 27,
+          "numero": 11,
           "posicion": "ED",
           "nacim": "17/01/03",
           "altura": "1.85",
@@ -3774,7 +3774,7 @@
         },
         {
           "nombre": "Ekain Orobengoa",
-          "numero": 28,
+          "numero": 9,
           "posicion": "DC",
           "nacim": "17/06/04",
           "altura": "-",
