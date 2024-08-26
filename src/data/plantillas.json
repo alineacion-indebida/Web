@@ -3808,7 +3808,7 @@
       "plantilla": [
         {
           "nombre": "James Wright",
-          "numero": "-",
+          "numero": 13,
           "posicion": "PT",
           "nacim": "02/12/04",
           "altura": "1.88",
@@ -3828,7 +3828,7 @@
         },
         {
           "nombre": "Charlie Pérez",
-          "numero": 24,
+          "numero": 25,
           "posicion": "PT",
           "nacim": "07/06/02",
           "altura": "-",
@@ -3838,7 +3838,7 @@
         },
         {
           "nombre": "Iñaki Olaortua",
-          "numero": "-",
+          "numero": 4,
           "posicion": "CT",
           "nacim": "03/08/93",
           "altura": "1.84",
@@ -3858,7 +3858,7 @@
         },
         {
           "nombre": "Finley Munroe",
-          "numero": "-",
+          "numero": 24,
           "posicion": "CT",
           "nacim": "08/02/05",
           "altura": "-",
@@ -3938,7 +3938,7 @@
         },
         {
           "nombre": "Víctor San Bartolomé",
-          "numero": "-",
+          "numero": 21,
           "posicion": "MC",
           "nacim": "26/10/99",
           "altura": "1.86",
@@ -3948,7 +3948,7 @@
         },
         {
           "nombre": "Dani Garrido",
-          "numero": "-",
+          "numero": 22,
           "posicion": "MCO",
           "nacim": "19/01/00",
           "altura": "1.70",
@@ -3964,6 +3964,16 @@
           "altura": "1.77",
           "fichaje": "jul-24",
           "procedencia": "Sestao River Club",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Álex Lozano",
+          "numero": 18,
+          "posicion": "EI",
+          "nacim": "14/02/05",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "Real Sporting de Gijón",
           "contrato": "2025"
         },
         {
