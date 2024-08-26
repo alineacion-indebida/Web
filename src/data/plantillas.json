@@ -1030,7 +1030,7 @@
         },
         {
           "nombre": "Jesús Martínez",
-          "numero": "-",
+          "numero": 20,
           "posicion": "MC",
           "nacim": "08/02/04",
           "altura": "-",
@@ -1080,7 +1080,7 @@
         },
         {
           "nombre": "Unai Buján",
-          "numero": 11,
+          "numero": 22,
           "posicion": "EI",
           "nacim": "08/02/01",
           "altura": "1.74",
@@ -1120,7 +1120,7 @@
         },
         {
           "nombre": "Adrián Revilla",
-          "numero": "-",
+          "numero": 11,
           "posicion": "DC",
           "nacim": "30/09/97",
           "altura": "-",
