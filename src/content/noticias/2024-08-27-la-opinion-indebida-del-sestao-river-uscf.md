@@ -1,18 +1,18 @@
 ---
-title: "La opinion indebida del Sestao River - USCF "
-description: Nuestra opinion del encuentro disputado entre el Sestao River Club
-  y Unionistas de Salamanca CF. Primera Federacion 2024-25, grupo 1, jornada 1
+title: "La opinión indebida del Sestao River - USCF "
+description: Nuestra opinión del encuentro disputado entre el Sestao River Club
+  y Unionistas de Salamanca CF. Primera Federación 2024-25, grupo 1, jornada 1
 date: 2024-08-27T12:24:00.000Z
 imagen: /img/noticias/2024-08-27-13.40.05.jpg
 categorias:
-  - La opinion indebida
+  - La opinión indebida
 tags:
-  - Primera Federacion
+  - Primera Federación
   - Unionistas
   - Sestao River
   - Las Llanas
-  - Opinion
-  - Cronica
+  - Opinión
+  - Crónica
 autor: Indebiders
 ---
 ## Medio arranque de temporada - Miguel Ontiyuelo
