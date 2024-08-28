@@ -3,9 +3,9 @@ title: Un cierre de mercado intenso
 description: Pol señala los puntos de mejora de la plantilla tras el primer
   encuentro de liga
 date: 2024-08-28T10:33:00.000Z
-imagen: /img/noticias/movil-fuego.jpg
+imagen: /img/noticias/telefono-caliente.jpg
 categorias:
-  - La opinión indebida
+  - La Opinión Indebida
 tags:
   - Primera Federación
   - Unionistas
