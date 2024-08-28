@@ -5,7 +5,7 @@ description: Nuestra opinión del encuentro disputado entre el Sestao River Club
 date: 2024-08-27T12:34:00.000Z
 imagen: /img/noticias/2024-08-27-13.40.05.jpg
 categorias:
-  - La opinión indebida
+  - La Opinión Indebida
 tags:
   - Primera Federación
   - Unionistas
