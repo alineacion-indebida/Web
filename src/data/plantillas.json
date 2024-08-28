@@ -1099,6 +1099,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Luis Bilbao",
+          "numero": "-",
+          "posicion": "EI",
+          "nacim": "24/03/03",
+          "altura": "1.83",
+          "fichaje": "ago-24",
+          "procedencia": "Bilbao Athletic",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Pablo Santiago",
           "numero": 18,
           "posicion": "EI",
@@ -1635,16 +1645,6 @@
           "fichaje": "jul-23",
           "procedencia": "Athletic Club Juvenil A",
           "contrato": "2027"
-        },
-        {
-          "nombre": "Luis Bilbao",
-          "numero": "-",
-          "posicion": "EI",
-          "nacim": "24/03/03",
-          "altura": "1.83",
-          "fichaje": "ene-22",
-          "procedencia": "CD Basconia",
-          "contrato": "2025"
         },
         {
           "nombre": "Aingeru Olabarrieta",
