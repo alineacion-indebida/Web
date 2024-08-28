@@ -13,7 +13,7 @@ tags:
   - Las Llanas
   - Opinión
   - Crónica
-autor: Indebiders, Miguel Ontiyuelo
+autor: Indebiders
 ---
 ## Medio arranque de temporada - Miguel Ontiyuelo
 
