@@ -1891,16 +1891,6 @@
           "contrato": "2027"
         },
         {
-          "nombre": "Manu Rodríguez",
-          "numero": "-",
-          "posicion": "MC",
-          "nacim": "01/01/05",
-          "altura": "-",
-          "fichaje": "jul-24",
-          "procedencia": "Celta de Vigo Juvenil A",
-          "contrato": "2026"
-        },
-        {
           "nombre": "Andrés Antañón",
           "numero": 27,
           "posicion": "MC",
@@ -3456,6 +3446,16 @@
           "altura": "1.89",
           "fichaje": "jul-23",
           "procedencia": "UD Logroñés",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Marc-Olivier Doué",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "11/10/00",
+          "altura": "1.85",
+          "fichaje": "ago-24",
+          "procedencia": "CD Eldense",
           "contrato": "2025"
         },
         {
