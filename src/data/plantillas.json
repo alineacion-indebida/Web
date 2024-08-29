@@ -3613,16 +3613,6 @@
           "contrato": "2030"
         },
         {
-          "nombre": "Yago Cantero",
-          "numero": "-",
-          "posicion": "CT",
-          "nacim": "26/01/00",
-          "altura": "1.85",
-          "fichaje": "jul-22",
-          "procedencia": "Real Sociedad C",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Peru Rodríguez",
           "numero": 15,
           "posicion": "CT",
@@ -3763,16 +3753,6 @@
           "contrato": "2026"
         },
         {
-          "nombre": "Alberto Dadie",
-          "numero": 7,
-          "posicion": "ED",
-          "nacim": "20/07/02",
-          "altura": "1.70",
-          "fichaje": "jul-22",
-          "procedencia": "Real Sociedad C",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Job Ochieng",
           "numero": 11,
           "posicion": "ED",
@@ -3804,7 +3784,7 @@
         },
         {
           "nombre": "Sydney Osazuwa",
-          "numero": "-",
+          "numero": 29,
           "posicion": "DC",
           "nacim": "21/04/07",
           "altura": "1.93",
@@ -3994,6 +3974,16 @@
           "altura": "-",
           "fichaje": "ago-24",
           "procedencia": "Real Sporting de Gijón",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Berto Cayarga",
+          "numero": "-",
+          "posicion": "ED",
+          "nacim": "17/09/96",
+          "altura": 1.70,
+          "fichaje": "ago-24",
+          "procedencia": "RC Deportivo",
           "contrato": "2025"
         },
         {
@@ -4188,16 +4178,6 @@
           "altura": "1.82",
           "fichaje": "ago-24",
           "procedencia": "Unionistas de Salamanca CF",
-          "contrato": "2025"
-        },
-        {
-          "nombre": "Asier del Río",
-          "numero": "-",
-          "posicion": "MC",
-          "nacim": "01/02/03",
-          "altura": "-",
-          "fichaje": "jul-23",
-          "procedencia": "Sestao River B",
           "contrato": "2025"
         },
         {
