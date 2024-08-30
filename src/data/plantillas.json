@@ -1283,6 +1283,16 @@
           "contrato": "2027"
         },
         {
+          "nombre": "Pedro Soma",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "30/06/06",
+          "altura": 1.79,
+          "fichaje": "ago-24",
+          "procedencia": "UE Cornellà",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Aleix Garrido",
           "numero": 8,
           "posicion": "MC",
@@ -3837,10 +3847,20 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Yeimar Mosquera",
+          "numero": "-",
+          "posicion": "CT",
+          "nacim": "08/02/05",
+          "altura": 1.90,
+          "fichaje": "ago-24",
+          "procedencia": "Aston Villa U21 (Inglaterra)",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Finley Munroe",
           "numero": 24,
           "posicion": "CT",
-          "nacim": "08/02/05",
+          "nacim": "06/02/05",
           "altura": "-",
           "fichaje": "ago-24",
           "procedencia": "Aston Villa U21 (Inglaterra)",
