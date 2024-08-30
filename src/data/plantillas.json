@@ -1323,16 +1323,6 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Biel Vicens",
-          "numero": "-",
-          "posicion": "MC",
-          "nacim": "26/07/04",
-          "altura": "-",
-          "fichaje": "ago-24",
-          "procedencia": "FC Barcelona Juvenil A",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Jan Molina",
           "numero": "-",
           "posicion": "MC",
@@ -2600,6 +2590,16 @@
           "altura": "1.85",
           "fichaje": "jul-22",
           "procedencia": "AD Alcorcón",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Biel Vicens",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "26/07/04",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "FC Barcelona Atlètic",
           "contrato": "2025"
         },
         {
