@@ -1662,9 +1662,19 @@
           "posicion": "DC",
           "nacim": "13/08/03",
           "altura": "1.83",
-          "fichaje": "jul-22",
-          "procedencia": "CD Basconia",
+          "fichaje": "ago-24",
+          "procedencia": "Sestao River",
           "contrato": "2025"
+        },
+        {
+          "nombre": "Igor Oyono",
+          "numero": 31,
+          "posicion": "DC",
+          "nacim": "07/02/08",
+          "altura": "1.82",
+          "fichaje": "ago-24",
+          "procedencia": "CD Basconia",
+          "contrato": "2030"
         },
         {
           "nombre": "Asier Hierro",
