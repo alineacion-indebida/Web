@@ -1273,6 +1273,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "David Oduro",
+          "numero": "-",
+          "posicion": "LI",
+          "nacim": "12/06/06",
+          "altura": 1.74,
+          "fichaje": "ago-24",
+          "procedencia": "Accra Lions (Ghana)",
+          "contrato": "2027"
+        },
+        {
           "nombre": "Edu Sánchez",
           "numero": 16,
           "posicion": "LI",
@@ -1331,6 +1341,16 @@
           "fichaje": "jul-24",
           "procedencia": "FC Barcelona Juvenil B",
           "contrato": "2027"
+        },
+        {
+          "nombre": "Rubén López",
+          "numero": "-",
+          "posicion": "MC",
+          "nacim": "26/08/04",
+          "altura": 1.75,
+          "fichaje": "ago-24",
+          "procedencia": "RC Deportivo",
+          "contrato": "2025"
         },
         {
           "nombre": "Pedro Soma",
@@ -2854,6 +2874,16 @@
           "altura": "1.84",
           "fichaje": "jul-24",
           "procedencia": "Sestao River",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Bryan Mendoza",
+          "numero": "-",
+          "posicion": "ED",
+          "nacim": "08/09/97",
+          "altura": "1.74",
+          "fichaje": "ago-24",
+          "procedencia": "Celaya FC (México)",
           "contrato": "2025"
         },
         {
