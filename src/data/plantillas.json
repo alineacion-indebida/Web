@@ -806,8 +806,8 @@
         },
         {
           "nombre": "Tarsi Aguado",
-          "numero": "-",
-          "posicion": "MCD",
+          "numero": 19,
+          "posicion": "MC",
           "nacim": "16/10/94",
           "altura": "1.79",
           "fichaje": "ago-24",
