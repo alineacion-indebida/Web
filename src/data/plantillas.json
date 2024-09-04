@@ -1323,8 +1323,18 @@
           "contrato": "2027"
         },
         {
+          "nombre": "Landry Farré",
+          "numero": "-",
+          "posicion": "LD",
+          "nacim": "07/01/07",
+          "altura": 1.78,
+          "fichaje": "jul-24",
+          "procedencia": "FC Barcelona Juvenil A",
+          "contrato": "2026"
+        },
+        {
           "nombre": "Pau Prim",
-          "numero": 26,
+          "numero": 6,
           "posicion": "MCD",
           "nacim": "22/02/06",
           "altura": 1.79,
@@ -1364,7 +1374,7 @@
         },
         {
           "nombre": "Pedro Soma",
-          "numero": "-",
+          "numero": 39,
           "posicion": "MC",
           "nacim": "30/06/06",
           "altura": 1.79,
@@ -1433,14 +1443,34 @@
           "contrato": "2027"
         },
         {
-          "nombre": "Víctor Barberá ",
+          "nombre": "Aziz Issah",
           "numero": "-",
+          "posicion": "EI",
+          "nacim": "20/11/05",
+          "altura": 1.70,
+          "fichaje": "sep-24",
+          "procedencia": "Dreams FC (Ghana)",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Víctor Barberá",
+          "numero": 11,
           "posicion": "DC",
           "nacim": "20/08/04",
           "altura": 1.77,
           "fichaje": "ago-24",
           "procedencia": "Club Brujas",
           "contrato": "2026"
+        },
+        {
+          "nombre": "Iván Cédric",
+          "numero": "-",
+          "posicion": "DC",
+          "nacim": "22/12/01",
+          "altura": 1.87,
+          "fichaje": "ago-24",
+          "procedencia": "UD Las Palmas",
+          "contrato": "2025 "
         },
         {
           "nombre": "Diego Percan",
@@ -1452,8 +1482,8 @@
           "procedencia": "Cultural Leonesa",
           "contrato": "2025"
         },
-        {
-          "nombre": "Jua Piera",
+        {  
+          "nombre": "Juan Piera",
           "numero": 12,
           "posicion": "DC",
           "nacim": "20/10/04",
@@ -2233,16 +2263,6 @@
           "fichaje": "jul-24",
           "procedencia": "Real Unión",
           "contrato": "2025"
-        },
-        {
-          "nombre": "David López",
-          "numero": 23,
-          "posicion": "DC",
-          "nacim": "25/07/04",
-          "altura": "-",
-          "fichaje": "jul-24",
-          "procedencia": "CyD Júpiter Leonés",
-          "contrato": "2026"
         }
       ]
     },
