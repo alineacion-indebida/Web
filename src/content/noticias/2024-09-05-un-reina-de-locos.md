@@ -27,7 +27,7 @@ Pero para lo que se refiere a ambiente, y en la medida en la que este debe trata
 
 *\-Hostia como suena* 
 
-*Risa nerviosa, luz en los ojos y pelos de punta. Agridulce pero para mi un momento mágico. Porque dentro hubiese sido genial vivirlo en grada. Pero desde fuera y en silencio la experiencia del total, como en el observador de un laboratorio fue única. Tesorito*
+*Risa nerviosa, luz en los ojos y pelos de punta. Agridulce pero para mí un momento mágico. Porque dentro hubiese sido genial vivirlo en grada. Pero desde fuera y en silencio la experiencia del total, como en el observador de un laboratorio fue única. Tesorito*
 
 Volviendo a lo que estábamos. El margen de mejora viniendo de las Pistas era infinito. Pero el Reina funciona muy bien. Es fotogénico. Las altas cubiertas que hacen que parezca más grande, que son como un sombrero de Copa para un señor bajito, los asientos aún nuevos y relucientes, los nuevos leds y los marcadores. Busquen campos de aforo similar y comparen... Está en continua evolución. Hemos visto levantar sus gradas, lo henos conocido con césped artificial, con césped natural (pagado por los socios del club y los simpatizantes de media España) con cambio de iluminación, ahora los leds, toca acabar de ubicar los video marcadores  Está  muy guapo.
 
