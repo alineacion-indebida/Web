@@ -1,20 +1,20 @@
 ---
-title: Unionistas sigue afinando su rock and roll - La opinion indebida del SD
+title: Unionistas sigue afinando su rock and roll - La opinión indebida del SD
   Ponferradina - USCF
-description: Nuestra opinion del encuentro disputado entre la SD Ponferradina y
-  Unionistas de Salamanca CF. Primera Federacion 2024-25, grupo 1, jornada 3
+description: Nuestra opinión del encuentro disputado entre la SD Ponferradina y
+  Unionistas de Salamanca CF. Primera Federación 2024-25, grupo 1, jornada 3
 date: 2024-09-09T16:24:00.000Z
 imagen: /img/noticias/20240907-ponferradina-unionistas.jpg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
-  - Primera Federacion
+  - Primera Federación
   - Unionistas
   - Ponferradina
-  - Toralin
-  - Opinion
+  - Toralín
+  - Opinión
   - Firma
-  - Cronica
+  - Crónica
 autor: Miguel Ontiyuelo
 ---
 ## Unionistas sigue afinando su rock and roll
