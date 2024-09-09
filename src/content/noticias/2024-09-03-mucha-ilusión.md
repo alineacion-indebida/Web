@@ -1,5 +1,5 @@
 ---
-title: "Mucha Ilusión "
+title: Mucha Ilusión - La opinión indebida del USCF - Bilbao Athletic
 description: "Visión y análisis del debut liguero de Unionistas en casa "
 date: 2024-09-03T10:47:00.000Z
 imagen: /img/noticias/20240831_211143.jpg
