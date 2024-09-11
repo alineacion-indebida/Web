@@ -297,16 +297,6 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Marcos Mauro",
-          "numero": "-",
-          "posicion": "CT",
-          "nacim": "09/01/91",
-          "altura": "1.88",
-          "fichaje": "ago-24",
-          "procedencia": "CF Fuenlabrada",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Mikel Kortazar",
           "numero": 4,
           "posicion": "LI",
@@ -388,12 +378,22 @@
         },
         {
           "nombre": "Julen Jon Guerrero",
-          "numero": "-",
+          "numero": 8,
           "posicion": "MCO",
           "nacim": "14/04/04",
           "altura": "1.87",
           "fichaje": "ago-24",
-          "procedencia": "Real Madrid CastillaDeportivo Alavés B",
+          "procedencia": "Deportivo Alavés B",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Mauro Bravo",
+          "numero": "-",
+          "posicion": "MCO",
+          "nacim": "30/07/99",
+          "altura": "1.72"
+          "fichaje": "sep-24",
+          "procedencia": "Amazonas FC (Brasil)",
           "contrato": "2025"
         },
         {
