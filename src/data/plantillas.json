@@ -2186,7 +2186,7 @@
         },
         {
           "nombre": "Luis Chacón",
-          "numero": "-",
+          "numero": 10,
           "posicion": "EI",
           "nacim": "30/05/00",
           "altura": "1.74",
@@ -2266,6 +2266,16 @@
           "altura": "-",
           "fichaje": "jul-23",
           "procedencia": "Gimnástica Segoviana Juvenil A",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Changyi LI",
+          "numero": 25,
+          "posicion": "PT",
+          "nacim": "24/07/03",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "SD Huesca B",
           "contrato": "2025"
         },
         {
@@ -2420,7 +2430,7 @@
         },
         {
           "nombre": "Rodrigo Sanz",
-          "numero": "-",
+          "numero": 16,
           "posicion": "ED",
           "nacim": "29/03/93",
           "altura": "1.78",
