@@ -3396,7 +3396,7 @@
         },
         {
           "nombre": "Noel López",
-          "numero": "23,
+          "numero": 23,
           "posicion": "DC",
           "nacim": "17/03/03",
           "altura": "1.82",
@@ -3570,7 +3570,7 @@
         },
         {
           "nombre": "Marc-Olivier Doué",
-          "numero": "-",
+          "numero": 24,
           "posicion": "MC",
           "nacim": "11/10/00",
           "altura": "1.85",
