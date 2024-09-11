@@ -1517,16 +1517,6 @@
       "escudo": "https://cdn.resfu.com/img_data/equipos/348.png?size=200x&ext=png&lossy=1&15",
       "plantilla": [
         {
-          "nombre": "Álex Padilla",
-          "numero": 13,
-          "posicion": "PT",
-          "nacim": "01/09/03",
-          "altura": "1.90",
-          "fichaje": "jul-22",
-          "procedencia": "CD Basconia",
-          "contrato": "2027"
-        },
-        {
           "nombre": "Oier Gastesi",
           "numero": 1,
           "posicion": "PT",
@@ -1568,7 +1558,7 @@
         },
         {
           "nombre": "Eneko Ebro",
-          "numero": 27,
+          "numero": 5,
           "posicion": "CT",
           "nacim": "29/09/03",
           "altura": "-",
@@ -1585,16 +1575,6 @@
           "fichaje": "jul-24",
           "procedencia": "CD Vitoria",
           "contrato": "2025"
-        },
-        {
-          "nombre": "Adama Boiro",
-          "numero": 20,
-          "posicion": "LI",
-          "nacim": "22/06/02",
-          "altura": "1.83",
-          "fichaje": "ene-24",
-          "procedencia": "CA Osasuna Promesas",
-          "contrato": "2029"
         },
         {
           "nombre": "Javier Elías",
@@ -1624,16 +1604,6 @@
           "altura": "1.85",
           "fichaje": "jul-24",
           "procedencia": "CD Tudelano",
-          "contrato": "2025"
-        },
-        {
-          "nombre": "Eneko Aguilar",
-          "numero": 17,
-          "posicion": "MC",
-          "nacim": "21/04/00",
-          "altura": "1.78",
-          "fichaje": "jul-24",
-          "procedencia": "CA Osasuna Promesas",
           "contrato": "2025"
         },
         {
