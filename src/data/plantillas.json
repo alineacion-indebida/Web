@@ -786,7 +786,7 @@
         },
         {
           "nombre": "Iano Simao",
-          "numero": "-",
+          "numero": 2,
           "posicion": "LI",
           "nacim": "02/02/99",
           "altura": "1.79",
@@ -916,7 +916,7 @@
         },
         {
           "nombre": "Marcos Baselga",
-          "numero": "-",
+          "numero": 21,
           "posicion": "DC",
           "nacim": "15/02/99",
           "altura": 1.77,
@@ -1070,7 +1070,7 @@
         },
         {
           "nombre": "Íñigo Aritzia",
-          "numero": "-",
+          "numero": 24,
           "posicion": "MCD",
           "nacim": "18/10/05",
           "altura": "1.75",
