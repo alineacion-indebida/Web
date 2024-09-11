@@ -4242,7 +4242,7 @@
         },
         {
           "nombre": "Anton Efremov",
-          "numero": "-",
+          "numero": 23,
           "posicion": "CT",
           "nacim": "11/06/03",
           "altura": 1.90,
