@@ -1,7 +1,7 @@
 ---
 title: El minuto 70 es la nueva medianoche
 description: "La carroza de Unionistas se torna calabaza en el tramo final de los partidos "
-date: 2024-09-11T19:00:00.000Z
+date: 2024-09-18T18:00:00.000Z
 imagen: /img/noticias/screenshot_20240911_155341_whatsapp.jpg
 categorias:
   - Apuntes desde la Panelais
@@ -10,7 +10,6 @@ tags:
   - "#Salamanca"
   - "#Llacer"
   - "#Carroza"
-  - ""
 autor: "Jaime García (Món) "
 ---
 > *\-Sala cadula, chalchi comula, Bibidi-Babi-bu, siete palabras de magia que son: ¡Bibidi-Babidu-Bu!- cantaba el hada agitando su varita que trasformaba la calabaza en carruaje, los ratones en corceles, los animales en cocheros y los harapos sucios y cubiertos de hollín de la bella Cenicienta en un espectacular y reluciente vestido de gala*
