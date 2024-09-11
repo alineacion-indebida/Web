@@ -174,7 +174,7 @@
         },
         {
           "nombre": "Jonny Arriba",
-          "numero": "-",
+          "numero": 19,
           "posicion": "ED",
           "nacim": "01/11/01",
           "altura": 1.76,
@@ -226,8 +226,8 @@
           "nombre": "Steffan Witmer",
           "numero": 30,
           "posicion": "DC",
-          "nacim": "01/01/05",
-          "altura": "-",
+          "nacim": "03/06/06",
+          "altura": 1.95,
           "fichaje": "ago-24",
           "procedencia": "-",
           "contrato": "2028"
