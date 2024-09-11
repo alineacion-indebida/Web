@@ -2513,13 +2513,13 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Valentyn Roze",
-          "numero": "-",
+          "nombre": "Joan Salvá",
+          "numero": 26,
           "posicion": "PT",
-          "nacim": "03/04/05",
-          "altura": "1.92",
-          "fichaje": "ago-24",
-          "procedencia": "Unión Collado Villalba",
+          "nacim": "29/01/02",
+          "altura": "1.90",
+          "fichaje": "jul-24",
+          "procedencia": "CD Castellón B",
           "contrato": "2025"
         },
         {
@@ -2644,7 +2644,7 @@
         },
         {
           "nombre": "Biel Vicens",
-          "numero": "-",
+          "numero": 2,
           "posicion": "MC",
           "nacim": "26/07/04",
           "altura": "-",
@@ -2724,7 +2724,7 @@
         },
         {
           "nombre": "Álex Jiménez",
-          "numero": "-",
+          "numero": 18,
           "posicion": "DC",
           "nacim": "21/09/03",
           "altura": "1.82",
@@ -3392,6 +3392,16 @@
           "altura": "1.89",
           "fichaje": "ago-24",
           "procedencia": "Albacete Balompié",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Noel López",
+          "numero": "23,
+          "posicion": "DC",
+          "nacim": "17/03/03",
+          "altura": "1.82",
+          "fichaje": "ago-24",
+          "procedencia": "Real Madrid Castilla",
           "contrato": "2025"
         },
         {
