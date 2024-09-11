@@ -1233,6 +1233,16 @@
           "contrato": "2028"
         },
         {
+          "nombre": "Áron Yaakobishvili",
+          "numero": 41,
+          "posicion": "PT",
+          "nacim": "06/03/06",
+          "altura": "1.85",
+          "fichaje": "sep-24",
+          "procedencia": "FC Barcelona Juvenil A",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Mamadou Mbacke",
           "numero": 4,
           "posicion": "CT",
@@ -1271,16 +1281,6 @@
           "fichaje": "jul-24",
           "procedencia": "FC Barcelona Juvenil A",
           "contrato": "2026"
-        },
-        {
-          "nombre": "Gerard Martín",
-          "numero": 3,
-          "posicion": "LI",
-          "nacim": "26/02/02",
-          "altura": 1.86,
-          "fichaje": "jul-23",
-          "procedencia": "UE Cornellá",
-          "contrato": "2025"
         },
         {
           "nombre": "David Oduro",
@@ -1324,7 +1324,7 @@
         },
         {
           "nombre": "Landry Farré",
-          "numero": "-",
+          "numero": 32,
           "posicion": "LD",
           "nacim": "07/01/07",
           "altura": 1.78,
@@ -1364,7 +1364,7 @@
         },
         {
           "nombre": "Rubén López",
-          "numero": "-",
+          "numero": 17,
           "posicion": "MC",
           "nacim": "26/08/04",
           "altura": 1.75,
