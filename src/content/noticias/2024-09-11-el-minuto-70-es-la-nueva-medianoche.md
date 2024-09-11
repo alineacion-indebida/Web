@@ -1,7 +1,7 @@
 ---
 title: El minuto 70 es la nueva medianoche
 description: "La carroza de Unionistas se torna calabaza en el tramo final de los partidos "
-date: 2024-09-18T18:00:00.000Z
+date: 2024-09-11T20:00:00.000Z
 imagen: /img/noticias/screenshot_20240911_155341_whatsapp.jpg
 categorias:
   - Apuntes desde la Panelais
