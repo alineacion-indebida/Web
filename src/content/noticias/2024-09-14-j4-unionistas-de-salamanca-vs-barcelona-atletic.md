@@ -4,7 +4,7 @@ description: Previa de la cuarta Jormada entre Unionistas de Salamanca y Barcelo
 date: 2024-09-14T12:16:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Números De Pol
+  - Los Numeros De Pol
 tags:
   - "#Unionistas"
   - "#Barsa"
