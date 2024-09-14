@@ -11,7 +11,6 @@ tags:
   - "#Reina"
   - "#numeros"
   - "#pol"
-  - "#reina"
 autor: "Pol Zakour "
 ---
 Partido de los que gusta jugar y de los que se disfrutan en la grada, o eso es lo que se espera en el Reina Sofía en un duelo que enfrentará a un Unionistas de Salamanca y un Barsa Atlètic que llegan igualados en la tabla. Partido decretado como día de ayuda al club por el conjunto local, lo que no impedirá que se vea un gran ambiente en el horario matutino.
