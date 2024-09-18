@@ -388,7 +388,7 @@
         },
         {
           "nombre": "Mauro Bravo",
-          "numero": "-",
+          "numero": 19,
           "posicion": "MCO",
           "nacim": "30/07/99",
           "altura": "1.72",
@@ -1283,8 +1283,18 @@
           "contrato": "2026"
         },
         {
+          "nombre": "Ándrés Cuenca",
+          "numero": 27,
+          "posicion": "CT",
+          "nacim": "11/06/07",
+          "altura": 1.81,
+          "fichaje": "jul-24",
+          "procedencia": "FC Barcelona Juvenil A",
+          "contrato": "2026"
+        },
+        {
           "nombre": "David Oduro",
-          "numero": "-",
+          "numero": 25,
           "posicion": "LI",
           "nacim": "12/06/06",
           "altura": 1.74,
@@ -1314,7 +1324,7 @@
         },
         {
           "nombre": "Joan Anaya",
-          "numero": "-",
+          "numero": 22,
           "posicion": "LD",
           "nacim": "16/02/05",
           "altura": 1.74,
@@ -1434,7 +1444,7 @@
         },
         {
           "nombre": "Dani Rodríguez",
-          "numero": "-",
+          "numero": 7,
           "posicion": "EI",
           "nacim": "09/08/05",
           "altura": 1.70,
@@ -1444,7 +1454,7 @@
         },
         {
           "nombre": "Aziz Issah",
-          "numero": "-",
+          "numero": 15,
           "posicion": "EI",
           "nacim": "20/11/05",
           "altura": 1.70,
@@ -1464,7 +1474,7 @@
         },
         {
           "nombre": "Iván Cédric",
-          "numero": "-",
+          "numero": 24,
           "posicion": "DC",
           "nacim": "22/12/01",
           "altura": 1.87,
@@ -1491,6 +1501,16 @@
           "fichaje": "ago-24",
           "procedencia": "Átletico Baleares",
           "contrato": "2025"
+        },
+        {  
+          "nombre": "Antonio Fernández\"Toni\"",
+          "numero": 37,
+          "posicion": "DC",
+          "nacim": "15/07/08",
+          "altura": "-",
+          "fichaje": "jul-24",
+          "procedencia": "FC Barcelona Juvenil A",
+          "contrato": "2027"
         },
         {
           "nombre": "Antonio Martín",
