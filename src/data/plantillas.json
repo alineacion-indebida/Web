@@ -1627,6 +1627,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Eneko Aguilar",
+          "numero": 17,
+          "posicion": "MC",
+          "nacim": "21/04/00",
+          "altura": "1.78",
+          "fichaje": "jul-24",
+          "procedencia": "CA Osasuna Promesas",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Beñat Gerenabarrena",
           "numero": 8,
           "posicion": "MC",
@@ -1831,6 +1841,16 @@
           "contrato": "2027"
         },
         {
+          "nombre": "Manu Fernández",
+          "numero": 21,
+          "posicion": "CT",
+          "nacim": "03/04/01",
+          "altura": 1.85,
+          "fichaje": "jul-23",
+          "procedencia": "RC Celta C Gran Peña",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Gael Alonso",
           "numero": 4,
           "posicion": "CT",
@@ -1909,16 +1929,6 @@
           "fichaje": "ago-24",
           "procedencia": "Atlético de Madrid B",
           "contrato": "2029"
-        },
-        {
-          "nombre": "Javi Rodríguez",
-          "numero": 20,
-          "posicion": "LD",
-          "nacim": "26/06/03",
-          "altura": "-",
-          "fichaje": "ene-23",
-          "procedencia": "RC Celta C Gran Peña",
-          "contrato": "2025"
         },
         {
           "nombre": "Hugo Burcio",
@@ -2988,7 +2998,7 @@
         },
         {
           "nombre": "Fernando Lesme",
-          "numero": "-",
+          "numero": 18,
           "posicion": "DC",
           "nacim": "08/04/02",
           "altura": "1.95",
@@ -3042,7 +3052,7 @@
         },
         {
           "nombre": "Álex Zalaya",
-          "numero": "-",
+          "numero": 15,
           "posicion": "CT",
           "nacim": "29/04/98",
           "altura": "1.84",
@@ -3142,7 +3152,7 @@
         },
         {
           "nombre": "Jairo Noriega",
-          "numero": "-",
+          "numero": 22,
           "posicion": "MCO",
           "nacim": "14/08/03",
           "altura": "1.82",
@@ -3406,7 +3416,7 @@
         },
         {
           "nombre": "Dani González",
-          "numero": "-",
+          "numero": 12,
           "posicion": "DC",
           "nacim": "18/03/02",
           "altura": "1.89",
@@ -4565,6 +4575,16 @@
           "contrato": "2025"
         },
         {
+          "nombre": "Manu Rico",
+          "numero": 23,
+          "posicion": "MCO",
+          "nacim": "11/01/03",
+          "altura": "-",
+          "fichaje": "ago-24",
+          "procedencia": "SD Huesca",
+          "contrato": "2025"
+        },
+        {
           "nombre": "Javi Martín",
           "numero": 11,
           "posicion": "EI",
@@ -4582,16 +4602,6 @@
           "altura": "1.75",
           "fichaje": "jul-24",
           "procedencia": "Gimnástic de Tarragona",
-          "contrato": "2025"
-        },
-        {
-          "nombre": "Manu Rico",
-          "numero": 23,
-          "posicion": "EI",
-          "nacim": "11/01/03",
-          "altura": "-",
-          "fichaje": "ago-24",
-          "procedencia": "SD Huesca",
           "contrato": "2025"
         },
         {
@@ -4626,7 +4636,7 @@
         },
         {
           "nombre": "Iker Gil",
-          "numero": "-",
+          "numero": 17,
           "posicion": "DC",
           "nacim": "15/03/05",
           "altura": "1.71",
