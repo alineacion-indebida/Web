@@ -2,7 +2,7 @@
 title: J5. Celta Fortuna - USCF - Los numeros de Pol
 description: El Celta Fortuna - Unionistas a la luz de los datos. Primera
   Federacion, grupo 1, jornada 5.
-date: 2024-08-24T12:14:00.000Z
+date: 2024-09-20T15:00:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
   - Los Numeros De Pol
