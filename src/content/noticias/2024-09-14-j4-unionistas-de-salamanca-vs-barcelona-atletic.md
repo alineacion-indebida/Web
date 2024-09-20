@@ -4,12 +4,11 @@ description: Previa de la cuarta Jormada entre Unionistas de Salamanca y Barcelo
 date: 2024-09-14T12:16:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Números de Pol
+  - Los Números De Pol
 tags:
-  - "#Unionistas"
-  - "#Barça"
-  - "#Reina"
-  - "#LosNúmerosdePol"
+  - "Unionistas"
+  - "Barça"
+  - "Reina"
 autor: "Pol Zakour "
 ---
 Partido de los que gusta jugar y de los que se disfrutan en la grada, o eso es lo que se espera en el Reina Sofía en un duelo que enfrentará a un Unionistas de Salamanca y un Barsa Atlètic que llegan igualados en la tabla. Partido decretado como día de ayuda al club por el conjunto local, lo que no impedirá que se vea un gran ambiente en el horario matutino.
