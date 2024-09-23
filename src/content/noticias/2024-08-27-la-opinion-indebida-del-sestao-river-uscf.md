@@ -1,5 +1,5 @@
 ---
-title: "La opinión indebida del Sestao River - USCF "
+title: "Medio-arranque de temporada - La opinión indebida del Sestao River - USCF "
 description: Nuestra opinión del encuentro disputado entre el Sestao River Club
   y Unionistas de Salamanca CF. Primera Federación 2024-25, grupo 1, jornada 1
 date: 2024-08-27T12:34:00.000Z
@@ -13,11 +13,9 @@ tags:
   - Las Llanas
   - Opinión
   - Crónica
-autor: Indebiders
+autor: Miguel Ontiyuelo
 ---
-## Medio arranque de temporada - Miguel Ontiyuelo
-
-**Partido de contradicciones** el ofrecido por Unionistas de Salamanca en Las Llanas este domingo. A los factores contextuales ya conocidos de jugar a puerta cerrada en uno de los estadios más calientes de la categoría, notando la ausencia de la afición charra que siempre se desplaza, sobre un césped largo, famoso por su pesadez, pero que todavía en agosto no alcanza ese rango… Unionistas añadió **una primera parte sólida, rigurosa e incisiva, y una segunda de apreturas, dificultades e inexactitudes.**
+**Partido de desconciertos** el ofrecido por Unionistas de Salamanca en Las Llanas este domingo. A los factores contextuales ya conocidos de jugar a puerta cerrada en uno de los estadios más calientes de la categoría, notando la ausencia de la afición charra que siempre se desplaza, sobre un césped largo, famoso por su pesadez, pero que todavía en agosto no alcanza ese rango… Unionistas añadió **una primera parte sólida, rigurosa e incisiva, y una segunda de apreturas, dificultades e inexactitudes.**
 
 Puede decirse que la virtud demostrada por los de Llácer hasta el descanso, con ese 0-1 que invitaba al optimismo, fue sabiamente contrarrestada por Ángel Viadero, míster sestaotarra, que detectó los puntos flacos y movió las fichas correctas para tomar la iniciativa y revertir la situación. **Ambos pudieron ganar, ambos pudieron perder.** Ambos pusieron oficio en diferentes fases del encuentro.
 
