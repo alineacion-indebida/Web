@@ -9,13 +9,13 @@ imagen: /img/noticias/uscf-barça-atletic.jpg
 categorias:
   - La Opinión Indebida
 tags:
-  - "#Unionistas"
-  - "#Barça"
-  - "#Atlètic #Ilusión"
-  - "#Sinergias"
-  - "#Crónica"
-  - "#Firma"
-  - "#Opinión"
+  - Unionistas
+  - Barça
+  - Atlètic Ilusión
+  - Sinergias
+  - Crónica
+  - Firma
+  - Opinión
 autor: Pol Zakour
 ---
 En una época en la que constantemente se habla de la importancia de las sinergias, la suma de distintos factores individuales que hacen que su unión sea superior al efecto de dichos factores de forma individual, **la relación de simbiosis que se ha creado entre entrenador, plantilla y afición ha provocado una ILUSIÓN desbordada,** esa mágica palabra que no se paraba de repetir desde el seno de Unionistas de Salamanca durante todo el verano.
