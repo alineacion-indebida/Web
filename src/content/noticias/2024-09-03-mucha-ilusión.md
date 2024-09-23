@@ -7,12 +7,12 @@ imagen: /img/noticias/20240831_211143.jpg
 categorias:
   - La Opinión Indebida
 tags:
-  - "#Unionistas"
-  - "#Ilusión"
-  - "#Bilbao"
-  - "#Crónica"
-  - "#Firma"
-  - "#Opinión"
+  - Unionistas
+  - Ilusión
+  - Bilbao
+  - Crónica
+  - Firma
+  - Opinión
 autor: "Key Galán "
 ---
 ***“Como un niño con zapatos nuevos”***, frase algo anticuada para los tiempos que corren ahora, pero muy ilustrativa para los que ya peinamos canas (o directamente ya no necesitamos ni peine para peinarnos porque la cabellera brilla por su ausencia), fue el sentir que me produjo el entrar en El Reina Sofía, “La casa del terror” para los rivales, el pasado fin de semana en el estreno liguero de Unionistas de Salamanca en su feudo.
