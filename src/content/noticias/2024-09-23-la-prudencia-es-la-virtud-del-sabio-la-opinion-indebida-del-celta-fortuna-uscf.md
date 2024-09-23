@@ -1,21 +1,22 @@
 ---
-title: La prudencia es la virtud del sabio - La opinion indebida del Celta
+title: La prudencia es la virtud del sabio - La opinión indebida del Celta
   Fortuna - USCF
-description: Vision y analisis del empate sin goles de Unionistas en Vigo frente
-  el filial del RC Celta. Primera Federacion 2024-25, grupo 1, jornada 5
+description: Visión y análisis del empate sin goles de Unionistas en Vigo frente
+  el filial del RC Celta. Primera Federación 2024-25, grupo 1, jornada 5
 date: 2024-09-23T14:30:00.000Z
 imagen: /img/noticias/2024-09-21-19.12.48.jpg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
   - Unionistas
   - Celta Fortuna
   - Celta B
-  - Balaidos
+  - Vigo
+  - Balaídos
   - Empate
-  - Cronica
+  - Crónica
   - Firma
-  - Opinion
+  - Opinión
 autor: Miguel Ontiyuelo
 ---
 Podría decirse que lo más llamativo del empate cosechado por Unionistas en Balaídos el sábado pasado es que ha sido acogido por la mayoría de la afición con cierta **cautela** y **espíritu neutro**. Incluso parecería que algunos le han dado trámite concluyendo en **silencio administrativo**, que sería favorable mientras no se aporte lo contrario.
