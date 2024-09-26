@@ -1,7 +1,7 @@
 ---
 title: "Un violinista en la jungla "
-description: "Excelente música en medio de un entorno amenazante "
-date: 2024-09-26T11:48:00.000Z
+description: "Musica en medio de un entorno amenazante "
+date: 2024-09-26T12:20:00.000Z
 imagen: /img/noticias/peakpx.jpg
 categorias:
   - Apuntes desde la Panelais
