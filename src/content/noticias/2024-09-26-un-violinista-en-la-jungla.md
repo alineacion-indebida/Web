@@ -6,17 +6,15 @@ imagen: /img/noticias/peakpx.jpg
 categorias:
   - Apuntes desde la Panelais
 tags:
-  - "#Unionistas"
-  - "#Apuntes"
-  - "#Septiembre"
-  - "#Salamanca"
+  - "#unionistas"
+  - "#apuntes"
+  - "#septiembre"
+  - "#salamanca"
 autor: "Jaime García (Món) "
 ---
 > Durante un viaje de su gira mundial el avión del afamado violinista se estrelló en medio de la selva. Siendo el único superviviente, se sobrepuso como pudo a la tragedia y con su preciado violín se encaminó por la hostil masa forestal buscando ayuda o algún tipo de presencia humana. De repente, al salir a un claro percibió que multitud de fieras le rodeaban y achicaban distancia. El violín era lo único que tenía. Lo sacó de su estuche y se puso a tocar esperando que fuera real lo de que la música amansa a las fieras. Y así fue. Las hienas, la pantera, dos cocodrilos de un cauce cercano, se detuvieron y permanencían tranquilos. Apenas podía creer lo que sucedía, toda la fauna se congregaba allí. Ya no sólo depredadores, herbívoros y aves se disponían apiñados a escucharle. De repente, un gigantesco león apareció entre la multitud animal; saltó sobre el violinista e hizo de él un pelele sanguinolento 
 >
 > \-ya ha venido el sordo a dejarnos sin concierto- musitó la anciana Tortuga que lo había visto de  todo 
-
- 
 
 Tengo la sensación de venir hoy a hacer un poco de león sordo.
 
@@ -34,6 +32,6 @@ Pero esa sensación de que las entradas desde banquillo bajan las revoluciones y
 
 Disfrutemos mientras esperamos que no ningún factor exógeno e imponderable haga de fiera sorda. Para el mercado de invierno en esta montaña rusa queda tiempo como para 3 crisis y que a Mikel Serrano le brote polivalencia en 2 posiciones más 
 
-Se dice que no se va a fichar por fichar, y es lo lógico. Pero precisamente si lo titularísimo ya está aquí razón de más para extrañar que nadie llegue si no tiene que tener tanto cartel 
+Se dice que no se va a fichar por fichar, y es lo lógico. Pero precisamente si lo titularísimo ya está aquí, y lo incorporable no tiene que tener tanto cartel, extraña que no haya llegado nada más.
 
 El Sábado los del Reina reciben a la Cultural y Deportiva Leonesa. Líder e invicta. Partidazo. Que siga sonando la música
