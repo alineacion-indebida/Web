@@ -26,7 +26,7 @@ Agridulce sensación de púgil valiente y agresivo pero que si no mete una mano 
 
 Es valiente y es emocionante, no cabe duda. Y es genial para el espectáculo. Ir al Reina está siendo una montaña rusa. Partidos muy abiertos con muchas acciones de área que acaban cayendo del lado blanquinegro.
 
-Pero esa sensación de que las entradas desde banquillo bajan las revoluciones y que hay figuras insustituibles que no pueden ni constiparse no se van (Hablamos de los laterales y del 9 por ej)
+Pero esa sensación de que las entradas desde banquillo bajan las revoluciones y que hay figuras insustituibles que no pueden ni constiparse no se va (Hablamos de los laterales y del 9 por ej)
 
 **Suena el violín en medio de la jungla y suena muy bien**. 
 
