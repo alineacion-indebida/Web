@@ -20,7 +20,7 @@ Tengo la sensación de venir hoy a hacer un poco de león sordo.
 
 Unionistas de Salamanca afrontaba un mes de septiembre *tourmaletiano*, que podía deparar un cielo nublado y oscuro en la cima o un espléndido mirador soleado. De momento lo está solventando con notable en sensaciones y puntuación.
 
-Séptimo puesto, buenas sensaciones y verticalidad pero también partidos que por un factor u otro siempre se acaban haciendo largos. Días veraniegos de sol y playa con tormenta a la tarde. Unos días da para salvar el día (Bilbao Athletic) y otros no (Deportiva ponferradina)
+Séptimo puesto, buenas actuaciones y verticalidad pero también partidos que por un factor u otro siempre se acaban haciendo largos. Días veraniegos de sol y playa con tormenta a la tarde. Unos días da para salvar el día (Bilbao Athletic) y otros no (Deportiva ponferradina)
 
 Agridulce sensación de púgil valiente y agresivo pero que si no mete una mano ganadora en los primeros 3 asaltos se le acaba haciendo largo el combate. El partido de Balaidos contra el Celta Fortuna es el ejemplo. Se pudo poner ventaja y noquear en la primera parte, pero yo tengo la sensación de que en la segunda Unionistas sale vivo por falta de puntería celeste y el habitual buen desempeño del cancerbero 
 
