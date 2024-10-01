@@ -25,7 +25,7 @@ interface Props {
 	image?: string
 }
 
-const { title, description, preload, canonical, image } = Astro.props
+const { title, description, preload, canonical, image } = Astro.props as Props
 ---
 
 <!doctype html>
