@@ -6,19 +6,19 @@ imagen: /img/noticias/screenshot_20240911_155341_whatsapp.jpg
 categorias:
   - Apuntes desde la Panelais
 tags:
-  - "#Unionistas"
-  - "#Salamanca"
-  - "#Llacer"
-  - "#Carroza"
+  - "Unionistas"
+  - "Salamanca"
+  - "Llacer"
+  - "Carroza"
 autor: "Jaime García (Món) "
 ---
 > *\-Sala cadula, chalchi comula, Bibidi-Babi-bu, siete palabras de magia que son: ¡Bibidi-Babidu-Bu!- cantaba el hada agitando su varita que trasformaba la calabaza en carruaje, los ratones en corceles, los animales en cocheros y los harapos sucios y cubiertos de hollín de la bella Cenicienta en un espectacular y reluciente vestido de gala*
 >
 > *\-Pero recuerda, **al sonar la última campanada el hechizo acabará** y todo volverá a la normalidad*
 
-Podía haber dicho el hada en vez de la última campanada de las 12 el minuto 70 que marca el último cuarto del partido, y valdría para el trasunto de Cenicienta que es Unionistas de Salamanca en este arranque liguero de la 2024-2025 de Primera RFEF.  
+Podía haber dicho el hada en vez de la última campanada de las 12 el minuto 70 que marca el último cuarto del partido, y valdría para el trasunto de Cenicienta que es Unionistas de Salamanca en este arranque liguero de la 2024-2025 de Primera RFEF.
 
-Contra el Sestao River cambios en el 63´ (3) y gol rival en el 70´. Contra el Bilbao Athletic cambios en el 68´, 76´y 88´ (2) con gol rival en el 87´. Contra la Deportiva cambios en el 61´ y 72´ (3) y gol rival en el 89´. En todos estos partidos, en líneas generales y *mutatis mutandis*, el equipo cuajó muy buenas primeras partes dejando unas sensaciones excelentes que van a menos a medida que avanza el partido y que hacen que el tramo final se ponga muy cuesta arriba con balance negativo de goles y puntos. 
+Contra el Sestao River cambios en el 63´ (3) y gol rival en el 70´. Contra el Bilbao Athletic cambios en el 68´, 76´y 88´ (2) con gol rival en el 87´. Contra la Deportiva cambios en el 61´ y 72´ (3) y gol rival en el 89´. En todos estos partidos, en líneas generales y *mutatis mutandis*, el equipo cuajó muy buenas primeras partes dejando unas sensaciones excelentes que van a menos a medida que avanza el partido y que hacen que el tramo final se ponga muy cuesta arriba con balance negativo de goles y puntos.
 
 En ningún momento se ha dejado de competir y de buscar, el "somos un equipo/ valiente y luchador" que entona la grada parece haberse interiorizado. Y esta actitud y entrega tiene bastante que ver en esta caída de tensión al final. El equipo es muy intenso y muy físico, vertical y rápido cuando puede y en ese "morir con las botas puestas" unas veces sale cara y otras cruz, como aconteció en el Toralín este pasado sábado. Sirva como medida de este buen desempeño cómo celebraron el equipo y la afición de la Deportiva el triunfo sobre la bocina. aún con las primeras urgencias de un grande parecían más que 3 puntos lo que había en liza. Estamos a unas alturas de temporada donde aún se puede ir a por el +3 en lugar de tratar de amarrar el +1.
 
