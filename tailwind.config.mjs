@@ -16,6 +16,7 @@ export default {
 				accentlight: "var(--color-accent-light)",
 				accentdark: "var(--color-accent-dark)",
 				twitch: "var(--color-twitch)",
+				spotify: "var(--color-spotify)",
 				ice: "var(--color-twitch-ice)",
 			},
 			screens: {

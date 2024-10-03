@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content"
+import BannerSpotify from "@/components/BannerSpotify.astro"
 import HomeNews from "@/components/HomeNews.astro"
 import VideosHome from "@/components/VideosHome.astro"
 import { videos } from "@/data/videos"
@@ -10,6 +11,7 @@ const lastVideos = videos.sort((a, b) => b.id - a.id).slice(0, 3)
 ---
 
 <section class="overflow-x-hidden">
+	<BannerSpotify />
 	<HomeNews posts={formattedPosts} />
 	<VideosHome videos={lastVideos} />
 </section>

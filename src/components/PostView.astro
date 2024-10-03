@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets"
 import ButtonsShare from "./ButtonsShare.astro"
+import BannerSpotify from "./BannerSpotify.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import Layout from "@/layouts/Layout.astro"
 import { slugify } from "@/utils/slug"
@@ -15,6 +16,7 @@ const formatDate = {
 ---
 
 <Layout title={title} description={description} image={imagen}>
+	<BannerSpotify />
 	<article>
 		<div class="block overflow-hidden rounded-lg">
 			{

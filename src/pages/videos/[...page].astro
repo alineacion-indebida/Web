@@ -1,4 +1,5 @@
 ---
+import BannerSpotify from "@/components/BannerSpotify.astro"
 import Pagination from "@/components/Pagination.astro"
 import Video from "@/components/Video.astro"
 import { videos } from "@/data/videos"
@@ -15,7 +16,8 @@ const { page }: any = Astro.props
 ---
 
 <Layout title="Últimos vídeos - Alineación indebida" description="Nuestros últimos vídeos publicados en youtube del programa Alineación Indebida.">
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Últimos vídeos</h1>
+	<BannerSpotify />
+	<h1 class="mb-8 mt-8 text-2xl font-bold md:text-3xl">Últimos vídeos</h1>
 	<Video videos={page.data} />
 	<Pagination
 		length={page.lastPage}
