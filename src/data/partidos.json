@@ -19,6 +19,86 @@
       "local": true,
       "rival": "Bilbao Athletic",
       "estadio": "Reina Sofía"
+    },
+    {
+      "id": 3,
+      "slug": "2425-ponferradina-unionistas",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-09-07T20:00:00.000+01:00",
+      "jornada": "3",
+      "local": false,
+      "rival": "SD Ponferradina",
+      "estadio": "El Toralín"
+    },
+    {
+      "id": 4,
+      "slug": "2425-unionistas-barcelona-atletic",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-09-15T12:00:00.000+01:00",
+      "jornada": "4",
+      "local": true,
+      "rival": "Barcelona Atletic",
+      "estadio": "Reina Sofía"
+    },
+    {
+      "id": 5,
+      "slug": "2425-celta-fortuna-unionistas",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-09-21T19:30:00.000+01:00",
+      "jornada": "5",
+      "local": false,
+      "rival": "RC Celta Fortuna",
+      "estadio": "Abanca Balaídos"
+    },
+    {
+      "id": 6,
+      "slug": "2425-unionistas-cultural-leonesa",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-09-28T21:30:00.000+01:00",
+      "jornada": "6",
+      "local": true,
+      "rival": "CyD Leonesa",
+      "estadio": "Reina Sofía"
+    },
+    {
+      "id": 7,
+      "slug": "2425-ourense-unionistas",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-06-05T21:30:00.000+01:00",
+      "jornada": "7",
+      "local": false,
+      "rival": "Ourense CF",
+      "estadio": "O Couto"
+    },
+    {
+      "id": 8,
+      "slug": "2425-unionistas-lugo",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-10-13T12:00:00.000+01:00",
+      "jornada": "8",
+      "local": true,
+      "rival": "CD Lugo",
+      "estadio": "Reina Sofía"
+    },
+    {
+      "id": 9,
+      "slug": "2425-amorebieta-unionistas",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-10-20T12:00:00.000+01:00",
+      "jornada": "9",
+      "local": false,
+      "rival": "SD Amorebieta",
+      "estadio": "Urritxe"
+    },
+    {
+      "id": 10,
+      "slug": "2425-arenteiro-unionistas",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-10-25T20:30:00.000+01:00",
+      "jornada": "10",
+      "local": false,
+      "rival": "CD Arenteiro",
+      "estadio": "Espiñedo"
     }
   ]
 }
