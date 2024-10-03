@@ -16,11 +16,11 @@ Llega el Otoño.
 
 El calendario deparaba un arranque exigente para Unionistas de Salamanca y así ha sido. Especialmente en el recién acabado septiembre que arroja un bagaje de 4 puntos  de 16 posibles. 7 goles a favor 7 en contra 8 puntos y undécima posición. En el medio, mesura y equilibrio de cifras. El zarpazo de realidad de la Cultural y Deportiva Leonesa, (parece que el globo sí lleva gas este año) pone en su sitio incluso al más *hipermotiamente ilusiodespistado*. No hubo tercera remontada en casa y no hubo octava victoria en casa. Aunque un final de rabia y decibelios pudo minorar daños rescatando un empate. El Reina y la garra pueden mucho pero no todo. Llegó el otoño al Reina Sofía que en algún tramo acusó la borrasca CDyL.
 
-Esto es muy largo y apenas va un sexto de competición, este montón de naipes de la clasificación se barajará bastante; pero el líder dio imagen de equipo muy trabajado a todos los niveles y en todas las fases del juego, bendiciendo la continuidad del bloque de una temporada a otra y con incorporaciones diferenciales (nos ha fastidiado...  sobre esto tienen ustedes dichos procaces sobre atributos y rendimiento sexual). Nos plantamos en Octubre con cosas que ya intuíamos y se confirman, y otras que hemos perfilado en el andar de estas  jornadas.
+Esto es muy largo y apenas va un sexto de competición, este montón de naipes de la clasificación se barajará bastante; pero el líder dio imagen de equipo muy trabajado a todos los niveles y en todas las fases del juego, bendiciendo la continuidad del bloque de una temporada a otra y con incorporaciones diferenciales (nos ha fastidiado...  sobre esto tienen ustedes dichos procaces sobre atributos y rendimiento sexual). Nos plantamos en Octubre con cosas que ya intuíamos y se confirman, y otras que hemos perfilado en el andar de estas jornadas.
 
 En lo general: 
 
-La competición es igualada y no se debe dar por muerto a nadie antes de tiempo (Véase la ascendida gimnástica o el resucitado Zamora) El nivel y espectáculo es alto y hay goles. Los horarios son un despropósito y se perjudica un buen producto. El nivel arbitral es de moneda al aire.
+La competición es igualada y no se debe dar por muerto a nadie antes de tiempo (Véase la ascendida Gimnástica Segoviana o el resucitado Zamora) El nivel y espectáculo es alto y hay goles. Los horarios son un despropósito y se perjudica un buen producto. El nivel arbitral es de moneda al aire.
 
 Y en lo particular: 
 
