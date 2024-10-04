@@ -43,7 +43,7 @@ const { posts } = Astro.props
 					)}
 				</div>
 				<div class="w-full">
-					<div class=" flex w-full">
+					<div class="flex w-full">
 						{post.data.categorias.slice(0, 1).map(item => (
 							<a
 								href={`/categorias/${slugify(item)}`}
@@ -60,7 +60,6 @@ const { posts } = Astro.props
 							</a>
 						</h2>
 					</div>
-					
 				</div>
 			</article>
 		))
