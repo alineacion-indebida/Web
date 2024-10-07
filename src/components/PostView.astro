@@ -22,7 +22,16 @@ const formatDate = {
 			{
 				imagen && (
 					<figure class="h-auto w-auto object-cover md:h-[480px]">
-						<Image class="transition duration-300 ease-in-out" src={imagen} alt={title} width={960} height={480} decoding="async" loading="lazy" />
+						<Image
+							transition:name={`img-${slug}`}
+							class="transition duration-300 ease-in-out"
+							src={imagen}
+							alt={title}
+							width={960}
+							height={480}
+							decoding="async"
+							loading="lazy"
+						/>
 					</figure>
 				)
 			}
