@@ -1,13 +1,22 @@
 {
   "temporadas": [
     {
-      "updateAt": "29/04/24",
+      "updateAt": "03/10/24",
+      "year": "2024-25",
+      "partidos": 7,
+      "programas": 15,
+      "horas": 40,
+      "viajes": 3,
+      "km": 2196
+    },
+    {
+      "updateAt": "01/07/24",
       "year": "2023-24",
-      "partidos": 37,
-      "programas": 73,
-      "horas": 142,
-      "viajes": 7,
-      "km": 5987
+      "partidos": 38,
+      "programas": 79,
+      "horas": 153,
+      "viajes": 8,
+      "km": 6389
     }
   ],
   "equipo": [
@@ -34,7 +43,7 @@
     {
       "nombre": "Jaime",
       "puesto": "Opinador de barra",
-      "img": "/img/usuario.webp"
+      "img": "/img/equipo/jaime.webp"
     },
     {
       "nombre": "Pol Zakour",
@@ -49,11 +58,6 @@
     {
       "nombre": "Yuri Ramos",
       "puesto": "Caballo de hierro",
-      "img": "/img/usuario.webp"
-    },
-    {
-      "nombre": "Cotobal",
-      "puesto": "El objetivo",
       "img": "/img/usuario.webp"
     },
     {

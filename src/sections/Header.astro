@@ -6,7 +6,18 @@ import Footer from "@/sections/Footer.astro"
 
 const pages = [
 	{ name: "NOTICIAS", href: "/noticias" },
+	{ name: "PLANTILLAS", href: "/plantillas" },
+	{ name: "VÍDEOS", href: "/videos" },
+	{ name: "QUIÉNES SOMOS", href: "/quienes-somos/" },
+].map(page => ({
+	...page,
+	active: Astro.url.pathname.replaceAll("/", "") === page.href.replaceAll("/", ""),
+}))
+const pagesMobile = [
+	{ name: "NOTICIAS", href: "/noticias" },
 	{ name: "CRÓNICAS", href: "/cronicas" },
+	{ name: "SECCIONES", href: "/categorias" },
+	{ name: "PLANTILLAS", href: "/plantillas" },
 	{ name: "VÍDEOS", href: "/videos" },
 	{ name: "QUIÉNES SOMOS", href: "/quienes-somos/" },
 ].map(page => ({
@@ -50,7 +61,7 @@ const pages = [
 			<nav class="flex w-full flex-col items-center gap-5">
 				<span aria-hidden="true" class="h-[2px] w-full border-t-2 border-primary"></span>
 				{
-					pages.map(({ name, href, active }, key) => (
+					pagesMobile.map(({ name, href, active }, key) => (
 						<>
 							<a
 								href={href}
@@ -113,8 +124,6 @@ const pages = [
 		pointer-events: all;
 	}
 
-	.current-page {
-	}
 	.current-page:before {
 		view-transition-name: nav-item;
 		background: var(--color-accent);

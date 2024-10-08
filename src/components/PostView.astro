@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets"
 import ButtonsShare from "./ButtonsShare.astro"
+import BannerSpotify from "./BannerSpotify.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import Layout from "@/layouts/Layout.astro"
 import { slugify } from "@/utils/slug"
@@ -15,12 +16,22 @@ const formatDate = {
 ---
 
 <Layout title={title} description={description} image={imagen}>
+	<BannerSpotify />
 	<article>
-		<div class="block overflow-hidden rounded-lg">
+		<div class="block overflow-hidden rounded-lg mt-4">
 			{
 				imagen && (
 					<figure class="h-auto w-auto object-cover md:h-[480px]">
-						<Image class="transition duration-300 ease-in-out" src={imagen} alt={title} width={960} height={480} decoding="async" loading="lazy" />
+						<Image
+							transition:name={`img-${slug}`}
+							class="transition duration-300 ease-in-out"
+							src={imagen}
+							alt={title}
+							width={960}
+							height={480}
+							decoding="async"
+							loading="lazy"
+						/>
 					</figure>
 				)
 			}

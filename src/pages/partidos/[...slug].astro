@@ -1,0 +1,24 @@
+---
+import TextoInfoPartido from "@/components/TextoInfoPartido.astro"
+import { partidos } from "@/data/partidos"
+import Layout from "@/layouts/Layout.astro"
+
+export async function getStaticPaths() {
+  return partidos.map(({ slug, imagen, date, jornada, local, rival, estadio }) => {
+    return {
+      params: { slug },
+      props: { infoPartido: { imagen, date, jornada, local, rival, estadio } },
+    }
+  })
+}
+
+const { infoPartido } = Astro.props
+const textoPartido = (infoPartido.local ? "Unionistas de Salamanca" : infoPartido.rival).concat(" - ").concat(infoPartido.local ? infoPartido.rival : "Unionistas de Salamanca")
+---
+
+<Layout
+	title=`${textoPartido} - Alineación indebida`
+	description=`Horario e información del partido ${textoPartido}. Donde verlo en directo y más datos en alineacion indebida.`
+>
+	<TextoInfoPartido {...infoPartido} />
+</Layout>

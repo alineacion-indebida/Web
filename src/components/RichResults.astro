@@ -4,7 +4,7 @@ const organizationSchema = {
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"url": "https://www.alineacionindebida.com",
-	"image": "/img/og.jpg",
+	"image": "/img/og.webp",
 	"sameAs": [
         "https://x.com/a_indebida12",
         "https://www.instagram.com/a_indebida12",
@@ -41,5 +41,5 @@ const FAQSchema = {
 }
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
-<script type="application/ld+json" set:html={JSON.stringify(FAQSchema)} />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+<script is:inline type="application/ld+json" set:html={JSON.stringify(FAQSchema)} />

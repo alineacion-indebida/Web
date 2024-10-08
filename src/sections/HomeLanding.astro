@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content"
+import BannerSpotify from "@/components/BannerSpotify.astro"
 import HomeNews from "@/components/HomeNews.astro"
 import VideosHome from "@/components/VideosHome.astro"
 import { videos } from "@/data/videos"
@@ -10,14 +11,7 @@ const lastVideos = videos.sort((a, b) => b.id - a.id).slice(0, 3)
 ---
 
 <section class="overflow-x-hidden">
-	<div class="relative">
-		<div class="flex flex-col items-center">
-			<h1 class="mb-4 text-center text-5xl font-bold">
-				<span class="text-gradient">Alineación indebida</span>
-			</h1>
-			<h2 class="mb-4 text-center text-2xl font-bold">Pasión por el deporte</h2>
-		</div>
-	</div>
+	<BannerSpotify />
 	<HomeNews posts={formattedPosts} />
 	<VideosHome videos={lastVideos} />
 </section>

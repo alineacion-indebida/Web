@@ -1,27 +1,72 @@
 ---
+import { Image } from "astro:assets"
 import Layout from "@/layouts/Layout.astro"
 import { getTaxonomy } from "@/utils/getAllTags"
 
 const allCategorias = await getTaxonomy("noticias", "categorias")
 const uniqueCategorias = [...new Set(allCategorias.map((item: any) => item.slug))].map(slug => allCategorias.find((cat: any) => cat.slug === slug))
+
+const imagenes = new Map([
+	{
+		seccion: "Apuntes desde la Panelais",
+		imagen: "/img/noticias/panelais-reina.webp",
+	},
+	{
+		seccion: "Los Números De Pol",
+		imagen: "/img/noticias/numeros-pol.webp",
+	},
+	{
+		seccion: "La Opinión Indebida",
+		imagen: "/img/noticias/primera-fed.webp",
+	},
+	{
+		seccion: "La Firma Destacada",
+		imagen: "/img/noticias/primera-fed.webp",
+	},
+	{
+		seccion: "La Jornada Indebida",
+		imagen: "/img/noticias/primera-fed.webp",
+	},
+	{
+		seccion: "Viajes indebiders",
+		imagen: "/img/noticias/aficion-coruna.webp",
+	},
+].map(imagen => [imagen.seccion, imagen]))
 ---
 
 <Layout
 	title="Nuestras categorias - Alineación indebida"
 	description="Todos los temas de los que hablamos en la Web Oficial del programa Alineación Indebida."
 >
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Categorias:</h1>
-	{
-		uniqueCategorias.map((category: any) => (
-			<li class="mr-4 flex items-center justify-between">
-				<a
-					class="text-lg capitalize text-zinc-400 hover:text-zinc-100"
-					href={`/categorias/${category.slug}`}
-					title={`Ver las noticias de ${category.name}`}
-				>
-					{category?.name}
-				</a>
-			</li>
-		))
-	}
+	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Nuestras secciones:</h1>
+	<div class="mx-auto grid grid-cols-1 gap-x-8 gap-y-16 md:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+		{
+			uniqueCategorias.map((category: any) => (
+				<article class="flex w-full flex-col items-start">
+					<div class="mb-4 block overflow-hidden rounded-lg">
+						<a href={`/categorias/${category.slug}/`}>
+							<figure class="h-auto w-auto object-cover md:h-[150px]">
+								<Image
+									class="transition duration-300 ease-in-out hover:scale-110"
+									src={imagenes.get(category.name)?.imagen ? imagenes.get(category.name)?.imagen! : "/img/noticias/primera-fed.webp"}
+									alt={category.name}
+									width={960}
+									height={480}
+									decoding="async"
+									loading="lazy"
+								/>
+							</figure>
+						</a>
+					</div>
+					<div class="relative w-full">
+						<h2 class="mt-3 text-xl font-semibold leading-6 text-center text-white group-hover:text-zinc-600">
+							<a href={`/categorias/${category.slug}/`}>
+								{category.name}
+							</a>
+						</h2>
+					</div>
+				</article>
+			))
+		}
+	</div>
 </Layout>

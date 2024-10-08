@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: alineacion-indebida/Web
+  repo: adriandpdev/AlineacionIndebida
   site_domain: alineacionindebida.com
   base_url: https://www.alineacionindebida.com
   auth_endpoint: oauth

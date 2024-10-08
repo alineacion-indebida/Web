@@ -97,7 +97,7 @@ export const PatrocinadoresLogoCatalog: Record<PatrocinadorId, LogoType> = {
 			},
 		],
 	},
-	LiliCook: {
+	Newcotel: {
 		viewBox: "0 0 101 38",
 		paths: [
 			{

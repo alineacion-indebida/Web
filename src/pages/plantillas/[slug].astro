@@ -1,0 +1,165 @@
+---
+import { plantillasMap } from "@/data/plantillas"
+import Layout from "@/layouts/Layout.astro"
+
+import XIcon from "@/icons/X.astro"
+import InstagramIcon from "@/icons/instagram.astro"
+import WebIcon from "@/icons/web.astro"
+
+export const prerender = false
+
+
+
+interface jugadorType {
+	nombre: string
+	numero: string
+	posicion: string
+	nacim: string
+	altura: string
+	fichaje: string
+	procedencia: string
+	contrato: string
+}
+
+const posiciones = {
+	portero: ["PT"],
+	defensa: ["CT", "LI", "LD"],
+	mediocentro: ["MC", "MCO", "MCD"],
+	delantero: ["EI", "ED", "DC", "MP"],
+}
+
+const slug = Astro.params.slug
+let dataClub: any
+
+if (slug && plantillasMap.has(slug))
+	dataClub = plantillasMap.get(slug)
+else return Astro.redirect("/404")
+
+function getEdad(dateString: String) {
+	const fecharray = dateString?.split("/")
+	const fechastring = fecharray[1].concat("/".concat(fecharray[0].concat("/".concat(fecharray[2]))))
+	const fechaNacimiento = new Date(fechastring)
+	const hoy = new Date()
+	let edad = hoy.getFullYear() - fechaNacimiento.getFullYear()
+	const diferenciaMeses = hoy.getMonth() - fechaNacimiento.getMonth()
+	if (diferenciaMeses < 0 || (diferenciaMeses === 0 && hoy.getDate() < fechaNacimiento.getDate()))
+		edad--
+	return edad
+}
+
+function issub23(dateString: String) {
+	const fecharray = dateString?.split("/")
+	const fechastring = fecharray[1].concat("/".concat(fecharray[0].concat("/".concat(fecharray[2]))))
+	if (new Date(fechastring).valueOf() - new Date("1/1/2002").valueOf() > 0)
+		return true
+	return false
+}
+
+---
+
+<Layout
+	title=`${dataClub.nombre} - Alineación indebida`
+	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
+>
+	<section class="mt-6">
+		<h2 class="mt-6 text-2xl font-semibold leading-6 text-white">
+			{dataClub.nombre}
+		</h2>
+		<div class="mt-2 flex w-full flex-row gap-x-3">
+			<div class="mt-2 w-1/5">
+				<img src={dataClub.escudo} alt="Escudo" />
+			</div>
+			<div class="w-full">
+				<p>Entrenador: {dataClub.entrenador}</p>
+				<p>Presidente: {dataClub.presidente}</p>
+				<p>Estadio: {dataClub.estadio} ({dataClub.aforo})</p>
+				<div class="flex flex-row">
+					<nav>
+						<ul class="flex flex-row items-center gap-x-6 px-1" aria-label="redes sociales y botón para alternar tema">
+							<li>
+								<a
+									target="_blank"
+									rel="noopener"
+									aria-label="Twitch del equipo, se abrirá en una nueva pestaña"
+									href={`https://${dataClub.web}/`}
+									class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+								>
+									<WebIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+								</a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									rel="noopener"
+									aria-label="Instagram del equipo, se abrirá en una nueva pestaña"
+									href={`https://instagram.com/${dataClub.instagram}/`}
+									class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+								>
+									<InstagramIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+								</a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									rel="noopener"
+									aria-label="X del equipo, se abrirá en una nueva pestaña"
+									href={`https://x.com/${dataClub.x}/`}
+									class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+								>
+									<XIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+								</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+		<div class="mt-6 overflow-x-auto">
+			<table class="w-full table-auto whitespace-nowrap rounded-lg bg-gray-700">
+				<thead class="bg-gray-600">
+					<tr>
+						<th class="rounded-tl-lg px-2 py-2">#</th>
+						<th class="px-2 py-2">Pos</th>
+						<th class="px-4 py-2">Nombre</th>
+						<th class="px-4 py-2">Edad</th>
+						<th class="px-4 py-2">Altura</th>
+						<th class="px-2 py-2">Fichaje</th>
+						<th class="px-2 py-2">Procedencia</th>
+						<th class="rounded-tr-lg px-2 py-2">Contrato</th>
+					</tr>
+				</thead>
+				<tbody>
+					{
+						dataClub?.plantilla?.map((jugador: jugadorType) => (
+							<tr class="text-center">
+								<td
+									class:list={[
+										" px-2 py-1",
+										{ "bg-[#004ff6]": posiciones.portero.includes(jugador.posicion) },
+										{ "bg-[#F6A700]": posiciones.defensa.includes(jugador.posicion) },
+										{ "bg-[#c38400]": posiciones.mediocentro.includes(jugador.posicion) },
+										{ "bg-[#F6A700]": posiciones.delantero.includes(jugador.posicion) },
+									]}
+								>
+									{jugador.numero}
+								</td>
+								<td class="px-2 py-1">{jugador.posicion}</td>
+								<td class="px-4 py-1">{jugador.nombre}</td>
+								<td
+									class:list={[
+										" px-4 py-1",
+										{ "bg-[#414d60]": jugador.nacim ? issub23(jugador.nacim) : false },
+									]}
+								>{jugador.nacim ? getEdad(jugador.nacim) : ""}</td>
+								<td class="px-4 py-1">{jugador.altura}</td>
+								<td class="px-2 py-1">{jugador.fichaje}</td>
+								<td class="px-2 py-1">{jugador.procedencia}</td>
+								<td class="px-2 py-1">{jugador.contrato}</td>
+							</tr>
+						))
+					}
+				</tbody>
+			</table>
+		</div>
+	</section>
+</Layout>

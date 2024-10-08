@@ -1,6 +1,5 @@
 ---
 import { Image } from "astro:assets"
-import FormattedDate from "@/components/FormattedDate.astro"
 import { slugify } from "@/utils/slug"
 
 type PostType = {
@@ -20,10 +19,6 @@ type PostType = {
 }
 
 const { posts } = Astro.props
-const formatDate = {
-	month: "long",
-	day: "numeric",
-}
 ---
 
 <div class="mx-auto grid grid-cols-1 gap-x-8 gap-y-1 md:grid-cols-1 lg:mx-0 lg:max-w-none lg:grid-cols-2">
@@ -35,11 +30,12 @@ const formatDate = {
 						<a href={`/noticias/${post.slug}/`}>
 							<figure class="h-auto w-auto object-cover">
 								<Image
+									transition:name={`img-${post.slug}`}
 									class="transition duration-300 ease-in-out hover:scale-110 rounded-lg"
 									src={post.data.imagen}
 									alt={post.data.title}
-									width={1000}
-									height={1000}
+									width={300}
+									height={300}
 									decoding="async"
 									loading="lazy"
 								/>
@@ -48,19 +44,18 @@ const formatDate = {
 					)}
 				</div>
 				<div class="w-full">
-					<div class="flex flex-wrap items-center justify-between gap-x-2 text-xs text-white w-full">
-						<FormattedDate date={post.data.date} format={formatDate} />
+					<div class="flex w-full">
 						{post.data.categorias.slice(0, 1).map(item => (
 							<a
 								href={`/categorias/${slugify(item)}`}
-								class="text-md relative rounded-full px-3 py-1.5 font-medium capitalize hover:bg-zinc-50 hover:text-zinc-900 bg-zinc-900 text-zinc-400"
+								class="text-xs font-medium capitalize hover:text-white text-accent"
 							>
 								{item}
 							</a>
 						))}
 					</div>
 					<div class="relative">
-						<h2 class="mt-1 text-xl font-semibold leading-6 hover:text-accent text-white">
+						<h2 class="text-xl mt-2 font-semibold leading-6 hover:text-accent text-white">
 							<a href={`/noticias/${post.slug}/`}>
 								{post.data.title}
 							</a>

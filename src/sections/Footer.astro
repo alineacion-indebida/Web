@@ -1,55 +1,104 @@
 ---
 import Typography from "@/components/Typography.astro"
-import Patrocinadores from "@/sections/Patrocinadores.astro"
 
 import XIcon from "@/icons/X.astro"
-import InstagramIcon from "@/icons/instagram.astro"
 import TwitchIcon from "@/icons/twitch.astro"
+import SpotifyIcon from "@/icons/Spotify.astro"
+import InstagramIcon from "@/icons/instagram.astro"
+
+const pagesFooter = [
+	{ name: "Crónicas", href: "/cronicas" },
+	{ name: "Secciones", href: "/categorias" },
+	{ name: "Etiquetas", href: "/tags" },
+	{ name: "Plantillas", href: "/plantillas" },
+	{ name: "Contacto", href: "/contacto" },
+	{ name: "Política de privacidad", href: "/politica-privacidad" },
+]
 ---
 
-<Patrocinadores />
-<footer class="mt-20 flex w-full flex-col place-items-center border-t-2 border-primary pb-20 pt-6 md:flex-row md:justify-between">
-	<Typography as="span" variant="body" color="neutral" class="px-4 text-center">
-		&copy; {new Date().getFullYear()} Alineación indebida <span aria-hidden="true" class="hidden md:inline">|</span>
-		<br aria-hidden="true" class="block md:hidden" /> Todos los derechos reservados.
-	</Typography>
-	<span aria-hidden="true" class="my-6 w-full border-t-2 border-primary pt-6 md:hidden"></span>
+<footer class="mt-20 w-full pb-20 pt-6 text-white company-link md:pt-8 lg:px-10 lg:pt-12 ">
+	<div class="max-w-6xl flex flex-col place-items-center m-auto md:justify-between">
 
-	<nav>
-		<ul class="flex flex-row items-center gap-x-6 px-4" aria-label="redes sociales y botón para alternar tema">
-			<li>
-				<a
-					target="_blank"
-					rel="noopener"
-					aria-label="Twitch de alineacion indebida, se abrirá en una nueva pestaña"
-					href="https://twitch.com/alineacionindebida"
-					class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
-				>
-					<TwitchIcon class="text-primary transition-colors duration-300 hover:text-accent" />
-				</a>
-			</li>
-			<li>
-				<a
-					target="_blank"
-					rel="noopener"
-					aria-label="Instagram de alineacion indebida, se abrirá en una nueva pestaña"
-					href="https://www.instagram.com/a_indebida12"
-					class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
-				>
-					<InstagramIcon class="text-primary transition-colors duration-300 hover:text-accent" />
-				</a>
-			</li>
-			<li>
-				<a
-					target="_blank"
-					rel="noopener"
-					aria-label="X de alineacion indebida, se abrirá en una nueva pestaña"
-					href="https://x.com/a_indebida12"
-					class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
-				>
-					<XIcon class="text-primary transition-colors duration-300 hover:text-accent" />
-				</a>
-			</li>
-		</ul>
-	</nav>
+		<Typography as="span" variant="bodybold" color="neutral" class="px-4 text-center">
+			&copy; {new Date().getFullYear()} Alineación indebida <span aria-hidden="true" class="hidden md:inline">|</span>
+			<br aria-hidden="true" class="block md:hidden" /> Todos los derechos reservados.
+		</Typography>
+		<div class="flex md:flex-row flex-col place-items-center pt-2 pb-4">
+			{
+				pagesFooter.map(({ name, href }, key) => (
+					<>
+					<a
+						href={href}
+						class="nav-item relative h-full flex select-none flex-col items-center justify-center gap-1 px-4 text-xl "
+						id={`nav-link-${key}`}
+					>
+						<span class="z-10">{name}</span>
+
+						<div class="background absolute -z-10 h-full w-full" />
+					</a>
+				</>
+			))
+		}
+		</div>
+
+		<span aria-hidden="true" class="my-6 w-full border-t-2 border-primary "></span>
+		<Typography as="span" variant="bodybold" color="neutral" class="px-4 pt-4 text-center">
+			Siguenos en nuestras redes:
+		</Typography>
+		<nav>
+			<ul class="flex flex-row items-center gap-x-6 px-4 pt-2" aria-label="redes sociales y botón para alternar tema">
+				<li>
+					<a
+						target="_blank"
+						rel="noopener"
+						aria-label="Twitch de alineacion indebida, se abrirá en una nueva pestaña"
+						href="https://twitch.com/alineacionindebida"
+						class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+					>
+						<TwitchIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+					</a>
+				</li>
+				<li>
+					<a
+						target="_blank"
+						rel="noopener"
+						aria-label="Instagram de alineacion indebida, se abrirá en una nueva pestaña"
+						href="https://www.instagram.com/a_indebida12"
+						class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+					>
+						<InstagramIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+					</a>
+				</li>
+				<li>
+					<a
+						target="_blank"
+						rel="noopener"
+						aria-label="X de alineacion indebida, se abrirá en una nueva pestaña"
+						href="https://x.com/a_indebida12"
+						class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+					>
+						<XIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+					</a>
+				</li>
+				<li>
+					<a
+						target="_blank"
+						rel="noopener"
+						aria-label="Spotify de alineacion indebida, se abrirá en una nueva pestaña"
+						href="https://open.spotify.com/show/2T8ypOXEhivOjh3Kzsc9fA"
+						class="inline-block any-hover:scale-125 any-hover:opacity-70 motion-safe:transition"
+					>
+						<SpotifyIcon class="text-primary transition-colors duration-300 hover:text-accent" />
+					</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
 </footer>
+
+<style>
+	.company-link {
+		background: linear-gradient(to bottom, rgba(255, 255, 255, 0.2) 0%, transparent 100%);
+		transition: all 0.5s ease;
+	}
+</style>

@@ -5,7 +5,7 @@ type PatrocinadorId =
 	| "Casaserra"
 	| "Albia"
 	| "Fantasmas"
-	| "LiliCook"
+	| "Newcotel"
 	| "Guinaldo"
 type PatrocinadorName =
 	| "Sercine"
@@ -14,7 +14,7 @@ type PatrocinadorName =
 	| "Casaserra"
 	| "Grupo Albia"
 	| "Fantasmas en el desvan"
-	| "LiliCook Gastrobar"
+	| "Newcotel"
 	| "Restaurante Guinaldo"
 
 interface Patrocinador {
@@ -43,16 +43,6 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 		id: "Duran",
 		name: "Plasticos Duran",
 		url: "https://www.plasticosduran.com/",
-		image: {
-			width: 133,
-			height: 38,
-		},
-		svg: false,
-	},
-	{
-		id: "LiliCook",
-		name: "LiliCook Gastrobar",
-		url: "https://www.lilicook.es/",
 		image: {
 			width: 133,
 			height: 38,
@@ -103,6 +93,16 @@ export const PatrocinadoresList: Array<Patrocinador> = [
 		id: "Guinaldo",
 		name: "Restaurante Guinaldo",
 		url: "https://restauranteguinaldo.com/",
+		image: {
+			width: 133,
+			height: 38,
+		},
+		svg: false,
+	},
+	{
+		id: "Newcotel",
+		name: "Newcotel",
+		url: "https://www.newcotel.es/",
 		image: {
 			width: 133,
 			height: 38,
