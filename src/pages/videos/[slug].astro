@@ -19,11 +19,24 @@ else
 	title=`${video.title} - Alineación indebida`
 	description="Web Oficial del programa Alineación Indebida. El programa de Unionistas de Salamanca y todo el deporte salmantino"
 >
-	<BannerSpotify />
-	<section class="mt-6">
-		<LiteYouTube videoId={video.slug} backgroundImage={video.image} />
+	<section class="mt-2">
+		{
+			video.spotify
+			? (
+				<a href={`https://open.spotify.com/episode/${video.spotify}`}>
+					<article class="mt-1 mb-4 p-4 flex w-full flex-col items-center border-solid rounded-xl border-4 border-spotify hover:text-spotify text-white">
+						<h2 class="text-xl font-semibold leading-9 text-center">
+							¡Tambien disponible en Spotify!
+						</h2>
+					</article>
+				</a>
+			)
+			: <BannerSpotify />
+		}
+		<LiteYouTube videoId={video.slug} backgroundImage={`https://i.ytimg.com/vi/${video.slug}/hqdefault.jpg`} />
 		<h2 class="mt-6 text-xl font-semibold leading-6 text-white">
 			{video.title}
 		</h2>
+
 	</section>
 </Layout>
