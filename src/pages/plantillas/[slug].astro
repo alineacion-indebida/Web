@@ -33,7 +33,7 @@ let dataClub: any
 
 if (slug && plantillasMap.has(slug))
 	dataClub = plantillasMap.get(slug)
-else return Astro.redirect("/404")
+else return Astro.redirect("/plantillas")
 
 function getEdad(dateString: String) {
 	const fecharray = dateString?.split("/")
