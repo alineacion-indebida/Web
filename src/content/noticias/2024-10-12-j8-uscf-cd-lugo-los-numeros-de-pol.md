@@ -1,21 +1,21 @@
 ---
-title: J8. USCF - CD Lugo - Los numeros de Pol
+title: J8. USCF - CD Lugo - Los números de Pol
 description: Previa de la octava jornada entre Unionistas de Salamanca y el CD Lugo
 date: 2024-10-12T13:00:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Numeros De Pol
+  - Los Números De Pol
 tags:
   - Previa
   - Unionistas
   - Lugo
-  - Reina Sofia
-  - Primera Federacion
+  - Reina Sofía
+  - Primera Federación
   - Datos
-  - Estadisticas
+  - Estadísticas
 autor: "Pol Zakour "
 ---
-Regresa Unionistas de Salamanca al Reina Sofía y regresa también el horario matutino a la capital charra. Duelo duro el que se les presenta a los de Dani Llácer frente a un CD Lugo que llega tras dos empates en casa ante rivales de la zona alta como son Andorra y Nàstic, además de caer entre medias ante Sestao River en Copa Federación también en el Anxo Carro. Un conjunto dirigido por Lolo Escobar que en su último encuentro frente a los granas vivió la **situación inversa a lo que le ocurría a Unionistas de Salamanca en Ourense, y es que logró empatar un partido que se le ponía muy complicado tras comenzar perdiendo 0-2.**
+Regresa Unionistas de Salamanca al Reina Sofía y regresa también el horario matutino a la capital charra. Duelo duro el que se les presenta a los de Dani Llácer frente a un CD Lugo que llega tras dos empates en casa ante rivales de la zona alta como son Andorra y Nàstic, además de caer entre medias ante Sestao River en Copa Federación también en el Anxo Carro. Un conjunto dirigido por Lolo Escobar que en su último encuentro frente a los granas vivió la **situación inversa a lo que le ocurría a [Unionistas de Salamanca en Ourense](https://www.alineacionindebida.com/noticias/2024-10-08-unionistas-de-rebajas/), y es que logró empatar un partido que se le ponía muy complicado tras comenzar perdiendo 0-2.**
 
 ## Seguridad en defensa, carencias en ataque.
 
@@ -23,9 +23,11 @@ Regresa Unionistas de Salamanca al Reina Sofía y regresa también el horario ma
 
 Números muy buenos que contrastan con su falta de eficacia en ataque: ese es el lastre de un conjunto de Lolo Escobar que **tan solo ha anotado 3 goles** en la competición, dato que le convierte junto a Fuenlabrada y Amorebieta en los equipos menos goleadores de las tres primeras categorías del fútbol nacional.
 
-## Regreso al Reina Sofía 
+¿Quieres saber más del rival? ¡Consulta su [plantilla](https://www.alineacionindebida.com/plantillas/lugo/) y entra en [la Pizarra Indebida!](https://www.youtube.com/watch?v=oeTz7f6BBbU)
 
-Unionistas de Salamanca, de vuelta a su feudo para buscar volver a hacerse fuerte como local después de que la Cultural Leonesa se llevara los 3 puntos de la capital charra.
+## Regreso al Reina Sofía
+
+Unionistas de Salamanca, de vuelta a su feudo para buscar volver a hacerse fuerte como local después de que la Cultural Leonesa [se llevara los 3 puntos de la capital charra](https://www.alineacionindebida.com/noticias/2024-10-01-inferiores-en-juego-durante-noventa-minutos-superiores-por-coraz%C3%B3n-en-tres/).
 
 El cuadro de Dani Llácer acumula **3 encuentros sin conocer la victoria,** algo que no ocurría desde febrero de este mismo año. Pese a ello, el estilo de juego no se negocia, y los datos goleadores lo reafirman. 9 goles a favor y 9 goles en contra en 7 jornadas es el bagaje de los charros, **cuarto equipo más goleador del grupo y el más goleado de los 10 primeros clasificados,** algo que tendrá que mejorar Unionistas de Salamanca si quiere optar a algo más esta campaña.
 
@@ -35,4 +37,4 @@ Encuentro correspondiente a la jornada 7 del Campeonato nacional de Primera Fede
 
 **El partido será dirigido por el colegiado Aimar Velasco Arbaiza,** natural de Llodio y adscrito al Comité de Álava. En 5 ocasiones ha dirigido a Unionistas de Salamanca con 2 victorias charras, 2 empates y 1 derrota. Uno de esos empates fue el producido en el Anxo Carro precisamente ante el rival del domingo, que cuenta además otro encuentro también como tablas con el colegiado alavés.
 
-## ¡¡OS RECORDAMOS QUE PODÉIS SEGUIR EL PARTIDO EN DIRECTO A TRAVÉS DEL TWITCH DE ALINEACIÓN INDEBIDA!!
+## ¡¡OS RECORDAMOS QUE PODÉIS SEGUIR EL PARTIDO EN DIRECTO A TRAVÉS DEL [TWITCH DE ALINEACIÓN INDEBIDA](https://www.twitch.tv/alineacionindebida)!!
