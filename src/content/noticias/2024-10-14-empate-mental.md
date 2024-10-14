@@ -1,5 +1,5 @@
 ---
-title: Empate mental - La opinión indebida del USCF-Lugo
+title: Empate mental - La opinión indebida del USCF - Lugo
 description: Visión y análisis del empate de Unionistas en casa contra el CD
   Lugo. Primera Federación 2024-25, grupo 1, jornada 8
 date: 2024-10-14T15:00:00.000Z
