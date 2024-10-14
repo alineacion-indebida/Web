@@ -244,7 +244,7 @@
       "web": "sdamorebieta.eus",
       "x": "SDAmorebieta",
       "instagram": "sdamorebieta",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/213.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/213.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Gaizka Campos",
@@ -468,7 +468,7 @@
       "web": "www.fcandorra.com",
       "x": "fcandorra",
       "instagram": "fcandorra",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/9501.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/9501.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Nico Ratti",
@@ -620,7 +620,7 @@
           "procedencia": "Antequera CF",
           "contrato": "2026"
         },
-         {
+        {
           "nombre": "Alberto Solís",
           "numero": 6,
           "posicion": "MCO",
@@ -712,7 +712,7 @@
       "web": "cdarenteiro.es",
       "x": "CD_Arenteiro",
       "instagram": "cd_arenteiro",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/249.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Diego García",
@@ -946,7 +946,7 @@
       "web": "barakaldocf.com",
       "x": "BarakaldoCF",
       "instagram": "barakaldoclubdefutbol",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/425.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/425.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Jon Tena",
@@ -1210,7 +1210,7 @@
       "web": "fcbarcelona.es/es",
       "x": "FCBarcelonaB",
       "instagram": "fcbarcelonab",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/430.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/430.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Ander Astralaga",
@@ -1222,7 +1222,7 @@
           "procedencia": "FC Barcelona Juvenil A",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Diego Kochen",
           "numero": 13,
           "posicion": "PT",
@@ -1492,7 +1492,7 @@
           "procedencia": "Cultural Leonesa",
           "contrato": "2025"
         },
-        {  
+        {
           "nombre": "Juan Piera",
           "numero": 12,
           "posicion": "DC",
@@ -1502,7 +1502,7 @@
           "procedencia": "Átletico Baleares",
           "contrato": "2025"
         },
-        {  
+        {
           "nombre": "Antonio Fernández\"Toni\"",
           "numero": 37,
           "posicion": "DC",
@@ -1534,7 +1534,7 @@
       "web": "athletic-club.eus",
       "x": "AthleticClub",
       "instagram": "athleticclub",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/348.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/348.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Oier Gastesi",
@@ -1788,7 +1788,7 @@
       "web": "rccelta.es",
       "x": "CanteiraCeleste",
       "instagram": "canteiraceleste",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/713.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/713.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Marc Vidal",
@@ -2052,7 +2052,7 @@
       "web": "cydleonesa.com",
       "x": "CyDLeonesa",
       "instagram": "cydleonesasad",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/877.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/877.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Miguel Bañuz",
@@ -2276,7 +2276,7 @@
       "web": "gimnasticasegoviana.es",
       "x": "lagimnastica",
       "instagram": "gimnasticasegovianaoficial",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/5715.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/5715.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Pablo Carmona",
@@ -2520,7 +2520,7 @@
       "web": "gimnasticdetarragona.cat/es",
       "x": "NASTICTARRAGONA",
       "instagram": "nastictarragona",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/1228.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/1228.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Dani Rebollo",
@@ -2652,7 +2652,7 @@
           "procedencia": "SD Logroñés",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Álex López",
           "numero": 16,
           "posicion": "MC",
@@ -2774,7 +2774,7 @@
       "web": "cdlugo.com",
       "x": "CDeportivoLugo",
       "instagram": "cdeportivolugo",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/1598.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/1598.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Pablo Cacharrón",
@@ -3018,7 +3018,7 @@
       "web": "ourensecf.es",
       "x": "Ourense_CF",
       "instagram": "ourensecf",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/9401.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/9401.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Raúl Marqueta",
@@ -3242,7 +3242,7 @@
       "web": "osasuna.es",
       "x": "Osasuna_Tajonar",
       "instagram": "caosasuna",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/327.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/327.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Pablo Valencia",
@@ -3314,7 +3314,7 @@
           "procedencia": "CE Sabadell",
           "contrato": "2025"
         },
-         {
+        {
           "nombre": "Diego Moreno",
           "numero": 2,
           "posicion": "LD",
@@ -3476,7 +3476,7 @@
       "web": "sdponferradina.com",
       "x": "SDP_1922",
       "instagram": "sdp_1922_sad",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/3287.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/3287.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Andrés Prieto",
@@ -3740,7 +3740,7 @@
       "web": "realsociedad.eus",
       "x": "RealSociedad",
       "instagram": "realsociedad",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/2121.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/2121.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Aitor Fraga",
@@ -3984,7 +3984,7 @@
       "web": "realunionclub.com",
       "x": "REALUNIONCIRUN",
       "instagram": "realunionclubirun",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/2130.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/2130.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "James Wright",
@@ -4228,7 +4228,7 @@
       "web": "sestaoriverclub.com",
       "x": "SestaoRC",
       "instagram": "sestaorc",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/2309.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Iago Herrerín",
@@ -4442,7 +4442,7 @@
       "web": "sdtarazona.com",
       "x": "SDTarazona",
       "instagram": "sdtarazona1924",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/2466.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/2466.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Diego Fuoli",
@@ -4676,7 +4676,7 @@
       "web": "zamoracf.es",
       "x": "ZCFoficial",
       "instagram": "zcfoficial",
-      "escudo": "https://cdn.resfu.com/img_data/equipos/2785.png?size=200x&ext=png&lossy=1&15",
+      "escudo": "https://cdn.resfu.com/img_data/equipos/2785.png?size=100x&lossy=1",
       "plantilla": [
         {
           "nombre": "Diego Altube",
