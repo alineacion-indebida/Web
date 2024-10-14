@@ -1,19 +1,19 @@
 ---
 title: Empate mental
-description: Vision y analisis del empate de Unionistas en casa contra el CD
-  Lugo. Primera Federacion 2024-25, grupo 1, jornada 8
+description: Visión y análisis del empate de Unionistas en casa contra el CD
+  Lugo. Primera Federación 2024-25, grupo 1, jornada 8
 date: 2024-10-14T15:00:00.000Z
 imagen: /img/noticias/gzxbzauwkaad6og.jpeg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
   - Unionistas
   - Lugo
-  - Reina Sofia
+  - Reina Sofía
   - Empate
-  - Cronica
+  - Crónica
   - Firma
-  - Opinion
+  - Opinión
 autor: Miguel Ontiyuelo
 ---
 **Escaso premio** para el partido desempeñado por Unionistas de Salamanca este domingo en el Reina Sofía. Un gol precedido de varias ocasiones manifiestas, con dos balones al palo entre ellas, y un sinfín de centros al área que pese a sembrar incertidumbre no encontraron materialización, y en la mayoría de los casos, tampoco rematador. Aún así, y aunque todos querríamos ver una propuesta más diversa en sus recursos, se vieron brotes verdes en las posiciones donde el cuerpo técnico venía anunciando ajustes. Además, dominio en el balón parado y **un Álvaro y un De la Nava que dieron un recital** mientras estuvieron en el campo (esperemos que lo de DLN sea lo menos posible).
