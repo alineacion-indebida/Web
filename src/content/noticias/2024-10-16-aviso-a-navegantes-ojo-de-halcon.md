@@ -1,17 +1,21 @@
 ---
-title: Aviso a navegantes - Ojo de halcon
-description: La clave del momento que atraviesa Unionistas de Salamanca, segun Key Galan.
+title: Aviso a navegantes - Ojo de halcón
+description: La clave del momento que atraviesa Unionistas de Salamanca, en
+  palabras de Key Galán.
 date: 2024-10-16T13:00:00.000Z
 imagen: /img/noticias/marejada-estilo-japo.jpg
 categorias:
-  - Ojo de Halcon
+  - Ojo de Halcón
 tags:
   - Unionistas
-  - Primera Federacion
+  - Primera Federación
+  - Llácer
+  - Banquillo
+  - Plantilla
   - Clave
   - Firma
-  - Opinion
-autor: Key Galan
+  - Opinión
+autor: Key Galán
 ---
 Un capitán de barco tiene que pensar y tomar soluciones inmediatas ante las posibles adversidades que la travesía le puede poner por delante a lo largo del recorrido.
 
