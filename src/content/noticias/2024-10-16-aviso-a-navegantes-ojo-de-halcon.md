@@ -1,5 +1,5 @@
 ---
-title: Aviso a navegantes - Ojo de halcón
+title: "Ojo de Halcón: Aviso a navegantes"
 description: La clave del momento que atraviesa Unionistas de Salamanca, en
   palabras de Key Galán.
 date: 2024-10-16T13:00:00.000Z
