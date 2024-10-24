@@ -29,10 +29,10 @@ Sí es verdad que limítrofe a esta porción de la afición, (de la que tampoco 
 
 Pero ocurre que esta **reválida** y este golpe de timón ha de pegarse en dos citas envenenadas: 
 
-\* La visita a Espiñedo (con el recuerdo del 4-0 de waterpolo) a un Bayern Arenteiro que está en unos números geniales en el arranque de liga.
+- La visita a Espiñedo (con el recuerdo del 4-0 de waterpolo) a un Bayern Arenteiro que está en unos números geniales en el arranque de liga.
 
-\* La visita copera a Utebo que no pinta fácil, ya que el equipo local ha jugado play off de ascenso los dos últimos años y saca muchísimos de sus puntos en casa. Campo estrecho de césped artificial donde despliega intensidad y velocidad. 
+- La visita copera a Utebo que no pinta fácil, ya que el equipo local ha jugado play off de ascenso los dos últimos años y saca muchísimos de sus puntos en casa. Campo estrecho de césped artificial donde despliega intensidad y velocidad. 
 
-Dos partidos lejos de casa sin él activo importantisimo del Reina y la Afición y con la presión que el equipo se marca en la Copa de SM el Rey  por lo que le implica (dinero, visibilidad, prestigio). La final es Utebo, (es final porque puede ser último partido en una competición) pero las sensaciones que salgan del choque del Arenteiro van a condicionar el ambiente y la psicología del partido. Y ojalá nos equivoquemos pero el choque en tierras gallegas apunta a hueso.Haciendo memoria a Guernica ya se fue un poco con esa sensación y significó un punto de inflexión para la temporada.
+Dos partidos lejos de casa sin él activo importantisimo del Reina y la Afición y con la presión que el equipo se marca en la Copa de SM el Rey  por lo que le implica (dinero, visibilidad, prestigio). La final es Utebo, (es final porque puede ser último partido en una competición) pero las sensaciones que salgan del choque del Arenteiro van a condicionar el ambiente y la psicología del partido. Y ojalá nos equivoquemos pero el choque en tierras gallegas apunta a hueso. Haciendo memoria a Guernica ya se fue un poco con esa sensación y significó un punto de inflexión para la temporada.
 
 Hablábamos arriba de que todo vuelve y se repite ¿no?
