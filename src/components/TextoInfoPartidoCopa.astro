@@ -4,7 +4,7 @@ import ButtonsShare from "./ButtonsShare.astro"
 import FormattedDate from "@/components/FormattedDate.astro"
 import FormattedTime from "@/components/FormattedTime.astro"
 
-const { rival, estadio, jornada, date, local, imagen, slug } = Astro.props
+const { rival, estadio, jornada, date, local, imagen, slug, tv } = Astro.props
 const url = "https%3A%2F%2Falineacionindebida.com%2Fnoticias%2F"
 const partido = (local ? "Unionistas de Salamanca" : rival).concat(" - ").concat(local ? rival : "Unionistas de Salamanca")
 const formatDate = {
@@ -45,25 +45,21 @@ const formatHour = {
 	<div class="prose-md prose prose-invert mt-4 min-w-full md:prose-lg">
 		<p>
 			Unionistas de Salamanca se enfrentará este <FormattedDate date={date} format={formatDayWeek} /> en el Estadio {estadio} ante el
-			{rival} a las <FormattedTime date={date} format={formatHour} /> en un nuevo partido correspondiente a la jornada
-			{jornada} del grupo I de Primera Federación.
+			{rival}, a las <FormattedTime date={date} format={formatHour} /> en {jornada} de la competición de SM El Rey, ahora patrocinada por Mafre.
 		</p>
 		<h3>Dónde seguir en directo el {partido}</h3>
 		<p>
-			El partido de {partido} se emitirá hoy en directo en FEF TV, provedor oficial de la primera federación. En Alineación Indebida te narramos el encuentro
-			desde nuestro canal de twitch
+			El partido de {partido} se emitirá en directo en {tv}. Desde Alineación Indebida te narramos el encuentro desde nuestro canal de twitch
 		</p>
 		<h3>Horario del {partido}</h3>
 		<p>
-			Unionistas de Salamanca se enfrenta al {rival} en el partido correspondiente a la jornada {jornada}
-			de la Primera Federación desde las <FormattedTime date={date} format={formatHour} /> horas el <FormattedDate date={date} format={formatDate} />.
+			Unionistas de Salamanca se enfrenta al {rival} en el partido correspondiente a {jornada} de la Copa de SM El Rey desde las
+			<FormattedTime date={date} format={formatHour} /> horas el <FormattedDate date={date} format={formatDate} />.
 		</p>
 		<h3>Dónde se juega el {partido}</h3>
 		<p>
 			El Estadio {estadio} acoge este <FormattedDate date={date} format={formatDate} /> desde las <FormattedTime date={date} format={formatHour} /> horas
-			el encuentro correspondiente a la jornada {jornada} del Grupo I de la Primera Federación entre Unionistas de Salamanca y {
-				rival
-			}.
+			el encuentro correspondiente a {jornada} de la Copa de SM El Rey entre Unionistas de Salamanca y {rival}.
 		</p>
 	</div>
 	<ButtonsShare tite={partido} url={`${url}${slug}`} />

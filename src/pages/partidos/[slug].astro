@@ -1,5 +1,6 @@
 ---
 import TextoInfoPartido from "@/components/TextoInfoPartido.astro"
+import TextoInfoPartidoCopa from "@/components/TextoInfoPartidoCopa.astro"
 import { partidosMap } from "@/data/partidos"
 import Layout from "@/layouts/Layout.astro"
 
@@ -20,5 +21,9 @@ const textoPartido = (partido.local ? "Unionistas de Salamanca" : partido.rival)
 	title=`${textoPartido} - Alineación indebida`
 	description=`Horario e información del partido ${textoPartido}. Donde verlo en directo y más datos en alineacion indebida.`
 >
-	<TextoInfoPartido {...partido} />
+{
+    partido.copa
+  ? <TextoInfoPartidoCopa {...partido} />
+  : <TextoInfoPartido {...partido} />
+  }
 </Layout>
