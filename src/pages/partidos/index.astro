@@ -1,0 +1,14 @@
+---
+import ProximoPartido from "@/components/ProximoPartido.astro"
+import { partidosNext } from "@/data/partidos"
+import Layout from "@/layouts/Layout.astro"
+---
+
+<Layout
+	title="Proximos partidos de Unionistas - Alineación indebida"
+	description="Todos los partidos de Unionistas de Salamanca que daremos por streaming en nuestro twitch."
+>
+	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Próximo partido:</h1>
+	<ProximoPartido partido={partidosNext[0]} />
+	<!-- Añadir resto de partidos -->
+</Layout>

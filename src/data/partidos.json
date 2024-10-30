@@ -102,16 +102,6 @@
     },
     {
       "id": 11,
-      "slug": "2425-unionistas-real-union",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
-      "date": "2024-11-02T21:30:00.000+00:00",
-      "jornada": "11",
-      "local": true,
-      "rival": "Real Unión Club",
-      "estadio": "Reina Sofía"
-    },
-    {
-      "id": 12,
       "copa": true,
       "tv": "Aragon deportes (streaming)",
       "slug": "2425-utebo-unionistas",
@@ -121,6 +111,16 @@
       "local": false,
       "rival": "Utebo FC",
       "estadio": "Santa Ana"
+    },
+    {
+      "id": 12,
+      "slug": "2425-unionistas-real-union",
+      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "date": "2024-11-02T21:30:00.000+00:00",
+      "jornada": "11",
+      "local": true,
+      "rival": "Real Unión Club",
+      "estadio": "Reina Sofía"
     },
     {
       "id": 13,
