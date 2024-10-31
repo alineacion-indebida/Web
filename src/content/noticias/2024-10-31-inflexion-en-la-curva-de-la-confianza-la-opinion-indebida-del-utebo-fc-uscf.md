@@ -1,19 +1,19 @@
 ---
-title: Inflexion en la curva de la confianza - La opinion indebida del Utebo FC - USCF
+title: Inflexión en la curva de la confianza - La opinión indebida del Utebo FC - USCF
 description: Repaso a la victoria de Unionistas en Utebo que permite a los
   charros pasar ronda. Copa del Rey 2024-25, Primera Ronda (1/64).
 date: 2024-10-31T12:00:00.000Z
 imagen: /img/noticias/copa-2024-25-utebo.jpeg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
   - Utebo
   - Unionistas
   - Santa Ana
   - Copa del Rey
-  - Cronica
+  - Crónica
   - Firma
-  - Opinion
+  - Opinión
 autor: Miguel Ontiyuelo
 ---
 La eliminatoria de Copa del Rey en Utebo se presentaba como la culminación a un insatisfactorio mes de octubre en Unionistas de Salamanca. **Puede que fuera el partido al que más concienciados llegaban afición, plantilla y cuerpo técnico sobre su dificultad**. 4 empates consecutivos en Liga habían dejado dudas sobre el equilibrio de un equipo que tenía ante sí una obra complicada: el Utebo se presentaba infalible en su casa, un Santa Ana de aura especial, con un proyecto continuista, en crecimiento, y con una trayectoria de desempeños muy competitivos en las eliminatorias de los años precedentes. Solidez, ideas muy claras y ganas de conseguir lo que habían venido tocando con las yemas de los dedos. 
