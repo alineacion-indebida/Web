@@ -1,0 +1,28 @@
+---
+
+---
+<section class="overflow-x-hidden pt-4">
+	<div id="feftv-live" class="p-2 text-center font-bold text-gray-950 shadow-accent transition-all ease-in">
+		<div id="feftv-live-frame" class="aspect-video w-auto">
+		</div>
+	</div>
+	<div id="twitch-live" class="p-2 text-center font-bold text-gray-950 shadow-accent transition-all ease-in">
+		<div id="twitch-live-frame" class="aspect-video w-full">
+		</div>
+	</div>
+</section>
+
+<script is:inline>
+	document.addEventListener("astro:page-load", () => {
+		const streamer = "alineacionindebida"
+		const content = "37"
+
+		const CONFIG = {
+			TWITCH_PLAYER_URL: "https://player.twitch.tv",
+			FEF_PLAYER_URL: "https://feftv.com/es/team",
+		}
+
+		document.querySelector("#twitch-live-frame").innerHTML = `<iframe src="${CONFIG.TWITCH_PLAYER_URL}/?channel=${streamer}&parent=${document.location.hostname}" frameborder="0" width="100%" height="100%" allowfullscreen="true" scrolling="no"></iframe>`
+		document.querySelector("#feftv-live-frame").innerHTML = `<iframe src="${CONFIG.FEF_PLAYER_URL}/${content}" frameborder="0" width="100%" height="100%" allowfullscreen="true" scrolling="no"></iframe>`
+	})
+</script>

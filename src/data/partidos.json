@@ -3,7 +3,7 @@
     {
       "id": 1,
       "slug": "2425-sestao-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-08-24T18:00:00.000+00:00",
       "jornada": "1",
       "local": false,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "slug": "2425-unionistas-bilbao-athletic",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-08-31T21:00:00.000+00:00",
       "jornada": "2",
       "local": true,
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "slug": "2425-ponferradina-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-09-07T20:00:00.000+00:00",
       "jornada": "3",
       "local": false,
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "slug": "2425-unionistas-barcelona-atletic",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-09-15T12:00:00.000+00:00",
       "jornada": "4",
       "local": true,
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "slug": "2425-celta-fortuna-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-09-21T19:30:00.000+00:00",
       "jornada": "5",
       "local": false,
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "slug": "2425-unionistas-cultural-leonesa",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-09-28T21:30:00.000+00:00",
       "jornada": "6",
       "local": true,
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "slug": "2425-ourense-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-06-05T21:30:00.000+00:00",
       "jornada": "7",
       "local": false,
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "slug": "2425-unionistas-lugo",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-10-13T12:00:00.000+00:00",
       "jornada": "8",
       "local": true,
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "slug": "2425-amorebieta-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-10-20T12:00:00.000+00:00",
       "jornada": "9",
       "local": false,
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "slug": "2425-arenteiro-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-10-25T20:30:00.000+00:00",
       "jornada": "10",
       "local": false,
@@ -115,7 +115,7 @@
     {
       "id": 12,
       "slug": "2425-unionistas-real-union",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-11-03T12:00:00.000+00:00",
       "jornada": "11",
       "local": true,
@@ -125,7 +125,7 @@
     {
       "id": 13,
       "slug": "2425-osasuna-promesas-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-11-10T17:30:00.000+00:00",
       "jornada": "12",
       "local": false,
@@ -135,7 +135,7 @@
     {
       "id": 14,
       "slug": "2425-unionistas-zamora",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-11-16T19:30:00.000+00:00",
       "jornada": "13",
       "local": true,
@@ -145,7 +145,7 @@
     {
       "id": 15,
       "slug": "2425-andorra-unionistas",
-      "imagen": "/img/noticias/osasuna-promesas.webp",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
       "date": "2024-11-24T15:30:00.000+00:00",
       "jornada": "14",
       "local": false,
