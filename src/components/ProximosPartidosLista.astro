@@ -1,0 +1,11 @@
+---
+const { partido } = Astro.props
+const partidoText = (partido.local ? "Unionistas de Salamanca" : partido.rival).concat(" - ").concat(partido.local ? partido.rival : "Unionistas de Salamanca")
+
+---
+
+<div class="md:col-10 my-4">
+	<a href={`/partidos/${partido.slug}/`}>
+		<h2 class="text-lg md:text-xl">→  {partidoText}</h2>
+	</a>
+</div>

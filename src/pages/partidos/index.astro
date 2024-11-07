@@ -1,7 +1,10 @@
 ---
 import ProximoPartido from "@/components/ProximoPartido.astro"
-import { partidosNext } from "@/data/partidos"
+import ProximosPartidosLista from "@/components/ProximosPartidosLista.astro"
+import { partidos } from "@/data/partidos"
 import Layout from "@/layouts/Layout.astro"
+
+const partidosNext = partidos.filter(partido => new Date(partido.date) > new Date())
 ---
 
 <Layout
@@ -10,5 +13,8 @@ import Layout from "@/layouts/Layout.astro"
 >
 	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Próximo partido:</h1>
 	<ProximoPartido partido={partidosNext[0]} />
-	<!-- Añadir resto de partidos -->
+	<h1 class="mt-8 mb-4 text-2xl font-bold md:text-3xl">Siguientes partidos:</h1>
+	<article>
+		{partidosNext?.slice(1, 9).map((partido: any) => <ProximosPartidosLista partido={partido} />)}
+	</article>
 </Layout>

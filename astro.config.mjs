@@ -5,7 +5,7 @@ import vercel from "@astrojs/vercel/serverless"
 import decapCmsOauth from "astro-decap-cms-oauth"
 
 import { VitePWA } from "vite-plugin-pwa"
-import { defineConfig } from "astro/config"
+import { defineConfig, envField } from "astro/config"
 
 import { manifest, seoConfig } from "./src/utils/seoConfig"
 
@@ -41,7 +41,7 @@ export default defineConfig({
 			cssMinify: "lightningcss",
 		},
 		ssr: {
-			noExternal: ["path-to-regexp"],
+			noExternal: ["css", "@fontsource-variable/jost", "path-to-regexp"],
 		},
 		plugins: [
 			VitePWA({
@@ -97,5 +97,14 @@ export default defineConfig({
 		"/noticias/240408-la-firma-depor.md": "/noticias/2024-04-08-la-firma-depor.md",
 		"/noticias/240409-opinion-indebida-depor.md": "/noticias/2024-04-09-opinion-indebida-depor.md",
 		"/noticias/240410-la-jornada-31.md": "/noticias/2024-04-10-la-jornada-31.md",
+	},
+	env: {
+		schema: {
+			OAUTH_GITHUB_CLIENT_ID: envField.string({ context: "server", access: "secret" }),
+			OAUTH_GITHUB_CLIENT_SECRET: envField.string({ context: "server", access: "secret" }),
+			OAUTH_GITHUB_REPO_ID: envField.string({ context: "server", access: "secret", optional: true }),
+			PUBLIC_DECAP_CMS_SRC_URL: envField.string({ context: "client", access: "public", optional: true }),
+			PUBLIC_DECAP_CMS_VERSION: envField.string({ context: "client", access: "public", optional: true }),
+		},
 	},
 })

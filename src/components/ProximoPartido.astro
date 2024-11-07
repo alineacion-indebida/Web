@@ -4,7 +4,7 @@ import FormattedDate from "@/components/FormattedDate.astro"
 import FormattedTime from "@/components/FormattedTime.astro"
 
 const { partido } = Astro.props
-const partidoText = (partido.local ? "Unionistas de Salamanca" : partido.rival).concat(" - ").concat(partido.local ? partido.rival : "Unionistas de Salamanca")
+const partidoText = (partido.local ? "Unionistas de Salamanca" : partido.rival).concat(" vs ").concat(partido.local ? partido.rival : "Unionistas de Salamanca")
 const formatDate = {
 	weekday: "long",
 	month: "long",
@@ -30,36 +30,14 @@ const formatHour = {
 		}
 	</div>
 	<div class="md:col-10 my-4">
-		<h1 class="text-2xl font-bold md:text-4xl">{partidoText}</h1>
-		<div class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200">
-			<div class="mt-2 flex flex-wrap items-center font-medium">
-				<figure>
-					<Image alt="author.name" class="mr-2 h-6 w-6 rounded-full" width={50} height={50} src="/img/Logo.svg" decoding="async" loading="lazy" />
-				</figure>
-				<span>Alineación indebida</span>
-			</div>
-		</div>
+		<a href={`/partidos/${partido.slug}/`}><h1 class="text-2xl font-bold md:text-4xl">{partidoText}</h1></a>
 	</div>
 	<div class="prose-md prose prose-invert mt-4 min-w-full md:prose-lg">
 		<p>
-			Unionistas de Salamanca se enfrentará este <FormattedDate date={partido.date} format={formatDayWeek} /> en el Estadio {partido.estadio} ante el
-			{partido.rival} a las <FormattedTime date={partido.date} format={formatHour} /> en un nuevo partido correspondiente a la jornada
-			{partido.jornada} del grupo I de Primera Federación.
+			El próximo <FormattedDate date={partido.date} format={formatDate} /> desde las <FormattedTime date={partido.date} format={formatHour} /> horas,
+			en el estadio {partido.estadio}. Partido correspondiente a la jornada {partido.jornada} del grupo I de Primera Federación.
 		</p>
-		<h3>Dónde seguir en directo el {partidoText}</h3>
-		<p>
-			El partido de {partidoText} se emitirá hoy en directo en FEF TV, provedor oficial de la primera federación. En Alineación Indebida te narramos el encuentro
-			desde nuestro canal de twitch
-		</p>
-		<h3>Horario del {partidoText}</h3>
-		<p>
-			Unionistas de Salamanca se enfrenta al {partido.rival} en el partido correspondiente a la jornada {partido.jornada}
-			de la Primera Federación desde las <FormattedTime date={partido.date} format={formatHour} /> horas el <FormattedDate date={partido.date} format={formatDate} />.
-		</p>
-		<h3>Dónde se juega el {partidoText}</h3>
-		<p>
-			El Estadio {partido.estadio} acoge este <FormattedDate date={partido.date} format={formatDate} /> desde las <FormattedTime date={partido.date} format={formatHour} /> horas
-			(horario peninsular) el encuentro correspondiente a la jornada {partido.jornada} del Grupo I de la Primera Federación entre Unionistas de Salamanca y {partido.rival}.
-		</p>
+		<p>Como siempre, en directo, en <a href="https://www.twitch.tv/alineacionindebida">nuestro canal de Twitch</a></p>
 	</div>
+
 </article>
