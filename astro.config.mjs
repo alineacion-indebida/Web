@@ -8,6 +8,7 @@ import { VitePWA } from "vite-plugin-pwa"
 import { defineConfig, envField } from "astro/config"
 
 import { manifest, seoConfig } from "./src/utils/seoConfig"
+import { externalLink } from "./src/utils/externalLink"
 
 export default defineConfig({
 	prefetch: true,
@@ -28,6 +29,9 @@ export default defineConfig({
 		webAnalytics: { enabled: true },
 		functionPerRoute: false,
 	}),
+	markdown: {
+		rehypePlugins: [[externalLink, { domain: seoConfig.baseURL }]],
+	},
 	build: {
 		inlineStylesheets: "always",
 	},
