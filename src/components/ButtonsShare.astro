@@ -13,6 +13,7 @@ const { title, url } = Astro.props
 		href={`https://twitter.com/intent/tweet?text=${title}.%0A%0AVer%20completo%20en%20%40a_indebida12&url=${url}`}
 		aria-label="Compartir en X"
 		as="a"
+		target="_blank"
 	>
 		<XIcon class="inline h-6 w-6 align-text-bottom" />
 		<span class="hidden lg:inline"> Compartir en X </span>
@@ -22,11 +23,12 @@ const { title, url } = Astro.props
 		href={`https://api.whatsapp.com/send?text=${title}.%0A%0AVer%20completo%20en%20${url}`}
 		aria-label="Compartir en Whatsapp"
 		as="a"
+		target="_blank"
 	>
 		<WhatsappIcon class="inline h-7 w-7 align-text-bottom" />
 		<span class="hidden lg:inline"> Compartir en Whatsapp </span>
 	</Action>
-	<Action class="mt-2 bg-[#24A1DE] text-center" href={`https://t.me/share?url=${url}&text=%0A${title}`} aria-label="Compartir en Telegram" as="a">
+	<Action class="mt-2 bg-[#24A1DE] text-center" href={`https://t.me/share?url=${url}&text=%0A${title}`} aria-label="Compartir en Telegram" as="a" target="_blank">
 		<TelegramIcon class="inline h-7 w-7 align-text-bottom" />
 		<span class="hidden lg:inline"> Compartir en Telegram </span>
 	</Action>
