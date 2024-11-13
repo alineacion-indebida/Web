@@ -22,7 +22,7 @@
     "alineacion-indebida": "file:",
     "astro": "4.16.12",
     "astro-decap-cms-oauth": "0.4.4",
-    "decap-cms-app": "3.3.3"
+    "decap-cms-app": "3.4.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "2.17.0",
