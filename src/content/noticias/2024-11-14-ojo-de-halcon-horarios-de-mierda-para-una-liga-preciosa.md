@@ -1,22 +1,22 @@
 ---
-title: "Ojo de Halcon: Horarios de mierda para una liga preciosa"
+title: "Ojo de Halcón: Horarios de mierda para una liga preciosa"
 description: Directo al grano. La clave del momento que atraviesa Unionistas en
-  palabras de Key Galan.
+  palabras de Key Galán.
 date: 2024-11-14T12:00:00.000Z
 imagen: /img/noticias/mono-de-los-horarios-de-la-rfef.jpg
 categorias:
-  - Ojo de Halcon
+  - Ojo de Halcón
 tags:
   - Unionistas
-  - Primera Federacion
+  - Primera Federación
   - RFEF
   - Horarios
   - Mono de los horarios
   - Streaming
   - Clave
   - Firma
-  - Opinion
-autor: Key Galan
+  - Opinión
+autor: Key Galán
 ---
 **Lo mejor que hizo el sórdido Luis Rubiales como presidente de la Real Federación Española de Fútbol fue la creación de una Segunda B de élite en la que la reducción de equipos aseguraba mayor calidad** y con ello un mejor espectáculo en el fútbol de bronce patrio. Las condiciones que debían presentar los competidores eran leoninas y dificultaban a muchos equipos cumplirlas para poder participar en ella. Una competición que pretendía dejar de lado el *amateurismo* y, sobre todo, dejar atrás el pozo de presidentes-caciques que inflacionaban el mercado con su juguete, sin miramiento alguno y practicando malas artes en el sentido fiscal.
 
