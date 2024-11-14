@@ -5,10 +5,10 @@ backend:
   site_domain: alineacionindebida.com
   base_url: https://www.alineacionindebida.com
   auth_endpoint: oauth
-  publish_mode: editorial_workflow
 
 media_folder: public/img/noticias
 public_folder: /img/noticias
+publish_mode: editorial_workflow
 
 collections:
   - name: noticias
