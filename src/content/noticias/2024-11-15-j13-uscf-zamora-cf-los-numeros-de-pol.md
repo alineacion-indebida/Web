@@ -38,7 +38,7 @@ Pese a convertir 10 de los 15 puntos disputados en Salamanca, **Unionistas ha en
 
 Esta es la 5ª temporada en que Unionistas y Zamora coinciden en la misma categoría. **Pese a la vecindad, sólo se han visto las caras 8 veces en partido oficial,** habiéndolo hecho además en diferentes categorías. Sí han sido frecuentes los partidos amistosos entre ambos clubes, hasta en 5 ocasiones.
 
-Quedan ya lejanos los 4 enfrentamientos disputados en Tercera División (temporadas 2016-17 y 2017-18). En ellos Unionistas se impuso en los dos que se jugaron en Las Pistas (1-0 y 3-1) mientras en Zamora se saldaron con derrota (2-0) y empate (0-0).
+Quedan ya lejos los 4 enfrentamientos disputados en Tercera División (temporadas 2016-17 y 2017-18). En ellos Unionistas se impuso en los dos que se jugaron en Las Pistas (1-0 y 3-1), mientras en Zamora se saldaron con derrota (2-0) y empate (0-0).
 
 En la temporada 2020-21, la transicional entre la antigua Segunda División B y la actual estructura de Primera y Segunda RFEF, salió victorioso el equipo visitante en cada duelo (0-2 en el Ruta y 1-2 en el Reina). Por último, ya **en Primera Federación en la temporada 2021-22, idéntico resultado en ambos campos, 2-1.**
 
