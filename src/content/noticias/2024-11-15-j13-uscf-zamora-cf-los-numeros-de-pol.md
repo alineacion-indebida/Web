@@ -28,7 +28,7 @@ Los blanquirrojos llegan confirmando su buena tendencia tras derrotar a la Real 
 
 El Zamora cuenta por triunfos los partidos en los que ha logrado mantener la portería a cero (4), rentabilizando netamente de esta forma su condición de **club con mayor índice de expectativa de gol** del grupo en lo que va de temporada.
 
-### **¿Quieres saber más del rival? ¡Consulta su [plantilla](https://www.alineacionindebida.com/plantillas/Zamora/) y entra en [la Pizarra Indebida](https://www.youtube.com/playlist?list=PLBErDu81Y47QYSudndEHQhWbshoacLCVJ)!**
+**¿Quieres saber más del rival? ¡Consulta su [plantilla](https://www.alineacionindebida.com/plantillas/Zamora/) y entra en [la Pizarra Indebida](https://www.youtube.com/playlist?list=PLBErDu81Y47QYSudndEHQhWbshoacLCVJ)!**
 
 ## La deuda pendiente de Unionistas: portería a cero en casa
 
@@ -46,7 +46,7 @@ En la temporada 2020-21, la transicional entre la antigua Segunda División B y 
 
 Encuentro correspondiente a la jornada 13 del Campeonato Nacional de Primera Federación que enfrentará a Unionistas de Salamanca CF y a Zamora CF SAD el sábado 16 de octubre a las 19:30h en el Reina Sofía. Unionistas de Salamanca llega como 9° clasificado con 16 puntos mientras que los de Juan Sabas se encuentran 11° con 15 puntos empatado con otros 3 equipos.
 
-Para dicho partido, **Dani Llácer contará con las bajas de Dani García y Carlos García-Die,** recién diagnosticado de esguince, y con la posible reincorporación de Iñaki González a la convocatoria tras 2 jornadas de ausencia. Por su parte **los zamoranos no podrán contar con Joel Priego, Juanan del Álamo ni Dani Hernández,** lesionados de duración, y mantendrán la duda hasta el último momento sobre Roni, José Carlos Ramírez y Edu Campabadal, que tuvieron que retirarse con molestias en la última jornada frente a la Real Sociedad B. Podría forzar su retorno Rafa Tresaco y **seguro que volverán Pito Camacho y Kike Márquez.**
+Para dicho partido, **Dani Llácer contará con las bajas de Dani García y Carlos García-Die,** recién diagnosticado de esguince, y con la posible reincorporación de Iñaki González a la convocatoria tras 2 jornadas de ausencia. Por su parte **los zamoranos no podrán contar con Juanan del Álamo ni Dani Hernández,** lesionados de duración, y mantendrán la duda hasta el último momento sobre Roni, José Carlos Ramírez y Edu Campabadal, que tuvieron que retirarse con molestias en la última jornada frente a la Real Sociedad B. **Podría forzar su retorno Rafa Tresaco y seguro que volverán Pito Camacho y Kike Márquez.**
 
 **El partido será dirigido por el colegiado Millán Bárcenas Torres,** natural de Logroño y adscrito al Comité Riojano. Es su primera temporada en Primera Federación, donde ha arbitrado 3 partidos saldados con 3 victorias locales con una de las medias más bajas de amarillas por partido: 3. Al Zamora le arbitró dos veces la temporada pasada, con una derrota ante Valladolid Promesas y un empate contra el Rayo Cantabria, ambos encuentros fuera de casa.
 
