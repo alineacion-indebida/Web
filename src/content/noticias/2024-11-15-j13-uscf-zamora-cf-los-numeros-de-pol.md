@@ -1,19 +1,19 @@
 ---
-title: J13. USCF - Zamora CF - Los numeros de Pol
+title: J13. USCF - Zamora CF - Los números de Pol
 description: Datos de previa de la decimotercera jornada entre Unionistas de
   Salamanca y Zamora CF
 date: 2024-11-15T11:00:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Numeros De Pol
+  - Los Números De Pol
 tags:
   - Previa
   - Unionistas
   - Zamora
-  - Reina Sofia
-  - Primera Federacion
+  - Reina Sofía
+  - Primera Federación
   - Datos
-  - Estadisticas
+  - Estadísticas
 autor: Miguel Ontiyuelo
 ---
 Derbi regional en el Reina Sofía este sábado. Unionistas de Salamanca recibirá al Zamora CF en un encuentro en el que **los charros buscarán seguir fortaleciendo su bagaje como locales** donde ha logrado 3 victorias, un empate y una única derrota contra el líder, la Cultural Leonesa. Por su parte **el cuadro *viriato* deseará mejorar sus números lejos del Ruta de la Plata,** donde cuenta sólo con una victoria, pero también puede presumir de encadenar invicto sus 3 últimos desplazamientos.
