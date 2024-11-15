@@ -44,7 +44,7 @@ En la temporada 2020-21, la transicional entre la antigua Segunda División B y 
 
 ## La previa del partido
 
-Encuentro correspondiente a la jornada 13 del Campeonato Nacional de Primera Federación que enfrentará a Unionistas de Salamanca CF y a Zamora CF SAD el sábado 16 de octubre a las 19:30h en el Reina Sofía. Unionistas de Salamanca llega como 9° clasificado con 16 puntos mientras que los de Juan Sabas se encuentran 11° con 15 puntos empatado con otros 3 equipos.
+Encuentro correspondiente a la jornada 13 del Campeonato Nacional de Primera Federación que enfrentará a Unionistas de Salamanca CF y a Zamora CF SAD el sábado 16 de noviembre a las 19:30h en el Reina Sofía. Unionistas de Salamanca llega como 9° clasificado con 16 puntos mientras que los de Juan Sabas se encuentran 11° con 15 puntos empatado con otros 3 equipos.
 
 Para dicho partido, **Dani Llácer contará con las bajas de Dani García y Carlos García-Die,** recién diagnosticado de esguince, y con la posible reincorporación de Iñaki González a la convocatoria tras 2 jornadas de ausencia. Por su parte **los zamoranos no podrán contar con Juanan del Álamo ni Dani Hernández,** lesionados de duración, y mantendrán la duda hasta el último momento sobre Roni, José Carlos Ramírez y Edu Campabadal, que tuvieron que retirarse con molestias en la última jornada frente a la Real Sociedad B. **Podría forzar su retorno Rafa Tresaco y seguro que volverán Pito Camacho y Kike Márquez.**
 
