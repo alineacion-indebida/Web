@@ -28,7 +28,7 @@ Los blanquirrojos llegan confirmando su buena tendencia tras derrotar a la Real 
 
 El Zamora cuenta por triunfos los partidos en los que ha logrado mantener la portería a cero (4), rentabilizando netamente de esta forma su condición de **club con mayor índice de expectativa de gol** del grupo en lo que va de temporada.
 
-**¿Quieres saber más del rival? ¡Consulta su [plantilla ](https://www.alineacionindebida.com/plantillas/Zamora/)y entra en [la Pizarra Indebida](https://www.youtube.com/playlist?list=PLBErDu81Y47QYSudndEHQhWbshoacLCVJ)!**
+### **¿Quieres saber más del rival? ¡Consulta su [plantilla](https://www.alineacionindebida.com/plantillas/Zamora/) y entra en [la Pizarra Indebida](https://www.youtube.com/playlist?list=PLBErDu81Y47QYSudndEHQhWbshoacLCVJ)!**
 
 ## La deuda pendiente de Unionistas: portería a cero en casa
 
@@ -50,5 +50,4 @@ Para dicho partido, **Dani Llácer contará con las bajas de Dani García y Carl
 
 **El partido será dirigido por el colegiado Millán Bárcenas Torres,** natural de Logroño y adscrito al Comité Riojano. Es su primera temporada en Primera Federación, donde ha arbitrado 3 partidos saldados con 3 victorias locales con una de las medias más bajas de amarillas por partido: 3. Al Zamora le arbitró dos veces la temporada pasada, con una derrota ante Valladolid Promesas y un empate contra el Rayo Cantabria, ambos encuentros fuera de casa.
 
-## \
-¡¡OS RECORDAMOS QUE PODÉIS SEGUIR EL PARTIDO EN DIRECTO A TRAVÉS DEL [TWITCH DE ALINEACIÓN INDEBIDA](https://www.twitch.tv/alineacionindebida)!!
+## ¡¡OS RECORDAMOS QUE PODÉIS SEGUIR EL PARTIDO EN DIRECTO A TRAVÉS DEL [TWITCH DE ALINEACIÓN INDEBIDA](https://www.twitch.tv/alineacionindebida)!!
