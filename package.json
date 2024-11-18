@@ -20,7 +20,7 @@
     "@vercel/analytics": "1.4.0",
     "@vercel/speed-insights": "1.1.0",
     "alineacion-indebida": "file:",
-    "astro": "4.16.12",
+    "astro": "4.16.13",
     "astro-decap-cms-oauth": "0.4.4",
     "decap-cms-app": "3.4.0"
   },
