@@ -151,6 +151,26 @@
       "local": false,
       "rival": "Andorra",
       "estadio": "Nacional de Andorra"
+    },
+    {
+      "id": 16,
+      "slug": "2425-unionistas-barakaldo",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
+      "date": "2024-11-30T15:30:00.000+00:00",
+      "jornada": "15",
+      "local": true,
+      "rival": "Barakaldo Club de Fútbol",
+      "estadio": "Reina Sofía"
+    },
+    {
+      "id": 18,
+      "slug": "2425-segoviana-unionistas",
+      "imagen": "/img/noticias/aficion-la-albuera.jpg",
+      "date": "2024-12-07T15:30:00.000+00:00",
+      "jornada": "16",
+      "local": false,
+      "rival": "Gimnástica Segoviana Club de Fútbol",
+      "estadio": "La Albuera"
     }
   ]
 }
