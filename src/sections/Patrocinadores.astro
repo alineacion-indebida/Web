@@ -7,7 +7,7 @@ import { PatrocinadoresList } from "@/consts/patrocinadores"
 
 <section class="mt-16 px-4 m-auto max-w-[960px]">
 	<Typography as="h3" variant="h3" color="white" class="text-center"> Gracias a nuestros patrocinadores </Typography>
-	<div class="mt-4 grid select-none grid-cols-4 gap-2 md:gap-8">
+	<div class="mt-4 grid select-none grid-cols-4 gap-2 md:gap-4">
 		{
 			PatrocinadoresList.map(({ id, name, url, image, svg }) => (
 				<a
@@ -24,7 +24,7 @@ import { PatrocinadoresList } from "@/consts/patrocinadores"
 								logo={id}
 								width={image.width}
 								height={image.height}
-								class="company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"
+								class="company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4 py-2"
 							/>
 						)
 						: (
@@ -32,7 +32,7 @@ import { PatrocinadoresList } from "@/consts/patrocinadores"
 								logo={id}
 								width={image.width}
 								height={image.height}
-								class="company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4"
+								class="company-logo px-5 text-white transition group-hover:scale-110 group-focus:scale-110 md:px-4 py-2"
 							/>
 						)}
 				</a>
