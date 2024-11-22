@@ -1,19 +1,19 @@
 ---
-title: J14. FC Andorra - USCF - Los numeros de Pol
-description: Datos de previa de la decimocuarta jornada entre el FC Andorra y
-  Unionistas de Salamanca.
+title: J14. FC Andorra - USCF - Los números de Pol
+description: Datos y curiosidades de previa de la decimocuarta jornada entre el
+  FC Andorra y Unionistas de Salamanca.
 date: 2024-11-23T10:00:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Numeros De Pol
+  - Los Números De Pol
 tags:
   - Previa
   - Unionistas
   - Andorra
   - Estadi Nacional
-  - Primera Federacion
+  - Primera Federación
   - Datos
-  - Estadisticas
+  - Estadísticas
 autor: Pol Zakour
 ---
 **Primer partido internacional el que disputará Unionistas de Salamanca en el Principado de Andorra** ante un conjunto recién descendido de la Segunda División, cuyo único objetivo en este inicio de campaña es recuperar la categoría de plata. *Els tricolors* están comandados desde el banquillo por **Ferrán Costa, un técnico con una trayectoria ascendente** que ya finalizó la campaña pasada con el equipo del Principado, fichado desde el Badalona Futur. Allí había sido campeón de la Copa Federación y marchaba líder de Segunda Federación con 15 victorias, 11 empates y 3 derrotas. Tras la salida de Costa se acabó desmoronando en la tabla.
