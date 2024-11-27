@@ -20,6 +20,7 @@ const { page }: any = Astro.props
 	<h1 class="mb-8 mt-8 text-2xl font-bold md:text-3xl">Últimos vídeos</h1>
 	<Video videos={page.data} />
 	<Pagination
+		lengthPages="2"
 		length={page.lastPage}
 		currentUrl={page.url.current}
 		currentPage={page.currentPage}

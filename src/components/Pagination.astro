@@ -2,15 +2,20 @@
 import NextIcon from "@/components/icons/NextIcon.astro"
 import PrevIcon from "@/components/icons/PrevIcon.astro"
 
-const { length, currentPage, firstUrl, prevUrl, nextUrl } = Astro.props
+const { lengthPages, length, currentPage, firstUrl, prevUrl, nextUrl } = Astro.props
 const paginationList = Array.from({ length }, (_, i) => i + 1)
+const intLengthPages = Number.parseInt(lengthPages)
+
+const firstPageList = currentPage - intLengthPages > 0 ? currentPage - intLengthPages - 1 : 0
+const lastPageList = currentPage + intLengthPages < length ? currentPage + intLengthPages : length
+
 ---
 
 <nav class="mt-12">
 	<ol class="flex justify-center gap-3 text-xs font-medium">
 		{
 			prevUrl
-? (
+			? (
 				<li>
 					<a
 						href={prevUrl}
@@ -21,10 +26,10 @@ const paginationList = Array.from({ length }, (_, i) => i + 1)
 					</a>
 				</li>
 			)
-: null
+			: null
 		}
 		{
-			paginationList?.map(num => (
+			paginationList?.slice(firstPageList, lastPageList).map(num => (
 				<li>
 					<a
 						href={`${firstUrl}${num === 1 ? "" : `${num}`}`}
@@ -39,7 +44,7 @@ const paginationList = Array.from({ length }, (_, i) => i + 1)
 		}
 		{
 			nextUrl
-? (
+			? (
 				<li>
 					<a
 						href={nextUrl}
@@ -50,7 +55,7 @@ const paginationList = Array.from({ length }, (_, i) => i + 1)
 					</a>
 				</li>
 			)
-: null
+			: null
 		}
 	</ol>
 </nav>
