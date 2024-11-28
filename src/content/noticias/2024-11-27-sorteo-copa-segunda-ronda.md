@@ -1,7 +1,7 @@
 ---
 title: "Unionistas de Salamanca vs Rayo Vallecano - Impresiones Indebidas del sorteo de copa"
 description: Segundo capitulo de la Copa de SM El Rey 2024-25 despues de la victoria frente al Utebo FC. Empezamos a escribirlo desde aquí.
-date: 2024-10-10T7:00:00.000Z
+date: 2024-11-27T14:00:00.000Z
 imagen: /img/noticias/sorteo-copa-2.webp
 categorias:
   - La Opinión Indebida
