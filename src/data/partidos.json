@@ -163,6 +163,18 @@
       "estadio": "Reina Sofía"
     },
     {
+      "id": 17,
+      "copa": true,
+      "tv": "Movistar",
+      "slug": "2425-unionistas-rayo-vallecano",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
+      "date": "2024-12-04T19:00:00.000+00:00",
+      "jornada": "la segunda ronda",
+      "local": true,
+      "rival": "Rayo Vallecano CF",
+      "estadio": "Reina Sofía"
+    },
+    {
       "id": 18,
       "slug": "2425-segoviana-unionistas",
       "imagen": "/img/noticias/aficion-la-albuera.jpg",
@@ -171,6 +183,26 @@
       "local": false,
       "rival": "Gimnástica Segoviana Club de Fútbol",
       "estadio": "La Albuera"
+    },
+    {
+      "id": 19,
+      "slug": "2425-unionistas-realb",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
+      "date": "2024-12-15T12:00:00.000+00:00",
+      "jornada": "17",
+      "local": true,
+      "rival": "Real Sociedad B",
+      "estadio": "Reina Sofía"
+    },
+    {
+      "id": 20,
+      "slug": "2425-unionistas-nastic",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
+      "date": "2024-12-21T17:30:00.000+00:00",
+      "jornada": "18",
+      "local": true,
+      "rival": "Club Gimnàstic de Tarragona",
+      "estadio": "Reina Sofía"
     }
   ]
 }
