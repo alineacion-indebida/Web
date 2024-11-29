@@ -20,10 +20,11 @@ const textoPartido = (partido.local ? "Unionistas de Salamanca" : partido.rival)
 <Layout
 	title=`${textoPartido} - Alineación indebida`
 	description=`Horario e información del partido ${textoPartido}. Donde verlo en directo y más datos en alineacion indebida.`
+  image={partido.imagen}
 >
-{
+  {
     partido.copa
-  ? <TextoInfoPartidoCopa {...partido} />
-  : <TextoInfoPartido {...partido} />
+    ? <TextoInfoPartidoCopa {...partido} />
+    : <TextoInfoPartido {...partido} />
   }
 </Layout>
