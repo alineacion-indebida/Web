@@ -1,19 +1,19 @@
 ---
-title: J15. USCF - Barakaldo CF - Los numeros de Pol
+title: J15. USCF - Barakaldo CF - Los números de Pol
 description: Datos y curiosidades de previa de la decimoquinta jornada entre
   Unionistas de Salamanca y Barakaldo CF.
 date: 2024-11-29T20:00:00.000Z
 imagen: /img/noticias/numeros-pol.webp
 categorias:
-  - Los Numeros De Pol
+  - Los Números De Pol
 tags:
   - Previa
   - Unionistas
   - Barakaldo
-  - Reina Sofia
-  - Primera Federacion
+  - Reina Sofía
+  - Primera Federación
   - Datos
-  - Estadisticas
+  - Estadísticas
 autor: Pol Zakour
 ---
 Regresa nuevamente el fútbol al Reina Sofía y lo hace con un choque entre conjuntos con ideas similares. Unionistas de Salamanca y Barakaldo CF, **dos de los equipos que más rendimiento sacan a sus jugadores ajustando el presupuesto y que mejor dominan la transición y el contragolpe.** Jugadores fuertes en defensa, veloces arriba y con gol, harán del duelo del finde un choque de estilos que puede resultar muy divertido. Los de Imanol de la Sota llegan al Reina Sofía ocupando puestos de playoff, con un bloque de jugadores y entrenador, así como un estilo, mantenidos desde el ascenso de la temporada pasada.
