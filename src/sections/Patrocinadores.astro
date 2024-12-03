@@ -7,11 +7,11 @@ import { PatrocinadoresList } from "@/consts/patrocinadores"
 
 <section class="mt-16 px-4 m-auto max-w-[960px]">
 	<Typography as="h3" variant="h3" color="white" class="text-center"> Gracias a nuestros patrocinadores </Typography>
-	<div class="mt-4 grid select-none grid-cols-4 gap-2 md:gap-4">
+	<div class="mt-4 grid select-none grid-cols-2 md:grid-cols-4 gap-2 md:gap-4">
 		{
 			PatrocinadoresList.map(({ id, name, url, image, svg }) => (
 				<a
-					class="company-link group relative flex h-24 items-center justify-center overflow-hidden md:h-32"
+					class="company-link group relative flex h-44 items-center justify-center overflow-hidden md:h-32"
 					title={`Visita la página del patrocinador ${name}`}
 					href={url}
 					target="_blank"
