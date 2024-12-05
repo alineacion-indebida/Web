@@ -2,7 +2,7 @@
 title: Vamos que si mola
 description: "Unionistas escribe otro capítulo del romance con su competicion fetiche "
 date: 2024-12-05T17:43:00.000Z
-imagen: /img/noticias/20241204_185115.heic
+imagen: /img/noticias/IMG-20241205-WA0054.jpg
 categorias:
   - Apuntes desde la Panelais
 tags:
