@@ -1,19 +1,19 @@
 ---
-title: Punto y gracias - La opinion indebida del Gimnastica Segoviana CF 1-1 USCF
+title: Punto y gracias - La opinión indebida del Gimnastica Segoviana CF 1-1 USCF
 description: Repaso al nuevo empate de Unionistas, en este caso en su visita a
-  Segovia. Primera Federacion 2024-25, grupo 1, jornada 16
+  Segovia. Primera Federación 2024-25, grupo 1, jornada 16
 date: 2024-12-07T21:00:00.000Z
-imagen: /img/noticias/20241116-dln-zamora.jpg
+imagen: /img/noticias/20241207-segovia.jpg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
   - Unionistas
-  - Gimnastica Segoviana
+  - Gimnástica Segoviana
   - La Albuera
-  - Primera Federacion
-  - Cronica
+  - Primera Federación
+  - Crónica
   - Firma
-  - Opinion
+  - Opinión
 autor: Miguel Ontiyuelo
 ---
 La Albuera es un campo difícil. Es algo conocido. **La Gimnástica Segoviana es un equipo muy trabajado, solidario, físico y con fuertes dosis de motivación.** Esta temporada ningún visitante había logrado llevarse los 3 puntos de allí. Parecía una empresa complicada que Unionistas, en su tercer partido en una semana, consiguiera alcanzar ese reto. Pero cuando comienzan las disputas todo está abierto… y durante un tiempo se creyó. Mientras duró la primera parte.
