@@ -35,7 +35,7 @@
     "@fontsource-variable/jost": "5.1.1",
     "@tailwindcss/typography": "0.5.15",
     "@typescript-eslint/parser": "8.18.0",
-    "eslint": "8.57.1",
+    "eslint": "9.16.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-astro": "0.31.4",
     "eslint-plugin-jsx-a11y": "6.10.2",
