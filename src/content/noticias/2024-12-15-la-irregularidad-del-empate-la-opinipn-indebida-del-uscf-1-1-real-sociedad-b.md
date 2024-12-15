@@ -1,20 +1,20 @@
 ---
-title: La irregularidad del empate - La opinipn indebida del USCF 1-1 Real Sociedad B
+title: La irregularidad del empate - La opinión indebida del USCF 1-1 Real Sociedad B
 description: Repaso al 11 empate de Unionistas esta temporada contra la Real
-  Sociedad B en el Reina Sofia. Primera Federacion 2024-25, grupo 1, jornada 17
+  Sociedad B en el Reina Sofía. Primera Federación 2024-25, grupo 1, jornada 17
 date: 2024-12-15T16:00:00.000Z
 imagen: /img/noticias/20241215-jonny-real-b.jpg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
   - Unionistas
   - Real Sociedad
   - Real B
-  - Reina Sofia
-  - Primera Federacion
-  - Cronica
+  - Reina Sofía
+  - Primera Federación
+  - Crónica
   - Firma
-  - Opinion
+  - Opinión
 autor: Miguel Ontiyuelo
 ---
 **Unionistas se está convirtiendo en una contradicción.** El ya destacado rey del empate de Primera Federación lo es a merced de unas actuaciones que distan de lo que imaginaría cualquiera que no viera sus partidos. Lo que un aficionado imagina habitualmente de un rey del empate es unas líneas equilibradas, seguridad, contundencia, marcas correosas, cierta dificultad para hallar el gol... El Unionistas de la temporada 24/25 no es así. **Es un equipo tan difícil de derrotar como asequible para batir su portería. Un conjunto tan vertiginoso para hallar el gol, como poco solvente para resolver a su favor las contiendas.**
