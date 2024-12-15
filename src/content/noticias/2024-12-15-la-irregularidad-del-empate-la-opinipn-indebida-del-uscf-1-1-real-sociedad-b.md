@@ -1,6 +1,6 @@
 ---
 title: La irregularidad del empate - La opinión indebida del USCF 1-1 Real Sociedad B
-description: Repaso al 11 empate de Unionistas esta temporada contra la Real
+description: Repaso al 11º empate de Unionistas esta temporada contra la Real
   Sociedad B en el Reina Sofía. Primera Federación 2024-25, grupo 1, jornada 17
 date: 2024-12-15T16:00:00.000Z
 imagen: /img/noticias/20241215-jonny-real-b.jpg
