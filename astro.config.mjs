@@ -79,6 +79,7 @@ export default defineConfig({
 						},
 					],
 					navigateFallback: null,
+					maximumFileSizeToCacheInBytes: 4000000,
 				},
 			}),
 		],
