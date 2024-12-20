@@ -25,6 +25,8 @@ const filterByCategory = taxonomyFilter(posts, "categorias", categoria)
 	title=`${deslugify(categoria)} - Alineación indebida`
 	description=`Toda la información sobre ${deslugify(categoria)} que tratamos en nuestras noticias de la Web Oficial del programa Alineación Indebida.`
 >
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Categoria: {deslugify(categoria)}</h1>
-	<Posts posts={filterByCategory} />
+	<section class="px-4">
+		<h1 class="mb-8 text-2xl font-bold md:text-3xl">Categoria: {deslugify(categoria)}</h1>
+		<Posts posts={filterByCategory} />
+	</section>
 </Layout>

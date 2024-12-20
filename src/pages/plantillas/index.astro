@@ -7,20 +7,21 @@ import Layout from "@/layouts/Layout.astro"
 	title="Plantillas 2024/25 - Alineación indebida"
 	description="El mejor repaso sobre las plantillas de la proxima temporada y el mercado de fichajes de primera federacion."
 >
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Plantillas 2024/25</h1>
-
-	<div class="mt-4 grid select-none grid-cols-1 gap-8 md:grid-cols-3">
-		{
-			plantillas?.map(equipo => (
-				<a class="text-white hover:text-accent" href={`/plantillas/${equipo.id}/`}>
-					<article class="flex w-full flex-col items-center">
-						<img src={equipo.escudo} alt="Escudo" width="100px" />
-						<div class="relative w-full content-center">
-							<h2 class="mt-3 text-center text-base font-semibold leading-6 ">{equipo.nombre}</h2>
-						</div>
-					</article>
-				</a>
-			))
-		}
-	</div>
+	<section class="px-4">
+		<h1 class="mb-8 text-2xl font-bold md:text-3xl">Plantillas 2024/25</h1>
+		<div class="mt-4 grid select-none grid-cols-1 gap-8 md:grid-cols-3">
+			{
+				plantillas?.map(equipo => (
+					<a class="text-white hover:text-accent" href={`/plantillas/${equipo.id}/`}>
+						<article class="flex w-full flex-col items-center">
+							<img src={equipo.escudo} alt="Escudo" width="100px" />
+							<div class="relative w-full content-center">
+								<h2 class="mt-3 text-center text-base font-semibold leading-6 ">{equipo.nombre}</h2>
+							</div>
+						</article>
+					</a>
+				))
+			}
+		</div>
+	</section>
 </Layout>

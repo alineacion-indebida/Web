@@ -10,21 +10,19 @@ const slug = Astro.params.slug
 let partido: any
 if (slug && partidosMap.has(slug))
 	partido = partidosMap.get(slug)
- else
-	return Astro.redirect("/404")
+else return Astro.redirect("/404")
 
-
-const textoPartido = (partido.local ? "Unionistas de Salamanca" : partido.rival).concat(" - ").concat(partido.local ? partido.rival : "Unionistas de Salamanca")
+const textoPartido = (partido.local ? "Unionistas de Salamanca" : partido.rival)
+	.concat(" - ")
+	.concat(partido.local ? partido.rival : "Unionistas de Salamanca")
 ---
 
 <Layout
 	title=`${textoPartido} - Alineación indebida`
 	description=`Horario e información del partido ${textoPartido}. Donde verlo en directo y más datos en alineacion indebida.`
-  image={partido.imagen}
+	image={partido.imagen}
 >
-  {
-    partido.copa
-    ? <TextoInfoPartidoCopa {...partido} />
-    : <TextoInfoPartido {...partido} />
-  }
+	<section class="px-4">
+		{partido.copa ? <TextoInfoPartidoCopa {...partido} /> : <TextoInfoPartido {...partido} />}
+	</section>
 </Layout>

@@ -12,20 +12,22 @@ const uniqueCategorias = [...new Set(allCategorias.map((item: any) => item.slug)
 	title="Nuestras etiquetas - Alineación indebida"
 	description="Todos los temas sobre los que hablamos en la Web Oficial del programa Alineación Indebida."
 >
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Etiquetas:</h1>
-	<ul class="flex flex-wrap gap-3 text-zinc-400">
-		{
-			uniqueCategorias.map((category: any) => (
-				<li class="mr-4 flex items-center justify-between">
-					<a
-						class="text-lg capitalize hover:text-zinc-100 text-zinc-400"
-						href={`/tags/${category.slug}`}
-						title={`Ver las noticias de ${category.name}`}
-					>
-						{category?.name}
-					</a>
-				</li>
-			))
-		}
-	</ul>
+	<section class="px-4">
+		<h1 class="mb-8 text-2xl font-bold md:text-3xl">Etiquetas:</h1>
+		<ul class="flex flex-wrap gap-3 text-zinc-400">
+			{
+				uniqueCategorias.map((category: any) => (
+					<li class="mr-4 flex items-center justify-between">
+						<a
+							class="text-lg capitalize hover:text-zinc-100 text-zinc-400"
+							href={`/tags/${category.slug}`}
+							title={`Ver las noticias de ${category.name}`}
+						>
+							{category?.name}
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</section>
 </Layout>

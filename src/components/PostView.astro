@@ -16,7 +16,7 @@ const formatDate = {
 
 <Layout title={title} description={description} image={imagen}>
 	<article>
-		<div class="block overflow-hidden rounded-lg mt-4">
+		<div class="block overflow-hidden sm:rounded-lg lg:mt-4 sm:mx-4">
 			{
 				imagen && (
 					<figure class="h-auto w-auto object-cover md:h-[480px]">
@@ -34,43 +34,48 @@ const formatDate = {
 				)
 			}
 		</div>
-		<div class="md:col-10 mt-6">
-			<h1 class="text-2xl font-bold md:text-4xl">{title}</h1>
-			<div class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200">
-				<div class="mt-2 flex flex-wrap items-center font-medium">
-					<figure>
-						<Image alt="author.name" class="mr-2 h-6 w-6 rounded-full" width={50} height={50} src="/img/Logo.svg" decoding="async" loading="lazy" />
-					</figure>
-					<span>{autor}</span>
-				</div>
-				<div class="mt-2 flex flex-wrap items-center font-medium">
-					<FormattedDate date={date} format={formatDate} />
+		<div class="px-4">
+			<div class="md:col-10 mt-6">
+				<h1 class="text-xl font-bold md:text-3xl">{title}</h1>
+				<div class="text-text mt-4 flex flex-wrap items-center justify-between text-zinc-200">
+					<div class="mt-2 flex flex-wrap items-center font-medium">
+						<figure>
+							<Image alt="author.name" class="mr-2 h-6 w-6 rounded-full" width={50} height={50} src="/img/Logo.svg" decoding="async" loading="lazy" />
+						</figure>
+						<span>{autor}</span>
+					</div>
+					<div class="mt-2 flex flex-wrap items-center text-lg">
+						<FormattedDate date={date} format={formatDate} />
+					</div>
 				</div>
 			</div>
-		</div>
-		<ButtonsShare title={title} url={`${url}${slug}`} />
-		<div class="prose-md prose prose-invert mt-4 min-w-full md:prose-lg">
-			<slot />
-		</div>
-		<div class="text-text mt-4 flex flex-wrap text-zinc-300">
-			{
-				categorias?.slice(0, 1).map((categoria: any) => (
-					<a href={`/categorias/${slugify(categoria)}`} class="mb-1 mr-2 font-medium capitalize hover:text-accent">
-						{categoria}
-					</a>
-				))
-			}
-			|
-			{
-				tags?.map((tag: any) => (
-					<a
-						href={`/tags/${slugify(tag)}`}
-						class="ml-2 inline-block rounded-full bg-zinc-900 px-3 py-1 text-sm font-semibold capitalize text-zinc-400 hover:bg-zinc-50 hover:text-zinc-900"
-					>
-						#{tag}
-					</a>
-				))
-			}
+			<ButtonsShare title={title} url={`${url}${slug}`} />
+			<div class="prose-md prose prose-invert mt-4 min-w-full md:prose-lg">
+				<slot />
+			</div>
+			<div class="mt-4 flex flex-wrap items-center text-zinc-300">
+				{
+					categorias?.slice(0, 1).map((categoria: any) => (
+						<a href={`/categorias/${slugify(categoria)}`} class="mr-2 font-medium capitalize hover:text-accent">
+							{categoria}
+						</a>
+					))
+				}
+				|
+				{
+					tags?.map((tag: any, key: any) => (
+						<>
+							{key === 0 && <span aria-hidden="true" class="ml-2">  </span>}
+							<a
+								href={`/tags/${slugify(tag)}`}
+								class="mr-2 my-1 inline-block rounded-md bg-zinc-800 px-2 py-1 text-sm font-semibold capitalize text-zinc-400 hover:bg-zinc-50 hover:text-zinc-900"
+							>
+								{tag}
+							</a>
+						</>
+					))
+				}
+			</div>
 		</div>
 	</article>
 </Layout>

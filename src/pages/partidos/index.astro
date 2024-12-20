@@ -11,10 +11,12 @@ const partidosNext = partidos.filter(partido => new Date(partido.date) > new Dat
 	title="Proximos partidos de Unionistas - Alineación indebida"
 	description="Todos los partidos de Unionistas de Salamanca que daremos por streaming en nuestro twitch."
 >
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Próximo partido:</h1>
-	<ProximoPartido partido={partidosNext[0]} />
-	<h1 class="mt-8 mb-4 text-2xl font-bold md:text-3xl">Siguientes partidos:</h1>
-	<article>
-		{partidosNext?.slice(1, 9).map((partido: any) => <ProximosPartidosLista partido={partido} />)}
-	</article>
+	<section class="px-4">
+		<h1 class="mb-8 text-2xl font-bold md:text-3xl">Próximo partido:</h1>
+		<ProximoPartido partido={partidosNext[0]} />
+		<h1 class="mt-8 mb-4 text-2xl font-bold md:text-3xl">Siguientes partidos:</h1>
+		<article>
+			{partidosNext?.slice(1, 9).map((partido: any) => <ProximosPartidosLista partido={partido} />)}
+		</article>
+	</section>
 </Layout>

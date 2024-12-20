@@ -10,7 +10,7 @@ const formattedPosts = allPosts.sort((a, b) => new Date(b.data.date.valueOf()).g
 const lastVideos = videos.sort((a, b) => b.id - a.id).slice(0, 3)
 ---
 
-<section class="overflow-x-hidden">
+<section class="overflow-x-hidden px-4">
 	<BannerSpotify />
 	<HomeNews posts={formattedPosts} />
 	<VideosHome videos={lastVideos} />

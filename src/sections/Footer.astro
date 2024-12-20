@@ -13,14 +13,14 @@ const pagesFooter = [
 ]
 ---
 
-<footer class="mt-20 w-full pb-10 pt-6 text-neutral-400 company-link md:pt-8 lg:px-10 lg:pt-12 ">
+<footer class="mt-20 py-10 w-full text-neutral-400 company-link lg:px-10 lg:pt-12 ">
 	<div class="max-w-6xl flex flex-col place-items-center m-auto md:justify-between">
 		<a href="/">
 			<LogoAI class="h-auto w-full max-h-32" id="program-logo-header" noEffect />
 		</a>
 
 		<nav>
-			<ul class="flex flex-row items-center gap-x-6 pt-4" aria-label="redes sociales y botón para alternar tema">
+			<ul class="flex flex-row items-center gap-x-6 my-4" aria-label="redes sociales y botón para alternar tema">
 				<li>
 					<a
 						target="_blank"
@@ -68,28 +68,26 @@ const pagesFooter = [
 			</ul>
 		</nav>
 
-		<span aria-hidden="true" class="my-4 w-full border-t-2 border-neutral-600 "></span>
+		<span aria-hidden="true" class="my-1 w-full border-t-2 border-neutral-600 "></span>
 
-		<div class="flex md:flex-row flex-col place-items-center pt-2">
+		<div class="flex md:flex-row flex-col place-items-center mt-4 mb-1">
 			{
 				pagesFooter.map(({ name, href }, key) => (
 					<>
 					{key !== 0 && <span aria-hidden="true" class="hidden md:inline"> | </span>}
 					<a
 						href={href}
-						class="nav-item relative h-full flex select-none flex-col items-center justify-center gap-1 px-4 text-xl hover:text-accent"
+						class="nav-item relative h-full select-none px-4 text-xl hover:text-accent"
 						id={`nav-link-${key}`}
 					>
-						<span class="z-10">{name}</span>
-
-						<div class="background absolute -z-10 h-full w-full" />
+						<span>{name}</span>
 					</a>
 				</>
 			))
 		}
 		</div>
 
-		<Typography as="span" variant="bodybold" color="neutral" class="py-2 text-center">
+		<Typography as="span" variant="bodybold" color="neutral" class="mt-1 text-center">
 			&copy; {new Date().getFullYear()} Alineación indebida
 		</Typography>
 	</div>

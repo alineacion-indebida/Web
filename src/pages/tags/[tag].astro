@@ -25,6 +25,8 @@ const filterByTags = taxonomyFilter(posts, "tags", tag)
 	title=`${deslugify(tag)} - Alineación indebida`
 	description=`Todas las noticias sobre ${deslugify(tag)} de tu programa del deporte salmantino`
 >
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Tag: {deslugify(tag)}</h1>
-	<Posts posts={filterByTags} />
+	<section class="px-4">
+		<h1 class="mb-8 text-2xl font-bold md:text-3xl">Tag: {deslugify(tag)}</h1>
+		<Posts posts={filterByTags} />
+	</section>
 </Layout>

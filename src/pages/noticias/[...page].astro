@@ -16,16 +16,18 @@ const { page }: any = Astro.props
 ---
 
 <Layout title="Últimas noticias - Alineación indebida" description="Últimas noticias en la Web Oficial del programa Alineación Indebida.">
-	<h1 class="mb-8 text-2xl font-bold md:text-3xl">Noticias</h1>
-	<Posts posts={page.data} />
-	<Pagination
-		lengthPages="2"
-		length={page.lastPage}
-		currentUrl={page.url.current}
-		currentPage={page.currentPage}
-		firstUrl="/noticias/"
-		prevUrl={page.url.prev}
-		nextUrl={page.url.next}
-		lastUrl={`/noticias/${page.lastPage}`}
-	/>
+	<section class="px-4">
+		<h1 class="mb-8 text-2xl font-bold md:text-3xl">Noticias</h1>
+		<Posts posts={page.data} />
+		<Pagination
+			lengthPages="2"
+			length={page.lastPage}
+			currentUrl={page.url.current}
+			currentPage={page.currentPage}
+			firstUrl="/noticias/"
+			prevUrl={page.url.prev}
+			nextUrl={page.url.next}
+			lastUrl={`/noticias/${page.lastPage}`}
+		/>
+	</section>
 </Layout>

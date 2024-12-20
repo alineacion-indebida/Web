@@ -1,7 +1,7 @@
 ---
 import "@fontsource-variable/jost"
 import SpeedInsights from "@vercel/speed-insights/astro"
-import { ViewTransitions } from "astro:transitions"
+import { ClientRouter } from "astro:transitions"
 
 import ButtonUp from "@/components/ButtonUp.astro"
 import SEO from "@/components/SEO.astro"
@@ -32,15 +32,15 @@ const { title, description, preload, canonical, image } = Astro.props
 <html lang="es">
 	<head>
 		<SEO title={title} description={description} image={image} canonical={canonical} preload={preload} />
-		<ViewTransitions />
+		<ClientRouter />
 		<SpeedInsights />
 	</head>
 
 	<body class="selection:bg-primary selection:text-secondary [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary">
 		<Header />
 		<TwitchLiveBox />
-		<div class="mx-auto max-w-6xl pt-4 md:pt-6 lg:px-10 lg:pt-8" id="main-content">
-			<main class="mw-full m-auto max-w-[960px] p-4 text-xl leading-7 text-white">
+		<div class="mx-auto max-w-6xl pt-8 lg:pt-12" id="main-content">
+			<main class="mw-full m-auto max-w-[960px] text-xl leading-7 text-white">
 				<slot />
 			</main>
 			<Patrocinadores />
