@@ -4,6 +4,7 @@ import Layout from "@/layouts/Layout.astro"
 import { getSinglePage, getTaxonomy, taxonomyFilter } from "@/utils/getAllTags"
 import { deslugify } from "@/utils/slug"
 
+export const prerender = true
 export async function getStaticPaths() {
 	const categorias = await getTaxonomy("noticias", "categorias")
 

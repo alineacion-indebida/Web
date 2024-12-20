@@ -3,6 +3,7 @@ import { type CollectionEntry, getCollection } from "astro:content"
 
 import BlogPost from "@/components/PostView.astro"
 
+export const prerender = true
 export async function getStaticPaths() {
 	const posts = await getCollection("noticias")
 	return posts.map(post => ({

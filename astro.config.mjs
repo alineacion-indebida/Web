@@ -1,7 +1,7 @@
+import vercel from "@astrojs/vercel"
 import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
 import partytown from "@astrojs/partytown"
-import vercel from "@astrojs/vercel/serverless"
 import decapCmsOauth from "astro-decap-cms-oauth"
 
 import { VitePWA } from "vite-plugin-pwa"
@@ -35,7 +35,7 @@ export default defineConfig({
 	build: {
 		inlineStylesheets: "always",
 	},
-	output: "hybrid",
+	output: "server",
 	site: seoConfig.baseURL,
 	vite: {
 		resolve: {
