@@ -1,21 +1,21 @@
 ---
-title: Unionistas nos regala su mejor version - La opinion indebida del USCF 1-0
-  Nastic de Tarragona
-description: Unionistas triunfa en su partido mas equilibrado en lo que va de
-  temporada. Primera Federacion 2024-25, grupo 1, jornada 18
+title: Unionistas nos regala su mejor versión - La opinión indebida del USCF 1-0
+  Nàstic de Tarragona
+description: Unionistas triunfa en su partido más equilibrado en lo que va de
+  temporada. Primera Federación 2024-25, grupo 1, jornada 18
 date: 2024-12-22T10:00:00.000Z
 imagen: /img/noticias/20241221-gol-pau-martínez-nàstic-falta-directa.jpg
 categorias:
-  - La Opinion Indebida
+  - La Opinión Indebida
 tags:
   - Unionistas
-  - Nastic
+  - Nàstic
   - Tarragona
-  - Reina Sofia
-  - Primera Federacion
-  - Cronica
+  - Reina Sofía
+  - Primera Federación
+  - Crónica
   - Firma
-  - Opinion
+  - Opinión
 autor: Miguel Ontiyuelo
 ---
 Gran regusto el que le quedó en la tarde de este sábado invernal a los 3955 aficionados que acudieron al Reina Sofía. Un buen número si tenemos en cuenta lo complicado de estas fechas pre-navideñas. Todos salieron satisfechos, con la viva impresión de haber visto un buen espectáculo, un partido muy competido entre dos buenos equipos de esta Primera RFEF. Uno, el tarraconense, candidato a los puestos más altos por proyecto, plantilla y trayectoria. Otro, el salmantino, que anhela codearse con la clase noble del grupo.
