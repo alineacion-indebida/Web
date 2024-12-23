@@ -203,6 +203,16 @@
       "local": true,
       "rival": "Club Gimnàstic de Tarragona",
       "estadio": "Reina Sofía"
+    },
+    {
+      "id": 21,
+      "slug": "2425-tarazona-unionistas",
+      "imagen": "/img/noticias/aficion-reina-sofia.webp",
+      "date": "2025-01-12T17:30:00.000+00:00",
+      "jornada": "19",
+      "local": false,
+      "rival": "SD Tarazona",
+      "estadio": "Municipal de Tarazona"
     }
   ]
 }
