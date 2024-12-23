@@ -1,6 +1,10 @@
 {
-  "Id": "idtest",
-  "Slug": "slugtest",
-  "Titulo": "atest",
-  "Spotify": "spotfytest"
+  "videos": [
+    {
+      "Id": "idtest",
+      "Slug": "slugtest",
+      "Titulo": "atest",
+      "Spotify": "spotfytest"
+    }
+  ]
 }
