@@ -6,6 +6,7 @@ backend:
   base_url: https://www.alineacionindebida.com
   auth_endpoint: oauth
 
+
 media_folder: public/img/noticias
 public_folder: /img/noticias
 publish_mode: editorial_workflow
@@ -25,6 +26,75 @@ collections:
       - { label: Etiquetas, name: tags, widget: list }
       - { label: Redactor, name: autor, widget: string }
       - { label: Texto, name: body, widget: markdown }
+  - name: videos
+    label: Videos
+    files:
+      - label: videos
+        name: "videos"
+        file: "src/data/videos.json"
+        fields:
+        - label: "Videos"
+          name: "videos"
+          widget: "list"
+          fields:
+            - label: ID
+              name: id
+              widget: string
+            - label: Titulo
+              name: title
+              widget: string
+            - label: Youtube ID
+              name: slug
+              widget: string
+            - label: Spotify ID
+              name: spotify 
+              widget: string
+  - name: partidos
+    label: Partidos
+    files:
+      - label: Partidos
+        name: "partidos"
+        file: "src/data/partidos.json"
+        fields:
+        - label: "Partidos"
+          name: "partidos"
+          widget: "list"
+          fields:
+            - label: ID
+              name: id
+              widget: string
+            - label: Titulo
+              name: title
+              widget: string
+            - label: Enlace
+              name: slug
+              widget: string
+            - label: Imagen
+              name: imagen
+              widget: image
+            - label: Fecha
+              name: date
+              widget: datetime
+            - label: Jornada
+              name: jornada
+              widget: string
+            - label: Local
+              name: local
+              widget: boolean
+            - label: Rival
+              name: rival
+              widget: string
+            - label: Estadio
+              name: estadio
+              widget: string
+            - label: Copa
+              name: copa
+              widget: boolean
+              required: false
+            - label: TV
+              name: tv
+              widget: string
+              required: false
 
 site_url: https://www.alineacionindebida.com
 logo_url: https://www.alineacionindebida.com/img/Logo.png
