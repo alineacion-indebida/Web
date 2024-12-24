@@ -21,8 +21,7 @@
     "@vercel/speed-insights": "1.1.0",
     "alineacion-indebida": "file:",
     "astro": "5.1.1",
-    "astro-decap-cms-oauth": "0.5.1",
-    "decap-cms-app": "3.4.0"
+    "astro-decap-cms-oauth": "0.5.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "2.17.0",
