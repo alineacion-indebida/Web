@@ -31,17 +31,16 @@ collections:
     files:
       - label: videos
         name: "videos"
-        file: "src/data/videostest.json"
+        file: "src/data/videos.json"
         fields:
         - label: "Videos"
           name: "videos"
           widget: "list"
           fields:
             - label: ID
-              name: idd
+              name: id
               widget: number
               value_type: "int"
-              required: false
             - label: Titulo
               name: title
               widget: string
