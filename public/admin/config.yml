@@ -31,15 +31,17 @@ collections:
     files:
       - label: videos
         name: "videos"
-        file: "src/data/videos.json"
+        file: "src/data/videostest.json"
         fields:
         - label: "Videos"
           name: "videos"
           widget: "list"
           fields:
             - label: ID
-              name: id
+              name: idd
               widget: number
+              value_type: "int"
+              required: false
             - label: Titulo
               name: title
               widget: string
@@ -60,9 +62,6 @@ collections:
           name: "partidos"
           widget: "list"
           fields:
-            - label: ID
-              name: id
-              widget: number
             - label: Enlace
               name: slug
               widget: string

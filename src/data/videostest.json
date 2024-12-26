@@ -1,16 +1,22 @@
 {
   "videos": [
     {
-      "Id": "holaid",
-      "Slug": "testslug",
-      "Titulo": "testtitle",
-      "Spotify": "testspotify"
+      "idd": 8,
+      "title": "testtitle",
+      "slug": "testslug",
+      "spotify": "testspotify"
     },
     {
-      "Id": "hola2",
-      "Slug": "holahola",
-      "Titulo": "dososk",
-      "Spotify": "dokasd"
+      "idd": "",
+      "title": "dososk",
+      "slug": "holahola",
+      "spotify": "dokasd"
+    },
+    {
+      "idd": "",
+      "title": "test",
+      "slug": "test123",
+      "spotify": "test"
     }
   ]
 }
