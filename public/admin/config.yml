@@ -50,6 +50,7 @@ collections:
             - label: Spotify ID
               name: spotify 
               widget: string
+              required: false
   - name: partidos
     label: Partidos
     files:
