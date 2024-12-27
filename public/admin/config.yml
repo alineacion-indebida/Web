@@ -29,7 +29,7 @@ collections:
   - name: videos
     label: Videos
     files:
-      - label: videos
+      - label: Videos
         name: "videos"
         file: "src/data/videos.json"
         fields:
