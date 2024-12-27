@@ -11,20 +11,6 @@ import Patrocinadores from "@/sections/Patrocinadores.astro"
 import Footer from "@/sections/Footer.astro"
 import Header from "@/sections/Header.astro"
 
-interface Props {
-	title: string
-	description: string
-	preload?: Array<{
-		as: string
-		href: string
-		type: string
-		rel?: "preload" | "prefetch"
-		crossorigin?: string
-	}>
-	canonical?: string
-	image?: string
-}
-
 const { title, description, preload, canonical, image } = Astro.props
 ---
 
