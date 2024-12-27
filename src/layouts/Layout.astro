@@ -10,6 +10,7 @@ import Patrocinadores from "@/sections/Patrocinadores.astro"
 
 import Footer from "@/sections/Footer.astro"
 import Header from "@/sections/Header.astro"
+import Snow from "@/components/snow.astro"
 
 interface Props {
 	title: string
@@ -37,6 +38,7 @@ const { title, description, preload, canonical, image } = Astro.props
 	</head>
 
 	<body class="selection:bg-primary selection:text-secondary [&_:focus-visible]:outline-none [&_:focus-visible]:ring-2 [&_:focus-visible]:ring-primary">
+		<Snow />
 		<Header />
 		<TwitchLiveBox />
 		<div class="mx-auto max-w-6xl pt-8 lg:pt-12" id="main-content">
@@ -76,14 +78,17 @@ const { title, description, preload, canonical, image } = Astro.props
 				background-size: 224px;
 			}
 
-			.sr-only:not(:focus):not(:active) {
-				clip: rect(0 0 0 0);
-				clip-path: inset(50%);
-				height: 1px;
-				overflow: hidden;
+			body {
+				margin: 0;
+				padding: 0;
+				overflow-x: hidden;
+			}
+
+			.snowflake {
 				position: absolute;
-				white-space: nowrap;
-				width: 1px;
+				width: 4px;
+				height: 4px;
+				background-color: white;
 			}
 
 			@supports selector(::-webkit-scrollbar) {
