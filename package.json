@@ -16,7 +16,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@fontsource-variable/jost": "5.1.1",
+    "@fontsource-variable/jost": "5.1.2",
     "@vercel/analytics": "1.4.1",
     "@vercel/speed-insights": "1.1.0",
     "alineacion-indebida": "file:",
@@ -31,7 +31,7 @@
     "@astrojs/sitemap": "3.2.1",
     "@astrojs/tailwind": "5.1.4",
     "@astrojs/vercel": "8.0.1",
-    "@fontsource-variable/jost": "5.1.1",
+    "@fontsource-variable/jost": "5.1.2",
     "@tailwindcss/typography": "0.5.15",
     "@typescript-eslint/parser": "8.18.2",
     "eslint": "9.17.0",
