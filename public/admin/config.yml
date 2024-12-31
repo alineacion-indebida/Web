@@ -91,6 +91,120 @@ collections:
               name: tv
               widget: string
               required: false
+  - name: datos
+    label: Datos
+    files:
+      - label: Datos
+        name: "datos"
+        file: "src/data/datos.json"
+        fields:
+        - label: "Temporadas"
+          name: "temporadas"
+          widget: "list"
+          fields:
+            - label: Actualizado por última vez
+              name: updateAt
+              widget: string
+            - label: Temporada
+              name: year
+              widget: string
+            - label: Partidos
+              name: partidos
+              widget: number
+            - label: Programas
+              name: programas
+              widget: number
+            - label: Horas
+              name: horas
+              widget: number
+            - label: Viajes
+              name: viajes
+              widget: number
+            - label: Kilometros recorridos
+              name: km
+              widget: number
+        - label: "Equipo"
+          name: "equipo"
+          widget: "list"
+          fields:
+            - label: Nombre
+              name: nombre
+              widget: string
+            - label: Puesto
+              name: puesto
+              widget: string
+            - label: Imagen
+              name: img
+              widget: image
+  - name: plantillas
+    label: Plantillas
+    files:
+      - label: Plantillas
+        name: "plantillas"
+        file: "src/data/plantillas.json"
+        fields:
+        - label: "Plantillas"
+          name: "plantillas"
+          widget: "list"
+          fields:
+            - label: enlace
+              name: id
+              widget: string
+            - label: Nombre
+              name: nombre
+              widget: string
+            - label: Entrenador
+              name: entrenador
+              widget: string
+            - label: Presidente
+              name: presidente
+              widget: string
+            - label: Estadio
+              name: estadio
+              widget: string
+            - label: Aforo
+              name: aforo
+              widget: string
+            - label: Web (sin www.)
+              name: web
+              widget: string
+            - label: X / twitter (solo usuario)
+              name: x
+              widget: string
+            - label: Instagram (solo usuario)
+              name: instagram
+              widget: string
+            - label: Escudo (enlace)
+              name: escudo
+              widget: string
+            - label: Plantilla
+              name: plantilla
+              widget: list
+              fields:
+              - label: Nombre
+                name: nombre
+                widget: string
+              - label: Numero
+                name: numero
+                widget: number
+              - label: Posicion
+                name: posicion
+                widget: string
+              - label: Fecha de nacimiento
+                name: nacim
+                widget: string
+              - label: Altura
+                name: altura
+                widget: string
+              - label: Fecha de fichaje
+                name: fichaje
+                widget: string
+              - label: Procedencia
+                name: procedencia
+                widget: string
+              - label: Fecha de contrato
+                name: contrato
+                widget: string
 
 site_url: https://www.alineacionindebida.com
 logo_url: https://www.alineacionindebida.com/img/Logo.png
