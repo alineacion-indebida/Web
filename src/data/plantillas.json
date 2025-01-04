@@ -377,16 +377,6 @@
           "contrato": "2025"
         },
         {
-          "nombre": "Julen Jon Guerrero",
-          "numero": 8,
-          "posicion": "MCO",
-          "nacim": "14/04/04",
-          "altura": "1.87",
-          "fichaje": "ago-24",
-          "procedencia": "Deportivo Alavés B",
-          "contrato": "2025"
-        },
-        {
           "nombre": "Mauro Bravo",
           "numero": 19,
           "posicion": "MCO",
@@ -424,6 +414,16 @@
           "altura": "1.65",
           "fichaje": "jul-24",
           "procedencia": "Real Unión",
+          "contrato": "2025"
+        },
+        {
+          "nombre": "Aimar Vicandi",
+          "numero": -,
+          "posicion": "ED",
+          "nacim": "09/02/05",
+          "altura": "1.83",
+          "fichaje": "ene-25",
+          "procedencia": "Bilbao Athlétic",
           "contrato": "2025"
         },
         {
