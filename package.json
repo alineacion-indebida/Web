@@ -24,7 +24,7 @@
     "astro-decap-cms-oauth": "0.5.1"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "2.17.0",
+    "@antfu/eslint-config": "3.12.1",
     "@astrojs/check": "0.9.4",
     "@astrojs/partytown": "2.1.2",
     "@astrojs/rss": "4.0.10",
